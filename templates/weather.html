@@ -1,0 +1,51 @@
+<html>
+<head>
+    <title> {{entry["name"]}}, {{entry["sys"]["country"]}} </title>
+</head>
+
+<body>
+    <h1> Current Weather of {{entry["name"]}}, {{entry["sys"]["country"]}}</h1>
+    <a href="/locations"> BACK </a>
+    <h3> Coordinates </h3>
+    <p> 
+    Longitude: {{entry["coord"]["lon"]}} 
+    <br>
+    Latitude: {{entry["coord"]["lat"]}}    
+    </p>
+    
+    <h2> Weather </h2>
+    <img src="http://openweathermap.org/img/w/{{entry['weather'][0]['icon']}}.png">
+    <br>
+    <i>{{entry["weather"][0]["description"]}}</i>
+    <p> 
+    <b>Temperature:</b> {{entry["main"]["temp"]}}K
+    <br>
+    <br>
+    <b>Pressure:</b> {{entry["main"]["pressure"]}}hPa
+    <br>
+    <br>
+    <b>Humidity:</b> {{entry["main"]["humidity"]}}%
+    <br>
+    <br>
+    <b>Wind speed:</b> {{entry["wind"]["speed"]}}m/s
+    <br>
+    <br>   
+    <b>Cloudiness:</b> {{entry["clouds"]["all"]}}%
+
+    {% if "rain" in entry %}
+    <br>
+    <br>
+    <b>Rain Volume (Last Three Hours):</b> {{entry["rain"]["3h"]}}
+    </p>
+    {% endif %}
+
+    {% if "snow" in entry %}
+    <br>
+    <br>
+    <b>Snow Volume (Last Three Hours):</b> {{entry["snow"]["3h"]}}
+    </p>
+    {% endif %}
+    
+
+</body>
+</html>

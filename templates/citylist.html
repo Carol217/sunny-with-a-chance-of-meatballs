@@ -1,0 +1,13 @@
+<html>
+<head>
+    <title> locations </title>
+</head>
+
+<body>
+    {% for entry in lst %}
+    <br>    
+    <a href="/query?id={{entry['id']}}"> {{entry["name"]}}, {{entry["country"]}} </a>
+    <br>
+    {% endfor %}
+</body>
+</html>

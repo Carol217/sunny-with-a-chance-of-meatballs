@@ -1,0 +1,1561 @@
+[
+
+  {
+    "country": "CR",
+    "id": 3624060,
+    "coord": {
+      "lat": 10,
+      "lon": -84
+    },
+    "name": "Republic of Costa Rica"
+  },
+  {
+    "country": "CR",
+    "id": 3621837,
+    "coord": {
+      "lat": 9.66667,
+      "lon": -84
+    },
+    "name": "Provincia de San José"
+  },
+  {
+    "country": "CR",
+    "id": 3621194,
+    "coord": {
+      "lat": 9.59608,
+      "lon": -84.483673
+    },
+    "name": "Tulín"
+  },
+  {
+    "country": "CR",
+    "id": 3621054,
+    "coord": {
+      "lat": 9.95732,
+      "lon": -84.109627
+    },
+    "name": "Vuelta del Virilla"
+  },
+  {
+    "country": "CR",
+    "id": 3621335,
+    "coord": {
+      "lat": 9.74622,
+      "lon": -84.233681
+    },
+    "name": "Tejar"
+  },
+  {
+    "country": "CR",
+    "id": 3622881,
+    "coord": {
+      "lat": 10.00696,
+      "lon": -84.133957
+    },
+    "name": "Mercedes"
+  },
+  {
+    "country": "CR",
+    "id": 3623781,
+    "coord": {
+      "lat": 9.99447,
+      "lon": -84.664658
+    },
+    "name": "Esparza"
+  },
+  {
+    "country": "CR",
+    "id": 3621184,
+    "coord": {
+      "lat": 9.90467,
+      "lon": -83.683517
+    },
+    "name": "Turrialba"
+  },
+  {
+    "country": "CR",
+    "id": 3622226,
+    "coord": {
+      "lat": 9.36667,
+      "lon": -84
+    },
+    "name": "Provincia de Puntarenas"
+  },
+  {
+    "country": "CR",
+    "id": 3623369,
+    "coord": {
+      "lat": 9.61497,
+      "lon": -84.629753
+    },
+    "name": "Jaco"
+  },
+  {
+    "country": "CR",
+    "id": 3621849,
+    "coord": {
+      "lat": 9.93333,
+      "lon": -84.083328
+    },
+    "name": "San Jose"
+  },
+  {
+    "country": "CR",
+    "id": 3623484,
+    "coord": {
+      "lat": 10.33333,
+      "lon": -84
+    },
+    "name": "Provincia de Heredia"
+  },
+  {
+    "country": "CR",
+    "id": 3623486,
+    "coord": {
+      "lat": 10,
+      "lon": -84.116669
+    },
+    "name": "Heredia"
+  },
+  {
+    "country": "CR",
+    "id": 3623811,
+    "coord": {
+      "lat": 9.93333,
+      "lon": -84.050003
+    },
+    "name": "El Prado"
+  },
+  {
+    "country": "CR",
+    "id": 3623936,
+    "coord": {
+      "lat": 9.8968,
+      "lon": -84.062943
+    },
+    "name": "Desamparados"
+  },
+  {
+    "country": "CR",
+    "id": 3624368,
+    "coord": {
+      "lat": 9.83333,
+      "lon": -83.75
+    },
+    "name": "Provincia de Cartago"
+  },
+  {
+    "country": "CR",
+    "id": 3624370,
+    "coord": {
+      "lat": 9.86667,
+      "lon": -83.916672
+    },
+    "name": "Cartago"
+  },
+  {
+    "country": "CR",
+    "id": 3624953,
+    "coord": {
+      "lat": 10.5,
+      "lon": -84.5
+    },
+    "name": "Provincia de Alajuela"
+  },
+  {
+    "country": "CR",
+    "id": 3624955,
+    "coord": {
+      "lat": 10.01667,
+      "lon": -84.216667
+    },
+    "name": "Alajuela"
+  },
+  {
+    "country": "CR",
+    "id": 3623582,
+    "coord": {
+      "lat": 10.5,
+      "lon": -85.25
+    },
+    "name": "Provincia de Guanacaste"
+  },
+  {
+    "country": "CR",
+    "id": 3623076,
+    "coord": {
+      "lat": 10.63504,
+      "lon": -85.437721
+    },
+    "name": "Liberia"
+  },
+  {
+    "country": "CR",
+    "id": 3623977,
+    "coord": {
+      "lat": 9.91178,
+      "lon": -84.034073
+    },
+    "name": "Curridabat"
+  },
+  {
+    "country": "CR",
+    "id": 3622616,
+    "coord": {
+      "lat": 9.87276,
+      "lon": -84.455338
+    },
+    "name": "Palmar"
+  },
+  {
+    "country": "CR",
+    "id": 3623595,
+    "coord": {
+      "lat": 9.65286,
+      "lon": -84.007973
+    },
+    "name": "Guadalupe"
+  },
+  {
+    "country": "CR",
+    "id": 3621644,
+    "coord": {
+      "lat": 10.08802,
+      "lon": -84.470222
+    },
+    "name": "San Ramon"
+  },
+  {
+    "country": "CR",
+    "id": 3624171,
+    "coord": {
+      "lat": 9.91491,
+      "lon": -84.241699
+    },
+    "name": "Colon"
+  },
+  {
+    "country": "CR",
+    "id": 3623064,
+    "coord": {
+      "lat": 10,
+      "lon": -83.216667
+    },
+    "name": "Provincia de Limón"
+  },
+  {
+    "country": "CR",
+    "id": 3623580,
+    "coord": {
+      "lat": 10.21588,
+      "lon": -83.786613
+    },
+    "name": "Guapiles"
+  },
+  {
+    "country": "CR",
+    "id": 3622660,
+    "coord": {
+      "lat": 9.91197,
+      "lon": -84.523369
+    },
+    "name": "Orotina"
+  },
+  {
+    "country": "CR",
+    "id": 3623307,
+    "coord": {
+      "lat": 10.2809,
+      "lon": -84.959511
+    },
+    "name": "Juntas"
+  },
+  {
+    "country": "CR",
+    "id": 3621768,
+    "coord": {
+      "lat": 10.18333,
+      "lon": -84.400002
+    },
+    "name": "San Luis"
+  },
+  {
+    "country": "CR",
+    "id": 3622854,
+    "coord": {
+      "lat": 10.0925,
+      "lon": -84.729782
+    },
+    "name": "Miramar"
+  },
+  {
+    "country": "CR",
+    "id": 3623961,
+    "coord": {
+      "lat": 9.33554,
+      "lon": -83.669403
+    },
+    "name": "Daniel Flores"
+  },
+  {
+    "country": "CR",
+    "id": 3622228,
+    "coord": {
+      "lat": 9.97625,
+      "lon": -84.838364
+    },
+    "name": "Puntarenas"
+  },
+  {
+    "country": "CR",
+    "id": 3622265,
+    "coord": {
+      "lat": 9.96667,
+      "lon": -84.833328
+    },
+    "name": "Pueblo Nuevo"
+  },
+  {
+    "country": "CR",
+    "id": 3624468,
+    "coord": {
+      "lat": 10.4294,
+      "lon": -85.093109
+    },
+    "name": "Canas"
+  },
+  {
+    "country": "CR",
+    "id": 3621515,
+    "coord": {
+      "lat": 10.06388,
+      "lon": -84.154991
+    },
+    "name": "Santo Domingo"
+  },
+  {
+    "country": "CR",
+    "id": 3622751,
+    "coord": {
+      "lat": 10.09866,
+      "lon": -84.378242
+    },
+    "name": "Naranjo"
+  },
+  {
+    "country": "CR",
+    "id": 3621278,
+    "coord": {
+      "lat": 10.47029,
+      "lon": -84.967087
+    },
+    "name": "Tilaran"
+  },
+  {
+    "country": "CR",
+    "id": 3621942,
+    "coord": {
+      "lat": 9.23396,
+      "lon": -83.593147
+    },
+    "name": "San Carlos"
+  },
+  {
+    "country": "CR",
+    "id": 3623716,
+    "coord": {
+      "lat": 10.47089,
+      "lon": -84.645348
+    },
+    "name": "Fortuna"
+  },
+  {
+    "country": "CR",
+    "id": 3621153,
+    "coord": {
+      "lat": 10.89792,
+      "lon": -85.014542
+    },
+    "name": "Upala"
+  },
+  {
+    "country": "CR",
+    "id": 3621607,
+    "coord": {
+      "lat": 10.26053,
+      "lon": -85.585098
+    },
+    "name": "Santa Cruz"
+  },
+  {
+    "country": "CR",
+    "id": 3621832,
+    "coord": {
+      "lat": 10.01908,
+      "lon": -84.037163
+    },
+    "name": "San Josecito"
+  },
+  {
+    "country": "CR",
+    "id": 3624208,
+    "coord": {
+      "lat": 10.10374,
+      "lon": -84.167824
+    },
+    "name": "Cinco Esquinas"
+  },
+  {
+    "country": "CR",
+    "id": 3622205,
+    "coord": {
+      "lat": 10.18617,
+      "lon": -85.298622
+    },
+    "name": "Quebrada Honda"
+  },
+  {
+    "country": "CR",
+    "id": 3622895,
+    "coord": {
+      "lat": 10.07609,
+      "lon": -83.289528
+    },
+    "name": "Matina"
+  },
+  {
+    "country": "CR",
+    "id": 3622706,
+    "coord": {
+      "lat": 9.98017,
+      "lon": -85.651939
+    },
+    "name": "Nosara"
+  },
+  {
+    "country": "CR",
+    "id": 3622248,
+    "coord": {
+      "lat": 8.53627,
+      "lon": -83.305283
+    },
+    "name": "Puerto Jiménez"
+  },
+  {
+    "country": "CR",
+    "id": 3623602,
+    "coord": {
+      "lat": 8.9484,
+      "lon": -83.109581
+    },
+    "name": "Guácimo"
+  },
+  {
+    "country": "CR",
+    "id": 3624024,
+    "coord": {
+      "lat": 9.95,
+      "lon": -84.033333
+    },
+    "name": "Cristo"
+  },
+  {
+    "country": "CR",
+    "id": 3621362,
+    "coord": {
+      "lat": 10.43333,
+      "lon": -85.26667
+    },
+    "name": "Hacienda Tamarindo"
+  },
+  {
+    "country": "CR",
+    "id": 3622382,
+    "coord": {
+      "lat": 10.45056,
+      "lon": -84.274063
+    },
+    "name": "Pital"
+  },
+  {
+    "country": "CR",
+    "id": 3623601,
+    "coord": {
+      "lat": 10.21044,
+      "lon": -83.680672
+    },
+    "name": "Guacimo"
+  },
+  {
+    "country": "CR",
+    "id": 3622294,
+    "coord": {
+      "lat": 10.11667,
+      "lon": -85.433327
+    },
+    "name": "Potrero"
+  },
+  {
+    "country": "CR",
+    "id": 3624198,
+    "coord": {
+      "lat": 8.95988,
+      "lon": -83.523811
+    },
+    "name": "Ciudad Cortes"
+  },
+  {
+    "country": "CR",
+    "id": 3622196,
+    "coord": {
+      "lat": 9.95,
+      "lon": -84.150002
+    },
+    "name": "Quebrada Yeguas"
+  },
+  {
+    "country": "CR",
+    "id": 3622537,
+    "coord": {
+      "lat": 9.52012,
+      "lon": -84.322487
+    },
+    "name": "Parrita"
+  },
+  {
+    "country": "CR",
+    "id": 3623279,
+    "coord": {
+      "lat": 9.96667,
+      "lon": -84.116669
+    },
+    "name": "La Caja"
+  },
+  {
+    "country": "CR",
+    "id": 3621490,
+    "coord": {
+      "lat": 10.51674,
+      "lon": -85.647476
+    },
+    "name": "Sardinal"
+  },
+  {
+    "country": "CR",
+    "id": 3621501,
+    "coord": {
+      "lat": 8.82079,
+      "lon": -82.970917
+    },
+    "name": "San Vito"
+  },
+  {
+    "country": "CR",
+    "id": 3622057,
+    "coord": {
+      "lat": 9.53843,
+      "lon": -84.062714
+    },
+    "name": "Rodeo"
+  },
+  {
+    "country": "CR",
+    "id": 3624745,
+    "coord": {
+      "lat": 9.91667,
+      "lon": -84.050003
+    },
+    "name": "Barrio Hispano"
+  },
+  {
+    "country": "CR",
+    "id": 3623877,
+    "coord": {
+      "lat": 10.10549,
+      "lon": -84.192131
+    },
+    "name": "Dulce Nombre"
+  },
+  {
+    "country": "CR",
+    "id": 3622497,
+    "coord": {
+      "lat": 9.94333,
+      "lon": -84.134537
+    },
+    "name": "Pavas"
+  },
+  {
+    "country": "CR",
+    "id": 3623342,
+    "coord": {
+      "lat": 10.20932,
+      "lon": -83.741341
+    },
+    "name": "Jiménez"
+  },
+  {
+    "country": "CR",
+    "id": 3621894,
+    "coord": {
+      "lat": 9.95,
+      "lon": -84.050003
+    },
+    "name": "San Gerardo"
+  },
+  {
+    "country": "CR",
+    "id": 3623426,
+    "coord": {
+      "lat": 10.03333,
+      "lon": -85.333328
+    },
+    "name": "Huacas"
+  },
+  {
+    "country": "CR",
+    "id": 3623454,
+    "coord": {
+      "lat": 10.0579,
+      "lon": -85.41803
+    },
+    "name": "Hojancha"
+  },
+  {
+    "country": "CR",
+    "id": 3623183,
+    "coord": {
+      "lat": 9.65486,
+      "lon": -84.619522
+    },
+    "name": "La Mona"
+  },
+  {
+    "country": "CR",
+    "id": 3622602,
+    "coord": {
+      "lat": 9.83778,
+      "lon": -84.204781
+    },
+    "name": "Palmichal"
+  },
+  {
+    "country": "CR",
+    "id": 3621508,
+    "coord": {
+      "lat": 9.98113,
+      "lon": -84.073021
+    },
+    "name": "Santo Tomás"
+  },
+  {
+    "country": "CR",
+    "id": 3623500,
+    "coord": {
+      "lat": 10.56959,
+      "lon": -85.592491
+    },
+    "name": "Hacienda Trancas"
+  },
+  {
+    "country": "CR",
+    "id": 3621498,
+    "coord": {
+      "lat": 10.48333,
+      "lon": -84.01667
+    },
+    "name": "Sarapiquí"
+  },
+  {
+    "country": "CR",
+    "id": 3621678,
+    "coord": {
+      "lat": 10.09107,
+      "lon": -84.255524
+    },
+    "name": "San Rafael"
+  },
+  {
+    "country": "CR",
+    "id": 3622274,
+    "coord": {
+      "lat": 8.53928,
+      "lon": -83.037041
+    },
+    "name": "Pueblo Nuevo"
+  },
+  {
+    "country": "CR",
+    "id": 3624702,
+    "coord": {
+      "lat": 10.7328,
+      "lon": -85.056763
+    },
+    "name": "Bijagua"
+  },
+  {
+    "country": "CR",
+    "id": 3623318,
+    "coord": {
+      "lat": 9.89412,
+      "lon": -83.744682
+    },
+    "name": "Juan Viñas"
+  },
+  {
+    "country": "CR",
+    "id": 3624359,
+    "coord": {
+      "lat": 9.91667,
+      "lon": -84.066673
+    },
+    "name": "Cascajal"
+  },
+  {
+    "country": "CR",
+    "id": 3621375,
+    "coord": {
+      "lat": 10.02998,
+      "lon": -84.2901
+    },
+    "name": "Tacares"
+  },
+  {
+    "country": "CR",
+    "id": 3622035,
+    "coord": {
+      "lat": 8.81814,
+      "lon": -82.909111
+    },
+    "name": "Sabalito"
+  },
+  {
+    "country": "CR",
+    "id": 3622914,
+    "coord": {
+      "lat": 9.88034,
+      "lon": -83.797997
+    },
+    "name": "Mata de Guineo"
+  },
+  {
+    "country": "CR",
+    "id": 3622507,
+    "coord": {
+      "lat": 9.88071,
+      "lon": -84.035011
+    },
+    "name": "Patarra"
+  },
+  {
+    "country": "CR",
+    "id": 3623206,
+    "coord": {
+      "lat": 10.25,
+      "lon": -84.433327
+    },
+    "name": "Lajas"
+  },
+  {
+    "country": "CR",
+    "id": 3624804,
+    "coord": {
+      "lat": 9.81183,
+      "lon": -84.357224
+    },
+    "name": "Bajo La Legua"
+  },
+  {
+    "country": "CR",
+    "id": 3622015,
+    "coord": {
+      "lat": 9.91667,
+      "lon": -84.083328
+    },
+    "name": "Sagrada Familia"
+  },
+  {
+    "country": "CR",
+    "id": 3621617,
+    "coord": {
+      "lat": 11.1,
+      "lon": -85.416672
+    },
+    "name": "Santa Cecilia"
+  },
+  {
+    "country": "CR",
+    "id": 3623081,
+    "coord": {
+      "lat": 9.95092,
+      "lon": -85.031502
+    },
+    "name": "Lepanto"
+  },
+  {
+    "country": "CR",
+    "id": 3622023,
+    "coord": {
+      "lat": 9.94522,
+      "lon": -84.039261
+    },
+    "name": "Sabanilla"
+  },
+  {
+    "country": "CR",
+    "id": 3622606,
+    "coord": {
+      "lat": 8.95248,
+      "lon": -83.466614
+    },
+    "name": "Palmar Sur"
+  },
+  {
+    "country": "CR",
+    "id": 3623846,
+    "coord": {
+      "lat": 9.98595,
+      "lon": -84.220154
+    },
+    "name": "El Coco"
+  },
+  {
+    "country": "CR",
+    "id": 3622716,
+    "coord": {
+      "lat": 10.14828,
+      "lon": -85.452011
+    },
+    "name": "Nicoya"
+  },
+  {
+    "country": "CR",
+    "id": 3623810,
+    "coord": {
+      "lat": 10.55523,
+      "lon": -85.527039
+    },
+    "name": "El Real"
+  },
+  {
+    "country": "CR",
+    "id": 3621440,
+    "coord": {
+      "lat": 10.09748,
+      "lon": -83.506592
+    },
+    "name": "Siquirres"
+  },
+  {
+    "country": "CR",
+    "id": 3621505,
+    "coord": {
+      "lat": 9.96016,
+      "lon": -84.047623
+    },
+    "name": "San Vicente"
+  },
+  {
+    "country": "CR",
+    "id": 3621655,
+    "coord": {
+      "lat": 9.87556,
+      "lon": -84.076607
+    },
+    "name": "San Rafael Arriba"
+  },
+  {
+    "country": "CR",
+    "id": 3621659,
+    "coord": {
+      "lat": 9.831,
+      "lon": -84.290077
+    },
+    "name": "San Rafael Abajo"
+  },
+  {
+    "country": "CR",
+    "id": 3621687,
+    "coord": {
+      "lat": 9.97454,
+      "lon": -84.20974
+    },
+    "name": "San Rafael"
+  },
+  {
+    "country": "CR",
+    "id": 3621689,
+    "coord": {
+      "lat": 9.92787,
+      "lon": -84.137222
+    },
+    "name": "San Rafael"
+  },
+  {
+    "country": "CR",
+    "id": 3621717,
+    "coord": {
+      "lat": 9.92829,
+      "lon": -84.050743
+    },
+    "name": "San Pedro"
+  },
+  {
+    "country": "CR",
+    "id": 3621729,
+    "coord": {
+      "lat": 9.99559,
+      "lon": -84.096558
+    },
+    "name": "San Pablo"
+  },
+  {
+    "country": "CR",
+    "id": 3621753,
+    "coord": {
+      "lat": 9.87121,
+      "lon": -84.060837
+    },
+    "name": "San Miguel"
+  },
+  {
+    "country": "CR",
+    "id": 3621804,
+    "coord": {
+      "lat": 9.8773,
+      "lon": -84.084702
+    },
+    "name": "San Juan de Dios"
+  },
+  {
+    "country": "CR",
+    "id": 3621819,
+    "coord": {
+      "lat": 9.95974,
+      "lon": -84.08165
+    },
+    "name": "San Juan"
+  },
+  {
+    "country": "CR",
+    "id": 3621841,
+    "coord": {
+      "lat": 10.95173,
+      "lon": -85.136101
+    },
+    "name": "San Jose"
+  },
+  {
+    "country": "CR",
+    "id": 3621889,
+    "coord": {
+      "lat": 9.3721,
+      "lon": -83.703987
+    },
+    "name": "San Isidro"
+  },
+  {
+    "country": "CR",
+    "id": 3621911,
+    "coord": {
+      "lat": 9.99299,
+      "lon": -84.129341
+    },
+    "name": "San Francisco"
+  },
+  {
+    "country": "CR",
+    "id": 3621922,
+    "coord": {
+      "lat": 9.90488,
+      "lon": -84.105507
+    },
+    "name": "San Felipe"
+  },
+  {
+    "country": "CR",
+    "id": 3621926,
+    "coord": {
+      "lat": 9.89898,
+      "lon": -84.002869
+    },
+    "name": "San Diego"
+  },
+  {
+    "country": "CR",
+    "id": 3622190,
+    "coord": {
+      "lat": 10.32381,
+      "lon": -84.427139
+    },
+    "name": "Quesada"
+  },
+  {
+    "country": "CR",
+    "id": 3622217,
+    "coord": {
+      "lat": 9.95808,
+      "lon": -84.030502
+    },
+    "name": "Purral"
+  },
+  {
+    "country": "CR",
+    "id": 3622247,
+    "coord": {
+      "lat": 10,
+      "lon": -83.033333
+    },
+    "name": "Puerto Limon"
+  },
+  {
+    "country": "CR",
+    "id": 3622547,
+    "coord": {
+      "lat": 9.83832,
+      "lon": -83.865562
+    },
+    "name": "Paraiso"
+  },
+  {
+    "country": "CR",
+    "id": 3623394,
+    "coord": {
+      "lat": 9.96746,
+      "lon": -84.01326
+    },
+    "name": "Ipis"
+  },
+  {
+    "country": "CR",
+    "id": 3623593,
+    "coord": {
+      "lat": 9.94611,
+      "lon": -84.052788
+    },
+    "name": "Guadalupe"
+  },
+  {
+    "country": "CR",
+    "id": 3624174,
+    "coord": {
+      "lat": 9.95091,
+      "lon": -84.08503
+    },
+    "name": "Colima"
+  },
+  {
+    "country": "CR",
+    "id": 3624288,
+    "coord": {
+      "lat": 9.98289,
+      "lon": -84.772324
+    },
+    "name": "Chacarita"
+  },
+  {
+    "country": "CR",
+    "id": 3624509,
+    "coord": {
+      "lat": 9.95,
+      "lon": -84.066673
+    },
+    "name": "Calle Blancos"
+  },
+  {
+    "country": "CR",
+    "id": 3624848,
+    "coord": {
+      "lat": 9.85876,
+      "lon": -84.0923
+    },
+    "name": "Aserri"
+  },
+  {
+    "country": "CR",
+    "id": 6612154,
+    "coord": {
+      "lat": 9.96164,
+      "lon": -84.048798
+    },
+    "name": "San Vicente de Moravia"
+  },
+  {
+    "country": "CR",
+    "id": 3620994,
+    "coord": {
+      "lat": 10.18561,
+      "lon": -84.390762
+    },
+    "name": "Zarcero"
+  },
+  {
+    "country": "CR",
+    "id": 3621200,
+    "coord": {
+      "lat": 9.85336,
+      "lon": -83.722733
+    },
+    "name": "Tucurrique"
+  },
+  {
+    "country": "CR",
+    "id": 3621224,
+    "coord": {
+      "lat": 9.90644,
+      "lon": -83.987602
+    },
+    "name": "Tres Rios"
+  },
+  {
+    "country": "CR",
+    "id": 3621265,
+    "coord": {
+      "lat": 9.83837,
+      "lon": -83.98391
+    },
+    "name": "Tobosi"
+  },
+  {
+    "country": "CR",
+    "id": 3621430,
+    "coord": {
+      "lat": 9.52766,
+      "lon": -82.621849
+    },
+    "name": "Sixaola"
+  },
+  {
+    "country": "CR",
+    "id": 3621520,
+    "coord": {
+      "lat": 10.02275,
+      "lon": -84.444199
+    },
+    "name": "Santiago"
+  },
+  {
+    "country": "CR",
+    "id": 3621524,
+    "coord": {
+      "lat": 9.84636,
+      "lon": -84.314278
+    },
+    "name": "Santiago"
+  },
+  {
+    "country": "CR",
+    "id": 3621630,
+    "coord": {
+      "lat": 9.9326,
+      "lon": -84.182541
+    },
+    "name": "Santa Ana"
+  },
+  {
+    "country": "CR",
+    "id": 3621679,
+    "coord": {
+      "lat": 10.06403,
+      "lon": -84.472809
+    },
+    "name": "San Rafael"
+  },
+  {
+    "country": "CR",
+    "id": 3621683,
+    "coord": {
+      "lat": 10.0132,
+      "lon": -84.100159
+    },
+    "name": "San Rafael"
+  },
+  {
+    "country": "CR",
+    "id": 3621762,
+    "coord": {
+      "lat": 9.6601,
+      "lon": -84.020264
+    },
+    "name": "San Marcos"
+  },
+  {
+    "country": "CR",
+    "id": 3621817,
+    "coord": {
+      "lat": 10.10248,
+      "lon": -84.31694
+    },
+    "name": "San Juan"
+  },
+  {
+    "country": "CR",
+    "id": 3621831,
+    "coord": {
+      "lat": 10.01667,
+      "lon": -84.099998
+    },
+    "name": "San Josecito"
+  },
+  {
+    "country": "CR",
+    "id": 3621890,
+    "coord": {
+      "lat": 9.79853,
+      "lon": -84.161728
+    },
+    "name": "San Ignacio"
+  },
+  {
+    "country": "CR",
+    "id": 3621967,
+    "coord": {
+      "lat": 9.98333,
+      "lon": -84.183327
+    },
+    "name": "San Antonio"
+  },
+  {
+    "country": "CR",
+    "id": 3621990,
+    "coord": {
+      "lat": 9.8824,
+      "lon": -85.526649
+    },
+    "name": "Samara"
+  },
+  {
+    "country": "CR",
+    "id": 3621997,
+    "coord": {
+      "lat": 9.85259,
+      "lon": -84.090622
+    },
+    "name": "Salitrillos"
+  },
+  {
+    "country": "CR",
+    "id": 3622005,
+    "coord": {
+      "lat": 9.91163,
+      "lon": -84.178352
+    },
+    "name": "Salitral"
+  },
+  {
+    "country": "CR",
+    "id": 3622022,
+    "coord": {
+      "lat": 10.07404,
+      "lon": -84.215508
+    },
+    "name": "Sabanilla"
+  },
+  {
+    "country": "CR",
+    "id": 3622036,
+    "coord": {
+      "lat": 10.27528,
+      "lon": -83.751328
+    },
+    "name": "Roxana"
+  },
+  {
+    "country": "CR",
+    "id": 3622074,
+    "coord": {
+      "lat": 10.24138,
+      "lon": -84.279327
+    },
+    "name": "Rio Segundo"
+  },
+  {
+    "country": "CR",
+    "id": 3622193,
+    "coord": {
+      "lat": 9.42357,
+      "lon": -84.165222
+    },
+    "name": "Quepos"
+  },
+  {
+    "country": "CR",
+    "id": 3622323,
+    "coord": {
+      "lat": 10.36667,
+      "lon": -84.616669
+    },
+    "name": "Pocosol"
+  },
+  {
+    "country": "CR",
+    "id": 3622325,
+    "coord": {
+      "lat": 10.17185,
+      "lon": -83.604393
+    },
+    "name": "Pocora"
+  },
+  {
+    "country": "CR",
+    "id": 3622466,
+    "coord": {
+      "lat": 9.81135,
+      "lon": -83.703362
+    },
+    "name": "Pejibaye"
+  },
+  {
+    "country": "CR",
+    "id": 3622561,
+    "coord": {
+      "lat": 9.82005,
+      "lon": -84.935127
+    },
+    "name": "Paquera"
+  },
+  {
+    "country": "CR",
+    "id": 3622648,
+    "coord": {
+      "lat": 9.80709,
+      "lon": -84.047638
+    },
+    "name": "Pacayas"
+  },
+  {
+    "country": "CR",
+    "id": 3622663,
+    "coord": {
+      "lat": 9.79617,
+      "lon": -83.853828
+    },
+    "name": "Orosi"
+  },
+  {
+    "country": "CR",
+    "id": 3622765,
+    "coord": {
+      "lat": 10.03333,
+      "lon": -85.199997
+    },
+    "name": "Nandayure"
+  },
+  {
+    "country": "CR",
+    "id": 3622884,
+    "coord": {
+      "lat": 9.2627,
+      "lon": -83.582024
+    },
+    "name": "Mercedes"
+  },
+  {
+    "country": "CR",
+    "id": 3623008,
+    "coord": {
+      "lat": 11.03333,
+      "lon": -84.716667
+    },
+    "name": "Los Chiles"
+  },
+  {
+    "country": "CR",
+    "id": 3623032,
+    "coord": {
+      "lat": 9.99844,
+      "lon": -84.15448
+    },
+    "name": "Llorente"
+  },
+  {
+    "country": "CR",
+    "id": 3623112,
+    "coord": {
+      "lat": 9.85238,
+      "lon": -83.613312
+    },
+    "name": "La Suiza"
+  },
+  {
+    "country": "CR",
+    "id": 3623258,
+    "coord": {
+      "lat": 11.07377,
+      "lon": -85.632721
+    },
+    "name": "La Cruz"
+  },
+  {
+    "country": "CR",
+    "id": 3623287,
+    "coord": {
+      "lat": 9.97961,
+      "lon": -84.172813
+    },
+    "name": "La Asuncion"
+  },
+  {
+    "country": "CR",
+    "id": 3623643,
+    "coord": {
+      "lat": 9.93491,
+      "lon": -84.016876
+    },
+    "name": "Granadilla"
+  },
+  {
+    "country": "CR",
+    "id": 3623656,
+    "coord": {
+      "lat": 8.63901,
+      "lon": -83.166031
+    },
+    "name": "Golfito"
+  },
+  {
+    "country": "CR",
+    "id": 3623715,
+    "coord": {
+      "lat": 10.67384,
+      "lon": -85.199837
+    },
+    "name": "Fortuna"
+  },
+  {
+    "country": "CR",
+    "id": 3623755,
+    "coord": {
+      "lat": 10.05676,
+      "lon": -84.42337
+    },
+    "name": "Esquipulas"
+  },
+  {
+    "country": "CR",
+    "id": 3623787,
+    "coord": {
+      "lat": 9.91887,
+      "lon": -84.1399
+    },
+    "name": "Escazu"
+  },
+  {
+    "country": "CR",
+    "id": 3623935,
+    "coord": {
+      "lat": 9.94727,
+      "lon": -84.506264
+    },
+    "name": "Desamparados"
+  },
+  {
+    "country": "CR",
+    "id": 3624057,
+    "coord": {
+      "lat": 9.89449,
+      "lon": -83.873016
+    },
+    "name": "Cot"
+  },
+  {
+    "country": "CR",
+    "id": 3624066,
+    "coord": {
+      "lat": 8.64002,
+      "lon": -82.945999
+    },
+    "name": "Corredor"
+  },
+  {
+    "country": "CR",
+    "id": 3624142,
+    "coord": {
+      "lat": 9.93333,
+      "lon": -84
+    },
+    "name": "Concepcion"
+  },
+  {
+    "country": "CR",
+    "id": 3624379,
+    "coord": {
+      "lat": 10.02918,
+      "lon": -84.27404
+    },
+    "name": "Carrillos"
+  },
+  {
+    "country": "CR",
+    "id": 3624436,
+    "coord": {
+      "lat": 8.53305,
+      "lon": -82.83844
+    },
+    "name": "Canoas"
+  },
+  {
+    "country": "CR",
+    "id": 3624593,
+    "coord": {
+      "lat": 9.17189,
+      "lon": -83.334167
+    },
+    "name": "Buenos Aires"
+  },
+  {
+    "country": "CR",
+    "id": 3624718,
+    "coord": {
+      "lat": 10.40788,
+      "lon": -85.588364
+    },
+    "name": "Belen"
+  },
+  {
+    "country": "CR",
+    "id": 3624730,
+    "coord": {
+      "lat": 10.08444,
+      "lon": -83.341003
+    },
+    "name": "Batan"
+  },
+  {
+    "country": "CR",
+    "id": 3624822,
+    "coord": {
+      "lat": 10.52709,
+      "lon": -85.254822
+    },
+    "name": "Bagaces"
+  },
+  {
+    "country": "CR",
+    "id": 3624842,
+    "coord": {
+      "lat": 9.97806,
+      "lon": -84.380318
+    },
+    "name": "Atenas"
+  },
+  {
+    "country": "CR",
+    "id": 3624908,
+    "coord": {
+      "lat": 9.9959,
+      "lon": -84.051262
+    },
+    "name": "Angeles"
+  },
+  {
+    "country": "CR",
+    "id": 3624951,
+    "coord": {
+      "lat": 9.90163,
+      "lon": -84.100418
+    },
+    "name": "Alajuelita"
+  }
+
+]

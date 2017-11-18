@@ -1,0 +1,778 @@
+[
+
+  {
+    "country": "AL",
+    "id": 782519,
+    "coord": {
+      "lat": 41.17944,
+      "lon": 20.315001
+    },
+    "name": "Librazhd"
+  },
+  {
+    "country": "AL",
+    "id": 781988,
+    "coord": {
+      "lat": 40.9025,
+      "lon": 20.6525
+    },
+    "name": "Pogradec"
+  },
+  {
+    "country": "AL",
+    "id": 363320,
+    "coord": {
+      "lat": 39.65889,
+      "lon": 20.181391
+    },
+    "name": "Konispol"
+  },
+  {
+    "country": "AL",
+    "id": 782632,
+    "coord": {
+      "lat": 41.77972,
+      "lon": 20.083611
+    },
+    "name": "Kurbnesh"
+  },
+  {
+    "country": "AL",
+    "id": 783214,
+    "coord": {
+      "lat": 42.062222,
+      "lon": 20.01667
+    },
+    "name": "Fushe-Arrez"
+  },
+  {
+    "country": "AL",
+    "id": 3184197,
+    "coord": {
+      "lat": 40.53056,
+      "lon": 19.63583
+    },
+    "name": "Selenice"
+  },
+  {
+    "country": "AL",
+    "id": 3184388,
+    "coord": {
+      "lat": 42.044441,
+      "lon": 19.899719
+    },
+    "name": "Puke"
+  },
+  {
+    "country": "AL",
+    "id": 3184575,
+    "coord": {
+      "lat": 40.325279,
+      "lon": 19.47139
+    },
+    "name": "Orikum"
+  },
+  {
+    "country": "AL",
+    "id": 3184702,
+    "coord": {
+      "lat": 41.683891,
+      "lon": 19.715561
+    },
+    "name": "Milot"
+  },
+  {
+    "country": "AL",
+    "id": 3183875,
+    "coord": {
+      "lat": 41.327499,
+      "lon": 19.81889
+    },
+    "name": "Tirana"
+  },
+  {
+    "country": "AL",
+    "id": 3184753,
+    "coord": {
+      "lat": 40.708061,
+      "lon": 19.56111
+    },
+    "name": "Mbyet"
+  },
+  {
+    "country": "AL",
+    "id": 363383,
+    "coord": {
+      "lat": 39.951111,
+      "lon": 20.09778
+    },
+    "name": "Delvine"
+  },
+  {
+    "country": "AL",
+    "id": 781919,
+    "coord": {
+      "lat": 41.066669,
+      "lon": 20.53528
+    },
+    "name": "Perrenjas-Fshat"
+  },
+  {
+    "country": "AL",
+    "id": 781979,
+    "coord": {
+      "lat": 40.612221,
+      "lon": 20.098061
+    },
+    "name": "Polican"
+  },
+  {
+    "country": "AL",
+    "id": 782070,
+    "coord": {
+      "lat": 40.233608,
+      "lon": 20.351669
+    },
+    "name": "Permet"
+  },
+  {
+    "country": "AL",
+    "id": 782393,
+    "coord": {
+      "lat": 40.70583,
+      "lon": 20.69972
+    },
+    "name": "Maliq"
+  },
+  {
+    "country": "AL",
+    "id": 782523,
+    "coord": {
+      "lat": 40.031109,
+      "lon": 20.26306
+    },
+    "name": "Libohove"
+  },
+  {
+    "country": "AL",
+    "id": 782535,
+    "coord": {
+      "lat": 40.15139,
+      "lon": 20.597219
+    },
+    "name": "Leskovik"
+  },
+  {
+    "country": "AL",
+    "id": 782843,
+    "coord": {
+      "lat": 40.313061,
+      "lon": 20.18944
+    },
+    "name": "Kelcyre"
+  },
+  {
+    "country": "AL",
+    "id": 783259,
+    "coord": {
+      "lat": 40.33778,
+      "lon": 20.67889
+    },
+    "name": "Erseke"
+  },
+  {
+    "country": "AL",
+    "id": 783408,
+    "coord": {
+      "lat": 40.504169,
+      "lon": 20.227221
+    },
+    "name": "Corovode"
+  },
+  {
+    "country": "AL",
+    "id": 783508,
+    "coord": {
+      "lat": 41.491669,
+      "lon": 20.221939
+    },
+    "name": "Bulqize"
+  },
+  {
+    "country": "AL",
+    "id": 783606,
+    "coord": {
+      "lat": 40.627499,
+      "lon": 20.99
+    },
+    "name": "Bilisht"
+  },
+  {
+    "country": "AL",
+    "id": 832209,
+    "coord": {
+      "lat": 41.196941,
+      "lon": 20.33556
+    },
+    "name": "Librazhd-Qender"
+  },
+  {
+    "country": "AL",
+    "id": 3183691,
+    "coord": {
+      "lat": 42.028061,
+      "lon": 19.547779
+    },
+    "name": "Vukatane, Vukatan"
+  },
+  {
+    "country": "AL",
+    "id": 3183708,
+    "coord": {
+      "lat": 41.390831,
+      "lon": 19.655001
+    },
+    "name": "Vore"
+  },
+  {
+    "country": "AL",
+    "id": 3183814,
+    "coord": {
+      "lat": 40.76889,
+      "lon": 19.877781
+    },
+    "name": "Ura Vajgurore"
+  },
+  {
+    "country": "AL",
+    "id": 3184099,
+    "coord": {
+      "lat": 41.345558,
+      "lon": 19.567221
+    },
+    "name": "Shijak"
+  },
+  {
+    "country": "AL",
+    "id": 3184136,
+    "coord": {
+      "lat": 41.81361,
+      "lon": 19.593889
+    },
+    "name": "Shengjin"
+  },
+  {
+    "country": "AL",
+    "id": 3184238,
+    "coord": {
+      "lat": 41.774441,
+      "lon": 19.78611
+    },
+    "name": "Rubik"
+  },
+  {
+    "country": "AL",
+    "id": 3184252,
+    "coord": {
+      "lat": 41.076389,
+      "lon": 19.665279
+    },
+    "name": "Rrogozhine"
+  },
+  {
+    "country": "AL",
+    "id": 3184264,
+    "coord": {
+      "lat": 41.767502,
+      "lon": 19.875561
+    },
+    "name": "Rreshen"
+  },
+  {
+    "country": "AL",
+    "id": 3184290,
+    "coord": {
+      "lat": 40.737499,
+      "lon": 19.702221
+    },
+    "name": "Roskovec"
+  },
+  {
+    "country": "AL",
+    "id": 3184743,
+    "coord": {
+      "lat": 40.351669,
+      "lon": 19.98028
+    },
+    "name": "Memaliaj"
+  },
+  {
+    "country": "AL",
+    "id": 3184806,
+    "coord": {
+      "lat": 41.577499,
+      "lon": 19.692221
+    },
+    "name": "Mamurras"
+  },
+  {
+    "country": "AL",
+    "id": 3185087,
+    "coord": {
+      "lat": 41.215561,
+      "lon": 19.97139
+    },
+    "name": "Krrabe"
+  },
+  {
+    "country": "AL",
+    "id": 3185133,
+    "coord": {
+      "lat": 42.213612,
+      "lon": 19.43639
+    },
+    "name": "Koplik"
+  },
+  {
+    "country": "AL",
+    "id": 3185270,
+    "coord": {
+      "lat": 41.381672,
+      "lon": 19.760281
+    },
+    "name": "Kamez"
+  },
+  {
+    "country": "AL",
+    "id": 3185377,
+    "coord": {
+      "lat": 40.101669,
+      "lon": 19.74472
+    },
+    "name": "Himare"
+  },
+  {
+    "country": "AL",
+    "id": 3185638,
+    "coord": {
+      "lat": 41.478329,
+      "lon": 19.717779
+    },
+    "name": "Fushe-Kruje"
+  },
+  {
+    "country": "AL",
+    "id": 3186145,
+    "coord": {
+      "lat": 40.598888,
+      "lon": 19.73472
+    },
+    "name": "Ballsh"
+  },
+  {
+    "country": "AL",
+    "id": 865732,
+    "coord": {
+      "lat": 41.116669,
+      "lon": 20.299999
+    },
+    "name": "Qarku i Elbasanit"
+  },
+  {
+    "country": "AL",
+    "id": 782861,
+    "coord": {
+      "lat": 41.062778,
+      "lon": 20.48
+    },
+    "name": "Karkavec"
+  },
+  {
+    "country": "AL",
+    "id": 3183719,
+    "coord": {
+      "lat": 40.466671,
+      "lon": 19.489719
+    },
+    "name": "Vlore"
+  },
+  {
+    "country": "AL",
+    "id": 783754,
+    "coord": {
+      "lat": 41,
+      "lon": 20
+    },
+    "name": "Republic of Albania"
+  },
+  {
+    "country": "AL",
+    "id": 3344951,
+    "coord": {
+      "lat": 41.299999,
+      "lon": 19.89167
+    },
+    "name": "Qarku i Tiranës"
+  },
+  {
+    "country": "AL",
+    "id": 3184285,
+    "coord": {
+      "lat": 41.192501,
+      "lon": 19.53194
+    },
+    "name": "Rrakull"
+  },
+  {
+    "country": "AL",
+    "id": 783493,
+    "coord": {
+      "lat": 41.610279,
+      "lon": 20.00889
+    },
+    "name": "Burrel"
+  },
+  {
+    "country": "AL",
+    "id": 3344950,
+    "coord": {
+      "lat": 42.183331,
+      "lon": 19.75
+    },
+    "name": "Qarku i Shkodrës"
+  },
+  {
+    "country": "AL",
+    "id": 3184081,
+    "coord": {
+      "lat": 42.068279,
+      "lon": 19.512581
+    },
+    "name": "Shkoder"
+  },
+  {
+    "country": "AL",
+    "id": 865734,
+    "coord": {
+      "lat": 40.583328,
+      "lon": 20.65
+    },
+    "name": "Qarku i Korçës"
+  },
+  {
+    "country": "AL",
+    "id": 782756,
+    "coord": {
+      "lat": 40.61861,
+      "lon": 20.78083
+    },
+    "name": "Korce"
+  },
+  {
+    "country": "AL",
+    "id": 3344952,
+    "coord": {
+      "lat": 40.166672,
+      "lon": 19.799999
+    },
+    "name": "Qarku i Vlorës"
+  },
+  {
+    "country": "AL",
+    "id": 3344948,
+    "coord": {
+      "lat": 40.75,
+      "lon": 19.75
+    },
+    "name": "Qarku i Fierit"
+  },
+  {
+    "country": "AL",
+    "id": 3184862,
+    "coord": {
+      "lat": 40.94194,
+      "lon": 19.705
+    },
+    "name": "Lushnje"
+  },
+  {
+    "country": "AL",
+    "id": 3185672,
+    "coord": {
+      "lat": 40.723888,
+      "lon": 19.55611
+    },
+    "name": "Fier"
+  },
+  {
+    "country": "AL",
+    "id": 3344947,
+    "coord": {
+      "lat": 41.48333,
+      "lon": 19.58333
+    },
+    "name": "Qarku i Durrësit"
+  },
+  {
+    "country": "AL",
+    "id": 3185728,
+    "coord": {
+      "lat": 41.323059,
+      "lon": 19.441389
+    },
+    "name": "Durres"
+  },
+  {
+    "country": "AL",
+    "id": 3184497,
+    "coord": {
+      "lat": 41.046108,
+      "lon": 19.75111
+    },
+    "name": "Peqin"
+  },
+  {
+    "country": "AL",
+    "id": 783263,
+    "coord": {
+      "lat": 41.112499,
+      "lon": 20.08222
+    },
+    "name": "Elbasan"
+  },
+  {
+    "country": "AL",
+    "id": 865730,
+    "coord": {
+      "lat": 40.650002,
+      "lon": 20.066669
+    },
+    "name": "Qarku i Beratit"
+  },
+  {
+    "country": "AL",
+    "id": 3186084,
+    "coord": {
+      "lat": 40.70583,
+      "lon": 19.952221
+    },
+    "name": "Berat"
+  },
+  {
+    "country": "AL",
+    "id": 3185897,
+    "coord": {
+      "lat": 41.03167,
+      "lon": 19.97583
+    },
+    "name": "Cerrik"
+  },
+  {
+    "country": "AL",
+    "id": 3344949,
+    "coord": {
+      "lat": 41.833328,
+      "lon": 19.866671
+    },
+    "name": "Qarku i Lezhës"
+  },
+  {
+    "country": "AL",
+    "id": 3184935,
+    "coord": {
+      "lat": 41.783611,
+      "lon": 19.64361
+    },
+    "name": "Lezhe"
+  },
+  {
+    "country": "AL",
+    "id": 865733,
+    "coord": {
+      "lat": 40.216671,
+      "lon": 20.200001
+    },
+    "name": "Qarku i Gjirokastrës"
+  },
+  {
+    "country": "AL",
+    "id": 783148,
+    "coord": {
+      "lat": 40.075829,
+      "lon": 20.138889
+    },
+    "name": "Gjirokaster"
+  },
+  {
+    "country": "AL",
+    "id": 3185082,
+    "coord": {
+      "lat": 41.509171,
+      "lon": 19.79278
+    },
+    "name": "Kruje"
+  },
+  {
+    "country": "AL",
+    "id": 865735,
+    "coord": {
+      "lat": 42.200001,
+      "lon": 20.366671
+    },
+    "name": "Qarku i Kukësit"
+  },
+  {
+    "country": "AL",
+    "id": 829448,
+    "coord": {
+      "lat": 42.34222,
+      "lon": 20.070829
+    },
+    "name": "Bllatë"
+  },
+  {
+    "country": "AL",
+    "id": 781171,
+    "coord": {
+      "lat": 42.349998,
+      "lon": 20.066669
+    },
+    "name": "Vushnicë"
+  },
+  {
+    "country": "AL",
+    "id": 782661,
+    "coord": {
+      "lat": 42.076939,
+      "lon": 20.42194
+    },
+    "name": "Kukes"
+  },
+  {
+    "country": "AL",
+    "id": 363243,
+    "coord": {
+      "lat": 39.875561,
+      "lon": 20.00528
+    },
+    "name": "Sarande"
+  },
+  {
+    "country": "AL",
+    "id": 3185211,
+    "coord": {
+      "lat": 41.185558,
+      "lon": 19.55694
+    },
+    "name": "Kavaje"
+  },
+  {
+    "country": "AL",
+    "id": 781443,
+    "coord": {
+      "lat": 40.29583,
+      "lon": 20.019171
+    },
+    "name": "Tepelene"
+  },
+  {
+    "country": "AL",
+    "id": 783059,
+    "coord": {
+      "lat": 40.86972,
+      "lon": 20.184441
+    },
+    "name": "Gramsh"
+  },
+  {
+    "country": "AL",
+    "id": 865731,
+    "coord": {
+      "lat": 41.666672,
+      "lon": 20.16667
+    },
+    "name": "Qarku i Dibrës"
+  },
+  {
+    "country": "AL",
+    "id": 782061,
+    "coord": {
+      "lat": 41.685001,
+      "lon": 20.42889
+    },
+    "name": "Peshkopi"
+  },
+  {
+    "country": "AL",
+    "id": 3185060,
+    "coord": {
+      "lat": 40.800282,
+      "lon": 19.91667
+    },
+    "name": "Kucove"
+  },
+  {
+    "country": "AL",
+    "id": 781360,
+    "coord": {
+      "lat": 42.399502,
+      "lon": 20.16283
+    },
+    "name": "Rrethi i Tropojës"
+  },
+  {
+    "country": "AL",
+    "id": 782859,
+    "coord": {
+      "lat": 42.408058,
+      "lon": 20.193331
+    },
+    "name": "Kasaj"
+  },
+  {
+    "country": "AL",
+    "id": 864834,
+    "coord": {
+      "lat": 41.48444,
+      "lon": 20.108061
+    },
+    "name": "Klos-Katund"
+  },
+  {
+    "country": "AL",
+    "id": 3184368,
+    "coord": {
+      "lat": 41.41,
+      "lon": 19.735001
+    },
+    "name": "Qerek"
+  },
+  {
+    "country": "AL",
+    "id": 3184517,
+    "coord": {
+      "lat": 40.64278,
+      "lon": 19.650829
+    },
+    "name": "Patos Fshat"
+  },
+  {
+    "country": "AL",
+    "id": 3185012,
+    "coord": {
+      "lat": 41.635559,
+      "lon": 19.71306
+    },
+    "name": "Lac"
+  },
+  {
+    "country": "AL",
+    "id": 3185670,
+    "coord": {
+      "lat": 40.716671,
+      "lon": 19.566669
+    },
+    "name": "Fier-Cifci"
+  }
+
+]

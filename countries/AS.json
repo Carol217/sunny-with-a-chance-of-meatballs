@@ -1,0 +1,184 @@
+[
+
+  {
+    "country": "AS",
+    "id": 5881165,
+    "coord": {
+      "lat": -14.23361,
+      "lon": -169.514435
+    },
+    "name": "Tau"
+  },
+  {
+    "country": "AS",
+    "id": 7267965,
+    "coord": {
+      "lat": -14.22079,
+      "lon": -169.478195
+    },
+    "name": "Faleasao County"
+  },
+  {
+    "country": "AS",
+    "id": 5881219,
+    "coord": {
+      "lat": -14.26667,
+      "lon": -170.649994
+    },
+    "name": "Eastern District"
+  },
+  {
+    "country": "AS",
+    "id": 5880828,
+    "coord": {
+      "lat": -14.27611,
+      "lon": -170.663895
+    },
+    "name": "Aua"
+  },
+  {
+    "country": "AS",
+    "id": 5880873,
+    "coord": {
+      "lat": -14.31667,
+      "lon": -170.766663
+    },
+    "name": "Western District"
+  },
+  {
+    "country": "AS",
+    "id": 5880891,
+    "coord": {
+      "lat": -14.35889,
+      "lon": -170.734726
+    },
+    "name": "Vaitogi"
+  },
+  {
+    "country": "AS",
+    "id": 5880944,
+    "coord": {
+      "lat": -14.3552,
+      "lon": -170.783295
+    },
+    "name": "Vailoatai"
+  },
+  {
+    "country": "AS",
+    "id": 5881199,
+    "coord": {
+      "lat": -11.056,
+      "lon": -171.082001
+    },
+    "name": "Swains Island"
+  },
+  {
+    "country": "AS",
+    "id": 5881150,
+    "coord": {
+      "lat": -11.05528,
+      "lon": -171.088333
+    },
+    "name": "Taulaga"
+  },
+  {
+    "country": "AS",
+    "id": 5881436,
+    "coord": {
+      "lat": -14.23327,
+      "lon": -169.474579
+    },
+    "name": "Manu'a District"
+  },
+  {
+    "country": "AS",
+    "id": 5881192,
+    "coord": {
+      "lat": -14.33583,
+      "lon": -170.720001
+    },
+    "name": "Tafuna"
+  },
+  {
+    "country": "AS",
+    "id": 5881224,
+    "coord": {
+      "lat": -14.3325,
+      "lon": -170.744446
+    },
+    "name": "Faleniu"
+  },
+  {
+    "country": "AS",
+    "id": 5881241,
+    "coord": {
+      "lat": -14.2825,
+      "lon": -170.690002
+    },
+    "name": "Fagatogo"
+  },
+  {
+    "country": "AS",
+    "id": 5881254,
+    "coord": {
+      "lat": -14.2222,
+      "lon": -169.512787
+    },
+    "name": "Faleasao"
+  },
+  {
+    "country": "AS",
+    "id": 5881347,
+    "coord": {
+      "lat": -14.34389,
+      "lon": -170.785004
+    },
+    "name": "Leone"
+  },
+  {
+    "country": "AS",
+    "id": 5881410,
+    "coord": {
+      "lat": -14.32278,
+      "lon": -170.733887
+    },
+    "name": "Malaeimi"
+  },
+  {
+    "country": "AS",
+    "id": 5881442,
+    "coord": {
+      "lat": -14.33056,
+      "lon": -170.752777
+    },
+    "name": "Mapusagafou"
+  },
+  {
+    "country": "AS",
+    "id": 5881544,
+    "coord": {
+      "lat": -14.17528,
+      "lon": -169.677505
+    },
+    "name": "Ofu"
+  },
+  {
+    "country": "AS",
+    "id": 5881576,
+    "coord": {
+      "lat": -14.27806,
+      "lon": -170.702499
+    },
+    "name": "Pago Pago"
+  },
+  {
+    "country": "AS",
+    "id": 5880801,
+    "coord": {
+      "lat": -14.23377,
+      "lon": -169.477676
+    },
+    "name": "American Samoa, Territory of"
+  }
+
+]

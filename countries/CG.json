@@ -1,0 +1,364 @@
+[
+
+  {
+    "country": "CG",
+    "id": 2566086,
+    "coord": {
+      "lat": -4.22694,
+      "lon": 15.2875
+    },
+    "name": "Tsiémé-Mandiélé"
+  },
+  {
+    "country": "CG",
+    "id": 2569147,
+    "coord": {
+      "lat": -2.36278,
+      "lon": 16.11972
+    },
+    "name": "Balémon"
+  },
+  {
+    "country": "CG",
+    "id": 2256895,
+    "coord": {
+      "lat": -2.95056,
+      "lon": 12.72611
+    },
+    "name": "Mossendjo"
+  },
+  {
+    "country": "CG",
+    "id": 2258378,
+    "coord": {
+      "lat": -4.75611,
+      "lon": 11.85778
+    },
+    "name": "Loandjili"
+  },
+  {
+    "country": "CG",
+    "id": 2259383,
+    "coord": {
+      "lat": -4.16556,
+      "lon": 13.29278
+    },
+    "name": "Kayes"
+  },
+  {
+    "country": "CG",
+    "id": 2255404,
+    "coord": {
+      "lat": -3.5,
+      "lon": 15
+    },
+    "name": "Région du Pool"
+  },
+  {
+    "country": "CG",
+    "id": 2255422,
+    "coord": {
+      "lat": -2,
+      "lon": 15.5
+    },
+    "name": "Région des Plateaux"
+  },
+  {
+    "country": "CG",
+    "id": 2255542,
+    "coord": {
+      "lat": -0.48193,
+      "lon": 15.89988
+    },
+    "name": "Owando"
+  },
+  {
+    "country": "CG",
+    "id": 2260494,
+    "coord": {
+      "lat": -1,
+      "lon": 15
+    },
+    "name": "Republic of the Congo"
+  },
+  {
+    "country": "CG",
+    "id": 2566016,
+    "coord": {
+      "lat": -4.24639,
+      "lon": 15.22861
+    },
+    "name": "Inga"
+  },
+  {
+    "country": "CG",
+    "id": 2572183,
+    "coord": {
+      "lat": -4.2657,
+      "lon": 15.28048
+    },
+    "name": "Commune de Brazzaville"
+  },
+  {
+    "country": "CG",
+    "id": 2260535,
+    "coord": {
+      "lat": -4.26583,
+      "lon": 15.28318
+    },
+    "name": "Brazzaville"
+  },
+  {
+    "country": "CG",
+    "id": 2258738,
+    "coord": {
+      "lat": -4,
+      "lon": 12
+    },
+    "name": "Région du Kouilou"
+  },
+  {
+    "country": "CG",
+    "id": 2255414,
+    "coord": {
+      "lat": -4.77609,
+      "lon": 11.86352
+    },
+    "name": "Pointe-Noire"
+  },
+  {
+    "country": "CG",
+    "id": 2258314,
+    "coord": {
+      "lat": -4.80028,
+      "lon": 11.84194
+    },
+    "name": "Losange"
+  },
+  {
+    "country": "CG",
+    "id": 2255148,
+    "coord": {
+      "lat": -4.82306,
+      "lon": 11.87611
+    },
+    "name": "Tchimbanmba"
+  },
+  {
+    "country": "CG",
+    "id": 2256175,
+    "coord": {
+      "lat": -3,
+      "lon": 12.5
+    },
+    "name": "Région du Niari"
+  },
+  {
+    "country": "CG",
+    "id": 2566971,
+    "coord": {
+      "lat": -4.20694,
+      "lon": 12.67
+    },
+    "name": "Makabandilou"
+  },
+  {
+    "country": "CG",
+    "id": 2257925,
+    "coord": {
+      "lat": -3.46333,
+      "lon": 12.60556
+    },
+    "name": "Makabana"
+  },
+  {
+    "country": "CG",
+    "id": 2255329,
+    "coord": {
+      "lat": 1.33333,
+      "lon": 15.5
+    },
+    "name": "Région de la Sangha"
+  },
+  {
+    "country": "CG",
+    "id": 2255564,
+    "coord": {
+      "lat": 1.61361,
+      "lon": 16.05167
+    },
+    "name": "Ouesso"
+  },
+  {
+    "country": "CG",
+    "id": 2255244,
+    "coord": {
+      "lat": 2.08333,
+      "lon": 14.13333
+    },
+    "name": "Souanké"
+  },
+  {
+    "country": "CG",
+    "id": 2260487,
+    "coord": {
+      "lat": -0.5,
+      "lon": 16
+    },
+    "name": "Région de la Cuvette"
+  },
+  {
+    "country": "CG",
+    "id": 2567932,
+    "coord": {
+      "lat": -0.00944,
+      "lon": 15.57194
+    },
+    "name": "Opaka"
+  },
+  {
+    "country": "CG",
+    "id": 2258431,
+    "coord": {
+      "lat": 2,
+      "lon": 17.5
+    },
+    "name": "Région de la Likouala"
+  },
+  {
+    "country": "CG",
+    "id": 2259918,
+    "coord": {
+      "lat": 1.59139,
+      "lon": 18.05028
+    },
+    "name": "Gangania"
+  },
+  {
+    "country": "CG",
+    "id": 2259947,
+    "coord": {
+      "lat": -1.87639,
+      "lon": 15.86444
+    },
+    "name": "Gamboma"
+  },
+  {
+    "country": "CG",
+    "id": 2258534,
+    "coord": {
+      "lat": -3,
+      "lon": 13.5
+    },
+    "name": "Région de la Lékoumou"
+  },
+  {
+    "country": "CG",
+    "id": 2255285,
+    "coord": {
+      "lat": -3.68192,
+      "lon": 13.34985
+    },
+    "name": "Sibiti"
+  },
+  {
+    "country": "CG",
+    "id": 2260668,
+    "coord": {
+      "lat": -4,
+      "lon": 14
+    },
+    "name": "Région de la Bouenza"
+  },
+  {
+    "country": "CG",
+    "id": 2259105,
+    "coord": {
+      "lat": -4.01139,
+      "lon": 13.98139
+    },
+    "name": "Kimpongi"
+  },
+  {
+    "country": "CG",
+    "id": 2260401,
+    "coord": {
+      "lat": -2.54472,
+      "lon": 14.75333
+    },
+    "name": "Djambala"
+  },
+  {
+    "country": "CG",
+    "id": 2257990,
+    "coord": {
+      "lat": -4.15361,
+      "lon": 13.55
+    },
+    "name": "Madingou"
+  },
+  {
+    "country": "CG",
+    "id": 2258261,
+    "coord": {
+      "lat": -4.19972,
+      "lon": 12.67389
+    },
+    "name": "Dolisie"
+  },
+  {
+    "country": "CG",
+    "id": 2259655,
+    "coord": {
+      "lat": 1.63806,
+      "lon": 18.066669
+    },
+    "name": "Impfondo"
+  },
+  {
+    "country": "CG",
+    "id": 2255304,
+    "coord": {
+      "lat": 1.64806,
+      "lon": 14.58056
+    },
+    "name": "Sembe"
+  },
+  {
+    "country": "CG",
+    "id": 2257879,
+    "coord": {
+      "lat": 0.00694,
+      "lon": 15.63333
+    },
+    "name": "Makoua"
+  },
+  {
+    "country": "CG",
+    "id": 2258984,
+    "coord": {
+      "lat": -4.36139,
+      "lon": 14.76444
+    },
+    "name": "Kinkala"
+  },
+  {
+    "country": "CG",
+    "id": 2593118,
+    "coord": {
+      "lat": 0,
+      "lon": 14.5
+    },
+    "name": "Région de la Cuvette-Ouest"
+  },
+  {
+    "country": "CG",
+    "id": 2260009,
+    "coord": {
+      "lat": -0.8725,
+      "lon": 14.82056
+    },
+    "name": "Ewo"
+  }
+
+]

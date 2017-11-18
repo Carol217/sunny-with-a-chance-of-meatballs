@@ -1,0 +1,436 @@
+[
+
+  {
+    "country": "CV",
+    "id": 7602869,
+    "coord": {
+      "lat": 16.616671,
+      "lon": -24.200001
+    },
+    "name": "Concelho da Ribeira Brava"
+  },
+  {
+    "country": "CV",
+    "id": 3374121,
+    "coord": {
+      "lat": 16.616671,
+      "lon": -24.299999
+    },
+    "name": "Vila da Ribeira Brava"
+  },
+  {
+    "country": "CV",
+    "id": 3374855,
+    "coord": {
+      "lat": 16.08333,
+      "lon": -22.83333
+    },
+    "name": "Concelho da Boa Vista"
+  },
+  {
+    "country": "CV",
+    "id": 3374235,
+    "coord": {
+      "lat": 16.183331,
+      "lon": -22.91667
+    },
+    "name": "Sal Rei"
+  },
+  {
+    "country": "CV",
+    "id": 3374161,
+    "coord": {
+      "lat": 15.26667,
+      "lon": -23.716669
+    },
+    "name": "Concelho do Tarrafal"
+  },
+  {
+    "country": "CV",
+    "id": 3374166,
+    "coord": {
+      "lat": 15.28333,
+      "lon": -23.76667
+    },
+    "name": "Tarrafal"
+  },
+  {
+    "country": "CV",
+    "id": 3374332,
+    "coord": {
+      "lat": 14.95,
+      "lon": -23.51667
+    },
+    "name": "Concelho da Praia"
+  },
+  {
+    "country": "CV",
+    "id": 3374333,
+    "coord": {
+      "lat": 14.92148,
+      "lon": -23.50868
+    },
+    "name": "Praia"
+  },
+  {
+    "country": "CV",
+    "id": 3374249,
+    "coord": {
+      "lat": 16.75,
+      "lon": -22.91667
+    },
+    "name": "Concelho do Sal"
+  },
+  {
+    "country": "CV",
+    "id": 3374218,
+    "coord": {
+      "lat": 16.6,
+      "lon": -22.9
+    },
+    "name": "Santa Maria"
+  },
+  {
+    "country": "CV",
+    "id": 3374198,
+    "coord": {
+      "lat": 16.83333,
+      "lon": -25
+    },
+    "name": "Concelho de São Vicente"
+  },
+  {
+    "country": "CV",
+    "id": 3374462,
+    "coord": {
+      "lat": 16.890141,
+      "lon": -24.980419
+    },
+    "name": "Mindelo"
+  },
+  {
+    "country": "CV",
+    "id": 3374766,
+    "coord": {
+      "lat": 16,
+      "lon": -24
+    },
+    "name": "Republic of Cape Verde"
+  },
+  {
+    "country": "CV",
+    "id": 3374201,
+    "coord": {
+      "lat": 16.82935,
+      "lon": -25.062901
+    },
+    "name": "São Pedro"
+  },
+  {
+    "country": "CV",
+    "id": 3374301,
+    "coord": {
+      "lat": 16.133329,
+      "lon": -22.883329
+    },
+    "name": "Rabil"
+  },
+  {
+    "country": "CV",
+    "id": 3374314,
+    "coord": {
+      "lat": 16.75,
+      "lon": -22.950001
+    },
+    "name": "Preguiça"
+  },
+  {
+    "country": "CV",
+    "id": 3374832,
+    "coord": {
+      "lat": 14.86667,
+      "lon": -24.700001
+    },
+    "name": "Concelho da Brava"
+  },
+  {
+    "country": "CV",
+    "id": 3374117,
+    "coord": {
+      "lat": 14.86667,
+      "lon": -24.716669
+    },
+    "name": "Vila Nova Sintra"
+  },
+  {
+    "country": "CV",
+    "id": 3374487,
+    "coord": {
+      "lat": 15.21667,
+      "lon": -23.16667
+    },
+    "name": "Concelho do Maio"
+  },
+  {
+    "country": "CV",
+    "id": 3374120,
+    "coord": {
+      "lat": 15.13333,
+      "lon": -23.216669
+    },
+    "name": "Vila do Maio"
+  },
+  {
+    "country": "CV",
+    "id": 7602872,
+    "coord": {
+      "lat": 16.6,
+      "lon": -24.35
+    },
+    "name": "Concelho do Tarrafal de São Nicolau"
+  },
+  {
+    "country": "CV",
+    "id": 3374165,
+    "coord": {
+      "lat": 16.566669,
+      "lon": -24.366671
+    },
+    "name": "Tarrafal de Sao Nicolau"
+  },
+  {
+    "country": "CV",
+    "id": 3411927,
+    "coord": {
+      "lat": 14.93333,
+      "lon": -24.433331
+    },
+    "name": "Concelho do São Filipe"
+  },
+  {
+    "country": "CV",
+    "id": 3374210,
+    "coord": {
+      "lat": 14.8961,
+      "lon": -24.49556
+    },
+    "name": "Sao Filipe"
+  },
+  {
+    "country": "CV",
+    "id": 3411926,
+    "coord": {
+      "lat": 15.01667,
+      "lon": -23.533331
+    },
+    "name": "Concelho de São Domingos"
+  },
+  {
+    "country": "CV",
+    "id": 3374211,
+    "coord": {
+      "lat": 15.02438,
+      "lon": -23.5625
+    },
+    "name": "Sao Domingos"
+  },
+  {
+    "country": "CV",
+    "id": 3411925,
+    "coord": {
+      "lat": 15.1,
+      "lon": -23.566669
+    },
+    "name": "Concelho de Santa Cruz"
+  },
+  {
+    "country": "CV",
+    "id": 3374221,
+    "coord": {
+      "lat": 15.13333,
+      "lon": -23.566669
+    },
+    "name": "Santa Cruz"
+  },
+  {
+    "country": "CV",
+    "id": 3374274,
+    "coord": {
+      "lat": 17.133329,
+      "lon": -25.116671
+    },
+    "name": "Concelho da Ribeira Grande"
+  },
+  {
+    "country": "CV",
+    "id": 3374275,
+    "coord": {
+      "lat": 17.18561,
+      "lon": -25.07243
+    },
+    "name": "Ribeira Grande"
+  },
+  {
+    "country": "CV",
+    "id": 7602868,
+    "coord": {
+      "lat": 17.01667,
+      "lon": -25.200001
+    },
+    "name": "Concelho do Porto Novo"
+  },
+  {
+    "country": "CV",
+    "id": 3374336,
+    "coord": {
+      "lat": 17.01969,
+      "lon": -25.064711
+    },
+    "name": "Porto Novo"
+  },
+  {
+    "country": "CV",
+    "id": 3411924,
+    "coord": {
+      "lat": 15,
+      "lon": -24.35
+    },
+    "name": "Concelho dos Mosteiros"
+  },
+  {
+    "country": "CV",
+    "id": 3374338,
+    "coord": {
+      "lat": 15.03333,
+      "lon": -24.33333
+    },
+    "name": "Porto dos Mosteiros"
+  },
+  {
+    "country": "CV",
+    "id": 3374346,
+    "coord": {
+      "lat": 17.199421,
+      "lon": -25.091921
+    },
+    "name": "Ponta do Sol"
+  },
+  {
+    "country": "CV",
+    "id": 3374391,
+    "coord": {
+      "lat": 17.116671,
+      "lon": -25.01667
+    },
+    "name": "Concelho do Paul"
+  },
+  {
+    "country": "CV",
+    "id": 3374351,
+    "coord": {
+      "lat": 17.150261,
+      "lon": -25.020069
+    },
+    "name": "Pombas"
+  },
+  {
+    "country": "CV",
+    "id": 7602871,
+    "coord": {
+      "lat": 15.08333,
+      "lon": -23.633329
+    },
+    "name": "Concelho de São Salvador do Mundo"
+  },
+  {
+    "country": "CV",
+    "id": 3374360,
+    "coord": {
+      "lat": 15.0836,
+      "lon": -23.63236
+    },
+    "name": "Picos"
+  },
+  {
+    "country": "CV",
+    "id": 7602870,
+    "coord": {
+      "lat": 14.9,
+      "lon": -24.33333
+    },
+    "name": "Concelho de Santa Catarina do Fogo"
+  },
+  {
+    "country": "CV",
+    "id": 3374707,
+    "coord": {
+      "lat": 14.89054,
+      "lon": -24.29343
+    },
+    "name": "Cova Figueira"
+  },
+  {
+    "country": "CV",
+    "id": 7603281,
+    "coord": {
+      "lat": 14.98333,
+      "lon": -23.65
+    },
+    "name": "Concelho de Ribeira Grande de Santiago"
+  },
+  {
+    "country": "CV",
+    "id": 3374725,
+    "coord": {
+      "lat": 14.91667,
+      "lon": -23.616671
+    },
+    "name": "Cidade Velha"
+  },
+  {
+    "country": "CV",
+    "id": 3411928,
+    "coord": {
+      "lat": 15.2,
+      "lon": -23.65
+    },
+    "name": "Concelho de São Miguel"
+  },
+  {
+    "country": "CV",
+    "id": 3374794,
+    "coord": {
+      "lat": 15.18333,
+      "lon": -23.6
+    },
+    "name": "Calheta"
+  },
+  {
+    "country": "CV",
+    "id": 3374226,
+    "coord": {
+      "lat": 15.1,
+      "lon": -23.700001
+    },
+    "name": "Concelho de Santa Catarina"
+  },
+  {
+    "country": "CV",
+    "id": 3374888,
+    "coord": {
+      "lat": 15.1,
+      "lon": -23.683331
+    },
+    "name": "Assomada"
+  },
+  {
+    "country": "CV",
+    "id": 8030386,
+    "coord": {
+      "lat": 15.36895,
+      "lon": -25.83984
+    },
+    "name": "Safende"
+  }
+
+]

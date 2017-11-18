@@ -1,0 +1,2218 @@
+[
+
+  {
+    "country": "BO",
+    "id": 3901501,
+    "coord": {
+      "lat": -22.08659,
+      "lon": -65.594223
+    },
+    "name": "Villazon"
+  },
+  {
+    "country": "BO",
+    "id": 3911925,
+    "coord": {
+      "lat": -16.5,
+      "lon": -68.150002
+    },
+    "name": "La Paz"
+  },
+  {
+    "country": "BO",
+    "id": 3901504,
+    "coord": {
+      "lat": -17.4,
+      "lon": -63.833328
+    },
+    "name": "Villa Yapacani"
+  },
+  {
+    "country": "BO",
+    "id": 3901547,
+    "coord": {
+      "lat": -21.25,
+      "lon": -63.5
+    },
+    "name": "Villamontes"
+  },
+  {
+    "country": "BO",
+    "id": 3902202,
+    "coord": {
+      "lat": -21.450001,
+      "lon": -65.716667
+    },
+    "name": "Tupiza"
+  },
+  {
+    "country": "BO",
+    "id": 3903987,
+    "coord": {
+      "lat": -19.033319,
+      "lon": -65.262741
+    },
+    "name": "Sucre"
+  },
+  {
+    "country": "BO",
+    "id": 3905792,
+    "coord": {
+      "lat": -14.81667,
+      "lon": -66.849998
+    },
+    "name": "San Borja"
+  },
+  {
+    "country": "BO",
+    "id": 3907080,
+    "coord": {
+      "lat": -17.549999,
+      "lon": -65.833328
+    },
+    "name": "Punata"
+  },
+  {
+    "country": "BO",
+    "id": 3910291,
+    "coord": {
+      "lat": -17.94101,
+      "lon": -65.340157
+    },
+    "name": "Mizque"
+  },
+  {
+    "country": "BO",
+    "id": 3915350,
+    "coord": {
+      "lat": -10.83676,
+      "lon": -65.361359
+    },
+    "name": "Guayaramerin"
+  },
+  {
+    "country": "BO",
+    "id": 3918937,
+    "coord": {
+      "lat": -17.816669,
+      "lon": -63.049999
+    },
+    "name": "Cotoca"
+  },
+  {
+    "country": "BO",
+    "id": 3908600,
+    "coord": {
+      "lat": -11.33333,
+      "lon": -67.666672
+    },
+    "name": "Departamento de Pando"
+  },
+  {
+    "country": "BO",
+    "id": 3919998,
+    "coord": {
+      "lat": -11.02671,
+      "lon": -68.76918
+    },
+    "name": "Cobija"
+  },
+  {
+    "country": "BO",
+    "id": 3902504,
+    "coord": {
+      "lat": -18.51667,
+      "lon": -66.866669
+    },
+    "name": "Totoral"
+  },
+  {
+    "country": "BO",
+    "id": 6621212,
+    "coord": {
+      "lat": -19.15077,
+      "lon": -64.902588
+    },
+    "name": "Tarabuco"
+  },
+  {
+    "country": "BO",
+    "id": 3923057,
+    "coord": {
+      "lat": -17,
+      "lon": -65
+    },
+    "name": "Plurinational State of Bolivia"
+  },
+  {
+    "country": "BO",
+    "id": 3911924,
+    "coord": {
+      "lat": -15.5,
+      "lon": -68
+    },
+    "name": "Departamento de La Paz"
+  },
+  {
+    "country": "BO",
+    "id": 3917004,
+    "coord": {
+      "lat": -17.33333,
+      "lon": -69.26667
+    },
+    "name": "Estancia Jiltata"
+  },
+  {
+    "country": "BO",
+    "id": 3901301,
+    "coord": {
+      "lat": -17.5,
+      "lon": -63.166672
+    },
+    "name": "Warnes"
+  },
+  {
+    "country": "BO",
+    "id": 3904666,
+    "coord": {
+      "lat": -17.98333,
+      "lon": -63.383331
+    },
+    "name": "Santiago del Torno"
+  },
+  {
+    "country": "BO",
+    "id": 3901969,
+    "coord": {
+      "lat": -15.38333,
+      "lon": -62.950001
+    },
+    "name": "Urubicha"
+  },
+  {
+    "country": "BO",
+    "id": 3903342,
+    "coord": {
+      "lat": -17.616671,
+      "lon": -66.01667
+    },
+    "name": "Tarata"
+  },
+  {
+    "country": "BO",
+    "id": 3901178,
+    "coord": {
+      "lat": -22.037991,
+      "lon": -63.67968
+    },
+    "name": "Yacuiba"
+  },
+  {
+    "country": "BO",
+    "id": 3919966,
+    "coord": {
+      "lat": -17.5,
+      "lon": -65.666672
+    },
+    "name": "Departamento de Cochabamba"
+  },
+  {
+    "country": "BO",
+    "id": 3919968,
+    "coord": {
+      "lat": -17.3895,
+      "lon": -66.156799
+    },
+    "name": "Cochabamba"
+  },
+  {
+    "country": "BO",
+    "id": 7010403,
+    "coord": {
+      "lat": -17.382549,
+      "lon": -66.144203
+    },
+    "name": "Muyurina"
+  },
+  {
+    "country": "BO",
+    "id": 3903319,
+    "coord": {
+      "lat": -21.5,
+      "lon": -64
+    },
+    "name": "Departamento de Tarija"
+  },
+  {
+    "country": "BO",
+    "id": 3902705,
+    "coord": {
+      "lat": -21.51536,
+      "lon": -64.749298
+    },
+    "name": "Tolomosita"
+  },
+  {
+    "country": "BO",
+    "id": 3923172,
+    "coord": {
+      "lat": -14,
+      "lon": -65.5
+    },
+    "name": "Departamento del Beni"
+  },
+  {
+    "country": "BO",
+    "id": 3906466,
+    "coord": {
+      "lat": -10.98333,
+      "lon": -66.099998
+    },
+    "name": "Riberalta"
+  },
+  {
+    "country": "BO",
+    "id": 3906791,
+    "coord": {
+      "lat": -17.4,
+      "lon": -66.283333
+    },
+    "name": "Quillacollo"
+  },
+  {
+    "country": "BO",
+    "id": 3909233,
+    "coord": {
+      "lat": -18.66667,
+      "lon": -67.5
+    },
+    "name": "Departamento de Oruro"
+  },
+  {
+    "country": "BO",
+    "id": 3914839,
+    "coord": {
+      "lat": -18.26667,
+      "lon": -66.849998
+    },
+    "name": "Huanuni"
+  },
+  {
+    "country": "BO",
+    "id": 3907580,
+    "coord": {
+      "lat": -20.66667,
+      "lon": -67
+    },
+    "name": "Departamento de Potosí"
+  },
+  {
+    "country": "BO",
+    "id": 3907584,
+    "coord": {
+      "lat": -19.583611,
+      "lon": -65.753059
+    },
+    "name": "Potosi"
+  },
+  {
+    "country": "BO",
+    "id": 3920177,
+    "coord": {
+      "lat": -20,
+      "lon": -64.333328
+    },
+    "name": "Departamento de Chuquisaca"
+  },
+  {
+    "country": "BO",
+    "id": 3918049,
+    "coord": {
+      "lat": -19.049999,
+      "lon": -65.26667
+    },
+    "name": "El Tejar"
+  },
+  {
+    "country": "BO",
+    "id": 3904907,
+    "coord": {
+      "lat": -17.5,
+      "lon": -61.5
+    },
+    "name": "Departamento de Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "id": 3905813,
+    "coord": {
+      "lat": -17.799999,
+      "lon": -63.166672
+    },
+    "name": "San Aurelio"
+  },
+  {
+    "country": "BO",
+    "id": 3909234,
+    "coord": {
+      "lat": -17.98333,
+      "lon": -67.150002
+    },
+    "name": "Oruro"
+  },
+  {
+    "country": "BO",
+    "id": 3902377,
+    "coord": {
+      "lat": -14.83333,
+      "lon": -64.900002
+    },
+    "name": "La Santisima Trinidad"
+  },
+  {
+    "country": "BO",
+    "id": 3910027,
+    "coord": {
+      "lat": -17.33333,
+      "lon": -63.25
+    },
+    "name": "Montero"
+  },
+  {
+    "country": "BO",
+    "id": 3922414,
+    "coord": {
+      "lat": -20.049999,
+      "lon": -63.51667
+    },
+    "name": "Camiri"
+  },
+  {
+    "country": "BO",
+    "id": 3911409,
+    "coord": {
+      "lat": -18.41667,
+      "lon": -66.633331
+    },
+    "name": "Llallagua"
+  },
+  {
+    "country": "BO",
+    "id": 3918313,
+    "coord": {
+      "lat": -17.85,
+      "lon": -63.216671
+    },
+    "name": "El Carmen"
+  },
+  {
+    "country": "BO",
+    "id": 3923154,
+    "coord": {
+      "lat": -22.65,
+      "lon": -64.366669
+    },
+    "name": "Bermejo"
+  },
+  {
+    "country": "BO",
+    "id": 3912423,
+    "coord": {
+      "lat": -17.75,
+      "lon": -62.98333
+    },
+    "name": "La Barraca"
+  },
+  {
+    "country": "BO",
+    "id": 3921237,
+    "coord": {
+      "lat": -17.5,
+      "lon": -63.166672
+    },
+    "name": "Chané Abajo"
+  },
+  {
+    "country": "BO",
+    "id": 3923999,
+    "coord": {
+      "lat": -16.169901,
+      "lon": -69.079193
+    },
+    "name": "Ancoraimes"
+  },
+  {
+    "country": "BO",
+    "id": 3906194,
+    "coord": {
+      "lat": -17.383329,
+      "lon": -66.033333
+    },
+    "name": "Sacaba"
+  },
+  {
+    "country": "BO",
+    "id": 3444199,
+    "coord": {
+      "lat": -18.950001,
+      "lon": -57.799999
+    },
+    "name": "Puerto Suárez"
+  },
+  {
+    "country": "BO",
+    "id": 3901903,
+    "coord": {
+      "lat": -20.459669,
+      "lon": -66.825027
+    },
+    "name": "Uyuni"
+  },
+  {
+    "country": "BO",
+    "id": 3922037,
+    "coord": {
+      "lat": -15.81667,
+      "lon": -67.550003
+    },
+    "name": "Caranavi"
+  },
+  {
+    "country": "BO",
+    "id": 3905658,
+    "coord": {
+      "lat": -16.366671,
+      "lon": -60.950001
+    },
+    "name": "San Ignacio de Velasco"
+  },
+  {
+    "country": "BO",
+    "id": 3910901,
+    "coord": {
+      "lat": -18.116671,
+      "lon": -63.933331
+    },
+    "name": "Mairana"
+  },
+  {
+    "country": "BO",
+    "id": 3922735,
+    "coord": {
+      "lat": -21.966669,
+      "lon": -63.683331
+    },
+    "name": "Caipitandi"
+  },
+  {
+    "country": "BO",
+    "id": 3901409,
+    "coord": {
+      "lat": -17.65,
+      "lon": -63.133331
+    },
+    "name": "Viro Viro"
+  },
+  {
+    "country": "BO",
+    "id": 3924362,
+    "coord": {
+      "lat": -21.283331,
+      "lon": -63.433331
+    },
+    "name": "Aguilar"
+  },
+  {
+    "country": "BO",
+    "id": 3901869,
+    "coord": {
+      "lat": -14.81667,
+      "lon": -64.900002
+    },
+    "name": "Vallejos"
+  },
+  {
+    "country": "BO",
+    "id": 3903320,
+    "coord": {
+      "lat": -21.53549,
+      "lon": -64.729561
+    },
+    "name": "Tarija"
+  },
+  {
+    "country": "BO",
+    "id": 3970031,
+    "coord": {
+      "lat": -19.003611,
+      "lon": -65.290283
+    },
+    "name": "Villa Madrecita"
+  },
+  {
+    "country": "BO",
+    "id": 3908528,
+    "coord": {
+      "lat": -14.96667,
+      "lon": -65.599998
+    },
+    "name": "Paraíso"
+  },
+  {
+    "country": "BO",
+    "id": 3919413,
+    "coord": {
+      "lat": -16.383329,
+      "lon": -60.950001
+    },
+    "name": "Comunidad Sutunuquiña"
+  },
+  {
+    "country": "BO",
+    "id": 3920245,
+    "coord": {
+      "lat": -14.88333,
+      "lon": -66.75
+    },
+    "name": "Chulumani"
+  },
+  {
+    "country": "BO",
+    "id": 3905007,
+    "coord": {
+      "lat": -13.75,
+      "lon": -65.433327
+    },
+    "name": "Santa Ana de Yacuma"
+  },
+  {
+    "country": "BO",
+    "id": 3906478,
+    "coord": {
+      "lat": -14.31667,
+      "lon": -67.383331
+    },
+    "name": "Reyes"
+  },
+  {
+    "country": "BO",
+    "id": 3908387,
+    "coord": {
+      "lat": -14.43333,
+      "lon": -67.51667
+    },
+    "name": "Paso"
+  },
+  {
+    "country": "BO",
+    "id": 3444176,
+    "coord": {
+      "lat": -18.33333,
+      "lon": -59.75
+    },
+    "name": "Robore"
+  },
+  {
+    "country": "BO",
+    "id": 3916919,
+    "coord": {
+      "lat": -19.551109,
+      "lon": -65.720558
+    },
+    "name": "Estancia Kharachi Pampa"
+  },
+  {
+    "country": "BO",
+    "id": 3901433,
+    "coord": {
+      "lat": -17.966669,
+      "lon": -67.066673
+    },
+    "name": "Vinto"
+  },
+  {
+    "country": "BO",
+    "id": 3915491,
+    "coord": {
+      "lat": -13.28333,
+      "lon": -64.166672
+    },
+    "name": "Guachara"
+  },
+  {
+    "country": "BO",
+    "id": 6254880,
+    "coord": {
+      "lat": -16.528681,
+      "lon": -68.187363
+    },
+    "name": "Villa Pacajes"
+  },
+  {
+    "country": "BO",
+    "id": 3918423,
+    "coord": {
+      "lat": -16.23333,
+      "lon": -62.433331
+    },
+    "name": "Dolorosa"
+  },
+  {
+    "country": "BO",
+    "id": 3909011,
+    "coord": {
+      "lat": -13.06667,
+      "lon": -64.866669
+    },
+    "name": "Pailón"
+  },
+  {
+    "country": "BO",
+    "id": 3905542,
+    "coord": {
+      "lat": -17.85,
+      "lon": -60.75
+    },
+    "name": "San José de Chiquitos"
+  },
+  {
+    "country": "BO",
+    "id": 3904906,
+    "coord": {
+      "lat": -17.799999,
+      "lon": -63.166672
+    },
+    "name": "Santa Cruz de la Sierra"
+  },
+  {
+    "country": "BO",
+    "id": 7020913,
+    "coord": {
+      "lat": -17.802771,
+      "lon": -63.17049
+    },
+    "name": "El Trompillo"
+  },
+  {
+    "country": "BO",
+    "id": 3919353,
+    "coord": {
+      "lat": -16.133329,
+      "lon": -62.033329
+    },
+    "name": "Concepción"
+  },
+  {
+    "country": "BO",
+    "id": 3907366,
+    "coord": {
+      "lat": -17.433331,
+      "lon": -66.183327
+    },
+    "name": "Pucara Chico"
+  },
+  {
+    "country": "BO",
+    "id": 3919543,
+    "coord": {
+      "lat": -17.424419,
+      "lon": -66.182716
+    },
+    "name": "Comunidad La Mayca"
+  },
+  {
+    "country": "BO",
+    "id": 3920422,
+    "coord": {
+      "lat": -20.01667,
+      "lon": -63.533329
+    },
+    "name": "Choreti"
+  },
+  {
+    "country": "BO",
+    "id": 3923644,
+    "coord": {
+      "lat": -15.7,
+      "lon": -63.083328
+    },
+    "name": "Ascension"
+  },
+  {
+    "country": "BO",
+    "id": 3923800,
+    "coord": {
+      "lat": -14.71667,
+      "lon": -68.416672
+    },
+    "name": "Apolo"
+  },
+  {
+    "country": "BO",
+    "id": 3444091,
+    "coord": {
+      "lat": -18.283331,
+      "lon": -59.816669
+    },
+    "name": "San Pedro"
+  },
+  {
+    "country": "BO",
+    "id": 3444105,
+    "coord": {
+      "lat": -16.366671,
+      "lon": -58.400002
+    },
+    "name": "San Matias"
+  },
+  {
+    "country": "BO",
+    "id": 3444201,
+    "coord": {
+      "lat": -17.783331,
+      "lon": -57.76667
+    },
+    "name": "Puerto Quijarro"
+  },
+  {
+    "country": "BO",
+    "id": 3901146,
+    "coord": {
+      "lat": -19.16667,
+      "lon": -64.916672
+    },
+    "name": "Provincia Yamparáez"
+  },
+  {
+    "country": "BO",
+    "id": 6621221,
+    "coord": {
+      "lat": -19.251459,
+      "lon": -65.077713
+    },
+    "name": "Yamparáez"
+  },
+  {
+    "country": "BO",
+    "id": 3901147,
+    "coord": {
+      "lat": -19.18722,
+      "lon": -65.125832
+    },
+    "name": "Yamparaez"
+  },
+  {
+    "country": "BO",
+    "id": 3901485,
+    "coord": {
+      "lat": -16.950001,
+      "lon": -67.550003
+    },
+    "name": "Viloco"
+  },
+  {
+    "country": "BO",
+    "id": 3923228,
+    "coord": {
+      "lat": -18.91667,
+      "lon": -64.333328
+    },
+    "name": "Provincia Belisario Boeto"
+  },
+  {
+    "country": "BO",
+    "id": 6621218,
+    "coord": {
+      "lat": -19.027,
+      "lon": -64.305237
+    },
+    "name": "Villa Serrano"
+  },
+  {
+    "country": "BO",
+    "id": 3901519,
+    "coord": {
+      "lat": -19.116671,
+      "lon": -64.333328
+    },
+    "name": "Villa Serrano"
+  },
+  {
+    "country": "BO",
+    "id": 3909247,
+    "coord": {
+      "lat": -18.66667,
+      "lon": -65.166672
+    },
+    "name": "Provincia Oropeza"
+  },
+  {
+    "country": "BO",
+    "id": 6621222,
+    "coord": {
+      "lat": -19.233311,
+      "lon": -65.25679
+    },
+    "name": "Yotala"
+  },
+  {
+    "country": "BO",
+    "id": 6621225,
+    "coord": {
+      "lat": -19.19977,
+      "lon": -65.269897
+    },
+    "name": "Yotala"
+  },
+  {
+    "country": "BO",
+    "id": 3901539,
+    "coord": {
+      "lat": -19.158609,
+      "lon": -65.264168
+    },
+    "name": "Yotala"
+  },
+  {
+    "country": "BO",
+    "id": 3901874,
+    "coord": {
+      "lat": -18.489719,
+      "lon": -64.106941
+    },
+    "name": "Vallegrande"
+  },
+  {
+    "country": "BO",
+    "id": 3902523,
+    "coord": {
+      "lat": -17.72662,
+      "lon": -65.193199
+    },
+    "name": "Totora"
+  },
+  {
+    "country": "BO",
+    "id": 3902667,
+    "coord": {
+      "lat": -19.5,
+      "lon": -64.166672
+    },
+    "name": "Provincia Tomina"
+  },
+  {
+    "country": "BO",
+    "id": 6621214,
+    "coord": {
+      "lat": -19.203461,
+      "lon": -64.523163
+    },
+    "name": "Tomina"
+  },
+  {
+    "country": "BO",
+    "id": 6621235,
+    "coord": {
+      "lat": -19.203461,
+      "lon": -64.523163
+    },
+    "name": "Tomina"
+  },
+  {
+    "country": "BO",
+    "id": 3902668,
+    "coord": {
+      "lat": -19.183331,
+      "lon": -64.533333
+    },
+    "name": "Tomina"
+  },
+  {
+    "country": "BO",
+    "id": 3902685,
+    "coord": {
+      "lat": -17.58333,
+      "lon": -67.51667
+    },
+    "name": "Tomas Barron"
+  },
+  {
+    "country": "BO",
+    "id": 3903046,
+    "coord": {
+      "lat": -16.549999,
+      "lon": -68.699997
+    },
+    "name": "Tiahuanaco"
+  },
+  {
+    "country": "BO",
+    "id": 6621281,
+    "coord": {
+      "lat": -19.166759,
+      "lon": -64.890419
+    },
+    "name": "Tarabuco"
+  },
+  {
+    "country": "BO",
+    "id": 3903391,
+    "coord": {
+      "lat": -19.16667,
+      "lon": -64.916672
+    },
+    "name": "Tarabuco"
+  },
+  {
+    "country": "BO",
+    "id": 6621309,
+    "coord": {
+      "lat": -19.31962,
+      "lon": -65.025383
+    },
+    "name": "Sotomayor"
+  },
+  {
+    "country": "BO",
+    "id": 3904020,
+    "coord": {
+      "lat": -19.34,
+      "lon": -64.999168
+    },
+    "name": "Sotomayor"
+  },
+  {
+    "country": "BO",
+    "id": 3904043,
+    "coord": {
+      "lat": -15.76667,
+      "lon": -68.633331
+    },
+    "name": "Sorata"
+  },
+  {
+    "country": "BO",
+    "id": 3904221,
+    "coord": {
+      "lat": -17.450001,
+      "lon": -66.383331
+    },
+    "name": "Sipe Sipe"
+  },
+  {
+    "country": "BO",
+    "id": 3911048,
+    "coord": {
+      "lat": -20.66667,
+      "lon": -63.5
+    },
+    "name": "Provincia Luis Calvo"
+  },
+  {
+    "country": "BO",
+    "id": 6621219,
+    "coord": {
+      "lat": -19.9655,
+      "lon": -63.780609
+    },
+    "name": "Villa Vaca Guzmán (Muyupampa)"
+  },
+  {
+    "country": "BO",
+    "id": 6621245,
+    "coord": {
+      "lat": -19.91786,
+      "lon": -63.749722
+    },
+    "name": "Sapirangui"
+  },
+  {
+    "country": "BO",
+    "id": 3904599,
+    "coord": {
+      "lat": -19.933331,
+      "lon": -63.783329
+    },
+    "name": "Sapirangui"
+  },
+  {
+    "country": "BO",
+    "id": 3904793,
+    "coord": {
+      "lat": -14.16667,
+      "lon": -66.883331
+    },
+    "name": "Santa Rosa"
+  },
+  {
+    "country": "BO",
+    "id": 3904809,
+    "coord": {
+      "lat": -17.966669,
+      "lon": -63.349998
+    },
+    "name": "Santa Rita"
+  },
+  {
+    "country": "BO",
+    "id": 3909495,
+    "coord": {
+      "lat": -20.33333,
+      "lon": -65
+    },
+    "name": "Provincia Nor Cinti"
+  },
+  {
+    "country": "BO",
+    "id": 6621201,
+    "coord": {
+      "lat": -20.600969,
+      "lon": -64.7463
+    },
+    "name": "Incahuasi"
+  },
+  {
+    "country": "BO",
+    "id": 6621298,
+    "coord": {
+      "lat": -20.48008,
+      "lon": -64.758453
+    },
+    "name": "Santa Elena"
+  },
+  {
+    "country": "BO",
+    "id": 3904890,
+    "coord": {
+      "lat": -20.549999,
+      "lon": -64.783333
+    },
+    "name": "Santa Elena"
+  },
+  {
+    "country": "BO",
+    "id": 3904956,
+    "coord": {
+      "lat": -20.91667,
+      "lon": -66.050003
+    },
+    "name": "Santa Barbara"
+  },
+  {
+    "country": "BO",
+    "id": 3905088,
+    "coord": {
+      "lat": -13.28333,
+      "lon": -64.716667
+    },
+    "name": "San Ramon"
+  },
+  {
+    "country": "BO",
+    "id": 3923437,
+    "coord": {
+      "lat": -20,
+      "lon": -64.5
+    },
+    "name": "Provincia Azurduy"
+  },
+  {
+    "country": "BO",
+    "id": 6621213,
+    "coord": {
+      "lat": -19.76008,
+      "lon": -64.589981
+    },
+    "name": "Tarvita (Villa Orías)"
+  },
+  {
+    "country": "BO",
+    "id": 6621273,
+    "coord": {
+      "lat": -19.619249,
+      "lon": -64.462502
+    },
+    "name": "San Pedro"
+  },
+  {
+    "country": "BO",
+    "id": 3905151,
+    "coord": {
+      "lat": -19.616671,
+      "lon": -64.5
+    },
+    "name": "San Pedro"
+  },
+  {
+    "country": "BO",
+    "id": 3905159,
+    "coord": {
+      "lat": -16.237169,
+      "lon": -68.850632
+    },
+    "name": "San Pedro"
+  },
+  {
+    "country": "BO",
+    "id": 3905206,
+    "coord": {
+      "lat": -16.216669,
+      "lon": -68.833328
+    },
+    "name": "San Pablo"
+  },
+  {
+    "country": "BO",
+    "id": 3905453,
+    "coord": {
+      "lat": -17.783331,
+      "lon": -62.866669
+    },
+    "name": "San Julian"
+  },
+  {
+    "country": "BO",
+    "id": 3905462,
+    "coord": {
+      "lat": -17.48333,
+      "lon": -63.700001
+    },
+    "name": "San Juan del Surutu"
+  },
+  {
+    "country": "BO",
+    "id": 3903977,
+    "coord": {
+      "lat": -20.91667,
+      "lon": -64.916672
+    },
+    "name": "Provincia Sud Cinti"
+  },
+  {
+    "country": "BO",
+    "id": 6621202,
+    "coord": {
+      "lat": -21.28397,
+      "lon": -65.272148
+    },
+    "name": "Las Carreras"
+  },
+  {
+    "country": "BO",
+    "id": 6621286,
+    "coord": {
+      "lat": -21.22394,
+      "lon": -65.212952
+    },
+    "name": "San Juan"
+  },
+  {
+    "country": "BO",
+    "id": 3905498,
+    "coord": {
+      "lat": -21.26667,
+      "lon": -65.300003
+    },
+    "name": "San Juan"
+  },
+  {
+    "country": "BO",
+    "id": 6621197,
+    "coord": {
+      "lat": -20.770149,
+      "lon": -64.679672
+    },
+    "name": "Culpina"
+  },
+  {
+    "country": "BO",
+    "id": 6621230,
+    "coord": {
+      "lat": -20.75375,
+      "lon": -64.681183
+    },
+    "name": "San Francisco"
+  },
+  {
+    "country": "BO",
+    "id": 3905705,
+    "coord": {
+      "lat": -20.716669,
+      "lon": -64.699997
+    },
+    "name": "San Francisco"
+  },
+  {
+    "country": "BO",
+    "id": 3905775,
+    "coord": {
+      "lat": -17.4,
+      "lon": -63.75
+    },
+    "name": "San Carlos"
+  },
+  {
+    "country": "BO",
+    "id": 3905951,
+    "coord": {
+      "lat": -18.15,
+      "lon": -63.866669
+    },
+    "name": "Samaipata"
+  },
+  {
+    "country": "BO",
+    "id": 6621312,
+    "coord": {
+      "lat": -20.904699,
+      "lon": -64.905724
+    },
+    "name": "Salitre"
+  },
+  {
+    "country": "BO",
+    "id": 3906025,
+    "coord": {
+      "lat": -20.883329,
+      "lon": -64.916672
+    },
+    "name": "Salitre"
+  },
+  {
+    "country": "BO",
+    "id": 3906209,
+    "coord": {
+      "lat": -14.44125,
+      "lon": -67.527809
+    },
+    "name": "Rurrenabaque"
+  },
+  {
+    "country": "BO",
+    "id": 3915235,
+    "coord": {
+      "lat": -20.16667,
+      "lon": -64.25
+    },
+    "name": "Provincia Hernando Siles"
+  },
+  {
+    "country": "BO",
+    "id": 6621199,
+    "coord": {
+      "lat": -20.48473,
+      "lon": -64.0289
+    },
+    "name": "Huacareta"
+  },
+  {
+    "country": "BO",
+    "id": 6621305,
+    "coord": {
+      "lat": -20.573231,
+      "lon": -63.88953
+    },
+    "name": "Rosario del Ingre"
+  },
+  {
+    "country": "BO",
+    "id": 3906265,
+    "coord": {
+      "lat": -20.58333,
+      "lon": -63.900002
+    },
+    "name": "Rosario del Ingre"
+  },
+  {
+    "country": "BO",
+    "id": 3906765,
+    "coord": {
+      "lat": -16.98333,
+      "lon": -67.216667
+    },
+    "name": "Quime"
+  },
+  {
+    "country": "BO",
+    "id": 6621303,
+    "coord": {
+      "lat": -19.25407,
+      "lon": -65.187271
+    },
+    "name": "Pulqui"
+  },
+  {
+    "country": "BO",
+    "id": 3907106,
+    "coord": {
+      "lat": -19.23333,
+      "lon": -65.216667
+    },
+    "name": "Pulqui"
+  },
+  {
+    "country": "BO",
+    "id": 3907159,
+    "coord": {
+      "lat": -17.65,
+      "lon": -62.799999
+    },
+    "name": "Puesto de Pailas"
+  },
+  {
+    "country": "BO",
+    "id": 3900772,
+    "coord": {
+      "lat": -18.91667,
+      "lon": -64.833328
+    },
+    "name": "Provincia Zudáñez"
+  },
+  {
+    "country": "BO",
+    "id": 6621208,
+    "coord": {
+      "lat": -18.893221,
+      "lon": -64.9506
+    },
+    "name": "Presto"
+  },
+  {
+    "country": "BO",
+    "id": 6621306,
+    "coord": {
+      "lat": -18.94154,
+      "lon": -64.934479
+    },
+    "name": "Presto"
+  },
+  {
+    "country": "BO",
+    "id": 3907484,
+    "coord": {
+      "lat": -18.92944,
+      "lon": -64.939171
+    },
+    "name": "Presto"
+  },
+  {
+    "country": "BO",
+    "id": 6621211,
+    "coord": {
+      "lat": -18.90659,
+      "lon": -65.226768
+    },
+    "name": "Sucre (Capital)"
+  },
+  {
+    "country": "BO",
+    "id": 6621285,
+    "coord": {
+      "lat": -19.006571,
+      "lon": -65.531883
+    },
+    "name": "Potolo"
+  },
+  {
+    "country": "BO",
+    "id": 3907589,
+    "coord": {
+      "lat": -19.00556,
+      "lon": -65.52861
+    },
+    "name": "Potolo"
+  },
+  {
+    "country": "BO",
+    "id": 3907646,
+    "coord": {
+      "lat": -17.35,
+      "lon": -63.400002
+    },
+    "name": "Portachuelo"
+  },
+  {
+    "country": "BO",
+    "id": 3907685,
+    "coord": {
+      "lat": -18.366671,
+      "lon": -66.966667
+    },
+    "name": "Poopo"
+  },
+  {
+    "country": "BO",
+    "id": 6621207,
+    "coord": {
+      "lat": -18.861179,
+      "lon": -65.357491
+    },
+    "name": "Poroma"
+  },
+  {
+    "country": "BO",
+    "id": 6621239,
+    "coord": {
+      "lat": -18.759609,
+      "lon": -65.368561
+    },
+    "name": "Pocpo"
+  },
+  {
+    "country": "BO",
+    "id": 3907753,
+    "coord": {
+      "lat": -18.83333,
+      "lon": -65.366669
+    },
+    "name": "Pocpo"
+  },
+  {
+    "country": "BO",
+    "id": 6621301,
+    "coord": {
+      "lat": -18.731661,
+      "lon": -65.403923
+    },
+    "name": "Piocera"
+  },
+  {
+    "country": "BO",
+    "id": 3907892,
+    "coord": {
+      "lat": -18.75,
+      "lon": -65.400002
+    },
+    "name": "Piocera"
+  },
+  {
+    "country": "BO",
+    "id": 6621249,
+    "coord": {
+      "lat": -20.902121,
+      "lon": -64.740341
+    },
+    "name": "Pilaya"
+  },
+  {
+    "country": "BO",
+    "id": 3907954,
+    "coord": {
+      "lat": -20.950001,
+      "lon": -64.75
+    },
+    "name": "Pilaya"
+  },
+  {
+    "country": "BO",
+    "id": 3908339,
+    "coord": {
+      "lat": -17.23333,
+      "lon": -67.916672
+    },
+    "name": "Patacamaya"
+  },
+  {
+    "country": "BO",
+    "id": 3909010,
+    "coord": {
+      "lat": -17.65,
+      "lon": -62.75
+    },
+    "name": "Pailon"
+  },
+  {
+    "country": "BO",
+    "id": 3909038,
+    "coord": {
+      "lat": -19.299999,
+      "lon": -64.300003
+    },
+    "name": "Padilla"
+  },
+  {
+    "country": "BO",
+    "id": 3909360,
+    "coord": {
+      "lat": -17.23333,
+      "lon": -62.816669
+    },
+    "name": "Okinawa Numero Uno"
+  },
+  {
+    "country": "BO",
+    "id": 3910094,
+    "coord": {
+      "lat": -19.816669,
+      "lon": -63.98333
+    },
+    "name": "Monteagudo"
+  },
+  {
+    "country": "BO",
+    "id": 6621247,
+    "coord": {
+      "lat": -18.905809,
+      "lon": -65.140068
+    },
+    "name": "Mojotoro"
+  },
+  {
+    "country": "BO",
+    "id": 3910203,
+    "coord": {
+      "lat": -18.91667,
+      "lon": -65.066673
+    },
+    "name": "Mojotoro"
+  },
+  {
+    "country": "BO",
+    "id": 6621204,
+    "coord": {
+      "lat": -18.822081,
+      "lon": -64.626747
+    },
+    "name": "Mojocoya"
+  },
+  {
+    "country": "BO",
+    "id": 6621308,
+    "coord": {
+      "lat": -18.822081,
+      "lon": -64.626747
+    },
+    "name": "Mojocoya"
+  },
+  {
+    "country": "BO",
+    "id": 3910244,
+    "coord": {
+      "lat": -18.76333,
+      "lon": -64.621391
+    },
+    "name": "Mojocoya"
+  },
+  {
+    "country": "BO",
+    "id": 3910343,
+    "coord": {
+      "lat": -17.116671,
+      "lon": -63.23333
+    },
+    "name": "Mineros"
+  },
+  {
+    "country": "BO",
+    "id": 6621237,
+    "coord": {
+      "lat": -19.04586,
+      "lon": -65.429398
+    },
+    "name": "Maragua"
+  },
+  {
+    "country": "BO",
+    "id": 3910743,
+    "coord": {
+      "lat": -19.04611,
+      "lon": -65.428612
+    },
+    "name": "Maragua"
+  },
+  {
+    "country": "BO",
+    "id": 3910758,
+    "coord": {
+      "lat": -15.25,
+      "lon": -68.166672
+    },
+    "name": "Mapiri"
+  },
+  {
+    "country": "BO",
+    "id": 3910971,
+    "coord": {
+      "lat": -18.16667,
+      "lon": -67.033333
+    },
+    "name": "Machacamarca"
+  },
+  {
+    "country": "BO",
+    "id": 3911120,
+    "coord": {
+      "lat": -17.73333,
+      "lon": -63.433331
+    },
+    "name": "Los Negros"
+  },
+  {
+    "country": "BO",
+    "id": 6621195,
+    "coord": {
+      "lat": -20.61503,
+      "lon": -65.192329
+    },
+    "name": "Camargo"
+  },
+  {
+    "country": "BO",
+    "id": 6621244,
+    "coord": {
+      "lat": -20.691481,
+      "lon": -65.318382
+    },
+    "name": "Lintaca"
+  },
+  {
+    "country": "BO",
+    "id": 3911484,
+    "coord": {
+      "lat": -20.76667,
+      "lon": -65.333328
+    },
+    "name": "Lintaca"
+  },
+  {
+    "country": "BO",
+    "id": 3911512,
+    "coord": {
+      "lat": -18.01667,
+      "lon": -63.400002
+    },
+    "name": "Limoncito"
+  },
+  {
+    "country": "BO",
+    "id": 6621316,
+    "coord": {
+      "lat": -21.27561,
+      "lon": -65.295776
+    },
+    "name": "Las Carreras"
+  },
+  {
+    "country": "BO",
+    "id": 3911814,
+    "coord": {
+      "lat": -21.25,
+      "lon": -65.283333
+    },
+    "name": "Las Carreras"
+  },
+  {
+    "country": "BO",
+    "id": 3911815,
+    "coord": {
+      "lat": -21.216669,
+      "lon": -65.283333
+    },
+    "name": "Las Carreras"
+  },
+  {
+    "country": "BO",
+    "id": 3912119,
+    "coord": {
+      "lat": -17.366671,
+      "lon": -67.666672
+    },
+    "name": "Lahuachaca"
+  },
+  {
+    "country": "BO",
+    "id": 6621229,
+    "coord": {
+      "lat": -20.92399,
+      "lon": -64.880608
+    },
+    "name": "La Cueva"
+  },
+  {
+    "country": "BO",
+    "id": 3912300,
+    "coord": {
+      "lat": -20.933331,
+      "lon": -64.900002
+    },
+    "name": "La Cueva"
+  },
+  {
+    "country": "BO",
+    "id": 3912418,
+    "coord": {
+      "lat": -17.549999,
+      "lon": -63.216671
+    },
+    "name": "La Belgica"
+  },
+  {
+    "country": "BO",
+    "id": 3913271,
+    "coord": {
+      "lat": -18.049999,
+      "lon": -63.433331
+    },
+    "name": "Jorochito"
+  },
+  {
+    "country": "BO",
+    "id": 3913985,
+    "coord": {
+      "lat": -16.01667,
+      "lon": -69.150002
+    },
+    "name": "Isla del Sol"
+  },
+  {
+    "country": "BO",
+    "id": 3914084,
+    "coord": {
+      "lat": -17.716669,
+      "lon": -66.26667
+    },
+    "name": "Irpa Irpa"
+  },
+  {
+    "country": "BO",
+    "id": 6621228,
+    "coord": {
+      "lat": -19.209061,
+      "lon": -65.318878
+    },
+    "name": "Huayllas"
+  },
+  {
+    "country": "BO",
+    "id": 3914641,
+    "coord": {
+      "lat": -19.16972,
+      "lon": -65.326111
+    },
+    "name": "Huayllas"
+  },
+  {
+    "country": "BO",
+    "id": 3914715,
+    "coord": {
+      "lat": -16.200001,
+      "lon": -68.683327
+    },
+    "name": "Huatajata"
+  },
+  {
+    "country": "BO",
+    "id": 6621257,
+    "coord": {
+      "lat": -18.947371,
+      "lon": -65.216988
+    },
+    "name": "Huata"
+  },
+  {
+    "country": "BO",
+    "id": 3914720,
+    "coord": {
+      "lat": -19.01667,
+      "lon": -65.25
+    },
+    "name": "Huata"
+  },
+  {
+    "country": "BO",
+    "id": 6621289,
+    "coord": {
+      "lat": -20.56497,
+      "lon": -64.54644
+    },
+    "name": "Huajlaya"
+  },
+  {
+    "country": "BO",
+    "id": 3914988,
+    "coord": {
+      "lat": -20.6,
+      "lon": -64.550003
+    },
+    "name": "Huajlaya"
+  },
+  {
+    "country": "BO",
+    "id": 3917939,
+    "coord": {
+      "lat": -21.533331,
+      "lon": -64.199997
+    },
+    "name": "Entre Rios"
+  },
+  {
+    "country": "BO",
+    "id": 6621294,
+    "coord": {
+      "lat": -20.83017,
+      "lon": -64.892807
+    },
+    "name": "Culpina"
+  },
+  {
+    "country": "BO",
+    "id": 3918678,
+    "coord": {
+      "lat": -20.83333,
+      "lon": -64.966667
+    },
+    "name": "Culpina"
+  },
+  {
+    "country": "BO",
+    "id": 3919085,
+    "coord": {
+      "lat": -16.18889,
+      "lon": -67.727127
+    },
+    "name": "Coroico"
+  },
+  {
+    "country": "BO",
+    "id": 3919097,
+    "coord": {
+      "lat": -16.299999,
+      "lon": -67.599998
+    },
+    "name": "Coripata"
+  },
+  {
+    "country": "BO",
+    "id": 3919352,
+    "coord": {
+      "lat": -16.433331,
+      "lon": -60.900002
+    },
+    "name": "Concepcion"
+  },
+  {
+    "country": "BO",
+    "id": 3919703,
+    "coord": {
+      "lat": -17.9,
+      "lon": -64.48333
+    },
+    "name": "Comarapa"
+  },
+  {
+    "country": "BO",
+    "id": 3919715,
+    "coord": {
+      "lat": -17.41667,
+      "lon": -67.133331
+    },
+    "name": "Colquiri"
+  },
+  {
+    "country": "BO",
+    "id": 3919720,
+    "coord": {
+      "lat": -18.66667,
+      "lon": -66.01667
+    },
+    "name": "Colquechaca"
+  },
+  {
+    "country": "BO",
+    "id": 3919813,
+    "coord": {
+      "lat": -17.35,
+      "lon": -65.866669
+    },
+    "name": "Colomi"
+  },
+  {
+    "country": "BO",
+    "id": 3919884,
+    "coord": {
+      "lat": -20.299999,
+      "lon": -66.933327
+    },
+    "name": "Colchani"
+  },
+  {
+    "country": "BO",
+    "id": 3919886,
+    "coord": {
+      "lat": -17.316669,
+      "lon": -66.716667
+    },
+    "name": "Colchani"
+  },
+  {
+    "country": "BO",
+    "id": 3920016,
+    "coord": {
+      "lat": -17.6,
+      "lon": -65.933327
+    },
+    "name": "Cliza"
+  },
+  {
+    "country": "BO",
+    "id": 6621248,
+    "coord": {
+      "lat": -18.756929,
+      "lon": -65.142647
+    },
+    "name": "Chuqui Chuqui"
+  },
+  {
+    "country": "BO",
+    "id": 3920185,
+    "coord": {
+      "lat": -18.816669,
+      "lon": -65.066673
+    },
+    "name": "Chuqui Chuqui"
+  },
+  {
+    "country": "BO",
+    "id": 3920244,
+    "coord": {
+      "lat": -16.40962,
+      "lon": -67.52626
+    },
+    "name": "Chulumani"
+  },
+  {
+    "country": "BO",
+    "id": 3920736,
+    "coord": {
+      "lat": -16.98333,
+      "lon": -65.133331
+    },
+    "name": "Chimore"
+  },
+  {
+    "country": "BO",
+    "id": 6621302,
+    "coord": {
+      "lat": -18.989401,
+      "lon": -65.439201
+    },
+    "name": "Chaunaca"
+  },
+  {
+    "country": "BO",
+    "id": 3921062,
+    "coord": {
+      "lat": -19.01667,
+      "lon": -65.466667
+    },
+    "name": "Chaunaca"
+  },
+  {
+    "country": "BO",
+    "id": 3921141,
+    "coord": {
+      "lat": -19.799999,
+      "lon": -63.216671
+    },
+    "name": "Charagua"
+  },
+  {
+    "country": "BO",
+    "id": 3921355,
+    "coord": {
+      "lat": -18.9,
+      "lon": -66.76667
+    },
+    "name": "Challapata"
+  },
+  {
+    "country": "BO",
+    "id": 6621203,
+    "coord": {
+      "lat": -20.75485,
+      "lon": -63.2328
+    },
+    "name": "Macharetí"
+  },
+  {
+    "country": "BO",
+    "id": 6621253,
+    "coord": {
+      "lat": -20.74353,
+      "lon": -63.06842
+    },
+    "name": "Carandayti"
+  },
+  {
+    "country": "BO",
+    "id": 3922032,
+    "coord": {
+      "lat": -20.75,
+      "lon": -63.066669
+    },
+    "name": "Carandayti"
+  },
+  {
+    "country": "BO",
+    "id": 3922125,
+    "coord": {
+      "lat": -17.716669,
+      "lon": -66.23333
+    },
+    "name": "Capinota"
+  },
+  {
+    "country": "BO",
+    "id": 6621279,
+    "coord": {
+      "lat": -20.98842,
+      "lon": -63.39431
+    },
+    "name": "Camatindi"
+  },
+  {
+    "country": "BO",
+    "id": 3922441,
+    "coord": {
+      "lat": -20.98333,
+      "lon": -63.433331
+    },
+    "name": "Camatindi"
+  },
+  {
+    "country": "BO",
+    "id": 6621283,
+    "coord": {
+      "lat": -20.594179,
+      "lon": -65.157951
+    },
+    "name": "Camargo"
+  },
+  {
+    "country": "BO",
+    "id": 3922451,
+    "coord": {
+      "lat": -20.65,
+      "lon": -65.216667
+    },
+    "name": "Camargo"
+  },
+  {
+    "country": "BO",
+    "id": 3922965,
+    "coord": {
+      "lat": -17.450001,
+      "lon": -63.666672
+    },
+    "name": "Buena Vista"
+  },
+  {
+    "country": "BO",
+    "id": 3923015,
+    "coord": {
+      "lat": -20.41667,
+      "lon": -63.283329
+    },
+    "name": "Boyuibe"
+  },
+  {
+    "country": "BO",
+    "id": 3923145,
+    "coord": {
+      "lat": -19.55056,
+      "lon": -65.453331
+    },
+    "name": "Betanzos"
+  },
+  {
+    "country": "BO",
+    "id": 6621216,
+    "coord": {
+      "lat": -20.09968,
+      "lon": -64.472504
+    },
+    "name": "Villa Azurduy"
+  },
+  {
+    "country": "BO",
+    "id": 6621280,
+    "coord": {
+      "lat": -20.096411,
+      "lon": -64.410973
+    },
+    "name": "Azurduy"
+  },
+  {
+    "country": "BO",
+    "id": 3923438,
+    "coord": {
+      "lat": -20.1,
+      "lon": -64.416672
+    },
+    "name": "Azurduy"
+  },
+  {
+    "country": "BO",
+    "id": 3923570,
+    "coord": {
+      "lat": -20.933331,
+      "lon": -66.23333
+    },
+    "name": "Atocha"
+  },
+  {
+    "country": "BO",
+    "id": 3923770,
+    "coord": {
+      "lat": -17.566669,
+      "lon": -65.76667
+    },
+    "name": "Arani"
+  },
+  {
+    "country": "BO",
+    "id": 3924341,
+    "coord": {
+      "lat": -18.204081,
+      "lon": -65.180679
+    },
+    "name": "Aiquile"
+  },
+  {
+    "country": "BO",
+    "id": 3924610,
+    "coord": {
+      "lat": -16.049999,
+      "lon": -68.683327
+    },
+    "name": "Achacachi"
+  },
+  {
+    "country": "BO",
+    "id": 3924668,
+    "coord": {
+      "lat": -18.83333,
+      "lon": -63.466671
+    },
+    "name": "Abapo"
+  },
+  {
+    "country": "BO",
+    "id": 3911642,
+    "coord": {
+      "lat": -17.51667,
+      "lon": -65.800003
+    },
+    "name": "La Villa"
+  },
+  {
+    "country": "BO",
+    "id": 3908895,
+    "coord": {
+      "lat": -17.700001,
+      "lon": -64.900002
+    },
+    "name": "Palca"
+  }
+
+]

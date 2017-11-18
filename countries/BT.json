@@ -1,0 +1,409 @@
+[
+
+  {
+    "country": "BT",
+    "id": 1252477,
+    "coord": {
+      "lat": 27.299999,
+      "lon": 89.533333
+    },
+    "name": "Raga"
+  },
+  {
+    "country": "BT",
+    "id": 1337285,
+    "coord": {
+      "lat": 27.25,
+      "lon": 91.23333
+    },
+    "name": "Mongar Dzongkhag"
+  },
+  {
+    "country": "BT",
+    "id": 1252514,
+    "coord": {
+      "lat": 27.27471,
+      "lon": 91.239632
+    },
+    "name": "Mongar"
+  },
+  {
+    "country": "BT",
+    "id": 1337388,
+    "coord": {
+      "lat": 26.80069,
+      "lon": 91.505188
+    },
+    "name": "Samdrup Jongkhar"
+  },
+  {
+    "country": "BT",
+    "id": 1252425,
+    "coord": {
+      "lat": 27.48333,
+      "lon": 89.616669
+    },
+    "name": "Tashi Chho Dzong"
+  },
+  {
+    "country": "BT",
+    "id": 1337286,
+    "coord": {
+      "lat": 27.51667,
+      "lon": 89.400002
+    },
+    "name": "Paro Dzongkhag"
+  },
+  {
+    "country": "BT",
+    "id": 1252490,
+    "coord": {
+      "lat": 27.4305,
+      "lon": 89.413338
+    },
+    "name": "Paro"
+  },
+  {
+    "country": "BT",
+    "id": 1337279,
+    "coord": {
+      "lat": 27,
+      "lon": 89.550003
+    },
+    "name": "Chhukha Dzongkhag"
+  },
+  {
+    "country": "BT",
+    "id": 1252484,
+    "coord": {
+      "lat": 26.851641,
+      "lon": 89.388367
+    },
+    "name": "Phuntsholing"
+  },
+  {
+    "country": "BT",
+    "id": 1252396,
+    "coord": {
+      "lat": 27.549999,
+      "lon": 90.73333
+    },
+    "name": "Wangchukling"
+  },
+  {
+    "country": "BT",
+    "id": 7303651,
+    "coord": {
+      "lat": 27.91313,
+      "lon": 89.708862
+    },
+    "name": "Gasa"
+  },
+  {
+    "country": "BT",
+    "id": 1252578,
+    "coord": {
+      "lat": 27.903721,
+      "lon": 89.726891
+    },
+    "name": "Gasa"
+  },
+  {
+    "country": "BT",
+    "id": 1252610,
+    "coord": {
+      "lat": 27.0989,
+      "lon": 89.536041
+    },
+    "name": "Tsimasham"
+  },
+  {
+    "country": "BT",
+    "id": 1252634,
+    "coord": {
+      "lat": 27.5,
+      "lon": 90.5
+    },
+    "name": "Kingdom of Bhutan"
+  },
+  {
+    "country": "BT",
+    "id": 1337293,
+    "coord": {
+      "lat": 27.6,
+      "lon": 89.583328
+    },
+    "name": "Thimphu Dzongkhag"
+  },
+  {
+    "country": "BT",
+    "id": 1252416,
+    "coord": {
+      "lat": 27.466089,
+      "lon": 89.641907
+    },
+    "name": "Thimphu"
+  },
+  {
+    "country": "BT",
+    "id": 1337295,
+    "coord": {
+      "lat": 27.5,
+      "lon": 90.133331
+    },
+    "name": "Wangdue Phodrang Dzongkhag"
+  },
+  {
+    "country": "BT",
+    "id": 1252395,
+    "coord": {
+      "lat": 27.486151,
+      "lon": 89.899147
+    },
+    "name": "Wangdue Phodrang"
+  },
+  {
+    "country": "BT",
+    "id": 1337294,
+    "coord": {
+      "lat": 27.35,
+      "lon": 90.533333
+    },
+    "name": "Trongsa Dzongkhag"
+  },
+  {
+    "country": "BT",
+    "id": 1252408,
+    "coord": {
+      "lat": 27.5026,
+      "lon": 90.507156
+    },
+    "name": "Trongsa"
+  },
+  {
+    "country": "BT",
+    "id": 7303653,
+    "coord": {
+      "lat": 27.584681,
+      "lon": 91.454659
+    },
+    "name": "Trashi Yangste"
+  },
+  {
+    "country": "BT",
+    "id": 1252422,
+    "coord": {
+      "lat": 27.611601,
+      "lon": 91.498001
+    },
+    "name": "Trashi Yangtse"
+  },
+  {
+    "country": "BT",
+    "id": 1337292,
+    "coord": {
+      "lat": 27.25,
+      "lon": 91.75
+    },
+    "name": "Trashigang Dzongkhag"
+  },
+  {
+    "country": "BT",
+    "id": 1252423,
+    "coord": {
+      "lat": 27.333099,
+      "lon": 91.554237
+    },
+    "name": "Trashigang"
+  },
+  {
+    "country": "BT",
+    "id": 1337280,
+    "coord": {
+      "lat": 27.1,
+      "lon": 89.866669
+    },
+    "name": "Dagana Dzongkhag"
+  },
+  {
+    "country": "BT",
+    "id": 1252433,
+    "coord": {
+      "lat": 27.075291,
+      "lon": 89.876877
+    },
+    "name": "Daga"
+  },
+  {
+    "country": "BT",
+    "id": 1337291,
+    "coord": {
+      "lat": 27.08333,
+      "lon": 90.849998
+    },
+    "name": "Zhemgang Dzongkhag"
+  },
+  {
+    "country": "BT",
+    "id": 1252451,
+    "coord": {
+      "lat": 27.21689,
+      "lon": 90.657944
+    },
+    "name": "Shemgang"
+  },
+  {
+    "country": "BT",
+    "id": 1337282,
+    "coord": {
+      "lat": 27.033331,
+      "lon": 90.416672
+    },
+    "name": "Sarpang Dzongkhag"
+  },
+  {
+    "country": "BT",
+    "id": 1252460,
+    "coord": {
+      "lat": 26.863951,
+      "lon": 90.267448
+    },
+    "name": "Sarpang"
+  },
+  {
+    "country": "BT",
+    "id": 1252495,
+    "coord": {
+      "lat": 27.533331,
+      "lon": 89.883331
+    },
+    "name": "Pajo"
+  },
+  {
+    "country": "BT",
+    "id": 1337284,
+    "coord": {
+      "lat": 27.75,
+      "lon": 91.183327
+    },
+    "name": "Lhuentse Dzongkhag"
+  },
+  {
+    "country": "BT",
+    "id": 1252526,
+    "coord": {
+      "lat": 27.66787,
+      "lon": 91.183929
+    },
+    "name": "Lhuentse"
+  },
+  {
+    "country": "BT",
+    "id": 1337283,
+    "coord": {
+      "lat": 27.33333,
+      "lon": 89.183327
+    },
+    "name": "Haa Dzongkhag"
+  },
+  {
+    "country": "BT",
+    "id": 1252563,
+    "coord": {
+      "lat": 27.38747,
+      "lon": 89.280739
+    },
+    "name": "Ha"
+  },
+  {
+    "country": "BT",
+    "id": 1337281,
+    "coord": {
+      "lat": 27.033331,
+      "lon": 90.166672
+    },
+    "name": "Tsirang Dzongkhag"
+  },
+  {
+    "country": "BT",
+    "id": 1252608,
+    "coord": {
+      "lat": 27.0219,
+      "lon": 90.12291
+    },
+    "name": "Tsirang"
+  },
+  {
+    "country": "BT",
+    "id": 1337278,
+    "coord": {
+      "lat": 27.700001,
+      "lon": 90.783333
+    },
+    "name": "Bumthang Dzongkhag"
+  },
+  {
+    "country": "BT",
+    "id": 1337301,
+    "coord": {
+      "lat": 27.549179,
+      "lon": 90.752502
+    },
+    "name": "Jakar"
+  },
+  {
+    "country": "BT",
+    "id": 1337356,
+    "coord": {
+      "lat": 26.866671,
+      "lon": 90.98333
+    },
+    "name": "Panbang"
+  },
+  {
+    "country": "BT",
+    "id": 1337289,
+    "coord": {
+      "lat": 27.033331,
+      "lon": 89.083328
+    },
+    "name": "Samtse Dzongkhag"
+  },
+  {
+    "country": "BT",
+    "id": 1337360,
+    "coord": {
+      "lat": 26.899031,
+      "lon": 89.09951
+    },
+    "name": "Samtse"
+  },
+  {
+    "country": "BT",
+    "id": 1337287,
+    "coord": {
+      "lat": 27,
+      "lon": 91.366669
+    },
+    "name": "Pemagatshel Dzongkhag"
+  },
+  {
+    "country": "BT",
+    "id": 1337379,
+    "coord": {
+      "lat": 27.037951,
+      "lon": 91.403053
+    },
+    "name": "Pemagatshel"
+  },
+  {
+    "country": "BT",
+    "id": 1337290,
+    "coord": {
+      "lat": 26.91667,
+      "lon": 91.616669
+    },
+    "name": "Samdrup Jongkhar Dzongkhag"
+  }
+
+]

@@ -1,0 +1,481 @@
+[
+
+  {
+    "country": "GP",
+    "id": 6690393,
+    "coord": {
+      "lat": 16.23333,
+      "lon": -61.366669
+    },
+    "name": "Sainte-Anne"
+  },
+  {
+    "country": "GP",
+    "id": 6690399,
+    "coord": {
+      "lat": 16.23333,
+      "lon": -61.51667
+    },
+    "name": "Pointe-à-Pitre"
+  },
+  {
+    "country": "GP",
+    "id": 6690387,
+    "coord": {
+      "lat": 16.26667,
+      "lon": -61.5
+    },
+    "name": "Les Abymes"
+  },
+  {
+    "country": "GP",
+    "id": 6690413,
+    "coord": {
+      "lat": 16.33333,
+      "lon": -61.333328
+    },
+    "name": "Le Moule"
+  },
+  {
+    "country": "GP",
+    "id": 6690408,
+    "coord": {
+      "lat": 16.049999,
+      "lon": -61.549999
+    },
+    "name": "Capesterre-Belle-Eau"
+  },
+  {
+    "country": "GP",
+    "id": 6690410,
+    "coord": {
+      "lat": 16,
+      "lon": -61.716671
+    },
+    "name": "Basse-Terre"
+  },
+  {
+    "country": "GP",
+    "id": 3579732,
+    "coord": {
+      "lat": 15.99854,
+      "lon": -61.725479
+    },
+    "name": "Basse-Terre"
+  },
+  {
+    "country": "GP",
+    "id": 3579759,
+    "coord": {
+      "lat": 16.24494,
+      "lon": -61.518162
+    },
+    "name": "Baimbridge"
+  },
+  {
+    "country": "GP",
+    "id": 3578598,
+    "coord": {
+      "lat": 16.33333,
+      "lon": -61.416672
+    },
+    "name": "Arrondissement de Pointe-à-Pitre"
+  },
+  {
+    "country": "GP",
+    "id": 6690400,
+    "coord": {
+      "lat": 16.383329,
+      "lon": -61.48333
+    },
+    "name": "Petit-Canal"
+  },
+  {
+    "country": "GP",
+    "id": 3578681,
+    "coord": {
+      "lat": 16.378361,
+      "lon": -61.487881
+    },
+    "name": "Petit-Canal"
+  },
+  {
+    "country": "GP",
+    "id": 3578818,
+    "coord": {
+      "lat": 16.2948,
+      "lon": -61.788391
+    },
+    "name": "Mazeau"
+  },
+  {
+    "country": "GP",
+    "id": 6690411,
+    "coord": {
+      "lat": 16.01667,
+      "lon": -61.73333
+    },
+    "name": "Baillif"
+  },
+  {
+    "country": "GP",
+    "id": 3579761,
+    "coord": {
+      "lat": 16.02018,
+      "lon": -61.746319
+    },
+    "name": "Baillif"
+  },
+  {
+    "country": "GP",
+    "id": 3579035,
+    "coord": {
+      "lat": 16.133329,
+      "lon": -61.566669
+    },
+    "name": "La Grange"
+  },
+  {
+    "country": "GP",
+    "id": 3579543,
+    "coord": {
+      "lat": 15.98149,
+      "lon": -61.680641
+    },
+    "name": "Champfleury"
+  },
+  {
+    "country": "GP",
+    "id": 3578886,
+    "coord": {
+      "lat": 16.46744,
+      "lon": -61.505211
+    },
+    "name": "Mahaudière"
+  },
+  {
+    "country": "GP",
+    "id": 3579650,
+    "coord": {
+      "lat": 16.26667,
+      "lon": -61.616669
+    },
+    "name": "Borel"
+  },
+  {
+    "country": "GP",
+    "id": 3578577,
+    "coord": {
+      "lat": 16.3242,
+      "lon": -61.323528
+    },
+    "name": "Portland"
+  },
+  {
+    "country": "GP",
+    "id": 3578914,
+    "coord": {
+      "lat": 16.26667,
+      "lon": -61.5
+    },
+    "name": "Longval"
+  },
+  {
+    "country": "GP",
+    "id": 3578592,
+    "coord": {
+      "lat": 16.244329,
+      "lon": -61.369862
+    },
+    "name": "Poirier"
+  },
+  {
+    "country": "GP",
+    "id": 6690363,
+    "coord": {
+      "lat": 16.250111,
+      "lon": -61.583691
+    },
+    "name": "Guadeloupe"
+  },
+  {
+    "country": "GP",
+    "id": 6690364,
+    "coord": {
+      "lat": 16.24988,
+      "lon": -61.583649
+    },
+    "name": "Guadeloupe"
+  },
+  {
+    "country": "GP",
+    "id": 3579731,
+    "coord": {
+      "lat": 16.16667,
+      "lon": -61.666672
+    },
+    "name": "Arrondissement de la Basse-Terre"
+  },
+  {
+    "country": "GP",
+    "id": 6690404,
+    "coord": {
+      "lat": 16.133329,
+      "lon": -61.566669
+    },
+    "name": "Goyave"
+  },
+  {
+    "country": "GP",
+    "id": 3579259,
+    "coord": {
+      "lat": 16.13517,
+      "lon": -61.574009
+    },
+    "name": "Goyave"
+  },
+  {
+    "country": "GP",
+    "id": 6690392,
+    "coord": {
+      "lat": 16.33333,
+      "lon": -61.683331
+    },
+    "name": "Sainte-Rose"
+  },
+  {
+    "country": "GP",
+    "id": 3578447,
+    "coord": {
+      "lat": 16.33238,
+      "lon": -61.697929
+    },
+    "name": "Sainte-Rose"
+  },
+  {
+    "country": "GP",
+    "id": 3578466,
+    "coord": {
+      "lat": 16.22636,
+      "lon": -61.379189
+    },
+    "name": "Sainte-Anne"
+  },
+  {
+    "country": "GP",
+    "id": 6690401,
+    "coord": {
+      "lat": 16.183331,
+      "lon": -61.583328
+    },
+    "name": "Petit-Bourg"
+  },
+  {
+    "country": "GP",
+    "id": 3578682,
+    "coord": {
+      "lat": 16.191351,
+      "lon": -61.591591
+    },
+    "name": "Petit-Bourg"
+  },
+  {
+    "country": "GP",
+    "id": 3578959,
+    "coord": {
+      "lat": 16.27095,
+      "lon": -61.504509
+    },
+    "name": "Les Abymes"
+  },
+  {
+    "country": "GP",
+    "id": 3578967,
+    "coord": {
+      "lat": 16.333151,
+      "lon": -61.347279
+    },
+    "name": "Le Moule"
+  },
+  {
+    "country": "GP",
+    "id": 6690414,
+    "coord": {
+      "lat": 16.200001,
+      "lon": -61.48333
+    },
+    "name": "Le Gosier"
+  },
+  {
+    "country": "GP",
+    "id": 3578978,
+    "coord": {
+      "lat": 16.20685,
+      "lon": -61.49329
+    },
+    "name": "Le Gosier"
+  },
+  {
+    "country": "GP",
+    "id": 3579585,
+    "coord": {
+      "lat": 16.043221,
+      "lon": -61.56596
+    },
+    "name": "Capesterre-Belle-Eau"
+  },
+  {
+    "country": "GP",
+    "id": 6690412,
+    "coord": {
+      "lat": 16.26667,
+      "lon": -61.583328
+    },
+    "name": "Baie-Mahault"
+  },
+  {
+    "country": "GP",
+    "id": 3579767,
+    "coord": {
+      "lat": 16.26738,
+      "lon": -61.58543
+    },
+    "name": "Baie-Mahault"
+  },
+  {
+    "country": "GP",
+    "id": 3579143,
+    "coord": {
+      "lat": 16.25,
+      "lon": -61.583328
+    },
+    "name": "Guadeloupe"
+  },
+  {
+    "country": "GP",
+    "id": 3578599,
+    "coord": {
+      "lat": 16.242201,
+      "lon": -61.534302
+    },
+    "name": "Pointe-a-Pitre"
+  },
+  {
+    "country": "GP",
+    "id": 3578278,
+    "coord": {
+      "lat": 16.058901,
+      "lon": -61.765949
+    },
+    "name": "Vieux-Habitants"
+  },
+  {
+    "country": "GP",
+    "id": 3578324,
+    "coord": {
+      "lat": 15.97567,
+      "lon": -61.645088
+    },
+    "name": "Trois-Rivieres"
+  },
+  {
+    "country": "GP",
+    "id": 3578351,
+    "coord": {
+      "lat": 15.85011,
+      "lon": -61.644169
+    },
+    "name": "Terre-de-Bas"
+  },
+  {
+    "country": "GP",
+    "id": 3578441,
+    "coord": {
+      "lat": 16.25264,
+      "lon": -61.274139
+    },
+    "name": "Saint-Francois"
+  },
+  {
+    "country": "GP",
+    "id": 3578467,
+    "coord": {
+      "lat": 16.02409,
+      "lon": -61.702148
+    },
+    "name": "Saint-Claude"
+  },
+  {
+    "country": "GP",
+    "id": 3578575,
+    "coord": {
+      "lat": 16.41901,
+      "lon": -61.531311
+    },
+    "name": "Port-Louis"
+  },
+  {
+    "country": "GP",
+    "id": 3578594,
+    "coord": {
+      "lat": 16.23086,
+      "lon": -61.78783
+    },
+    "name": "Pointe-Noire"
+  },
+  {
+    "country": "GP",
+    "id": 3579023,
+    "coord": {
+      "lat": 16.271049,
+      "lon": -61.631241
+    },
+    "name": "Lamentin"
+  },
+  {
+    "country": "GP",
+    "id": 3579232,
+    "coord": {
+      "lat": 16.303511,
+      "lon": -61.074059
+    },
+    "name": "Grande Anse"
+  },
+  {
+    "country": "GP",
+    "id": 3579250,
+    "coord": {
+      "lat": 15.88346,
+      "lon": -61.314838
+    },
+    "name": "Grand-Bourg"
+  },
+  {
+    "country": "GP",
+    "id": 3579267,
+    "coord": {
+      "lat": 15.99378,
+      "lon": -61.69138
+    },
+    "name": "Gourbeyre"
+  },
+  {
+    "country": "GP",
+    "id": 3579642,
+    "coord": {
+      "lat": 16.130409,
+      "lon": -61.769192
+    },
+    "name": "Bouillante"
+  },
+  {
+    "country": "GP",
+    "id": 3579789,
+    "coord": {
+      "lat": 16.472059,
+      "lon": -61.507778
+    },
+    "name": "Anse-Bertrand"
+  }
+
+]

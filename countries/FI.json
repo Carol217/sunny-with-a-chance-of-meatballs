@@ -1,0 +1,8131 @@
+[
+
+  {
+    "country": "FI",
+    "id": 658226,
+    "coord": {
+      "lat": 60.17556,
+      "lon": 24.93417
+    },
+    "name": "Helsinki"
+  },
+  {
+    "country": "FI",
+    "id": 6691859,
+    "coord": {
+      "lat": 60.18959,
+      "lon": 24.83502
+    },
+    "name": "Teekkarikylae"
+  },
+  {
+    "country": "FI",
+    "id": 650861,
+    "coord": {
+      "lat": 60.866669,
+      "lon": 26.700001
+    },
+    "name": "Kouvola"
+  },
+  {
+    "country": "FI",
+    "id": 830699,
+    "coord": {
+      "lat": 60.833328,
+      "lon": 28
+    },
+    "name": "Etelä-Karjala"
+  },
+  {
+    "country": "FI",
+    "id": 6692025,
+    "coord": {
+      "lat": 62.245831,
+      "lon": 25.80611
+    },
+    "name": "Halssilanrinne"
+  },
+  {
+    "country": "FI",
+    "id": 654121,
+    "coord": {
+      "lat": 62.299999,
+      "lon": 24.200001
+    },
+    "name": "Karhunkylä"
+  },
+  {
+    "country": "FI",
+    "id": 631566,
+    "coord": {
+      "lat": 63.083328,
+      "lon": 25.83333
+    },
+    "name": "Viitasaari"
+  },
+  {
+    "country": "FI",
+    "id": 657093,
+    "coord": {
+      "lat": 63.066669,
+      "lon": 25.533331
+    },
+    "name": "Huopanankoski"
+  },
+  {
+    "country": "FI",
+    "id": 634964,
+    "coord": {
+      "lat": 61.5,
+      "lon": 23.75
+    },
+    "name": "Tampere"
+  },
+  {
+    "country": "FI",
+    "id": 847515,
+    "coord": {
+      "lat": 60.23325,
+      "lon": 25.06745
+    },
+    "name": "Kurkimäki"
+  },
+  {
+    "country": "FI",
+    "id": 648901,
+    "coord": {
+      "lat": 61.049999,
+      "lon": 28.16667
+    },
+    "name": "Lappeenranta"
+  },
+  {
+    "country": "FI",
+    "id": 631273,
+    "coord": {
+      "lat": 60.950001,
+      "lon": 25.33333
+    },
+    "name": "Voistia"
+  },
+  {
+    "country": "FI",
+    "id": 830705,
+    "coord": {
+      "lat": 60.833328,
+      "lon": 24.25
+    },
+    "name": "Tavastland"
+  },
+  {
+    "country": "FI",
+    "id": 630737,
+    "coord": {
+      "lat": 60.833328,
+      "lon": 23.25
+    },
+    "name": "Ypäjä"
+  },
+  {
+    "country": "FI",
+    "id": 646756,
+    "coord": {
+      "lat": 60.799999,
+      "lon": 23.216669
+    },
+    "name": "Manninen"
+  },
+  {
+    "country": "FI",
+    "id": 830686,
+    "coord": {
+      "lat": 63,
+      "lon": 30
+    },
+    "name": "Norra Karelen"
+  },
+  {
+    "country": "FI",
+    "id": 639200,
+    "coord": {
+      "lat": 62.683331,
+      "lon": 29.816669
+    },
+    "name": "Ristisaari"
+  },
+  {
+    "country": "FI",
+    "id": 637220,
+    "coord": {
+      "lat": 62.783329,
+      "lon": 22.816669
+    },
+    "name": "Seinäjoki"
+  },
+  {
+    "country": "FI",
+    "id": 644790,
+    "coord": {
+      "lat": 62.799999,
+      "lon": 22.799999
+    },
+    "name": "Niemistö"
+  },
+  {
+    "country": "FI",
+    "id": 634829,
+    "coord": {
+      "lat": 60.466671,
+      "lon": 23.25
+    },
+    "name": "Tattula"
+  },
+  {
+    "country": "FI",
+    "id": 650167,
+    "coord": {
+      "lat": 62.75,
+      "lon": 23.58333
+    },
+    "name": "Kuortane"
+  },
+  {
+    "country": "FI",
+    "id": 645444,
+    "coord": {
+      "lat": 61.06551,
+      "lon": 28.31743
+    },
+    "name": "Mustola"
+  },
+  {
+    "country": "FI",
+    "id": 661226,
+    "coord": {
+      "lat": 61.500179,
+      "lon": 23.74317
+    },
+    "name": "Amuri"
+  },
+  {
+    "country": "FI",
+    "id": 653281,
+    "coord": {
+      "lat": 65.736412,
+      "lon": 24.563709
+    },
+    "name": "Kemi"
+  },
+  {
+    "country": "FI",
+    "id": 630821,
+    "coord": {
+      "lat": 65.849998,
+      "lon": 24.216669
+    },
+    "name": "Yli-Raumo"
+  },
+  {
+    "country": "FI",
+    "id": 660562,
+    "coord": {
+      "lat": 60.400002,
+      "lon": 25.66667
+    },
+    "name": "Porvoo"
+  },
+  {
+    "country": "FI",
+    "id": 633739,
+    "coord": {
+      "lat": 60.450001,
+      "lon": 25.58333
+    },
+    "name": "Tuorila"
+  },
+  {
+    "country": "FI",
+    "id": 633592,
+    "coord": {
+      "lat": 60.416672,
+      "lon": 25
+    },
+    "name": "Tuusula"
+  },
+  {
+    "country": "FI",
+    "id": 645161,
+    "coord": {
+      "lat": 60.400002,
+      "lon": 24.950001
+    },
+    "name": "Nahkela"
+  },
+  {
+    "country": "FI",
+    "id": 660951,
+    "coord": {
+      "lat": 61.25,
+      "lon": 25.58333
+    },
+    "name": "Asikkala"
+  },
+  {
+    "country": "FI",
+    "id": 660949,
+    "coord": {
+      "lat": 61.216671,
+      "lon": 25.5
+    },
+    "name": "Asikkala"
+  },
+  {
+    "country": "FI",
+    "id": 630752,
+    "coord": {
+      "lat": 61.55632,
+      "lon": 23.59606
+    },
+    "name": "Ylojarvi"
+  },
+  {
+    "country": "FI",
+    "id": 631708,
+    "coord": {
+      "lat": 60.416672,
+      "lon": 24.33333
+    },
+    "name": "Vihti"
+  },
+  {
+    "country": "FI",
+    "id": 648056,
+    "coord": {
+      "lat": 60.510319,
+      "lon": 22.46176
+    },
+    "name": "Lieto"
+  },
+  {
+    "country": "FI",
+    "id": 649919,
+    "coord": {
+      "lat": 60.900002,
+      "lon": 26.633329
+    },
+    "name": "Kuusankoski"
+  },
+  {
+    "country": "FI",
+    "id": 651299,
+    "coord": {
+      "lat": 63.114182,
+      "lon": 21.682159
+    },
+    "name": "Korsholm"
+  },
+  {
+    "country": "FI",
+    "id": 656073,
+    "coord": {
+      "lat": 60.900002,
+      "lon": 24.6
+    },
+    "name": "Janakkala"
+  },
+  {
+    "country": "FI",
+    "id": 658629,
+    "coord": {
+      "lat": 65.176537,
+      "lon": 25.352329
+    },
+    "name": "Haukipudas"
+  },
+  {
+    "country": "FI",
+    "id": 660129,
+    "coord": {
+      "lat": 60.25,
+      "lon": 24.66667
+    },
+    "name": "Espoo"
+  },
+  {
+    "country": "FI",
+    "id": 634000,
+    "coord": {
+      "lat": 60.241692,
+      "lon": 24.71357
+    },
+    "name": "Järvenperä"
+  },
+  {
+    "country": "FI",
+    "id": 631282,
+    "coord": {
+      "lat": 60.933331,
+      "lon": 26.616671
+    },
+    "name": "Voikka"
+  },
+  {
+    "country": "FI",
+    "id": 646212,
+    "coord": {
+      "lat": 61.155602,
+      "lon": 28.757311
+    },
+    "name": "Meltola"
+  },
+  {
+    "country": "FI",
+    "id": 659233,
+    "coord": {
+      "lat": 62.243271,
+      "lon": 25.792471
+    },
+    "name": "Halssila"
+  },
+  {
+    "country": "FI",
+    "id": 632056,
+    "coord": {
+      "lat": 61.476742,
+      "lon": 23.91827
+    },
+    "name": "Vehmainen"
+  },
+  {
+    "country": "FI",
+    "id": 646235,
+    "coord": {
+      "lat": 60.933331,
+      "lon": 28.133329
+    },
+    "name": "Melkkola"
+  },
+  {
+    "country": "FI",
+    "id": 641128,
+    "coord": {
+      "lat": 62.683331,
+      "lon": 22.73333
+    },
+    "name": "Pojanluoma"
+  },
+  {
+    "country": "FI",
+    "id": 655131,
+    "coord": {
+      "lat": 60.416672,
+      "lon": 22.41667
+    },
+    "name": "Kaarina"
+  },
+  {
+    "country": "FI",
+    "id": 841978,
+    "coord": {
+      "lat": 60.43528,
+      "lon": 22.49361
+    },
+    "name": "Moskalanmäki"
+  },
+  {
+    "country": "FI",
+    "id": 847436,
+    "coord": {
+      "lat": 60.237499,
+      "lon": 24.9925
+    },
+    "name": "Pihlajisto"
+  },
+  {
+    "country": "FI",
+    "id": 640758,
+    "coord": {
+      "lat": 60.244801,
+      "lon": 24.989
+    },
+    "name": "Pukinmäki"
+  },
+  {
+    "country": "FI",
+    "id": 450000,
+    "coord": {
+      "lat": 65.099998,
+      "lon": 25.4
+    },
+    "name": "Piimäperä"
+  },
+  {
+    "country": "FI",
+    "id": 660083,
+    "coord": {
+      "lat": 60.172981,
+      "lon": 24.92515
+    },
+    "name": "Etu-Töölö"
+  },
+  {
+    "country": "FI",
+    "id": 653282,
+    "coord": {
+      "lat": 65.75,
+      "lon": 24.58333
+    },
+    "name": "Kemi"
+  },
+  {
+    "country": "FI",
+    "id": 632674,
+    "coord": {
+      "lat": 61.26667,
+      "lon": 24.033331
+    },
+    "name": "Valkeakoski"
+  },
+  {
+    "country": "FI",
+    "id": 653708,
+    "coord": {
+      "lat": 60.166389,
+      "lon": 24.96917
+    },
+    "name": "Katajanokka"
+  },
+  {
+    "country": "FI",
+    "id": 847519,
+    "coord": {
+      "lat": 60.259399,
+      "lon": 25.078011
+    },
+    "name": "Jakomäki"
+  },
+  {
+    "country": "FI",
+    "id": 647662,
+    "coord": {
+      "lat": 60.666672,
+      "lon": 24.41667
+    },
+    "name": "Loppi"
+  },
+  {
+    "country": "FI",
+    "id": 637946,
+    "coord": {
+      "lat": 60.73333,
+      "lon": 24.183331
+    },
+    "name": "Salo"
+  },
+  {
+    "country": "FI",
+    "id": 632371,
+    "coord": {
+      "lat": 62.333328,
+      "lon": 27.866671
+    },
+    "name": "Varkaus"
+  },
+  {
+    "country": "FI",
+    "id": 830153,
+    "coord": {
+      "lat": 60.299999,
+      "lon": 25.16667
+    },
+    "name": "Vantaa"
+  },
+  {
+    "country": "FI",
+    "id": 633222,
+    "coord": {
+      "lat": 60.783329,
+      "lon": 21.41667
+    },
+    "name": "Uusikaupunki"
+  },
+  {
+    "country": "FI",
+    "id": 636947,
+    "coord": {
+      "lat": 63.083328,
+      "lon": 27.66667
+    },
+    "name": "Siilinjarvi"
+  },
+  {
+    "country": "FI",
+    "id": 637068,
+    "coord": {
+      "lat": 60.333328,
+      "lon": 25.25
+    },
+    "name": "Sipoo"
+  },
+  {
+    "country": "FI",
+    "id": 640125,
+    "coord": {
+      "lat": 60.5,
+      "lon": 22.16667
+    },
+    "name": "Raisio"
+  },
+  {
+    "country": "FI",
+    "id": 641491,
+    "coord": {
+      "lat": 61.450001,
+      "lon": 23.616671
+    },
+    "name": "Pirkkala"
+  },
+  {
+    "country": "FI",
+    "id": 641489,
+    "coord": {
+      "lat": 61.46125,
+      "lon": 23.63228
+    },
+    "name": "Pirkkala"
+  },
+  {
+    "country": "FI",
+    "id": 644175,
+    "coord": {
+      "lat": 60.416672,
+      "lon": 24.75
+    },
+    "name": "Nurmijärvi"
+  },
+  {
+    "country": "FI",
+    "id": 646709,
+    "coord": {
+      "lat": 60.666672,
+      "lon": 25.25
+    },
+    "name": "Mäntsälä"
+  },
+  {
+    "country": "FI",
+    "id": 647752,
+    "coord": {
+      "lat": 60.25,
+      "lon": 24.066669
+    },
+    "name": "Lojo"
+  },
+  {
+    "country": "FI",
+    "id": 648057,
+    "coord": {
+      "lat": 60.549999,
+      "lon": 22.5
+    },
+    "name": "Lieto"
+  },
+  {
+    "country": "FI",
+    "id": 648369,
+    "coord": {
+      "lat": 61.333328,
+      "lon": 23.75
+    },
+    "name": "Lempäälä"
+  },
+  {
+    "country": "FI",
+    "id": 648739,
+    "coord": {
+      "lat": 62.416672,
+      "lon": 26
+    },
+    "name": "Laukaa"
+  },
+  {
+    "country": "FI",
+    "id": 648738,
+    "coord": {
+      "lat": 62.41407,
+      "lon": 25.951941
+    },
+    "name": "Laukaa"
+  },
+  {
+    "country": "FI",
+    "id": 650950,
+    "coord": {
+      "lat": 60.466671,
+      "lon": 26.91667
+    },
+    "name": "Kotka"
+  },
+  {
+    "country": "FI",
+    "id": 651301,
+    "coord": {
+      "lat": 63.166672,
+      "lon": 21.66667
+    },
+    "name": "Mustasaari"
+  },
+  {
+    "country": "FI",
+    "id": 654137,
+    "coord": {
+      "lat": 60.51667,
+      "lon": 26.950001
+    },
+    "name": "Karhula"
+  },
+  {
+    "country": "FI",
+    "id": 654441,
+    "coord": {
+      "lat": 61.5,
+      "lon": 24.08333
+    },
+    "name": "Kangasala"
+  },
+  {
+    "country": "FI",
+    "id": 654440,
+    "coord": {
+      "lat": 61.463829,
+      "lon": 24.076019
+    },
+    "name": "Kangasala"
+  },
+  {
+    "country": "FI",
+    "id": 656074,
+    "coord": {
+      "lat": 60.833328,
+      "lon": 24.66667
+    },
+    "name": "Janakkala"
+  },
+  {
+    "country": "FI",
+    "id": 656821,
+    "coord": {
+      "lat": 63.549999,
+      "lon": 27.200001
+    },
+    "name": "Iisalmi"
+  },
+  {
+    "country": "FI",
+    "id": 657530,
+    "coord": {
+      "lat": 61.049999,
+      "lon": 25.433331
+    },
+    "name": "Hollola"
+  },
+  {
+    "country": "FI",
+    "id": 659181,
+    "coord": {
+      "lat": 61,
+      "lon": 24.450001
+    },
+    "name": "Hämeenlinna"
+  },
+  {
+    "country": "FI",
+    "id": 659936,
+    "coord": {
+      "lat": 60.783329,
+      "lon": 23.6
+    },
+    "name": "Forssa"
+  },
+  {
+    "country": "FI",
+    "id": 661164,
+    "coord": {
+      "lat": 60.683331,
+      "lon": 26.83333
+    },
+    "name": "Anjala"
+  },
+  {
+    "country": "FI",
+    "id": 7911309,
+    "coord": {
+      "lat": 60.299721,
+      "lon": 22.3004
+    },
+    "name": "Laensi-Turunmaa"
+  },
+  {
+    "country": "FI",
+    "id": 630805,
+    "coord": {
+      "lat": 62.950001,
+      "lon": 22.51667
+    },
+    "name": "Ylistaro"
+  },
+  {
+    "country": "FI",
+    "id": 630956,
+    "coord": {
+      "lat": 63.150002,
+      "lon": 22.783331
+    },
+    "name": "Yliharma"
+  },
+  {
+    "country": "FI",
+    "id": 633297,
+    "coord": {
+      "lat": 64.75,
+      "lon": 26.66667
+    },
+    "name": "Utajärvi"
+  },
+  {
+    "country": "FI",
+    "id": 635337,
+    "coord": {
+      "lat": 61.5,
+      "lon": 25.75
+    },
+    "name": "Sysmä"
+  },
+  {
+    "country": "FI",
+    "id": 635698,
+    "coord": {
+      "lat": 60.349998,
+      "lon": 23.65
+    },
+    "name": "Suomusjarvi"
+  },
+  {
+    "country": "FI",
+    "id": 636609,
+    "coord": {
+      "lat": 60.166672,
+      "lon": 24.16667
+    },
+    "name": "Siuntio"
+  },
+  {
+    "country": "FI",
+    "id": 636804,
+    "coord": {
+      "lat": 65.75,
+      "lon": 25.25
+    },
+    "name": "Simo"
+  },
+  {
+    "country": "FI",
+    "id": 637036,
+    "coord": {
+      "lat": 63.833328,
+      "lon": 24.66667
+    },
+    "name": "Sievi"
+  },
+  {
+    "country": "FI",
+    "id": 637314,
+    "coord": {
+      "lat": 61.166672,
+      "lon": 27.58333
+    },
+    "name": "Savitaipale"
+  },
+  {
+    "country": "FI",
+    "id": 638670,
+    "coord": {
+      "lat": 60.533329,
+      "lon": 22.216669
+    },
+    "name": "Rusko"
+  },
+  {
+    "country": "FI",
+    "id": 639249,
+    "coord": {
+      "lat": 61.5,
+      "lon": 27.33333
+    },
+    "name": "Ristiina"
+  },
+  {
+    "country": "FI",
+    "id": 640505,
+    "coord": {
+      "lat": 61.583328,
+      "lon": 28.25
+    },
+    "name": "Puumala"
+  },
+  {
+    "country": "FI",
+    "id": 640895,
+    "coord": {
+      "lat": 66.166672,
+      "lon": 28
+    },
+    "name": "Posio"
+  },
+  {
+    "country": "FI",
+    "id": 641863,
+    "coord": {
+      "lat": 63.25,
+      "lon": 26.75
+    },
+    "name": "Pielavesi"
+  },
+  {
+    "country": "FI",
+    "id": 642140,
+    "coord": {
+      "lat": 63.25,
+      "lon": 24.5
+    },
+    "name": "Perho"
+  },
+  {
+    "country": "FI",
+    "id": 642139,
+    "coord": {
+      "lat": 63.216671,
+      "lon": 24.41667
+    },
+    "name": "Perho"
+  },
+  {
+    "country": "FI",
+    "id": 642368,
+    "coord": {
+      "lat": 66.75,
+      "lon": 24.41667
+    },
+    "name": "Pello"
+  },
+  {
+    "country": "FI",
+    "id": 642658,
+    "coord": {
+      "lat": 62.083328,
+      "lon": 23
+    },
+    "name": "Parkano"
+  },
+  {
+    "country": "FI",
+    "id": 644159,
+    "coord": {
+      "lat": 62.833328,
+      "lon": 22.9
+    },
+    "name": "Nurmo"
+  },
+  {
+    "country": "FI",
+    "id": 644509,
+    "coord": {
+      "lat": 63.916672,
+      "lon": 25
+    },
+    "name": "Nivala"
+  },
+  {
+    "country": "FI",
+    "id": 645386,
+    "coord": {
+      "lat": 62.133331,
+      "lon": 25.66667
+    },
+    "name": "Muurame"
+  },
+  {
+    "country": "FI",
+    "id": 646179,
+    "coord": {
+      "lat": 60.48333,
+      "lon": 21.866671
+    },
+    "name": "Merimasku"
+  },
+  {
+    "country": "FI",
+    "id": 646487,
+    "coord": {
+      "lat": 60.533329,
+      "lon": 22.08333
+    },
+    "name": "Masku"
+  },
+  {
+    "country": "FI",
+    "id": 647261,
+    "coord": {
+      "lat": 61.383331,
+      "lon": 21.66667
+    },
+    "name": "Luvia"
+  },
+  {
+    "country": "FI",
+    "id": 648388,
+    "coord": {
+      "lat": 61.083328,
+      "lon": 27.83333
+    },
+    "name": "Lemi"
+  },
+  {
+    "country": "FI",
+    "id": 650806,
+    "coord": {
+      "lat": 61.166672,
+      "lon": 22.4
+    },
+    "name": "Köyliö"
+  },
+  {
+    "country": "FI",
+    "id": 660080,
+    "coord": {
+      "lat": 61.133331,
+      "lon": 22.08333
+    },
+    "name": "Eura"
+  },
+  {
+    "country": "FI",
+    "id": 652616,
+    "coord": {
+      "lat": 62.083328,
+      "lon": 30.08333
+    },
+    "name": "Kitee"
+  },
+  {
+    "country": "FI",
+    "id": 652629,
+    "coord": {
+      "lat": 60.23333,
+      "lon": 23.48333
+    },
+    "name": "Kisko"
+  },
+  {
+    "country": "FI",
+    "id": 653387,
+    "coord": {
+      "lat": 63.183331,
+      "lon": 26.366671
+    },
+    "name": "Keitele"
+  },
+  {
+    "country": "FI",
+    "id": 653627,
+    "coord": {
+      "lat": 62.433331,
+      "lon": 22.183331
+    },
+    "name": "Kauhajoki"
+  },
+  {
+    "country": "FI",
+    "id": 654838,
+    "coord": {
+      "lat": 64.25,
+      "lon": 24
+    },
+    "name": "Kalajoki"
+  },
+  {
+    "country": "FI",
+    "id": 655581,
+    "coord": {
+      "lat": 61.73333,
+      "lon": 26.116671
+    },
+    "name": "Joutsa"
+  },
+  {
+    "country": "FI",
+    "id": 656653,
+    "coord": {
+      "lat": 60.083328,
+      "lon": 24
+    },
+    "name": "Ingå"
+  },
+  {
+    "country": "FI",
+    "id": 656808,
+    "coord": {
+      "lat": 60.916672,
+      "lon": 26.41667
+    },
+    "name": "Iitti"
+  },
+  {
+    "country": "FI",
+    "id": 658582,
+    "coord": {
+      "lat": 60.75,
+      "lon": 25
+    },
+    "name": "Hausjärvi"
+  },
+  {
+    "country": "FI",
+    "id": 658759,
+    "coord": {
+      "lat": 61.583328,
+      "lon": 26.08333
+    },
+    "name": "Hartola"
+  },
+  {
+    "country": "FI",
+    "id": 659232,
+    "coord": {
+      "lat": 63.416672,
+      "lon": 24.25
+    },
+    "name": "Halsua"
+  },
+  {
+    "country": "FI",
+    "id": 659701,
+    "coord": {
+      "lat": 63.75,
+      "lon": 25.33333
+    },
+    "name": "Haapajärvi"
+  },
+  {
+    "country": "FI",
+    "id": 660874,
+    "coord": {
+      "lat": 60.616669,
+      "lon": 22.58333
+    },
+    "name": "Aura"
+  },
+  {
+    "country": "FI",
+    "id": 660932,
+    "coord": {
+      "lat": 60.533329,
+      "lon": 25.66667
+    },
+    "name": "Askola"
+  },
+  {
+    "country": "FI",
+    "id": 661897,
+    "coord": {
+      "lat": 62.583328,
+      "lon": 24.25
+    },
+    "name": "Ähtäri"
+  },
+  {
+    "country": "FI",
+    "id": 846663,
+    "coord": {
+      "lat": 60.872829,
+      "lon": 22.985121
+    },
+    "name": "Loimaan Kunta"
+  },
+  {
+    "country": "FI",
+    "id": 630953,
+    "coord": {
+      "lat": 65.416672,
+      "lon": 25.91667
+    },
+    "name": "Yli-Ii"
+  },
+  {
+    "country": "FI",
+    "id": 633413,
+    "coord": {
+      "lat": 63.599998,
+      "lon": 24.08333
+    },
+    "name": "Ullava"
+  },
+  {
+    "country": "FI",
+    "id": 635848,
+    "coord": {
+      "lat": 61.75,
+      "lon": 28.5
+    },
+    "name": "Sulkava"
+  },
+  {
+    "country": "FI",
+    "id": 636803,
+    "coord": {
+      "lat": 65.666672,
+      "lon": 24.066669
+    },
+    "name": "Simo"
+  },
+  {
+    "country": "FI",
+    "id": 637462,
+    "coord": {
+      "lat": 60.383331,
+      "lon": 23.98333
+    },
+    "name": "Saukkola"
+  },
+  {
+    "country": "FI",
+    "id": 640828,
+    "coord": {
+      "lat": 60.76667,
+      "lon": 22.66667
+    },
+    "name": "Poytya"
+  },
+  {
+    "country": "FI",
+    "id": 642078,
+    "coord": {
+      "lat": 61.5,
+      "lon": 26.5
+    },
+    "name": "Pertunmaa"
+  },
+  {
+    "country": "FI",
+    "id": 644188,
+    "coord": {
+      "lat": 63.549999,
+      "lon": 29.116671
+    },
+    "name": "Nurmes"
+  },
+  {
+    "country": "FI",
+    "id": 649121,
+    "coord": {
+      "lat": 61.650002,
+      "lon": 22.1
+    },
+    "name": "Langelmaki"
+  },
+  {
+    "country": "FI",
+    "id": 650706,
+    "coord": {
+      "lat": 64.25,
+      "lon": 29.75
+    },
+    "name": "Kuhmo"
+  },
+  {
+    "country": "FI",
+    "id": 650705,
+    "coord": {
+      "lat": 64.133331,
+      "lon": 29.51667
+    },
+    "name": "Kuhmo"
+  },
+  {
+    "country": "FI",
+    "id": 651077,
+    "coord": {
+      "lat": 60.650002,
+      "lon": 23.15
+    },
+    "name": "Koski"
+  },
+  {
+    "country": "FI",
+    "id": 652561,
+    "coord": {
+      "lat": 63.75,
+      "lon": 26.58333
+    },
+    "name": "Kiuruvesi"
+  },
+  {
+    "country": "FI",
+    "id": 652559,
+    "coord": {
+      "lat": 63.650002,
+      "lon": 26.616671
+    },
+    "name": "Kiuruvesi"
+  },
+  {
+    "country": "FI",
+    "id": 653389,
+    "coord": {
+      "lat": 63.166672,
+      "lon": 26.33333
+    },
+    "name": "Keitele"
+  },
+  {
+    "country": "FI",
+    "id": 653812,
+    "coord": {
+      "lat": 62.200001,
+      "lon": 22.65
+    },
+    "name": "Karvia"
+  },
+  {
+    "country": "FI",
+    "id": 653952,
+    "coord": {
+      "lat": 60.616669,
+      "lon": 23.950001
+    },
+    "name": "Karkola"
+  },
+  {
+    "country": "FI",
+    "id": 655627,
+    "coord": {
+      "lat": 62.166672,
+      "lon": 27.83333
+    },
+    "name": "Joroinen"
+  },
+  {
+    "country": "FI",
+    "id": 656220,
+    "coord": {
+      "lat": 68.659859,
+      "lon": 27.53891
+    },
+    "name": "Ivalo"
+  },
+  {
+    "country": "FI",
+    "id": 659185,
+    "coord": {
+      "lat": 61.583328,
+      "lon": 23.25
+    },
+    "name": "Hämeenkyrö"
+  },
+  {
+    "country": "FI",
+    "id": 660229,
+    "coord": {
+      "lat": 68.385727,
+      "lon": 23.632151
+    },
+    "name": "Enontekioe"
+  },
+  {
+    "country": "FI",
+    "id": 660873,
+    "coord": {
+      "lat": 60.599998,
+      "lon": 22.566669
+    },
+    "name": "Aura"
+  },
+  {
+    "country": "FI",
+    "id": 661411,
+    "coord": {
+      "lat": 60.933331,
+      "lon": 22.91667
+    },
+    "name": "Alastaro"
+  },
+  {
+    "country": "FI",
+    "id": 846664,
+    "coord": {
+      "lat": 61.283329,
+      "lon": 22.683331
+    },
+    "name": "Aetsa"
+  },
+  {
+    "country": "FI",
+    "id": 6295613,
+    "coord": {
+      "lat": 60.217461,
+      "lon": 24.781509
+    },
+    "name": "Kilo"
+  },
+  {
+    "country": "FI",
+    "id": 7647230,
+    "coord": {
+      "lat": 60.153851,
+      "lon": 24.764469
+    },
+    "name": "Koukkuniemi"
+  },
+  {
+    "country": "FI",
+    "id": 7779093,
+    "coord": {
+      "lat": 63.091919,
+      "lon": 21.722969
+    },
+    "name": "Ristinummi"
+  },
+  {
+    "country": "FI",
+    "id": 7779094,
+    "coord": {
+      "lat": 63.096432,
+      "lon": 21.685471
+    },
+    "name": "Teeriniemi"
+  },
+  {
+    "country": "FI",
+    "id": 7910855,
+    "coord": {
+      "lat": 61.169109,
+      "lon": 23.86565
+    },
+    "name": "Toijala"
+  },
+  {
+    "country": "FI",
+    "id": 660013,
+    "coord": {
+      "lat": 64,
+      "lon": 26
+    },
+    "name": "Republic of Finland"
+  },
+  {
+    "country": "FI",
+    "id": 828987,
+    "coord": {
+      "lat": 60.833328,
+      "lon": 26
+    },
+    "name": "Province of Southern Finland"
+  },
+  {
+    "country": "FI",
+    "id": 830709,
+    "coord": {
+      "lat": 60.25,
+      "lon": 24.5
+    },
+    "name": "Nyland"
+  },
+  {
+    "country": "FI",
+    "id": 644290,
+    "coord": {
+      "lat": 60.416672,
+      "lon": 23.91667
+    },
+    "name": "Nummi-Pusula"
+  },
+  {
+    "country": "FI",
+    "id": 645878,
+    "coord": {
+      "lat": 60.400002,
+      "lon": 23.883329
+    },
+    "name": "Mommola"
+  },
+  {
+    "country": "FI",
+    "id": 640553,
+    "coord": {
+      "lat": 60.466671,
+      "lon": 23.98333
+    },
+    "name": "Pusula"
+  },
+  {
+    "country": "FI",
+    "id": 7646423,
+    "coord": {
+      "lat": 60.5238,
+      "lon": 24.736151
+    },
+    "name": "Matku"
+  },
+  {
+    "country": "FI",
+    "id": 830703,
+    "coord": {
+      "lat": 60.5,
+      "lon": 27
+    },
+    "name": "Kymenlaakso"
+  },
+  {
+    "country": "FI",
+    "id": 831040,
+    "coord": {
+      "lat": 61.25,
+      "lon": 25.83333
+    },
+    "name": "Päijät-Häme"
+  },
+  {
+    "country": "FI",
+    "id": 649374,
+    "coord": {
+      "lat": 60.982769,
+      "lon": 25.65411
+    },
+    "name": "Lahti"
+  },
+  {
+    "country": "FI",
+    "id": 661242,
+    "coord": {
+      "lat": 60.933331,
+      "lon": 25.700001
+    },
+    "name": "Ämmälä"
+  },
+  {
+    "country": "FI",
+    "id": 644671,
+    "coord": {
+      "lat": 60.950001,
+      "lon": 25.683331
+    },
+    "name": "Nikkilä"
+  },
+  {
+    "country": "FI",
+    "id": 656689,
+    "coord": {
+      "lat": 61.166672,
+      "lon": 28.83333
+    },
+    "name": "Imatra"
+  },
+  {
+    "country": "FI",
+    "id": 6940573,
+    "coord": {
+      "lat": 61.457722,
+      "lon": 23.847111
+    },
+    "name": "Pohjois-Hervanta"
+  },
+  {
+    "country": "FI",
+    "id": 828989,
+    "coord": {
+      "lat": 62,
+      "lon": 24
+    },
+    "name": "Province of Western Finland"
+  },
+  {
+    "country": "FI",
+    "id": 830685,
+    "coord": {
+      "lat": 62.5,
+      "lon": 25.5
+    },
+    "name": "Mellersta Finland"
+  },
+  {
+    "country": "FI",
+    "id": 655195,
+    "coord": {
+      "lat": 62.25,
+      "lon": 25.75
+    },
+    "name": "Jyväskylä"
+  },
+  {
+    "country": "FI",
+    "id": 653356,
+    "coord": {
+      "lat": 62.192581,
+      "lon": 25.714701
+    },
+    "name": "Keljonkangas"
+  },
+  {
+    "country": "FI",
+    "id": 652978,
+    "coord": {
+      "lat": 62.25,
+      "lon": 24.75
+    },
+    "name": "Keuruu"
+  },
+  {
+    "country": "FI",
+    "id": 830682,
+    "coord": {
+      "lat": 62.5,
+      "lon": 23.25
+    },
+    "name": "Södra Österbotten"
+  },
+  {
+    "country": "FI",
+    "id": 653628,
+    "coord": {
+      "lat": 62.333328,
+      "lon": 22.25
+    },
+    "name": "Kauhajoki"
+  },
+  {
+    "country": "FI",
+    "id": 656781,
+    "coord": {
+      "lat": 62.400002,
+      "lon": 22.549999
+    },
+    "name": "Ikkeläjärvi"
+  },
+  {
+    "country": "FI",
+    "id": 830676,
+    "coord": {
+      "lat": 63,
+      "lon": 22
+    },
+    "name": "Österbotten"
+  },
+  {
+    "country": "FI",
+    "id": 642456,
+    "coord": {
+      "lat": 63.583328,
+      "lon": 22.75
+    },
+    "name": "Pedersöre"
+  },
+  {
+    "country": "FI",
+    "id": 660735,
+    "coord": {
+      "lat": 63.599998,
+      "lon": 22.799999
+    },
+    "name": "Bennäs"
+  },
+  {
+    "country": "FI",
+    "id": 656131,
+    "coord": {
+      "lat": 63.666672,
+      "lon": 22.700001
+    },
+    "name": "Jakobstad"
+  },
+  {
+    "country": "FI",
+    "id": 638989,
+    "coord": {
+      "lat": 63.666672,
+      "lon": 22.716669
+    },
+    "name": "Rosenlund"
+  },
+  {
+    "country": "FI",
+    "id": 830675,
+    "coord": {
+      "lat": 63.5,
+      "lon": 24
+    },
+    "name": "Mellersta Österbotten"
+  },
+  {
+    "country": "FI",
+    "id": 651951,
+    "coord": {
+      "lat": 63.833328,
+      "lon": 23.08333
+    },
+    "name": "Karleby"
+  },
+  {
+    "country": "FI",
+    "id": 796234,
+    "coord": {
+      "lat": 63.816669,
+      "lon": 23.133329
+    },
+    "name": "Kyrkbacken"
+  },
+  {
+    "country": "FI",
+    "id": 648849,
+    "coord": {
+      "lat": 63.75,
+      "lon": 22.75
+    },
+    "name": "Larsmo"
+  },
+  {
+    "country": "FI",
+    "id": 660630,
+    "coord": {
+      "lat": 63.816669,
+      "lon": 22.799999
+    },
+    "name": "Björnvik"
+  },
+  {
+    "country": "FI",
+    "id": 643991,
+    "coord": {
+      "lat": 63.833328,
+      "lon": 22.91667
+    },
+    "name": "Öja"
+  },
+  {
+    "country": "FI",
+    "id": 647741,
+    "coord": {
+      "lat": 64.024719,
+      "lon": 23.50482
+    },
+    "name": "Lohtaja"
+  },
+  {
+    "country": "FI",
+    "id": 643485,
+    "coord": {
+      "lat": 65,
+      "lon": 27
+    },
+    "name": "Oulun Lääni"
+  },
+  {
+    "country": "FI",
+    "id": 830664,
+    "coord": {
+      "lat": 64.5,
+      "lon": 28
+    },
+    "name": "Kainuu"
+  },
+  {
+    "country": "FI",
+    "id": 656951,
+    "coord": {
+      "lat": 64.666672,
+      "lon": 28.75
+    },
+    "name": "Hyrynsalmi"
+  },
+  {
+    "country": "FI",
+    "id": 656696,
+    "coord": {
+      "lat": 64.550003,
+      "lon": 28.966669
+    },
+    "name": "Ilvesjärvi"
+  },
+  {
+    "country": "FI",
+    "id": 830667,
+    "coord": {
+      "lat": 65,
+      "lon": 26
+    },
+    "name": "Norra Österbotten"
+  },
+  {
+    "country": "FI",
+    "id": 645767,
+    "coord": {
+      "lat": 64.75,
+      "lon": 26.16667
+    },
+    "name": "Muhos"
+  },
+  {
+    "country": "FI",
+    "id": 7645664,
+    "coord": {
+      "lat": 64.884949,
+      "lon": 25.869881
+    },
+    "name": "Päivärinne"
+  },
+  {
+    "country": "FI",
+    "id": 640808,
+    "coord": {
+      "lat": 65.333328,
+      "lon": 27
+    },
+    "name": "Pudasjärvi"
+  },
+  {
+    "country": "FI",
+    "id": 641506,
+    "coord": {
+      "lat": 65.333328,
+      "lon": 27.08333
+    },
+    "name": "Piri"
+  },
+  {
+    "country": "FI",
+    "id": 648958,
+    "coord": {
+      "lat": 68,
+      "lon": 27
+    },
+    "name": "Lapin Lääni"
+  },
+  {
+    "country": "FI",
+    "id": 830603,
+    "coord": {
+      "lat": 68,
+      "lon": 27
+    },
+    "name": "Lappland"
+  },
+  {
+    "country": "FI",
+    "id": 630780,
+    "coord": {
+      "lat": 66.5,
+      "lon": 24.5
+    },
+    "name": "Ylitornio"
+  },
+  {
+    "country": "FI",
+    "id": 654253,
+    "coord": {
+      "lat": 66.416672,
+      "lon": 24.066669
+    },
+    "name": "Kantomaanpää"
+  },
+  {
+    "country": "FI",
+    "id": 652594,
+    "coord": {
+      "lat": 67.75,
+      "lon": 25
+    },
+    "name": "Kittilä"
+  },
+  {
+    "country": "FI",
+    "id": 661520,
+    "coord": {
+      "lat": 67.349998,
+      "lon": 24.883329
+    },
+    "name": "Alakylä"
+  },
+  {
+    "country": "FI",
+    "id": 840810,
+    "coord": {
+      "lat": 60.21891,
+      "lon": 24.65959
+    },
+    "name": "Lommila"
+  },
+  {
+    "country": "FI",
+    "id": 650859,
+    "coord": {
+      "lat": 60.866669,
+      "lon": 26.700001
+    },
+    "name": "Kouvola"
+  },
+  {
+    "country": "FI",
+    "id": 830147,
+    "coord": {
+      "lat": 61.033329,
+      "lon": 25.383329
+    },
+    "name": "Hollola"
+  },
+  {
+    "country": "FI",
+    "id": 656685,
+    "coord": {
+      "lat": 61.169651,
+      "lon": 28.76787
+    },
+    "name": "Imatrankoski"
+  },
+  {
+    "country": "FI",
+    "id": 655194,
+    "coord": {
+      "lat": 62.23333,
+      "lon": 25.73333
+    },
+    "name": "Jyvaeskylae"
+  },
+  {
+    "country": "FI",
+    "id": 656740,
+    "coord": {
+      "lat": 62.75,
+      "lon": 22.58333
+    },
+    "name": "Ilmajoki"
+  },
+  {
+    "country": "FI",
+    "id": 632220,
+    "coord": {
+      "lat": 63.666672,
+      "lon": 22.683331
+    },
+    "name": "Bonäs"
+  },
+  {
+    "country": "FI",
+    "id": 653939,
+    "coord": {
+      "lat": 63.833328,
+      "lon": 23.133329
+    },
+    "name": "Kaarlela"
+  },
+  {
+    "country": "FI",
+    "id": 654901,
+    "coord": {
+      "lat": 64.166672,
+      "lon": 27.66667
+    },
+    "name": "Kajaani"
+  },
+  {
+    "country": "FI",
+    "id": 661364,
+    "coord": {
+      "lat": 64.166672,
+      "lon": 24.33333
+    },
+    "name": "Alavieska"
+  },
+  {
+    "country": "FI",
+    "id": 652590,
+    "coord": {
+      "lat": 67.666672,
+      "lon": 24.9
+    },
+    "name": "Kittila"
+  },
+  {
+    "country": "FI",
+    "id": 649631,
+    "coord": {
+      "lat": 60.166672,
+      "lon": 24.41667
+    },
+    "name": "Kirkkonummi"
+  },
+  {
+    "country": "FI",
+    "id": 840758,
+    "coord": {
+      "lat": 60.177219,
+      "lon": 24.43528
+    },
+    "name": "Österby"
+  },
+  {
+    "country": "FI",
+    "id": 830704,
+    "coord": {
+      "lat": 61.700001,
+      "lon": 23.716669
+    },
+    "name": "Birkaland"
+  },
+  {
+    "country": "FI",
+    "id": 652298,
+    "coord": {
+      "lat": 64.23333,
+      "lon": 24.35
+    },
+    "name": "Klemetti"
+  },
+  {
+    "country": "FI",
+    "id": 658630,
+    "coord": {
+      "lat": 65.166672,
+      "lon": 25.5
+    },
+    "name": "Haukipudas"
+  },
+  {
+    "country": "FI",
+    "id": 632084,
+    "coord": {
+      "lat": 65.133331,
+      "lon": 25.283331
+    },
+    "name": "Vehkaperä"
+  },
+  {
+    "country": "FI",
+    "id": 830708,
+    "coord": {
+      "lat": 60.5,
+      "lon": 22.25
+    },
+    "name": "Varsinais-Suomi"
+  },
+  {
+    "country": "FI",
+    "id": 8128758,
+    "coord": {
+      "lat": 60.16711,
+      "lon": 22.72711
+    },
+    "name": "Kimitoön"
+  },
+  {
+    "country": "FI",
+    "id": 642466,
+    "coord": {
+      "lat": 60.133331,
+      "lon": 22.683331
+    },
+    "name": "Påvalsby"
+  },
+  {
+    "country": "FI",
+    "id": 643493,
+    "coord": {
+      "lat": 65,
+      "lon": 25.5
+    },
+    "name": "Oulu"
+  },
+  {
+    "country": "FI",
+    "id": 7645643,
+    "coord": {
+      "lat": 65.078033,
+      "lon": 25.524929
+    },
+    "name": "Jylkynkangas"
+  },
+  {
+    "country": "FI",
+    "id": 646218,
+    "coord": {
+      "lat": 60.233551,
+      "lon": 25.09947
+    },
+    "name": "Mellunkylä"
+  },
+  {
+    "country": "FI",
+    "id": 662096,
+    "coord": {
+      "lat": 62.583328,
+      "lon": 25.716669
+    },
+    "name": "Äänekoski"
+  },
+  {
+    "country": "FI",
+    "id": 657396,
+    "coord": {
+      "lat": 62.566669,
+      "lon": 25.633329
+    },
+    "name": "Honkola"
+  },
+  {
+    "country": "FI",
+    "id": 828988,
+    "coord": {
+      "lat": 62.5,
+      "lon": 28
+    },
+    "name": "Itä-Suomen Lääni"
+  },
+  {
+    "country": "FI",
+    "id": 830695,
+    "coord": {
+      "lat": 61.75,
+      "lon": 27.83333
+    },
+    "name": "Etelä-Savo"
+  },
+  {
+    "country": "FI",
+    "id": 655257,
+    "coord": {
+      "lat": 61.916672,
+      "lon": 27.83333
+    },
+    "name": "Juva"
+  },
+  {
+    "country": "FI",
+    "id": 652996,
+    "coord": {
+      "lat": 61.866669,
+      "lon": 27.883329
+    },
+    "name": "Kettula"
+  },
+  {
+    "country": "FI",
+    "id": 644451,
+    "coord": {
+      "lat": 61.466671,
+      "lon": 23.5
+    },
+    "name": "Nokia"
+  },
+  {
+    "country": "FI",
+    "id": 650491,
+    "coord": {
+      "lat": 61.48333,
+      "lon": 23.33333
+    },
+    "name": "Kulju"
+  },
+  {
+    "country": "FI",
+    "id": 7838775,
+    "coord": {
+      "lat": 61.644779,
+      "lon": 24.35557
+    },
+    "name": "Hieta"
+  },
+  {
+    "country": "FI",
+    "id": 651660,
+    "coord": {
+      "lat": 62.75,
+      "lon": 29.91667
+    },
+    "name": "Kontiolahti"
+  },
+  {
+    "country": "FI",
+    "id": 643154,
+    "coord": {
+      "lat": 60.5,
+      "lon": 22.75
+    },
+    "name": "Paimio"
+  },
+  {
+    "country": "FI",
+    "id": 643153,
+    "coord": {
+      "lat": 60.456711,
+      "lon": 22.686939
+    },
+    "name": "Paimio"
+  },
+  {
+    "country": "FI",
+    "id": 659684,
+    "coord": {
+      "lat": 60.26667,
+      "lon": 24.450001
+    },
+    "name": "Haapajärvi"
+  },
+  {
+    "country": "FI",
+    "id": 646495,
+    "coord": {
+      "lat": 60.15757,
+      "lon": 24.52895
+    },
+    "name": "Masala"
+  },
+  {
+    "country": "FI",
+    "id": 656914,
+    "coord": {
+      "lat": 60.633331,
+      "lon": 24.83333
+    },
+    "name": "Hyvinkää"
+  },
+  {
+    "country": "FI",
+    "id": 662036,
+    "coord": {
+      "lat": 60.63995,
+      "lon": 24.88652
+    },
+    "name": "Ahdenkallio"
+  },
+  {
+    "country": "FI",
+    "id": 638075,
+    "coord": {
+      "lat": 67,
+      "lon": 28.5
+    },
+    "name": "Salla"
+  },
+  {
+    "country": "FI",
+    "id": 637683,
+    "coord": {
+      "lat": 67.033333,
+      "lon": 28.966669
+    },
+    "name": "Särkelä"
+  },
+  {
+    "country": "FI",
+    "id": 637959,
+    "coord": {
+      "lat": 60.383331,
+      "lon": 23.133329
+    },
+    "name": "Salo"
+  },
+  {
+    "country": "FI",
+    "id": 647931,
+    "coord": {
+      "lat": 64.75,
+      "lon": 25.41667
+    },
+    "name": "Liminka"
+  },
+  {
+    "country": "FI",
+    "id": 843891,
+    "coord": {
+      "lat": 64.816673,
+      "lon": 25.48333
+    },
+    "name": "Haaransilta"
+  },
+  {
+    "country": "FI",
+    "id": 843889,
+    "coord": {
+      "lat": 64.804688,
+      "lon": 25.435579
+    },
+    "name": "Jutkokylä"
+  },
+  {
+    "country": "FI",
+    "id": 7645541,
+    "coord": {
+      "lat": 64.958076,
+      "lon": 25.552999
+    },
+    "name": "Sunila"
+  },
+  {
+    "country": "FI",
+    "id": 650166,
+    "coord": {
+      "lat": 62.799999,
+      "lon": 23.5
+    },
+    "name": "Kuortane"
+  },
+  {
+    "country": "FI",
+    "id": 653883,
+    "coord": {
+      "lat": 64,
+      "lon": 25.83333
+    },
+    "name": "Kärsämäki"
+  },
+  {
+    "country": "FI",
+    "id": 653880,
+    "coord": {
+      "lat": 63.966671,
+      "lon": 25.76667
+    },
+    "name": "Karsamaki"
+  },
+  {
+    "country": "FI",
+    "id": 659557,
+    "coord": {
+      "lat": 64.166672,
+      "lon": 25.41667
+    },
+    "name": "Haapavesi"
+  },
+  {
+    "country": "FI",
+    "id": 648205,
+    "coord": {
+      "lat": 64.166672,
+      "lon": 25.533331
+    },
+    "name": "Leppioja"
+  },
+  {
+    "country": "FI",
+    "id": 6931109,
+    "coord": {
+      "lat": 61.51754,
+      "lon": 23.93037
+    },
+    "name": "Tasanne"
+  },
+  {
+    "country": "FI",
+    "id": 6930918,
+    "coord": {
+      "lat": 61.501652,
+      "lon": 23.913031
+    },
+    "name": "Atala"
+  },
+  {
+    "country": "FI",
+    "id": 642675,
+    "coord": {
+      "lat": 60.299999,
+      "lon": 22.299999
+    },
+    "name": "Pargas"
+  },
+  {
+    "country": "FI",
+    "id": 645165,
+    "coord": {
+      "lat": 60.193748,
+      "lon": 21.909719
+    },
+    "name": "Nagu"
+  },
+  {
+    "country": "FI",
+    "id": 631760,
+    "coord": {
+      "lat": 64.416672,
+      "lon": 25.08333
+    },
+    "name": "Vihanti"
+  },
+  {
+    "country": "FI",
+    "id": 631758,
+    "coord": {
+      "lat": 64.48333,
+      "lon": 25
+    },
+    "name": "Vihanti"
+  },
+  {
+    "country": "FI",
+    "id": 658225,
+    "coord": {
+      "lat": 60.169521,
+      "lon": 24.93545
+    },
+    "name": "Helsinki"
+  },
+  {
+    "country": "FI",
+    "id": 7647247,
+    "coord": {
+      "lat": 60.446678,
+      "lon": 22.277611
+    },
+    "name": "Vartiovuori"
+  },
+  {
+    "country": "FI",
+    "id": 658292,
+    "coord": {
+      "lat": 61.200001,
+      "lon": 26.033331
+    },
+    "name": "Heinola"
+  },
+  {
+    "country": "FI",
+    "id": 658288,
+    "coord": {
+      "lat": 61.216671,
+      "lon": 26.033331
+    },
+    "name": "Heinola"
+  },
+  {
+    "country": "FI",
+    "id": 7732087,
+    "coord": {
+      "lat": 61.682018,
+      "lon": 27.24704
+    },
+    "name": "Kirjala"
+  },
+  {
+    "country": "FI",
+    "id": 7645232,
+    "coord": {
+      "lat": 60.996342,
+      "lon": 24.44179
+    },
+    "name": "Kauriala"
+  },
+  {
+    "country": "FI",
+    "id": 637293,
+    "coord": {
+      "lat": 61.866669,
+      "lon": 28.91667
+    },
+    "name": "Savonlinna"
+  },
+  {
+    "country": "FI",
+    "id": 637292,
+    "coord": {
+      "lat": 61.8699,
+      "lon": 28.87999
+    },
+    "name": "Savonlinna"
+  },
+  {
+    "country": "FI",
+    "id": 653186,
+    "coord": {
+      "lat": 60.383331,
+      "lon": 25.116671
+    },
+    "name": "Kerava"
+  },
+  {
+    "country": "FI",
+    "id": 653185,
+    "coord": {
+      "lat": 60.403381,
+      "lon": 25.105
+    },
+    "name": "Kerava"
+  },
+  {
+    "country": "FI",
+    "id": 831041,
+    "coord": {
+      "lat": 61.333328,
+      "lon": 22
+    },
+    "name": "Satakunta"
+  },
+  {
+    "country": "FI",
+    "id": 641000,
+    "coord": {
+      "lat": 61.48333,
+      "lon": 21.783331
+    },
+    "name": "Pori"
+  },
+  {
+    "country": "FI",
+    "id": 640999,
+    "coord": {
+      "lat": 61.48333,
+      "lon": 21.783331
+    },
+    "name": "Pori"
+  },
+  {
+    "country": "FI",
+    "id": 639411,
+    "coord": {
+      "lat": 60.75,
+      "lon": 24.76667
+    },
+    "name": "Riihimäki"
+  },
+  {
+    "country": "FI",
+    "id": 635779,
+    "coord": {
+      "lat": 60.75,
+      "lon": 24.75
+    },
+    "name": "Suojala"
+  },
+  {
+    "country": "FI",
+    "id": 639840,
+    "coord": {
+      "lat": 64.230743,
+      "lon": 27.67864
+    },
+    "name": "Rasi"
+  },
+  {
+    "country": "FI",
+    "id": 655823,
+    "coord": {
+      "lat": 62.583328,
+      "lon": 29.75
+    },
+    "name": "Joensuu"
+  },
+  {
+    "country": "FI",
+    "id": 655808,
+    "coord": {
+      "lat": 62.601181,
+      "lon": 29.763161
+    },
+    "name": "Joensuu"
+  },
+  {
+    "country": "FI",
+    "id": 656084,
+    "coord": {
+      "lat": 61.833328,
+      "lon": 25.25
+    },
+    "name": "Jämsä"
+  },
+  {
+    "country": "FI",
+    "id": 656083,
+    "coord": {
+      "lat": 61.864201,
+      "lon": 25.19002
+    },
+    "name": "Jamsa"
+  },
+  {
+    "country": "FI",
+    "id": 637219,
+    "coord": {
+      "lat": 62.799999,
+      "lon": 22.83333
+    },
+    "name": "Seinaejoki"
+  },
+  {
+    "country": "FI",
+    "id": 830690,
+    "coord": {
+      "lat": 63,
+      "lon": 27.5
+    },
+    "name": "Savo"
+  },
+  {
+    "country": "FI",
+    "id": 650225,
+    "coord": {
+      "lat": 62.883331,
+      "lon": 27.66667
+    },
+    "name": "Kuopio"
+  },
+  {
+    "country": "FI",
+    "id": 7645026,
+    "coord": {
+      "lat": 62.900539,
+      "lon": 27.69095
+    },
+    "name": "Linnanpelto"
+  },
+  {
+    "country": "FI",
+    "id": 645212,
+    "coord": {
+      "lat": 60.450001,
+      "lon": 22.033331
+    },
+    "name": "Naantali"
+  },
+  {
+    "country": "FI",
+    "id": 650544,
+    "coord": {
+      "lat": 60.450001,
+      "lon": 22.033331
+    },
+    "name": "Kukkola"
+  },
+  {
+    "country": "FI",
+    "id": 640277,
+    "coord": {
+      "lat": 64.699997,
+      "lon": 24.5
+    },
+    "name": "Raahe"
+  },
+  {
+    "country": "FI",
+    "id": 640276,
+    "coord": {
+      "lat": 64.683327,
+      "lon": 24.48333
+    },
+    "name": "Raahe"
+  },
+  {
+    "country": "FI",
+    "id": 648703,
+    "coord": {
+      "lat": 60.966671,
+      "lon": 25.66667
+    },
+    "name": "Laune"
+  },
+  {
+    "country": "FI",
+    "id": 638937,
+    "coord": {
+      "lat": 66.5,
+      "lon": 25.700001
+    },
+    "name": "Rovaniemi"
+  },
+  {
+    "country": "FI",
+    "id": 638936,
+    "coord": {
+      "lat": 66.5,
+      "lon": 25.716669
+    },
+    "name": "Rovaniemi"
+  },
+  {
+    "country": "FI",
+    "id": 7644951,
+    "coord": {
+      "lat": 62.323151,
+      "lon": 27.90012
+    },
+    "name": "Kommila"
+  },
+  {
+    "country": "FI",
+    "id": 655977,
+    "coord": {
+      "lat": 60.466671,
+      "lon": 25.08333
+    },
+    "name": "Järvenpää"
+  },
+  {
+    "country": "FI",
+    "id": 847544,
+    "coord": {
+      "lat": 60.46957,
+      "lon": 25.106159
+    },
+    "name": "Kinnari"
+  },
+  {
+    "country": "FI",
+    "id": 639735,
+    "coord": {
+      "lat": 61.133331,
+      "lon": 21.5
+    },
+    "name": "Rauma"
+  },
+  {
+    "country": "FI",
+    "id": 639734,
+    "coord": {
+      "lat": 61.127239,
+      "lon": 21.511271
+    },
+    "name": "Rauma"
+  },
+  {
+    "country": "FI",
+    "id": 637948,
+    "coord": {
+      "lat": 60.383331,
+      "lon": 23.133329
+    },
+    "name": "Salo"
+  },
+  {
+    "country": "FI",
+    "id": 632672,
+    "coord": {
+      "lat": 61.26421,
+      "lon": 24.031219
+    },
+    "name": "Valkeakoski"
+  },
+  {
+    "country": "FI",
+    "id": 634096,
+    "coord": {
+      "lat": 65.849998,
+      "lon": 24.133329
+    },
+    "name": "Tornio"
+  },
+  {
+    "country": "FI",
+    "id": 635745,
+    "coord": {
+      "lat": 62.566669,
+      "lon": 25.866671
+    },
+    "name": "Suolahti"
+  },
+  {
+    "country": "FI",
+    "id": 7733308,
+    "coord": {
+      "lat": 60.821072,
+      "lon": 23.63537
+    },
+    "name": "Korkeavaha"
+  },
+  {
+    "country": "FI",
+    "id": 841906,
+    "coord": {
+      "lat": 60.41,
+      "lon": 22.424999
+    },
+    "name": "Voivala"
+  },
+  {
+    "country": "FI",
+    "id": 659171,
+    "coord": {
+      "lat": 60.549999,
+      "lon": 27.16667
+    },
+    "name": "Hamina"
+  },
+  {
+    "country": "FI",
+    "id": 659169,
+    "coord": {
+      "lat": 60.56974,
+      "lon": 27.197941
+    },
+    "name": "Hamina"
+  },
+  {
+    "country": "FI",
+    "id": 630753,
+    "coord": {
+      "lat": 61.583328,
+      "lon": 23.58333
+    },
+    "name": "Ylöjärvi"
+  },
+  {
+    "country": "FI",
+    "id": 636270,
+    "coord": {
+      "lat": 61.548061,
+      "lon": 23.59314
+    },
+    "name": "Soppeenmäki"
+  },
+  {
+    "country": "FI",
+    "id": 642667,
+    "coord": {
+      "lat": 61.583328,
+      "lon": 29.5
+    },
+    "name": "Parikkala"
+  },
+  {
+    "country": "FI",
+    "id": 642666,
+    "coord": {
+      "lat": 61.549999,
+      "lon": 29.5
+    },
+    "name": "Parikkala"
+  },
+  {
+    "country": "FI",
+    "id": 830268,
+    "coord": {
+      "lat": 62.26667,
+      "lon": 27.133329
+    },
+    "name": "Pieksämäki"
+  },
+  {
+    "country": "FI",
+    "id": 641869,
+    "coord": {
+      "lat": 62.299999,
+      "lon": 27.133329
+    },
+    "name": "Pieksamaki"
+  },
+  {
+    "country": "FI",
+    "id": 649925,
+    "coord": {
+      "lat": 66,
+      "lon": 29.25
+    },
+    "name": "Kuusamo"
+  },
+  {
+    "country": "FI",
+    "id": 649924,
+    "coord": {
+      "lat": 65.966667,
+      "lon": 29.183331
+    },
+    "name": "Kuusamo"
+  },
+  {
+    "country": "FI",
+    "id": 645322,
+    "coord": {
+      "lat": 60.783329,
+      "lon": 26.799999
+    },
+    "name": "Myllykoski"
+  },
+  {
+    "country": "FI",
+    "id": 648091,
+    "coord": {
+      "lat": 63.316669,
+      "lon": 30.033331
+    },
+    "name": "Lieksa"
+  },
+  {
+    "country": "FI",
+    "id": 648090,
+    "coord": {
+      "lat": 63.316669,
+      "lon": 30.01667
+    },
+    "name": "Lieksa"
+  },
+  {
+    "country": "FI",
+    "id": 650744,
+    "coord": {
+      "lat": 60.171741,
+      "lon": 24.9566
+    },
+    "name": "Kruununhaka"
+  },
+  {
+    "country": "FI",
+    "id": 8128761,
+    "coord": {
+      "lat": 62.029659,
+      "lon": 24.60268
+    },
+    "name": "Mänttä-Vilppula"
+  },
+  {
+    "country": "FI",
+    "id": 646705,
+    "coord": {
+      "lat": 62.03014,
+      "lon": 24.627911
+    },
+    "name": "Maenttae"
+  },
+  {
+    "country": "FI",
+    "id": 654706,
+    "coord": {
+      "lat": 60.184269,
+      "lon": 24.95034
+    },
+    "name": "Kallio"
+  },
+  {
+    "country": "FI",
+    "id": 7871104,
+    "coord": {
+      "lat": 61.427971,
+      "lon": 23.632111
+    },
+    "name": "Sorkkala"
+  },
+  {
+    "country": "FI",
+    "id": 633680,
+    "coord": {
+      "lat": 60.433331,
+      "lon": 22.283331
+    },
+    "name": "Åbo"
+  },
+  {
+    "country": "FI",
+    "id": 854890,
+    "coord": {
+      "lat": 60.517502,
+      "lon": 22.23361
+    },
+    "name": "Suitturi"
+  },
+  {
+    "country": "FI",
+    "id": 7647293,
+    "coord": {
+      "lat": 61.47543,
+      "lon": 21.778851
+    },
+    "name": "Tiilimäki"
+  },
+  {
+    "country": "FI",
+    "id": 630769,
+    "coord": {
+      "lat": 64.083328,
+      "lon": 24.66667
+    },
+    "name": "Ylivieska"
+  },
+  {
+    "country": "FI",
+    "id": 640369,
+    "coord": {
+      "lat": 64.033333,
+      "lon": 24.716669
+    },
+    "name": "Pylväsjoki"
+  },
+  {
+    "country": "FI",
+    "id": 7644992,
+    "coord": {
+      "lat": 62.184689,
+      "lon": 27.865879
+    },
+    "name": "Kanava"
+  },
+  {
+    "country": "FI",
+    "id": 632979,
+    "coord": {
+      "lat": 63.083328,
+      "lon": 21.66667
+    },
+    "name": "Vasa"
+  },
+  {
+    "country": "FI",
+    "id": 842846,
+    "coord": {
+      "lat": 63.049999,
+      "lon": 21.75
+    },
+    "name": "Bockholmsbacken"
+  },
+  {
+    "country": "FI",
+    "id": 633259,
+    "coord": {
+      "lat": 60.882191,
+      "lon": 26.924061
+    },
+    "name": "Utti"
+  },
+  {
+    "country": "FI",
+    "id": 7871102,
+    "coord": {
+      "lat": 61.406952,
+      "lon": 23.623779
+    },
+    "name": "Varuskunta"
+  },
+  {
+    "country": "FI",
+    "id": 636465,
+    "coord": {
+      "lat": 67.75,
+      "lon": 27
+    },
+    "name": "Sodankylä"
+  },
+  {
+    "country": "FI",
+    "id": 652665,
+    "coord": {
+      "lat": 67.400002,
+      "lon": 26.65
+    },
+    "name": "Kirkonkylä"
+  },
+  {
+    "country": "FI",
+    "id": 639533,
+    "coord": {
+      "lat": 62.700001,
+      "lon": 22.83333
+    },
+    "name": "Renko"
+  },
+  {
+    "country": "FI",
+    "id": 646900,
+    "coord": {
+      "lat": 61.966671,
+      "lon": 28.91667
+    },
+    "name": "Makkola"
+  },
+  {
+    "country": "FI",
+    "id": 645296,
+    "coord": {
+      "lat": 66.533333,
+      "lon": 25.83333
+    },
+    "name": "Myllykylä"
+  },
+  {
+    "country": "FI",
+    "id": 7647281,
+    "coord": {
+      "lat": 61.472111,
+      "lon": 21.81344
+    },
+    "name": "Uusi Koivisto"
+  },
+  {
+    "country": "FI",
+    "id": 643483,
+    "coord": {
+      "lat": 65,
+      "lon": 25.33333
+    },
+    "name": "Oulunsalo"
+  },
+  {
+    "country": "FI",
+    "id": 654107,
+    "coord": {
+      "lat": 64.955833,
+      "lon": 25.38563
+    },
+    "name": "Karhuoja"
+  },
+  {
+    "country": "FI",
+    "id": 843920,
+    "coord": {
+      "lat": 64.938309,
+      "lon": 25.39327
+    },
+    "name": "Pellonpää"
+  },
+  {
+    "country": "FI",
+    "id": 646006,
+    "coord": {
+      "lat": 61.666672,
+      "lon": 27.25
+    },
+    "name": "Mikkeli"
+  },
+  {
+    "country": "FI",
+    "id": 639960,
+    "coord": {
+      "lat": 61.677212,
+      "lon": 27.20322
+    },
+    "name": "Rantakylä"
+  },
+  {
+    "country": "FI",
+    "id": 7732294,
+    "coord": {
+      "lat": 61.04744,
+      "lon": 28.134359
+    },
+    "name": "Kourula"
+  },
+  {
+    "country": "FI",
+    "id": 636948,
+    "coord": {
+      "lat": 63.083328,
+      "lon": 27.66667
+    },
+    "name": "Siilinjärvi"
+  },
+  {
+    "country": "FI",
+    "id": 639258,
+    "coord": {
+      "lat": 63,
+      "lon": 27.799999
+    },
+    "name": "Rissala"
+  },
+  {
+    "country": "FI",
+    "id": 638480,
+    "coord": {
+      "lat": 66,
+      "lon": 29.283331
+    },
+    "name": "Saapunki"
+  },
+  {
+    "country": "FI",
+    "id": 650755,
+    "coord": {
+      "lat": 63.666672,
+      "lon": 23.16667
+    },
+    "name": "Kronoby"
+  },
+  {
+    "country": "FI",
+    "id": 660437,
+    "coord": {
+      "lat": 63.716671,
+      "lon": 23.116671
+    },
+    "name": "Byskatan"
+  },
+  {
+    "country": "FI",
+    "id": 635575,
+    "coord": {
+      "lat": 64.300003,
+      "lon": 27.683331
+    },
+    "name": "Sutelanperä"
+  },
+  {
+    "country": "FI",
+    "id": 653257,
+    "coord": {
+      "lat": 65.833328,
+      "lon": 24.75
+    },
+    "name": "Keminmaa"
+  },
+  {
+    "country": "FI",
+    "id": 631747,
+    "coord": {
+      "lat": 65.800003,
+      "lon": 24.6
+    },
+    "name": "Viheriälä"
+  },
+  {
+    "country": "FI",
+    "id": 653617,
+    "coord": {
+      "lat": 63.133331,
+      "lon": 23.16667
+    },
+    "name": "Kauhava"
+  },
+  {
+    "country": "FI",
+    "id": 653616,
+    "coord": {
+      "lat": 63.099998,
+      "lon": 23.08333
+    },
+    "name": "Kauhava"
+  },
+  {
+    "country": "FI",
+    "id": 7646561,
+    "coord": {
+      "lat": 62.411362,
+      "lon": 25.67127
+    },
+    "name": "Nyppösenmutka"
+  },
+  {
+    "country": "FI",
+    "id": 647852,
+    "coord": {
+      "lat": 62.583328,
+      "lon": 29.33333
+    },
+    "name": "Liperi"
+  },
+  {
+    "country": "FI",
+    "id": 658828,
+    "coord": {
+      "lat": 62.683331,
+      "lon": 29.566669
+    },
+    "name": "Härkinvaara"
+  },
+  {
+    "country": "FI",
+    "id": 656659,
+    "coord": {
+      "lat": 69,
+      "lon": 27
+    },
+    "name": "Inari"
+  },
+  {
+    "country": "FI",
+    "id": 634116,
+    "coord": {
+      "lat": 68.599998,
+      "lon": 27.48333
+    },
+    "name": "Törmänen"
+  },
+  {
+    "country": "FI",
+    "id": 7521690,
+    "coord": {
+      "lat": 60.29842,
+      "lon": 24.96343
+    },
+    "name": "Veromies"
+  },
+  {
+    "country": "FI",
+    "id": 847510,
+    "coord": {
+      "lat": 60.25806,
+      "lon": 25.00972
+    },
+    "name": "Ylä-Malmi"
+  },
+  {
+    "country": "FI",
+    "id": 634928,
+    "coord": {
+      "lat": 60.260281,
+      "lon": 25.02611
+    },
+    "name": "Tapanila"
+  },
+  {
+    "country": "FI",
+    "id": 650182,
+    "coord": {
+      "lat": 61.849998,
+      "lon": 24.783331
+    },
+    "name": "Kuorevesi"
+  },
+  {
+    "country": "FI",
+    "id": 660230,
+    "coord": {
+      "lat": 68.5,
+      "lon": 23
+    },
+    "name": "Enontekiö"
+  },
+  {
+    "country": "FI",
+    "id": 645663,
+    "coord": {
+      "lat": 68.316673,
+      "lon": 23.366671
+    },
+    "name": "Muotkajärvi"
+  },
+  {
+    "country": "FI",
+    "id": 631707,
+    "coord": {
+      "lat": 60.416988,
+      "lon": 24.319651
+    },
+    "name": "Vihti"
+  },
+  {
+    "country": "FI",
+    "id": 632370,
+    "coord": {
+      "lat": 62.315331,
+      "lon": 27.872999
+    },
+    "name": "Varkaus"
+  },
+  {
+    "country": "FI",
+    "id": 632453,
+    "coord": {
+      "lat": 60.29414,
+      "lon": 25.040991
+    },
+    "name": "Vantaa"
+  },
+  {
+    "country": "FI",
+    "id": 632978,
+    "coord": {
+      "lat": 63.096001,
+      "lon": 21.61577
+    },
+    "name": "Vaasa"
+  },
+  {
+    "country": "FI",
+    "id": 633221,
+    "coord": {
+      "lat": 60.80043,
+      "lon": 21.408409
+    },
+    "name": "Uusikaupunki"
+  },
+  {
+    "country": "FI",
+    "id": 633591,
+    "coord": {
+      "lat": 60.403679,
+      "lon": 25.026381
+    },
+    "name": "Tuusula"
+  },
+  {
+    "country": "FI",
+    "id": 633679,
+    "coord": {
+      "lat": 60.451481,
+      "lon": 22.26869
+    },
+    "name": "Turku"
+  },
+  {
+    "country": "FI",
+    "id": 634093,
+    "coord": {
+      "lat": 65.848106,
+      "lon": 24.14662
+    },
+    "name": "Tornio"
+  },
+  {
+    "country": "FI",
+    "id": 634963,
+    "coord": {
+      "lat": 61.499111,
+      "lon": 23.787121
+    },
+    "name": "Tampere"
+  },
+  {
+    "country": "FI",
+    "id": 637067,
+    "coord": {
+      "lat": 60.377522,
+      "lon": 25.26906
+    },
+    "name": "Sibbo"
+  },
+  {
+    "country": "FI",
+    "id": 639406,
+    "coord": {
+      "lat": 60.73769,
+      "lon": 24.77726
+    },
+    "name": "Riihimaki"
+  },
+  {
+    "country": "FI",
+    "id": 640124,
+    "coord": {
+      "lat": 60.48592,
+      "lon": 22.168949
+    },
+    "name": "Raisio"
+  },
+  {
+    "country": "FI",
+    "id": 643492,
+    "coord": {
+      "lat": 65.01236,
+      "lon": 25.468161
+    },
+    "name": "Oulu"
+  },
+  {
+    "country": "FI",
+    "id": 644171,
+    "coord": {
+      "lat": 60.464069,
+      "lon": 24.807301
+    },
+    "name": "Nurmijarvi"
+  },
+  {
+    "country": "FI",
+    "id": 644450,
+    "coord": {
+      "lat": 61.466671,
+      "lon": 23.5
+    },
+    "name": "Nokia"
+  },
+  {
+    "country": "FI",
+    "id": 646005,
+    "coord": {
+      "lat": 61.688568,
+      "lon": 27.27227
+    },
+    "name": "Mikkeli"
+  },
+  {
+    "country": "FI",
+    "id": 646723,
+    "coord": {
+      "lat": 60.633331,
+      "lon": 25.316669
+    },
+    "name": "Mantsala"
+  },
+  {
+    "country": "FI",
+    "id": 647751,
+    "coord": {
+      "lat": 60.248589,
+      "lon": 24.06534
+    },
+    "name": "Lohja"
+  },
+  {
+    "country": "FI",
+    "id": 648366,
+    "coord": {
+      "lat": 61.316669,
+      "lon": 23.75
+    },
+    "name": "Lempaala"
+  },
+  {
+    "country": "FI",
+    "id": 648900,
+    "coord": {
+      "lat": 61.058708,
+      "lon": 28.188709
+    },
+    "name": "Lappeenranta"
+  },
+  {
+    "country": "FI",
+    "id": 649360,
+    "coord": {
+      "lat": 60.98267,
+      "lon": 25.66151
+    },
+    "name": "Lahti"
+  },
+  {
+    "country": "FI",
+    "id": 649630,
+    "coord": {
+      "lat": 60.12381,
+      "lon": 24.43853
+    },
+    "name": "Kirkkonummi"
+  },
+  {
+    "country": "FI",
+    "id": 650224,
+    "coord": {
+      "lat": 62.89238,
+      "lon": 27.677031
+    },
+    "name": "Kuopio"
+  },
+  {
+    "country": "FI",
+    "id": 650946,
+    "coord": {
+      "lat": 60.466671,
+      "lon": 26.91667
+    },
+    "name": "Kotka"
+  },
+  {
+    "country": "FI",
+    "id": 651943,
+    "coord": {
+      "lat": 63.83847,
+      "lon": 23.130659
+    },
+    "name": "Karleby"
+  },
+  {
+    "country": "FI",
+    "id": 654899,
+    "coord": {
+      "lat": 64.22728,
+      "lon": 27.72846
+    },
+    "name": "Kajaani"
+  },
+  {
+    "country": "FI",
+    "id": 655130,
+    "coord": {
+      "lat": 60.407242,
+      "lon": 22.36904
+    },
+    "name": "Kaarina"
+  },
+  {
+    "country": "FI",
+    "id": 655958,
+    "coord": {
+      "lat": 60.47369,
+      "lon": 25.08992
+    },
+    "name": "Jarvenpaa"
+  },
+  {
+    "country": "FI",
+    "id": 656130,
+    "coord": {
+      "lat": 63.674858,
+      "lon": 22.70256
+    },
+    "name": "Jakobstad"
+  },
+  {
+    "country": "FI",
+    "id": 656688,
+    "coord": {
+      "lat": 61.171848,
+      "lon": 28.75242
+    },
+    "name": "Imatra"
+  },
+  {
+    "country": "FI",
+    "id": 656820,
+    "coord": {
+      "lat": 63.559151,
+      "lon": 27.19067
+    },
+    "name": "Iisalmi"
+  },
+  {
+    "country": "FI",
+    "id": 656913,
+    "coord": {
+      "lat": 60.633331,
+      "lon": 24.866671
+    },
+    "name": "Hyvinkaa"
+  },
+  {
+    "country": "FI",
+    "id": 659180,
+    "coord": {
+      "lat": 60.99596,
+      "lon": 24.46434
+    },
+    "name": "Hameenlinna"
+  },
+  {
+    "country": "FI",
+    "id": 659935,
+    "coord": {
+      "lat": 60.814621,
+      "lon": 23.62146
+    },
+    "name": "Forssa"
+  },
+  {
+    "country": "FI",
+    "id": 660158,
+    "coord": {
+      "lat": 60.2052,
+      "lon": 24.652201
+    },
+    "name": "Espoo"
+  },
+  {
+    "country": "FI",
+    "id": 660561,
+    "coord": {
+      "lat": 60.39233,
+      "lon": 25.66507
+    },
+    "name": "Porvoo"
+  },
+  {
+    "country": "FI",
+    "id": 630736,
+    "coord": {
+      "lat": 60.799999,
+      "lon": 23.283331
+    },
+    "name": "Ypaejae"
+  },
+  {
+    "country": "FI",
+    "id": 630768,
+    "coord": {
+      "lat": 64.083328,
+      "lon": 24.549999
+    },
+    "name": "Ylivieska"
+  },
+  {
+    "country": "FI",
+    "id": 630779,
+    "coord": {
+      "lat": 66.308929,
+      "lon": 23.67734
+    },
+    "name": "Ylitornio"
+  },
+  {
+    "country": "FI",
+    "id": 630918,
+    "coord": {
+      "lat": 65.083328,
+      "lon": 26.25
+    },
+    "name": "Ylikiiminki"
+  },
+  {
+    "country": "FI",
+    "id": 630952,
+    "coord": {
+      "lat": 65.366669,
+      "lon": 25.83333
+    },
+    "name": "Yli-Ii"
+  },
+  {
+    "country": "FI",
+    "id": 640829,
+    "coord": {
+      "lat": 60.75,
+      "lon": 22.66667
+    },
+    "name": "Pöytyä"
+  },
+  {
+    "country": "FI",
+    "id": 630998,
+    "coord": {
+      "lat": 60.883331,
+      "lon": 22.41667
+    },
+    "name": "Ylane"
+  },
+  {
+    "country": "FI",
+    "id": 631003,
+    "coord": {
+      "lat": 60.799999,
+      "lon": 28
+    },
+    "name": "Ylamaa"
+  },
+  {
+    "country": "FI",
+    "id": 631191,
+    "coord": {
+      "lat": 64.183327,
+      "lon": 27.01667
+    },
+    "name": "Vuolijoki"
+  },
+  {
+    "country": "FI",
+    "id": 8128759,
+    "coord": {
+      "lat": 63.13047,
+      "lon": 22.249371
+    },
+    "name": "Vöyri"
+  },
+  {
+    "country": "FI",
+    "id": 631254,
+    "coord": {
+      "lat": 63.13607,
+      "lon": 22.25223
+    },
+    "name": "Voera"
+  },
+  {
+    "country": "FI",
+    "id": 631358,
+    "coord": {
+      "lat": 62.150002,
+      "lon": 27.466669
+    },
+    "name": "Virtasalmi"
+  },
+  {
+    "country": "FI",
+    "id": 631377,
+    "coord": {
+      "lat": 62.25,
+      "lon": 23.66667
+    },
+    "name": "Virrat"
+  },
+  {
+    "country": "FI",
+    "id": 631376,
+    "coord": {
+      "lat": 62.247589,
+      "lon": 23.780041
+    },
+    "name": "Virrat"
+  },
+  {
+    "country": "FI",
+    "id": 631449,
+    "coord": {
+      "lat": 63.166672,
+      "lon": 23.91667
+    },
+    "name": "Vimpeli"
+  },
+  {
+    "country": "FI",
+    "id": 631448,
+    "coord": {
+      "lat": 63.150002,
+      "lon": 23.799999
+    },
+    "name": "Vimpeli"
+  },
+  {
+    "country": "FI",
+    "id": 631459,
+    "coord": {
+      "lat": 62.02121,
+      "lon": 24.504829
+    },
+    "name": "Vilppula"
+  },
+  {
+    "country": "FI",
+    "id": 631511,
+    "coord": {
+      "lat": 61.700001,
+      "lon": 23.26667
+    },
+    "name": "Viljakkala"
+  },
+  {
+    "country": "FI",
+    "id": 631560,
+    "coord": {
+      "lat": 63.066669,
+      "lon": 25.866671
+    },
+    "name": "Viitasaari"
+  },
+  {
+    "country": "FI",
+    "id": 8128757,
+    "coord": {
+      "lat": 61.167381,
+      "lon": 23.86582
+    },
+    "name": "Akaa"
+  },
+  {
+    "country": "FI",
+    "id": 631693,
+    "coord": {
+      "lat": 61.210232,
+      "lon": 23.76738
+    },
+    "name": "Viiala"
+  },
+  {
+    "country": "FI",
+    "id": 631780,
+    "coord": {
+      "lat": 63.833328,
+      "lon": 27.08333
+    },
+    "name": "Vieremä"
+  },
+  {
+    "country": "FI",
+    "id": 631778,
+    "coord": {
+      "lat": 63.75,
+      "lon": 27.01667
+    },
+    "name": "Vierema"
+  },
+  {
+    "country": "FI",
+    "id": 631827,
+    "coord": {
+      "lat": 63.416672,
+      "lon": 23.91667
+    },
+    "name": "Veteli"
+  },
+  {
+    "country": "FI",
+    "id": 631825,
+    "coord": {
+      "lat": 63.47839,
+      "lon": 23.78285
+    },
+    "name": "Veteli"
+  },
+  {
+    "country": "FI",
+    "id": 631857,
+    "coord": {
+      "lat": 61.25,
+      "lon": 23.5
+    },
+    "name": "Vesilahti"
+  },
+  {
+    "country": "FI",
+    "id": 631856,
+    "coord": {
+      "lat": 61.316669,
+      "lon": 23.616671
+    },
+    "name": "Vesilahti"
+  },
+  {
+    "country": "FI",
+    "id": 631875,
+    "coord": {
+      "lat": 62.916672,
+      "lon": 26.5
+    },
+    "name": "Vesanto"
+  },
+  {
+    "country": "FI",
+    "id": 631873,
+    "coord": {
+      "lat": 62.933331,
+      "lon": 26.41667
+    },
+    "name": "Vesanto"
+  },
+  {
+    "country": "FI",
+    "id": 631994,
+    "coord": {
+      "lat": 60.466671,
+      "lon": 21.66667
+    },
+    "name": "Velkua"
+  },
+  {
+    "country": "FI",
+    "id": 632041,
+    "coord": {
+      "lat": 62.761009,
+      "lon": 28.02853
+    },
+    "name": "Vehmersalmi"
+  },
+  {
+    "country": "FI",
+    "id": 632063,
+    "coord": {
+      "lat": 60.666672,
+      "lon": 21.66667
+    },
+    "name": "Vehmaa"
+  },
+  {
+    "country": "FI",
+    "id": 632062,
+    "coord": {
+      "lat": 60.683331,
+      "lon": 21.66667
+    },
+    "name": "Vehmaa"
+  },
+  {
+    "country": "FI",
+    "id": 632225,
+    "coord": {
+      "lat": 60.049999,
+      "lon": 22.683331
+    },
+    "name": "Vastanfjard"
+  },
+  {
+    "country": "FI",
+    "id": 648957,
+    "coord": {
+      "lat": 63.333328,
+      "lon": 27.41667
+    },
+    "name": "Lapinlahti"
+  },
+  {
+    "country": "FI",
+    "id": 632361,
+    "coord": {
+      "lat": 63.366669,
+      "lon": 27.75
+    },
+    "name": "Varpaisjarvi"
+  },
+  {
+    "country": "FI",
+    "id": 657181,
+    "coord": {
+      "lat": 61.166672,
+      "lon": 22.75
+    },
+    "name": "Huittinen"
+  },
+  {
+    "country": "FI",
+    "id": 632539,
+    "coord": {
+      "lat": 61.01667,
+      "lon": 22.700001
+    },
+    "name": "Vampula"
+  },
+  {
+    "country": "FI",
+    "id": 8128755,
+    "coord": {
+      "lat": 61.34058,
+      "lon": 22.91164
+    },
+    "name": "Sastamala"
+  },
+  {
+    "country": "FI",
+    "id": 632542,
+    "coord": {
+      "lat": 61.333328,
+      "lon": 22.9
+    },
+    "name": "Vammala"
+  },
+  {
+    "country": "FI",
+    "id": 632553,
+    "coord": {
+      "lat": 63.75,
+      "lon": 28.83333
+    },
+    "name": "Valtimo"
+  },
+  {
+    "country": "FI",
+    "id": 632552,
+    "coord": {
+      "lat": 63.666672,
+      "lon": 28.799999
+    },
+    "name": "Valtimo"
+  },
+  {
+    "country": "FI",
+    "id": 632669,
+    "coord": {
+      "lat": 60.950001,
+      "lon": 26.799999
+    },
+    "name": "Valkeala"
+  },
+  {
+    "country": "FI",
+    "id": 638671,
+    "coord": {
+      "lat": 60.549999,
+      "lon": 22.25
+    },
+    "name": "Rusko"
+  },
+  {
+    "country": "FI",
+    "id": 632860,
+    "coord": {
+      "lat": 60.599998,
+      "lon": 22.299999
+    },
+    "name": "Vahto"
+  },
+  {
+    "country": "FI",
+    "id": 632924,
+    "coord": {
+      "lat": 63.083328,
+      "lon": 22.08333
+    },
+    "name": "Vähäkyrö"
+  },
+  {
+    "country": "FI",
+    "id": 632923,
+    "coord": {
+      "lat": 63.056351,
+      "lon": 22.105841
+    },
+    "name": "Vahakyro"
+  },
+  {
+    "country": "FI",
+    "id": 633098,
+    "coord": {
+      "lat": 64.5,
+      "lon": 27
+    },
+    "name": "Vaala"
+  },
+  {
+    "country": "FI",
+    "id": 633096,
+    "coord": {
+      "lat": 64.566673,
+      "lon": 26.83333
+    },
+    "name": "Vaala"
+  },
+  {
+    "country": "FI",
+    "id": 633244,
+    "coord": {
+      "lat": 62.466671,
+      "lon": 25.5
+    },
+    "name": "Uurainen"
+  },
+  {
+    "country": "FI",
+    "id": 633242,
+    "coord": {
+      "lat": 62.5,
+      "lon": 25.450001
+    },
+    "name": "Uurainen"
+  },
+  {
+    "country": "FI",
+    "id": 633269,
+    "coord": {
+      "lat": 69.666672,
+      "lon": 27
+    },
+    "name": "Utsjoki"
+  },
+  {
+    "country": "FI",
+    "id": 633268,
+    "coord": {
+      "lat": 69.908638,
+      "lon": 27.028431
+    },
+    "name": "Utsjoki"
+  },
+  {
+    "country": "FI",
+    "id": 633295,
+    "coord": {
+      "lat": 64.75,
+      "lon": 26.383329
+    },
+    "name": "Utajarvi"
+  },
+  {
+    "country": "FI",
+    "id": 633333,
+    "coord": {
+      "lat": 61.083328,
+      "lon": 23.41667
+    },
+    "name": "Urjala"
+  },
+  {
+    "country": "FI",
+    "id": 633332,
+    "coord": {
+      "lat": 61.083328,
+      "lon": 23.533331
+    },
+    "name": "Urjala"
+  },
+  {
+    "country": "FI",
+    "id": 633396,
+    "coord": {
+      "lat": 61.416672,
+      "lon": 21.91667
+    },
+    "name": "Ulvila"
+  },
+  {
+    "country": "FI",
+    "id": 633395,
+    "coord": {
+      "lat": 61.42844,
+      "lon": 21.871031
+    },
+    "name": "Ulvila"
+  },
+  {
+    "country": "FI",
+    "id": 633542,
+    "coord": {
+      "lat": 64.75,
+      "lon": 25.83333
+    },
+    "name": "Tyrnävä"
+  },
+  {
+    "country": "FI",
+    "id": 633541,
+    "coord": {
+      "lat": 64.764687,
+      "lon": 25.6523
+    },
+    "name": "Tyrnava"
+  },
+  {
+    "country": "FI",
+    "id": 633594,
+    "coord": {
+      "lat": 62.799999,
+      "lon": 28.58333
+    },
+    "name": "Tuusniemi"
+  },
+  {
+    "country": "FI",
+    "id": 633593,
+    "coord": {
+      "lat": 62.816669,
+      "lon": 28.5
+    },
+    "name": "Tuusniemi"
+  },
+  {
+    "country": "FI",
+    "id": 633611,
+    "coord": {
+      "lat": 62.48333,
+      "lon": 30.6
+    },
+    "name": "Tuupovaara"
+  },
+  {
+    "country": "FI",
+    "id": 633619,
+    "coord": {
+      "lat": 61.150002,
+      "lon": 24.799999
+    },
+    "name": "Tuulos"
+  },
+  {
+    "country": "FI",
+    "id": 634009,
+    "coord": {
+      "lat": 62.633331,
+      "lon": 23.883329
+    },
+    "name": "Töysä"
+  },
+  {
+    "country": "FI",
+    "id": 634008,
+    "coord": {
+      "lat": 62.633331,
+      "lon": 23.816669
+    },
+    "name": "Toysa"
+  },
+  {
+    "country": "FI",
+    "id": 634298,
+    "coord": {
+      "lat": 62.083328,
+      "lon": 26.08333
+    },
+    "name": "Toivakka"
+  },
+  {
+    "country": "FI",
+    "id": 634297,
+    "coord": {
+      "lat": 62.099998,
+      "lon": 26.08333
+    },
+    "name": "Toivakka"
+  },
+  {
+    "country": "FI",
+    "id": 634317,
+    "coord": {
+      "lat": 61.166672,
+      "lon": 23.866671
+    },
+    "name": "Akaa"
+  },
+  {
+    "country": "FI",
+    "id": 634325,
+    "coord": {
+      "lat": 63.75,
+      "lon": 24.25
+    },
+    "name": "Toholampi"
+  },
+  {
+    "country": "FI",
+    "id": 634324,
+    "coord": {
+      "lat": 63.76667,
+      "lon": 24.25
+    },
+    "name": "Toholampi"
+  },
+  {
+    "country": "FI",
+    "id": 634333,
+    "coord": {
+      "lat": 62.25,
+      "lon": 30.33333
+    },
+    "name": "Tohmajärvi"
+  },
+  {
+    "country": "FI",
+    "id": 634331,
+    "coord": {
+      "lat": 62.183331,
+      "lon": 30.383329
+    },
+    "name": "Tohmajarvi"
+  },
+  {
+    "country": "FI",
+    "id": 634562,
+    "coord": {
+      "lat": 62.5,
+      "lon": 21.83333
+    },
+    "name": "Teuva"
+  },
+  {
+    "country": "FI",
+    "id": 634561,
+    "coord": {
+      "lat": 62.481899,
+      "lon": 21.74156
+    },
+    "name": "Teuva"
+  },
+  {
+    "country": "FI",
+    "id": 634602,
+    "coord": {
+      "lat": 66.166672,
+      "lon": 25
+    },
+    "name": "Tervola"
+  },
+  {
+    "country": "FI",
+    "id": 634592,
+    "coord": {
+      "lat": 66.083328,
+      "lon": 24.799999
+    },
+    "name": "Tervola"
+  },
+  {
+    "country": "FI",
+    "id": 634612,
+    "coord": {
+      "lat": 63,
+      "lon": 26.83333
+    },
+    "name": "Tervo"
+  },
+  {
+    "country": "FI",
+    "id": 634604,
+    "coord": {
+      "lat": 62.950001,
+      "lon": 26.75
+    },
+    "name": "Tervo"
+  },
+  {
+    "country": "FI",
+    "id": 634651,
+    "coord": {
+      "lat": 60.799999,
+      "lon": 24.616671
+    },
+    "name": "Tervakoski"
+  },
+  {
+    "country": "FI",
+    "id": 634852,
+    "coord": {
+      "lat": 60.583328,
+      "lon": 22.75
+    },
+    "name": "Tarvasjoki"
+  },
+  {
+    "country": "FI",
+    "id": 634851,
+    "coord": {
+      "lat": 60.583328,
+      "lon": 22.73333
+    },
+    "name": "Tarvasjoki"
+  },
+  {
+    "country": "FI",
+    "id": 634996,
+    "coord": {
+      "lat": 60.75,
+      "lon": 23.83333
+    },
+    "name": "Tammela"
+  },
+  {
+    "country": "FI",
+    "id": 634992,
+    "coord": {
+      "lat": 60.810349,
+      "lon": 23.76823
+    },
+    "name": "Tammela"
+  },
+  {
+    "country": "FI",
+    "id": 635133,
+    "coord": {
+      "lat": 60.583328,
+      "lon": 21.58333
+    },
+    "name": "Taivassalo"
+  },
+  {
+    "country": "FI",
+    "id": 635130,
+    "coord": {
+      "lat": 60.560848,
+      "lon": 21.61639
+    },
+    "name": "Taivassalo"
+  },
+  {
+    "country": "FI",
+    "id": 635142,
+    "coord": {
+      "lat": 65.5,
+      "lon": 28.25
+    },
+    "name": "Taivalkoski"
+  },
+  {
+    "country": "FI",
+    "id": 635141,
+    "coord": {
+      "lat": 65.566673,
+      "lon": 28.25
+    },
+    "name": "Taivalkoski"
+  },
+  {
+    "country": "FI",
+    "id": 635151,
+    "coord": {
+      "lat": 61.25,
+      "lon": 28.08333
+    },
+    "name": "Taipalsaari"
+  },
+  {
+    "country": "FI",
+    "id": 635150,
+    "coord": {
+      "lat": 61.150002,
+      "lon": 28.049999
+    },
+    "name": "Taipalsaari"
+  },
+  {
+    "country": "FI",
+    "id": 635336,
+    "coord": {
+      "lat": 61.5,
+      "lon": 25.683331
+    },
+    "name": "Sysma"
+  },
+  {
+    "country": "FI",
+    "id": 635693,
+    "coord": {
+      "lat": 62.583328,
+      "lon": 27.16667
+    },
+    "name": "Suonenjoki"
+  },
+  {
+    "country": "FI",
+    "id": 635692,
+    "coord": {
+      "lat": 62.616669,
+      "lon": 27.133329
+    },
+    "name": "Suonenjoki"
+  },
+  {
+    "country": "FI",
+    "id": 635697,
+    "coord": {
+      "lat": 65,
+      "lon": 29
+    },
+    "name": "Suomussalmi"
+  },
+  {
+    "country": "FI",
+    "id": 635696,
+    "coord": {
+      "lat": 64.886848,
+      "lon": 28.90778
+    },
+    "name": "Suomussalmi"
+  },
+  {
+    "country": "FI",
+    "id": 635712,
+    "coord": {
+      "lat": 61.333328,
+      "lon": 27.33333
+    },
+    "name": "Suomenniemi"
+  },
+  {
+    "country": "FI",
+    "id": 635710,
+    "coord": {
+      "lat": 61.316669,
+      "lon": 27.450001
+    },
+    "name": "Suomenniemi"
+  },
+  {
+    "country": "FI",
+    "id": 635780,
+    "coord": {
+      "lat": 61.566669,
+      "lon": 22.783331
+    },
+    "name": "Suodenniemi"
+  },
+  {
+    "country": "FI",
+    "id": 635826,
+    "coord": {
+      "lat": 62.650002,
+      "lon": 26.033331
+    },
+    "name": "Sumiainen"
+  },
+  {
+    "country": "FI",
+    "id": 635844,
+    "coord": {
+      "lat": 61.786911,
+      "lon": 28.37299
+    },
+    "name": "Sulkava"
+  },
+  {
+    "country": "FI",
+    "id": 636174,
+    "coord": {
+      "lat": 64,
+      "lon": 28.5
+    },
+    "name": "Sotkamo"
+  },
+  {
+    "country": "FI",
+    "id": 636173,
+    "coord": {
+      "lat": 64.133331,
+      "lon": 28.41667
+    },
+    "name": "Sotkamo"
+  },
+  {
+    "country": "FI",
+    "id": 636305,
+    "coord": {
+      "lat": 63.75,
+      "lon": 27.75
+    },
+    "name": "Sonkajärvi"
+  },
+  {
+    "country": "FI",
+    "id": 636301,
+    "coord": {
+      "lat": 63.666672,
+      "lon": 27.51667
+    },
+    "name": "Sonkajarvi"
+  },
+  {
+    "country": "FI",
+    "id": 636347,
+    "coord": {
+      "lat": 60.583328,
+      "lon": 23.41667
+    },
+    "name": "Somero"
+  },
+  {
+    "country": "FI",
+    "id": 636345,
+    "coord": {
+      "lat": 60.616669,
+      "lon": 23.533331
+    },
+    "name": "Somero"
+  },
+  {
+    "country": "FI",
+    "id": 636397,
+    "coord": {
+      "lat": 62.833328,
+      "lon": 24.25
+    },
+    "name": "Soini"
+  },
+  {
+    "country": "FI",
+    "id": 636393,
+    "coord": {
+      "lat": 62.866669,
+      "lon": 24.216669
+    },
+    "name": "Soini"
+  },
+  {
+    "country": "FI",
+    "id": 636464,
+    "coord": {
+      "lat": 67.416672,
+      "lon": 26.6
+    },
+    "name": "Sodankyla"
+  },
+  {
+    "country": "FI",
+    "id": 636608,
+    "coord": {
+      "lat": 60.138618,
+      "lon": 24.22715
+    },
+    "name": "Siuntio"
+  },
+  {
+    "country": "FI",
+    "id": 636802,
+    "coord": {
+      "lat": 65.666672,
+      "lon": 25.049999
+    },
+    "name": "Simo"
+  },
+  {
+    "country": "FI",
+    "id": 637003,
+    "coord": {
+      "lat": 64.75,
+      "lon": 24.75
+    },
+    "name": "Siikajoki"
+  },
+  {
+    "country": "FI",
+    "id": 637002,
+    "coord": {
+      "lat": 64.814552,
+      "lon": 24.759239
+    },
+    "name": "Siikajoki"
+  },
+  {
+    "country": "FI",
+    "id": 637021,
+    "coord": {
+      "lat": 61.883331,
+      "lon": 21.91667
+    },
+    "name": "Siikainen"
+  },
+  {
+    "country": "FI",
+    "id": 637020,
+    "coord": {
+      "lat": 61.877029,
+      "lon": 21.81945
+    },
+    "name": "Siikainen"
+  },
+  {
+    "country": "FI",
+    "id": 637035,
+    "coord": {
+      "lat": 63.900002,
+      "lon": 24.5
+    },
+    "name": "Sievi"
+  },
+  {
+    "country": "FI",
+    "id": 637247,
+    "coord": {
+      "lat": 62.133331,
+      "lon": 25.76667
+    },
+    "name": "Saeynaetsalo"
+  },
+  {
+    "country": "FI",
+    "id": 637285,
+    "coord": {
+      "lat": 67.666672,
+      "lon": 28.5
+    },
+    "name": "Savukoski"
+  },
+  {
+    "country": "FI",
+    "id": 637284,
+    "coord": {
+      "lat": 67.292503,
+      "lon": 28.15806
+    },
+    "name": "Savukoski"
+  },
+  {
+    "country": "FI",
+    "id": 637288,
+    "coord": {
+      "lat": 62.183331,
+      "lon": 29.200001
+    },
+    "name": "Savonranta"
+  },
+  {
+    "country": "FI",
+    "id": 637312,
+    "coord": {
+      "lat": 61.200001,
+      "lon": 27.700001
+    },
+    "name": "Savitaipale"
+  },
+  {
+    "country": "FI",
+    "id": 637401,
+    "coord": {
+      "lat": 60.333328,
+      "lon": 22.75
+    },
+    "name": "Sauvo"
+  },
+  {
+    "country": "FI",
+    "id": 637400,
+    "coord": {
+      "lat": 60.34306,
+      "lon": 22.696421
+    },
+    "name": "Sauvo"
+  },
+  {
+    "country": "FI",
+    "id": 637586,
+    "coord": {
+      "lat": 60.113892,
+      "lon": 22.950001
+    },
+    "name": "Sarkisalo"
+  },
+  {
+    "country": "FI",
+    "id": 637835,
+    "coord": {
+      "lat": 60.316669,
+      "lon": 23.816669
+    },
+    "name": "Sammatti"
+  },
+  {
+    "country": "FI",
+    "id": 638074,
+    "coord": {
+      "lat": 66.833328,
+      "lon": 28.66667
+    },
+    "name": "Salla"
+  },
+  {
+    "country": "FI",
+    "id": 638105,
+    "coord": {
+      "lat": 61,
+      "lon": 22.41667
+    },
+    "name": "Säkylä"
+  },
+  {
+    "country": "FI",
+    "id": 638104,
+    "coord": {
+      "lat": 61.033329,
+      "lon": 22.33333
+    },
+    "name": "Sakyla"
+  },
+  {
+    "country": "FI",
+    "id": 638210,
+    "coord": {
+      "lat": 61.466671,
+      "lon": 24.316669
+    },
+    "name": "Sahalahti"
+  },
+  {
+    "country": "FI",
+    "id": 638390,
+    "coord": {
+      "lat": 62.666672,
+      "lon": 25.25
+    },
+    "name": "Saarijärvi"
+  },
+  {
+    "country": "FI",
+    "id": 638321,
+    "coord": {
+      "lat": 62.716671,
+      "lon": 25.26667
+    },
+    "name": "Saarijarvi"
+  },
+  {
+    "country": "FI",
+    "id": 638398,
+    "coord": {
+      "lat": 61.650002,
+      "lon": 29.75
+    },
+    "name": "Saari"
+  },
+  {
+    "country": "FI",
+    "id": 638582,
+    "coord": {
+      "lat": 60.376579,
+      "lon": 21.941839
+    },
+    "name": "Rymattyla"
+  },
+  {
+    "country": "FI",
+    "id": 638622,
+    "coord": {
+      "lat": 64.666672,
+      "lon": 25.1
+    },
+    "name": "Ruukki"
+  },
+  {
+    "country": "FI",
+    "id": 638693,
+    "coord": {
+      "lat": 62,
+      "lon": 24
+    },
+    "name": "Ruovesi"
+  },
+  {
+    "country": "FI",
+    "id": 638691,
+    "coord": {
+      "lat": 61.985748,
+      "lon": 24.05714
+    },
+    "name": "Ruovesi"
+  },
+  {
+    "country": "FI",
+    "id": 647572,
+    "coord": {
+      "lat": 60.450001,
+      "lon": 26.23333
+    },
+    "name": "Loviisa"
+  },
+  {
+    "country": "FI",
+    "id": 638711,
+    "coord": {
+      "lat": 60.526798,
+      "lon": 26.46203
+    },
+    "name": "Ruotsinpyhtaeae"
+  },
+  {
+    "country": "FI",
+    "id": 638804,
+    "coord": {
+      "lat": 61.333328,
+      "lon": 28.75
+    },
+    "name": "Ruokolahti"
+  },
+  {
+    "country": "FI",
+    "id": 638803,
+    "coord": {
+      "lat": 61.283329,
+      "lon": 28.83333
+    },
+    "name": "Ruokolahti"
+  },
+  {
+    "country": "FI",
+    "id": 639247,
+    "coord": {
+      "lat": 64.5,
+      "lon": 28.5
+    },
+    "name": "Ristijärvi"
+  },
+  {
+    "country": "FI",
+    "id": 639234,
+    "coord": {
+      "lat": 64.5,
+      "lon": 28.216669
+    },
+    "name": "Ristijarvi"
+  },
+  {
+    "country": "FI",
+    "id": 639248,
+    "coord": {
+      "lat": 61.5,
+      "lon": 27.26667
+    },
+    "name": "Ristiina"
+  },
+  {
+    "country": "FI",
+    "id": 639522,
+    "coord": {
+      "lat": 63.25,
+      "lon": 21.41667
+    },
+    "name": "Replot"
+  },
+  {
+    "country": "FI",
+    "id": 639534,
+    "coord": {
+      "lat": 60.89563,
+      "lon": 24.287849
+    },
+    "name": "Renko"
+  },
+  {
+    "country": "FI",
+    "id": 639578,
+    "coord": {
+      "lat": 63.583328,
+      "lon": 25
+    },
+    "name": "Reisjärvi"
+  },
+  {
+    "country": "FI",
+    "id": 639576,
+    "coord": {
+      "lat": 63.616669,
+      "lon": 24.9
+    },
+    "name": "Reisjarvi"
+  },
+  {
+    "country": "FI",
+    "id": 639672,
+    "coord": {
+      "lat": 61.333328,
+      "lon": 29.16667
+    },
+    "name": "Rautjärvi"
+  },
+  {
+    "country": "FI",
+    "id": 639666,
+    "coord": {
+      "lat": 61.433331,
+      "lon": 29.35
+    },
+    "name": "Rautjarvi"
+  },
+  {
+    "country": "FI",
+    "id": 639701,
+    "coord": {
+      "lat": 63.5,
+      "lon": 28.33333
+    },
+    "name": "Rautavaara"
+  },
+  {
+    "country": "FI",
+    "id": 639700,
+    "coord": {
+      "lat": 63.48333,
+      "lon": 28.299999
+    },
+    "name": "Rautavaara"
+  },
+  {
+    "country": "FI",
+    "id": 639711,
+    "coord": {
+      "lat": 62.666672,
+      "lon": 26.75
+    },
+    "name": "Rautalampi"
+  },
+  {
+    "country": "FI",
+    "id": 639709,
+    "coord": {
+      "lat": 62.633331,
+      "lon": 26.83333
+    },
+    "name": "Rautalampi"
+  },
+  {
+    "country": "FI",
+    "id": 639890,
+    "coord": {
+      "lat": 66,
+      "lon": 26.5
+    },
+    "name": "Ranua"
+  },
+  {
+    "country": "FI",
+    "id": 639888,
+    "coord": {
+      "lat": 65.916672,
+      "lon": 26.533331
+    },
+    "name": "Ranua"
+  },
+  {
+    "country": "FI",
+    "id": 8128756,
+    "coord": {
+      "lat": 64.267776,
+      "lon": 25.85821
+    },
+    "name": "Siikalatva"
+  },
+  {
+    "country": "FI",
+    "id": 639895,
+    "coord": {
+      "lat": 64.51667,
+      "lon": 25.65
+    },
+    "name": "Rantsila"
+  },
+  {
+    "country": "FI",
+    "id": 639907,
+    "coord": {
+      "lat": 62.083328,
+      "lon": 28.33333
+    },
+    "name": "Rantasalmi"
+  },
+  {
+    "country": "FI",
+    "id": 639906,
+    "coord": {
+      "lat": 62.066669,
+      "lon": 28.299999
+    },
+    "name": "Rantasalmi"
+  },
+  {
+    "country": "FI",
+    "id": 640272,
+    "coord": {
+      "lat": 62.25,
+      "lon": 29.66667
+    },
+    "name": "Rääkkylä"
+  },
+  {
+    "country": "FI",
+    "id": 640271,
+    "coord": {
+      "lat": 62.316669,
+      "lon": 29.616671
+    },
+    "name": "Raakkyla"
+  },
+  {
+    "country": "FI",
+    "id": 640372,
+    "coord": {
+      "lat": 62.666672,
+      "lon": 24.799999
+    },
+    "name": "Pylkonmaki"
+  },
+  {
+    "country": "FI",
+    "id": 640385,
+    "coord": {
+      "lat": 60.5,
+      "lon": 26.66667
+    },
+    "name": "Pyttis"
+  },
+  {
+    "country": "FI",
+    "id": 640384,
+    "coord": {
+      "lat": 60.493488,
+      "lon": 26.543461
+    },
+    "name": "Pyhtaa"
+  },
+  {
+    "country": "FI",
+    "id": 640398,
+    "coord": {
+      "lat": 62.433331,
+      "lon": 29.966669
+    },
+    "name": "Pyhaselka"
+  },
+  {
+    "country": "FI",
+    "id": 640406,
+    "coord": {
+      "lat": 61,
+      "lon": 21.41667
+    },
+    "name": "Pyhäranta"
+  },
+  {
+    "country": "FI",
+    "id": 640405,
+    "coord": {
+      "lat": 60.950001,
+      "lon": 21.450001
+    },
+    "name": "Pyharanta"
+  },
+  {
+    "country": "FI",
+    "id": 640410,
+    "coord": {
+      "lat": 64.083328,
+      "lon": 26.5
+    },
+    "name": "Pyhäntä"
+  },
+  {
+    "country": "FI",
+    "id": 640409,
+    "coord": {
+      "lat": 64.099998,
+      "lon": 26.316669
+    },
+    "name": "Pyhanta"
+  },
+  {
+    "country": "FI",
+    "id": 640439,
+    "coord": {
+      "lat": 64.416672,
+      "lon": 24.41667
+    },
+    "name": "Pyhäjoki"
+  },
+  {
+    "country": "FI",
+    "id": 640437,
+    "coord": {
+      "lat": 64.466667,
+      "lon": 24.23333
+    },
+    "name": "Pyhajoki"
+  },
+  {
+    "country": "FI",
+    "id": 642378,
+    "coord": {
+      "lat": 67.166672,
+      "lon": 27.5
+    },
+    "name": "Pelkosenniemi"
+  },
+  {
+    "country": "FI",
+    "id": 640440,
+    "coord": {
+      "lat": 67.071388,
+      "lon": 27.215561
+    },
+    "name": "Pyhajarvi"
+  },
+  {
+    "country": "FI",
+    "id": 640471,
+    "coord": {
+      "lat": 63.666672,
+      "lon": 26
+    },
+    "name": "Pyhäjärvi"
+  },
+  {
+    "country": "FI",
+    "id": 640441,
+    "coord": {
+      "lat": 63.666672,
+      "lon": 25.9
+    },
+    "name": "Pyhaejaervi"
+  },
+  {
+    "country": "FI",
+    "id": 640504,
+    "coord": {
+      "lat": 61.527279,
+      "lon": 28.17495
+    },
+    "name": "Puumala"
+  },
+  {
+    "country": "FI",
+    "id": 640660,
+    "coord": {
+      "lat": 64.833328,
+      "lon": 27.83333
+    },
+    "name": "Puolanka"
+  },
+  {
+    "country": "FI",
+    "id": 640658,
+    "coord": {
+      "lat": 64.866669,
+      "lon": 27.66667
+    },
+    "name": "Puolanka"
+  },
+  {
+    "country": "FI",
+    "id": 640690,
+    "coord": {
+      "lat": 61.083328,
+      "lon": 23.16667
+    },
+    "name": "Punkalaidun"
+  },
+  {
+    "country": "FI",
+    "id": 640689,
+    "coord": {
+      "lat": 61.116669,
+      "lon": 23.1
+    },
+    "name": "Punkalaidun"
+  },
+  {
+    "country": "FI",
+    "id": 640694,
+    "coord": {
+      "lat": 61.75,
+      "lon": 29.41667
+    },
+    "name": "Punkaharju"
+  },
+  {
+    "country": "FI",
+    "id": 640693,
+    "coord": {
+      "lat": 61.758831,
+      "lon": 29.38843
+    },
+    "name": "Punkaharju"
+  },
+  {
+    "country": "FI",
+    "id": 640718,
+    "coord": {
+      "lat": 64.26667,
+      "lon": 25.866671
+    },
+    "name": "Pulkkila"
+  },
+  {
+    "country": "FI",
+    "id": 640753,
+    "coord": {
+      "lat": 60.666672,
+      "lon": 25.58333
+    },
+    "name": "Pukkila"
+  },
+  {
+    "country": "FI",
+    "id": 640749,
+    "coord": {
+      "lat": 60.650002,
+      "lon": 25.566669
+    },
+    "name": "Pukkila"
+  },
+  {
+    "country": "FI",
+    "id": 640803,
+    "coord": {
+      "lat": 65.383331,
+      "lon": 26.91667
+    },
+    "name": "Pudasjarvi"
+  },
+  {
+    "country": "FI",
+    "id": 640893,
+    "coord": {
+      "lat": 66.108559,
+      "lon": 28.17186
+    },
+    "name": "Posio"
+  },
+  {
+    "country": "FI",
+    "id": 640974,
+    "coord": {
+      "lat": 60.5,
+      "lon": 25.33333
+    },
+    "name": "Pornainen"
+  },
+  {
+    "country": "FI",
+    "id": 640973,
+    "coord": {
+      "lat": 60.475811,
+      "lon": 25.374901
+    },
+    "name": "Pornainen"
+  },
+  {
+    "country": "FI",
+    "id": 641045,
+    "coord": {
+      "lat": 61.700001,
+      "lon": 22
+    },
+    "name": "Pomarkku"
+  },
+  {
+    "country": "FI",
+    "id": 641044,
+    "coord": {
+      "lat": 61.693481,
+      "lon": 22.008619
+    },
+    "name": "Pomarkku"
+  },
+  {
+    "country": "FI",
+    "id": 641061,
+    "coord": {
+      "lat": 62.916672,
+      "lon": 29.33333
+    },
+    "name": "Polvijärvi"
+  },
+  {
+    "country": "FI",
+    "id": 641055,
+    "coord": {
+      "lat": 62.849998,
+      "lon": 29.366671
+    },
+    "name": "Polvijaervi"
+  },
+  {
+    "country": "FI",
+    "id": 8128754,
+    "coord": {
+      "lat": 59.97718,
+      "lon": 23.436331
+    },
+    "name": "Raasepori"
+  },
+  {
+    "country": "FI",
+    "id": 641124,
+    "coord": {
+      "lat": 60.09626,
+      "lon": 23.527571
+    },
+    "name": "Pohja"
+  },
+  {
+    "country": "FI",
+    "id": 641612,
+    "coord": {
+      "lat": 64.166672,
+      "lon": 25.966669
+    },
+    "name": "Piippola"
+  },
+  {
+    "country": "FI",
+    "id": 641651,
+    "coord": {
+      "lat": 60.424809,
+      "lon": 22.51601
+    },
+    "name": "Piikkio"
+  },
+  {
+    "country": "FI",
+    "id": 641661,
+    "coord": {
+      "lat": 63.416672,
+      "lon": 25.66667
+    },
+    "name": "Pihtipudas"
+  },
+  {
+    "country": "FI",
+    "id": 641660,
+    "coord": {
+      "lat": 63.383331,
+      "lon": 25.566669
+    },
+    "name": "Pihtipudas"
+  },
+  {
+    "country": "FI",
+    "id": 641861,
+    "coord": {
+      "lat": 63.23333,
+      "lon": 26.75
+    },
+    "name": "Pielavesi"
+  },
+  {
+    "country": "FI",
+    "id": 641976,
+    "coord": {
+      "lat": 62.25,
+      "lon": 25.25
+    },
+    "name": "Petäjävesi"
+  },
+  {
+    "country": "FI",
+    "id": 641974,
+    "coord": {
+      "lat": 62.25,
+      "lon": 25.200001
+    },
+    "name": "Petajavesi"
+  },
+  {
+    "country": "FI",
+    "id": 642077,
+    "coord": {
+      "lat": 61.5,
+      "lon": 26.48333
+    },
+    "name": "Pertunmaa"
+  },
+  {
+    "country": "FI",
+    "id": 642093,
+    "coord": {
+      "lat": 60.433331,
+      "lon": 23.26667
+    },
+    "name": "Pertteli"
+  },
+  {
+    "country": "FI",
+    "id": 642113,
+    "coord": {
+      "lat": 60.200001,
+      "lon": 23.133329
+    },
+    "name": "Pernio"
+  },
+  {
+    "country": "FI",
+    "id": 642118,
+    "coord": {
+      "lat": 60.448689,
+      "lon": 26.03187
+    },
+    "name": "Perna"
+  },
+  {
+    "country": "FI",
+    "id": 642367,
+    "coord": {
+      "lat": 66.783333,
+      "lon": 23.91667
+    },
+    "name": "Pello"
+  },
+  {
+    "country": "FI",
+    "id": 642377,
+    "coord": {
+      "lat": 67.110832,
+      "lon": 27.510559
+    },
+    "name": "Pelkosenniemi"
+  },
+  {
+    "country": "FI",
+    "id": 642455,
+    "coord": {
+      "lat": 63.650002,
+      "lon": 22.683331
+    },
+    "name": "Pedersoere"
+  },
+  {
+    "country": "FI",
+    "id": 642657,
+    "coord": {
+      "lat": 62.01667,
+      "lon": 23.01667
+    },
+    "name": "Parkano"
+  },
+  {
+    "country": "FI",
+    "id": 642673,
+    "coord": {
+      "lat": 60.306721,
+      "lon": 22.30097
+    },
+    "name": "Pargas"
+  },
+  {
+    "country": "FI",
+    "id": 642751,
+    "coord": {
+      "lat": 64.416672,
+      "lon": 27.83333
+    },
+    "name": "Paltamo"
+  },
+  {
+    "country": "FI",
+    "id": 642750,
+    "coord": {
+      "lat": 64.416672,
+      "lon": 27.83333
+    },
+    "name": "Paltamo"
+  },
+  {
+    "country": "FI",
+    "id": 642977,
+    "coord": {
+      "lat": 61.333328,
+      "lon": 24.25
+    },
+    "name": "Pälkäne"
+  },
+  {
+    "country": "FI",
+    "id": 642976,
+    "coord": {
+      "lat": 61.33424,
+      "lon": 24.271971
+    },
+    "name": "Palkane"
+  },
+  {
+    "country": "FI",
+    "id": 643261,
+    "coord": {
+      "lat": 61.333328,
+      "lon": 25.25
+    },
+    "name": "Padasjoki"
+  },
+  {
+    "country": "FI",
+    "id": 643260,
+    "coord": {
+      "lat": 61.349998,
+      "lon": 25.283331
+    },
+    "name": "Padasjoki"
+  },
+  {
+    "country": "FI",
+    "id": 830266,
+    "coord": {
+      "lat": 62.700001,
+      "lon": 28.950001
+    },
+    "name": "Outokumpu"
+  },
+  {
+    "country": "FI",
+    "id": 643453,
+    "coord": {
+      "lat": 62.726849,
+      "lon": 29.015921
+    },
+    "name": "Outokumpu"
+  },
+  {
+    "country": "FI",
+    "id": 643481,
+    "coord": {
+      "lat": 64.934563,
+      "lon": 25.411209
+    },
+    "name": "Oulunsalo"
+  },
+  {
+    "country": "FI",
+    "id": 643498,
+    "coord": {
+      "lat": 64.25,
+      "lon": 24.91667
+    },
+    "name": "Oulainen"
+  },
+  {
+    "country": "FI",
+    "id": 643497,
+    "coord": {
+      "lat": 64.26667,
+      "lon": 24.799999
+    },
+    "name": "Oulainen"
+  },
+  {
+    "country": "FI",
+    "id": 649549,
+    "coord": {
+      "lat": 60.20076,
+      "lon": 24.80352
+    },
+    "name": "Laajalahti"
+  },
+  {
+    "country": "FI",
+    "id": 643522,
+    "coord": {
+      "lat": 60.183949,
+      "lon": 24.82786
+    },
+    "name": "Otaniemi"
+  },
+  {
+    "country": "FI",
+    "id": 643631,
+    "coord": {
+      "lat": 61.679939,
+      "lon": 24.358919
+    },
+    "name": "Orivesi"
+  },
+  {
+    "country": "FI",
+    "id": 643629,
+    "coord": {
+      "lat": 61.677662,
+      "lon": 24.357201
+    },
+    "name": "Orivesi"
+  },
+  {
+    "country": "FI",
+    "id": 643641,
+    "coord": {
+      "lat": 60.866669,
+      "lon": 22.700001
+    },
+    "name": "Oripää"
+  },
+  {
+    "country": "FI",
+    "id": 643640,
+    "coord": {
+      "lat": 60.849998,
+      "lon": 22.683331
+    },
+    "name": "Oripaa"
+  },
+  {
+    "country": "FI",
+    "id": 643645,
+    "coord": {
+      "lat": 60.804741,
+      "lon": 25.72998
+    },
+    "name": "Orimattila"
+  },
+  {
+    "country": "FI",
+    "id": 643644,
+    "coord": {
+      "lat": 60.804871,
+      "lon": 25.729639
+    },
+    "name": "Orimattila"
+  },
+  {
+    "country": "FI",
+    "id": 643681,
+    "coord": {
+      "lat": 63.30135,
+      "lon": 22.37821
+    },
+    "name": "Oravais"
+  },
+  {
+    "country": "FI",
+    "id": 644101,
+    "coord": {
+      "lat": 63.533329,
+      "lon": 22.533331
+    },
+    "name": "Nykarleby"
+  },
+  {
+    "country": "FI",
+    "id": 644100,
+    "coord": {
+      "lat": 63.52277,
+      "lon": 22.530729
+    },
+    "name": "Nykarleby"
+  },
+  {
+    "country": "FI",
+    "id": 644187,
+    "coord": {
+      "lat": 63.542049,
+      "lon": 29.13965
+    },
+    "name": "Nurmes"
+  },
+  {
+    "country": "FI",
+    "id": 644328,
+    "coord": {
+      "lat": 60.666672,
+      "lon": 22.16667
+    },
+    "name": "Nousiainen"
+  },
+  {
+    "country": "FI",
+    "id": 644326,
+    "coord": {
+      "lat": 60.60416,
+      "lon": 22.07926
+    },
+    "name": "Nousiainen"
+  },
+  {
+    "country": "FI",
+    "id": 644436,
+    "coord": {
+      "lat": 61.592739,
+      "lon": 21.86846
+    },
+    "name": "Noormarkku"
+  },
+  {
+    "country": "FI",
+    "id": 644499,
+    "coord": {
+      "lat": 63.916672,
+      "lon": 24.966669
+    },
+    "name": "Nivala"
+  },
+  {
+    "country": "FI",
+    "id": 644633,
+    "coord": {
+      "lat": 63.25,
+      "lon": 28.16667
+    },
+    "name": "Nilsiä"
+  },
+  {
+    "country": "FI",
+    "id": 644632,
+    "coord": {
+      "lat": 63.200001,
+      "lon": 28.08333
+    },
+    "name": "Nilsia"
+  },
+  {
+    "country": "FI",
+    "id": 645036,
+    "coord": {
+      "lat": 61,
+      "lon": 25.91667
+    },
+    "name": "Nastola"
+  },
+  {
+    "country": "FI",
+    "id": 645035,
+    "coord": {
+      "lat": 60.950001,
+      "lon": 25.933331
+    },
+    "name": "Nastola"
+  },
+  {
+    "country": "FI",
+    "id": 645082,
+    "coord": {
+      "lat": 62.472618,
+      "lon": 21.33622
+    },
+    "name": "Närpes"
+  },
+  {
+    "country": "FI",
+    "id": 645081,
+    "coord": {
+      "lat": 62.472832,
+      "lon": 21.33707
+    },
+    "name": "Naerpes"
+  },
+  {
+    "country": "FI",
+    "id": 645150,
+    "coord": {
+      "lat": 61.383331,
+      "lon": 21.91667
+    },
+    "name": "Nakkila"
+  },
+  {
+    "country": "FI",
+    "id": 645148,
+    "coord": {
+      "lat": 61.366669,
+      "lon": 22
+    },
+    "name": "Nakkila"
+  },
+  {
+    "country": "FI",
+    "id": 645211,
+    "coord": {
+      "lat": 60.467442,
+      "lon": 22.024281
+    },
+    "name": "Naantali"
+  },
+  {
+    "country": "FI",
+    "id": 645234,
+    "coord": {
+      "lat": 60.666672,
+      "lon": 25.83333
+    },
+    "name": "Mörskom"
+  },
+  {
+    "country": "FI",
+    "id": 645233,
+    "coord": {
+      "lat": 60.669651,
+      "lon": 25.8475
+    },
+    "name": "Myrskylae"
+  },
+  {
+    "country": "FI",
+    "id": 645244,
+    "coord": {
+      "lat": 60.666672,
+      "lon": 22
+    },
+    "name": "Mynämäki"
+  },
+  {
+    "country": "FI",
+    "id": 645243,
+    "coord": {
+      "lat": 60.67915,
+      "lon": 21.992741
+    },
+    "name": "Mynamaki"
+  },
+  {
+    "country": "FI",
+    "id": 645370,
+    "coord": {
+      "lat": 60.349998,
+      "lon": 23.283331
+    },
+    "name": "Muurla"
+  },
+  {
+    "country": "FI",
+    "id": 645385,
+    "coord": {
+      "lat": 62.133331,
+      "lon": 25.66667
+    },
+    "name": "Muurame"
+  },
+  {
+    "country": "FI",
+    "id": 645673,
+    "coord": {
+      "lat": 67.833328,
+      "lon": 23.83333
+    },
+    "name": "Muonio"
+  },
+  {
+    "country": "FI",
+    "id": 645672,
+    "coord": {
+      "lat": 67.949997,
+      "lon": 23.700001
+    },
+    "name": "Muonio"
+  },
+  {
+    "country": "FI",
+    "id": 645711,
+    "coord": {
+      "lat": 62.5,
+      "lon": 24.83333
+    },
+    "name": "Multia"
+  },
+  {
+    "country": "FI",
+    "id": 645710,
+    "coord": {
+      "lat": 62.416672,
+      "lon": 24.783331
+    },
+    "name": "Multia"
+  },
+  {
+    "country": "FI",
+    "id": 645765,
+    "coord": {
+      "lat": 64.807983,
+      "lon": 25.993139
+    },
+    "name": "Muhos"
+  },
+  {
+    "country": "FI",
+    "id": 645766,
+    "coord": {
+      "lat": 64.76667,
+      "lon": 26.1
+    },
+    "name": "Muhos"
+  },
+  {
+    "country": "FI",
+    "id": 645800,
+    "coord": {
+      "lat": 61.5,
+      "lon": 23.01667
+    },
+    "name": "Mouhijarvi"
+  },
+  {
+    "country": "FI",
+    "id": 646031,
+    "coord": {
+      "lat": 60.633331,
+      "lon": 21.933331
+    },
+    "name": "Mietoinen"
+  },
+  {
+    "country": "FI",
+    "id": 646080,
+    "coord": {
+      "lat": 60.75,
+      "lon": 27.583059
+    },
+    "name": "Miehikkälä"
+  },
+  {
+    "country": "FI",
+    "id": 646079,
+    "coord": {
+      "lat": 60.666672,
+      "lon": 27.700001
+    },
+    "name": "Miehikkala"
+  },
+  {
+    "country": "FI",
+    "id": 646193,
+    "coord": {
+      "lat": 61.916672,
+      "lon": 21.58333
+    },
+    "name": "Merikarvia"
+  },
+  {
+    "country": "FI",
+    "id": 646192,
+    "coord": {
+      "lat": 61.858391,
+      "lon": 21.500351
+    },
+    "name": "Merikarvia"
+  },
+  {
+    "country": "FI",
+    "id": 646198,
+    "coord": {
+      "lat": 64.300003,
+      "lon": 24.5
+    },
+    "name": "Merijärvi"
+  },
+  {
+    "country": "FI",
+    "id": 646195,
+    "coord": {
+      "lat": 64.300003,
+      "lon": 24.450001
+    },
+    "name": "Merijarvi"
+  },
+  {
+    "country": "FI",
+    "id": 647732,
+    "coord": {
+      "lat": 60.866669,
+      "lon": 23.049999
+    },
+    "name": "Loimaa"
+  },
+  {
+    "country": "FI",
+    "id": 646220,
+    "coord": {
+      "lat": 60.76667,
+      "lon": 22.950001
+    },
+    "name": "Mellila"
+  },
+  {
+    "country": "FI",
+    "id": 646486,
+    "coord": {
+      "lat": 60.57082,
+      "lon": 22.098829
+    },
+    "name": "Masku"
+  },
+  {
+    "country": "FI",
+    "id": 646519,
+    "coord": {
+      "lat": 60.583328,
+      "lon": 22.91667
+    },
+    "name": "Marttila"
+  },
+  {
+    "country": "FI",
+    "id": 646511,
+    "coord": {
+      "lat": 60.583328,
+      "lon": 22.9
+    },
+    "name": "Marttila"
+  },
+  {
+    "country": "FI",
+    "id": 646701,
+    "coord": {
+      "lat": 61.333328,
+      "lon": 26.83333
+    },
+    "name": "Mäntyharju"
+  },
+  {
+    "country": "FI",
+    "id": 646699,
+    "coord": {
+      "lat": 61.416672,
+      "lon": 26.883329
+    },
+    "name": "Mantyharju"
+  },
+  {
+    "country": "FI",
+    "id": 646876,
+    "coord": {
+      "lat": 62.916672,
+      "lon": 21.58333
+    },
+    "name": "Malax"
+  },
+  {
+    "country": "FI",
+    "id": 646875,
+    "coord": {
+      "lat": 62.942249,
+      "lon": 21.573111
+    },
+    "name": "Malax"
+  },
+  {
+    "country": "FI",
+    "id": 647195,
+    "coord": {
+      "lat": 63.166672,
+      "lon": 27.25
+    },
+    "name": "Maaninka"
+  },
+  {
+    "country": "FI",
+    "id": 647202,
+    "coord": {
+      "lat": 63.150002,
+      "lon": 27.299999
+    },
+    "name": "Maaninka"
+  },
+  {
+    "country": "FI",
+    "id": 647260,
+    "coord": {
+      "lat": 61.36375,
+      "lon": 21.625561
+    },
+    "name": "Luvia"
+  },
+  {
+    "country": "FI",
+    "id": 647289,
+    "coord": {
+      "lat": 60.916672,
+      "lon": 27.58333
+    },
+    "name": "Luumäki"
+  },
+  {
+    "country": "FI",
+    "id": 647288,
+    "coord": {
+      "lat": 60.926182,
+      "lon": 27.58135
+    },
+    "name": "Luumaki"
+  },
+  {
+    "country": "FI",
+    "id": 647383,
+    "coord": {
+      "lat": 61.366669,
+      "lon": 24.66667
+    },
+    "name": "Luopioinen"
+  },
+  {
+    "country": "FI",
+    "id": 647472,
+    "coord": {
+      "lat": 64.833328,
+      "lon": 25.16667
+    },
+    "name": "Lumijoki"
+  },
+  {
+    "country": "FI",
+    "id": 647471,
+    "coord": {
+      "lat": 64.83744,
+      "lon": 25.186069
+    },
+    "name": "Lumijoki"
+  },
+  {
+    "country": "FI",
+    "id": 647523,
+    "coord": {
+      "lat": 61.799999,
+      "lon": 25.75
+    },
+    "name": "Luhanka"
+  },
+  {
+    "country": "FI",
+    "id": 647522,
+    "coord": {
+      "lat": 61.796822,
+      "lon": 25.704571
+    },
+    "name": "Luhanka"
+  },
+  {
+    "country": "FI",
+    "id": 647571,
+    "coord": {
+      "lat": 60.456589,
+      "lon": 26.22505
+    },
+    "name": "Lovisa"
+  },
+  {
+    "country": "FI",
+    "id": 647660,
+    "coord": {
+      "lat": 60.716671,
+      "lon": 24.450001
+    },
+    "name": "Loppi"
+  },
+  {
+    "country": "FI",
+    "id": 647731,
+    "coord": {
+      "lat": 60.84972,
+      "lon": 23.056101
+    },
+    "name": "Loimaa"
+  },
+  {
+    "country": "FI",
+    "id": 647851,
+    "coord": {
+      "lat": 62.533329,
+      "lon": 29.366671
+    },
+    "name": "Liperi"
+  },
+  {
+    "country": "FI",
+    "id": 647930,
+    "coord": {
+      "lat": 64.809853,
+      "lon": 25.415449
+    },
+    "name": "Liminka"
+  },
+  {
+    "country": "FI",
+    "id": 647978,
+    "coord": {
+      "lat": 60.566669,
+      "lon": 26.049999
+    },
+    "name": "Liljendal"
+  },
+  {
+    "country": "FI",
+    "id": 648180,
+    "coord": {
+      "lat": 63.5,
+      "lon": 24.66667
+    },
+    "name": "Lestijärvi"
+  },
+  {
+    "country": "FI",
+    "id": 648178,
+    "coord": {
+      "lat": 63.533329,
+      "lon": 24.65
+    },
+    "name": "Lestijarvi"
+  },
+  {
+    "country": "FI",
+    "id": 648228,
+    "coord": {
+      "lat": 62.5,
+      "lon": 28
+    },
+    "name": "Leppävirta"
+  },
+  {
+    "country": "FI",
+    "id": 648227,
+    "coord": {
+      "lat": 62.490089,
+      "lon": 27.782619
+    },
+    "name": "Leppavirta"
+  },
+  {
+    "country": "FI",
+    "id": 648350,
+    "coord": {
+      "lat": 60.566669,
+      "lon": 21.966669
+    },
+    "name": "Lemu"
+  },
+  {
+    "country": "FI",
+    "id": 648387,
+    "coord": {
+      "lat": 61.062439,
+      "lon": 27.80571
+    },
+    "name": "Lemi"
+  },
+  {
+    "country": "FI",
+    "id": 655582,
+    "coord": {
+      "lat": 61.75,
+      "lon": 26.25
+    },
+    "name": "Joutsa"
+  },
+  {
+    "country": "FI",
+    "id": 648397,
+    "coord": {
+      "lat": 61.916672,
+      "lon": 26.116671
+    },
+    "name": "Leivonmaki"
+  },
+  {
+    "country": "FI",
+    "id": 661594,
+    "coord": {
+      "lat": 63,
+      "lon": 24
+    },
+    "name": "Alajärvi"
+  },
+  {
+    "country": "FI",
+    "id": 648554,
+    "coord": {
+      "lat": 62.783329,
+      "lon": 23.91667
+    },
+    "name": "Lehtimaki"
+  },
+  {
+    "country": "FI",
+    "id": 648615,
+    "coord": {
+      "lat": 61.583328,
+      "lon": 22.5
+    },
+    "name": "Lavia"
+  },
+  {
+    "country": "FI",
+    "id": 648613,
+    "coord": {
+      "lat": 61.599998,
+      "lon": 22.6
+    },
+    "name": "Lavia"
+  },
+  {
+    "country": "FI",
+    "id": 648847,
+    "coord": {
+      "lat": 63.75388,
+      "lon": 22.74728
+    },
+    "name": "Larsmo"
+  },
+  {
+    "country": "FI",
+    "id": 648856,
+    "coord": {
+      "lat": 62.916672,
+      "lon": 23.16667
+    },
+    "name": "Lapua"
+  },
+  {
+    "country": "FI",
+    "id": 648855,
+    "coord": {
+      "lat": 62.969269,
+      "lon": 23.008801
+    },
+    "name": "Lapua"
+  },
+  {
+    "country": "FI",
+    "id": 648886,
+    "coord": {
+      "lat": 61.099998,
+      "lon": 21.83333
+    },
+    "name": "Lappi"
+  },
+  {
+    "country": "FI",
+    "id": 648923,
+    "coord": {
+      "lat": 63.166672,
+      "lon": 23.58333
+    },
+    "name": "Lappajärvi"
+  },
+  {
+    "country": "FI",
+    "id": 648919,
+    "coord": {
+      "lat": 63.200001,
+      "lon": 23.633329
+    },
+    "name": "Lappajarvi"
+  },
+  {
+    "country": "FI",
+    "id": 648953,
+    "coord": {
+      "lat": 63.366669,
+      "lon": 27.4
+    },
+    "name": "Lapinlahti"
+  },
+  {
+    "country": "FI",
+    "id": 648976,
+    "coord": {
+      "lat": 60.666672,
+      "lon": 26.25
+    },
+    "name": "Lappträsk"
+  },
+  {
+    "country": "FI",
+    "id": 648965,
+    "coord": {
+      "lat": 60.624432,
+      "lon": 26.197201
+    },
+    "name": "Lapinjarvi"
+  },
+  {
+    "country": "FI",
+    "id": 649223,
+    "coord": {
+      "lat": 61.083328,
+      "lon": 25.01667
+    },
+    "name": "Lammi"
+  },
+  {
+    "country": "FI",
+    "id": 649307,
+    "coord": {
+      "lat": 60.916672,
+      "lon": 21.75
+    },
+    "name": "Laitila"
+  },
+  {
+    "country": "FI",
+    "id": 649302,
+    "coord": {
+      "lat": 60.875751,
+      "lon": 21.697651
+    },
+    "name": "Laitila"
+  },
+  {
+    "country": "FI",
+    "id": 649351,
+    "coord": {
+      "lat": 62.916672,
+      "lon": 22
+    },
+    "name": "Laihia"
+  },
+  {
+    "country": "FI",
+    "id": 649348,
+    "coord": {
+      "lat": 62.976089,
+      "lon": 22.011431
+    },
+    "name": "Laihia"
+  },
+  {
+    "country": "FI",
+    "id": 649584,
+    "coord": {
+      "lat": 63.083328,
+      "lon": 24.58333
+    },
+    "name": "Kyyjärvi"
+  },
+  {
+    "country": "FI",
+    "id": 649582,
+    "coord": {
+      "lat": 63.033329,
+      "lon": 24.566669
+    },
+    "name": "Kyyjarvi"
+  },
+  {
+    "country": "FI",
+    "id": 649728,
+    "coord": {
+      "lat": 61.153999,
+      "lon": 23.68858
+    },
+    "name": "Kylmakoski"
+  },
+  {
+    "country": "FI",
+    "id": 649825,
+    "coord": {
+      "lat": 60.51667,
+      "lon": 23.200001
+    },
+    "name": "Kuusjoki"
+  },
+  {
+    "country": "FI",
+    "id": 650000,
+    "coord": {
+      "lat": 60.583328,
+      "lon": 21.25
+    },
+    "name": "Kustavi"
+  },
+  {
+    "country": "FI",
+    "id": 649998,
+    "coord": {
+      "lat": 60.545292,
+      "lon": 21.358801
+    },
+    "name": "Kustavi"
+  },
+  {
+    "country": "FI",
+    "id": 650014,
+    "coord": {
+      "lat": 61.87558,
+      "lon": 23.719481
+    },
+    "name": "Kuru"
+  },
+  {
+    "country": "FI",
+    "id": 650098,
+    "coord": {
+      "lat": 62.583328,
+      "lon": 22.41667
+    },
+    "name": "Kurikka"
+  },
+  {
+    "country": "FI",
+    "id": 650095,
+    "coord": {
+      "lat": 62.616669,
+      "lon": 22.41667
+    },
+    "name": "Kurikka"
+  },
+  {
+    "country": "FI",
+    "id": 650469,
+    "coord": {
+      "lat": 61.466671,
+      "lon": 22.16667
+    },
+    "name": "Kullaa"
+  },
+  {
+    "country": "FI",
+    "id": 656852,
+    "coord": {
+      "lat": 65.416672,
+      "lon": 25.5
+    },
+    "name": "Ii"
+  },
+  {
+    "country": "FI",
+    "id": 650628,
+    "coord": {
+      "lat": 65.583328,
+      "lon": 25.183331
+    },
+    "name": "Kuivaniemi"
+  },
+  {
+    "country": "FI",
+    "id": 650704,
+    "coord": {
+      "lat": 61.666672,
+      "lon": 25.25
+    },
+    "name": "Kuhmoinen"
+  },
+  {
+    "country": "FI",
+    "id": 650703,
+    "coord": {
+      "lat": 61.566669,
+      "lon": 25.183331
+    },
+    "name": "Kuhmoinen"
+  },
+  {
+    "country": "FI",
+    "id": 650707,
+    "coord": {
+      "lat": 61.5,
+      "lon": 24.566669
+    },
+    "name": "Kuhmalahti"
+  },
+  {
+    "country": "FI",
+    "id": 650754,
+    "coord": {
+      "lat": 63.72456,
+      "lon": 23.021009
+    },
+    "name": "Kronoby"
+  },
+  {
+    "country": "FI",
+    "id": 650770,
+    "coord": {
+      "lat": 62.283329,
+      "lon": 21.383329
+    },
+    "name": "Kristinestad"
+  },
+  {
+    "country": "FI",
+    "id": 650769,
+    "coord": {
+      "lat": 62.274288,
+      "lon": 21.375959
+    },
+    "name": "Kristinestad"
+  },
+  {
+    "country": "FI",
+    "id": 650805,
+    "coord": {
+      "lat": 61.119099,
+      "lon": 22.309759
+    },
+    "name": "Koylio"
+  },
+  {
+    "country": "FI",
+    "id": 651090,
+    "coord": {
+      "lat": 61,
+      "lon": 25.16667
+    },
+    "name": "Hämeenkoski"
+  },
+  {
+    "country": "FI",
+    "id": 651073,
+    "coord": {
+      "lat": 61.022221,
+      "lon": 25.154169
+    },
+    "name": "Haemeenkoski"
+  },
+  {
+    "country": "FI",
+    "id": 651091,
+    "coord": {
+      "lat": 60.666672,
+      "lon": 23.08333
+    },
+    "name": "Koski"
+  },
+  {
+    "country": "FI",
+    "id": 651245,
+    "coord": {
+      "lat": 63.299999,
+      "lon": 23.16667
+    },
+    "name": "Kortesjarvi"
+  },
+  {
+    "country": "FI",
+    "id": 651297,
+    "coord": {
+      "lat": 62.75,
+      "lon": 21.25
+    },
+    "name": "Korsnäs"
+  },
+  {
+    "country": "FI",
+    "id": 651294,
+    "coord": {
+      "lat": 62.783329,
+      "lon": 21.200001
+    },
+    "name": "Korsnas"
+  },
+  {
+    "country": "FI",
+    "id": 651350,
+    "coord": {
+      "lat": 62.01667,
+      "lon": 25.549999
+    },
+    "name": "Korpilahti"
+  },
+  {
+    "country": "FI",
+    "id": 651659,
+    "coord": {
+      "lat": 62.760231,
+      "lon": 29.847111
+    },
+    "name": "Kontiolahti"
+  },
+  {
+    "country": "FI",
+    "id": 651698,
+    "coord": {
+      "lat": 62.666672,
+      "lon": 26.33333
+    },
+    "name": "Konnevesi"
+  },
+  {
+    "country": "FI",
+    "id": 651696,
+    "coord": {
+      "lat": 62.616669,
+      "lon": 26.316669
+    },
+    "name": "Konnevesi"
+  },
+  {
+    "country": "FI",
+    "id": 651892,
+    "coord": {
+      "lat": 67.333328,
+      "lon": 24.16667
+    },
+    "name": "Kolari"
+  },
+  {
+    "country": "FI",
+    "id": 651889,
+    "coord": {
+      "lat": 67.330467,
+      "lon": 23.777849
+    },
+    "name": "Kolari"
+  },
+  {
+    "country": "FI",
+    "id": 651981,
+    "coord": {
+      "lat": 61.25,
+      "lon": 22.33333
+    },
+    "name": "Kokemäki"
+  },
+  {
+    "country": "FI",
+    "id": 651980,
+    "coord": {
+      "lat": 61.25647,
+      "lon": 22.35643
+    },
+    "name": "Kokemaki"
+  },
+  {
+    "country": "FI",
+    "id": 652498,
+    "coord": {
+      "lat": 63.166672,
+      "lon": 25
+    },
+    "name": "Kivijärvi"
+  },
+  {
+    "country": "FI",
+    "id": 652432,
+    "coord": {
+      "lat": 63.116669,
+      "lon": 25.1
+    },
+    "name": "Kivijaervi"
+  },
+  {
+    "country": "FI",
+    "id": 652578,
+    "coord": {
+      "lat": 61.216671,
+      "lon": 22.08333
+    },
+    "name": "Kiukainen"
+  },
+  {
+    "country": "FI",
+    "id": 652615,
+    "coord": {
+      "lat": 62.099998,
+      "lon": 30.15
+    },
+    "name": "Kitee"
+  },
+  {
+    "country": "FI",
+    "id": 652746,
+    "coord": {
+      "lat": 63.333328,
+      "lon": 25
+    },
+    "name": "Kinnula"
+  },
+  {
+    "country": "FI",
+    "id": 652736,
+    "coord": {
+      "lat": 63.383331,
+      "lon": 24.950001
+    },
+    "name": "Kinnula"
+  },
+  {
+    "country": "FI",
+    "id": 652737,
+    "coord": {
+      "lat": 63.366669,
+      "lon": 24.966669
+    },
+    "name": "Kinnula"
+  },
+  {
+    "country": "FI",
+    "id": 652776,
+    "coord": {
+      "lat": 60.160469,
+      "lon": 22.729
+    },
+    "name": "Kimito"
+  },
+  {
+    "country": "FI",
+    "id": 652859,
+    "coord": {
+      "lat": 65.166672,
+      "lon": 25.83333
+    },
+    "name": "Kiiminki"
+  },
+  {
+    "country": "FI",
+    "id": 652858,
+    "coord": {
+      "lat": 65.131393,
+      "lon": 25.79744
+    },
+    "name": "Kiiminki"
+  },
+  {
+    "country": "FI",
+    "id": 652879,
+    "coord": {
+      "lat": 61.466671,
+      "lon": 22.58333
+    },
+    "name": "Kiikoinen"
+  },
+  {
+    "country": "FI",
+    "id": 652878,
+    "coord": {
+      "lat": 61.450001,
+      "lon": 22.58333
+    },
+    "name": "Kiikoinen"
+  },
+  {
+    "country": "FI",
+    "id": 652888,
+    "coord": {
+      "lat": 60.466671,
+      "lon": 23.566669
+    },
+    "name": "Kiikala"
+  },
+  {
+    "country": "FI",
+    "id": 652891,
+    "coord": {
+      "lat": 62.48333,
+      "lon": 30.25
+    },
+    "name": "Kiihtelysvaara"
+  },
+  {
+    "country": "FI",
+    "id": 652897,
+    "coord": {
+      "lat": 62.25,
+      "lon": 23.16667
+    },
+    "name": "Kihniö"
+  },
+  {
+    "country": "FI",
+    "id": 652896,
+    "coord": {
+      "lat": 62.200001,
+      "lon": 23.183331
+    },
+    "name": "Kihnioe"
+  },
+  {
+    "country": "FI",
+    "id": 652977,
+    "coord": {
+      "lat": 62.26667,
+      "lon": 24.700001
+    },
+    "name": "Keuruu"
+  },
+  {
+    "country": "FI",
+    "id": 653039,
+    "coord": {
+      "lat": 64.349998,
+      "lon": 26.283331
+    },
+    "name": "Kestila"
+  },
+  {
+    "country": "FI",
+    "id": 653130,
+    "coord": {
+      "lat": 61.916672,
+      "lon": 29.83333
+    },
+    "name": "Kesälahti"
+  },
+  {
+    "country": "FI",
+    "id": 653129,
+    "coord": {
+      "lat": 61.900002,
+      "lon": 29.83333
+    },
+    "name": "Kesalahti"
+  },
+  {
+    "country": "FI",
+    "id": 653181,
+    "coord": {
+      "lat": 62,
+      "lon": 29.33333
+    },
+    "name": "Kerimäki"
+  },
+  {
+    "country": "FI",
+    "id": 653180,
+    "coord": {
+      "lat": 61.916672,
+      "lon": 29.283331
+    },
+    "name": "Kerimaki"
+  },
+  {
+    "country": "FI",
+    "id": 653253,
+    "coord": {
+      "lat": 64.916672,
+      "lon": 25.58333
+    },
+    "name": "Kempele"
+  },
+  {
+    "country": "FI",
+    "id": 653252,
+    "coord": {
+      "lat": 64.913139,
+      "lon": 25.503389
+    },
+    "name": "Kempele"
+  },
+  {
+    "country": "FI",
+    "id": 653274,
+    "coord": {
+      "lat": 66.666672,
+      "lon": 27.41667
+    },
+    "name": "Kemijärvi"
+  },
+  {
+    "country": "FI",
+    "id": 653272,
+    "coord": {
+      "lat": 66.666672,
+      "lon": 27.41667
+    },
+    "name": "Kemijaervi"
+  },
+  {
+    "country": "FI",
+    "id": 653280,
+    "coord": {
+      "lat": 65.801582,
+      "lon": 24.54483
+    },
+    "name": "Keminmaa"
+  },
+  {
+    "country": "FI",
+    "id": 653484,
+    "coord": {
+      "lat": 63.583328,
+      "lon": 23.75
+    },
+    "name": "Kaustinen"
+  },
+  {
+    "country": "FI",
+    "id": 653482,
+    "coord": {
+      "lat": 63.548779,
+      "lon": 23.68845
+    },
+    "name": "Kaustinen"
+  },
+  {
+    "country": "FI",
+    "id": 653560,
+    "coord": {
+      "lat": 60.209759,
+      "lon": 24.72801
+    },
+    "name": "Kauniainen"
+  },
+  {
+    "country": "FI",
+    "id": 653559,
+    "coord": {
+      "lat": 60.21209,
+      "lon": 24.72756
+    },
+    "name": "Kauniainen"
+  },
+  {
+    "country": "FI",
+    "id": 653760,
+    "coord": {
+      "lat": 62.383331,
+      "lon": 21.216669
+    },
+    "name": "Kaskinen"
+  },
+  {
+    "country": "FI",
+    "id": 653758,
+    "coord": {
+      "lat": 62.384441,
+      "lon": 21.22331
+    },
+    "name": "Kaskinen"
+  },
+  {
+    "country": "FI",
+    "id": 653814,
+    "coord": {
+      "lat": 62.166672,
+      "lon": 22.58333
+    },
+    "name": "Karvia"
+  },
+  {
+    "country": "FI",
+    "id": 653813,
+    "coord": {
+      "lat": 62.133331,
+      "lon": 22.566669
+    },
+    "name": "Karvia"
+  },
+  {
+    "country": "FI",
+    "id": 653841,
+    "coord": {
+      "lat": 62.883331,
+      "lon": 26.966669
+    },
+    "name": "Karttula"
+  },
+  {
+    "country": "FI",
+    "id": 653853,
+    "coord": {
+      "lat": 62.833328,
+      "lon": 24.75
+    },
+    "name": "Karstula"
+  },
+  {
+    "country": "FI",
+    "id": 653852,
+    "coord": {
+      "lat": 62.866669,
+      "lon": 24.783331
+    },
+    "name": "Karstula"
+  },
+  {
+    "country": "FI",
+    "id": 653953,
+    "coord": {
+      "lat": 60.833328,
+      "lon": 25.25
+    },
+    "name": "Kärkölä"
+  },
+  {
+    "country": "FI",
+    "id": 653951,
+    "coord": {
+      "lat": 60.916672,
+      "lon": 25.25
+    },
+    "name": "Karkola"
+  },
+  {
+    "country": "FI",
+    "id": 653961,
+    "coord": {
+      "lat": 60.533329,
+      "lon": 24.183331
+    },
+    "name": "Karkkila"
+  },
+  {
+    "country": "FI",
+    "id": 653960,
+    "coord": {
+      "lat": 60.53418,
+      "lon": 24.20977
+    },
+    "name": "Karkkila"
+  },
+  {
+    "country": "FI",
+    "id": 654013,
+    "coord": {
+      "lat": 60.25,
+      "lon": 23.75
+    },
+    "name": "Karjalohja"
+  },
+  {
+    "country": "FI",
+    "id": 654012,
+    "coord": {
+      "lat": 60.24015,
+      "lon": 23.71789
+    },
+    "name": "Karjalohja"
+  },
+  {
+    "country": "FI",
+    "id": 654047,
+    "coord": {
+      "lat": 60.071781,
+      "lon": 23.661631
+    },
+    "name": "Karis"
+  },
+  {
+    "country": "FI",
+    "id": 654059,
+    "coord": {
+      "lat": 60.666672,
+      "lon": 22.76667
+    },
+    "name": "Karinainen"
+  },
+  {
+    "country": "FI",
+    "id": 654076,
+    "coord": {
+      "lat": 62.333328,
+      "lon": 21.75
+    },
+    "name": "Karijoki"
+  },
+  {
+    "country": "FI",
+    "id": 654075,
+    "coord": {
+      "lat": 62.30851,
+      "lon": 21.708561
+    },
+    "name": "Karijoki"
+  },
+  {
+    "country": "FI",
+    "id": 654315,
+    "coord": {
+      "lat": 63.916672,
+      "lon": 23.91667
+    },
+    "name": "Kannus"
+  },
+  {
+    "country": "FI",
+    "id": 654314,
+    "coord": {
+      "lat": 63.900002,
+      "lon": 23.9
+    },
+    "name": "Kannus"
+  },
+  {
+    "country": "FI",
+    "id": 654319,
+    "coord": {
+      "lat": 63,
+      "lon": 25.33333
+    },
+    "name": "Kannonkoski"
+  },
+  {
+    "country": "FI",
+    "id": 654318,
+    "coord": {
+      "lat": 62.966671,
+      "lon": 25.25
+    },
+    "name": "Kannonkoski"
+  },
+  {
+    "country": "FI",
+    "id": 654377,
+    "coord": {
+      "lat": 61.833328,
+      "lon": 22.33333
+    },
+    "name": "Kankaanpää"
+  },
+  {
+    "country": "FI",
+    "id": 654363,
+    "coord": {
+      "lat": 61.799999,
+      "lon": 22.41667
+    },
+    "name": "Kankaanpaa"
+  },
+  {
+    "country": "FI",
+    "id": 654408,
+    "coord": {
+      "lat": 62,
+      "lon": 26.66667
+    },
+    "name": "Kangasniemi"
+  },
+  {
+    "country": "FI",
+    "id": 654405,
+    "coord": {
+      "lat": 61.993568,
+      "lon": 26.64785
+    },
+    "name": "Kangasniemi"
+  },
+  {
+    "country": "FI",
+    "id": 654413,
+    "coord": {
+      "lat": 62.295631,
+      "lon": 28.25289
+    },
+    "name": "Kangaslampi"
+  },
+  {
+    "country": "FI",
+    "id": 654521,
+    "coord": {
+      "lat": 61.099998,
+      "lon": 24.116671
+    },
+    "name": "Kalvola"
+  },
+  {
+    "country": "FI",
+    "id": 654533,
+    "coord": {
+      "lat": 63.860668,
+      "lon": 23.45289
+    },
+    "name": "Kalvia"
+  },
+  {
+    "country": "FI",
+    "id": 654837,
+    "coord": {
+      "lat": 64.25,
+      "lon": 23.950001
+    },
+    "name": "Kalajoki"
+  },
+  {
+    "country": "FI",
+    "id": 655070,
+    "coord": {
+      "lat": 63,
+      "lon": 28.75
+    },
+    "name": "Kaavi"
+  },
+  {
+    "country": "FI",
+    "id": 655069,
+    "coord": {
+      "lat": 62.98333,
+      "lon": 28.5
+    },
+    "name": "Kaavi"
+  },
+  {
+    "country": "FI",
+    "id": 655253,
+    "coord": {
+      "lat": 61.900002,
+      "lon": 27.85
+    },
+    "name": "Juva"
+  },
+  {
+    "country": "FI",
+    "id": 655308,
+    "coord": {
+      "lat": 61.833328,
+      "lon": 24.5
+    },
+    "name": "Juupajoki"
+  },
+  {
+    "country": "FI",
+    "id": 655307,
+    "coord": {
+      "lat": 61.799011,
+      "lon": 24.36939
+    },
+    "name": "Juupajoki"
+  },
+  {
+    "country": "FI",
+    "id": 655313,
+    "coord": {
+      "lat": 63.25,
+      "lon": 29.16667
+    },
+    "name": "Juuka"
+  },
+  {
+    "country": "FI",
+    "id": 655312,
+    "coord": {
+      "lat": 63.23333,
+      "lon": 29.25
+    },
+    "name": "Juuka"
+  },
+  {
+    "country": "FI",
+    "id": 655363,
+    "coord": {
+      "lat": 62.683331,
+      "lon": 21.98333
+    },
+    "name": "Jurva"
+  },
+  {
+    "country": "FI",
+    "id": 655534,
+    "coord": {
+      "lat": 63.049999,
+      "lon": 28.366671
+    },
+    "name": "Juankoski"
+  },
+  {
+    "country": "FI",
+    "id": 655533,
+    "coord": {
+      "lat": 63.066669,
+      "lon": 28.35
+    },
+    "name": "Juankoski"
+  },
+  {
+    "country": "FI",
+    "id": 655563,
+    "coord": {
+      "lat": 61.117962,
+      "lon": 28.507629
+    },
+    "name": "Joutseno"
+  },
+  {
+    "country": "FI",
+    "id": 655626,
+    "coord": {
+      "lat": 62.17823,
+      "lon": 27.83165
+    },
+    "name": "Joroinen"
+  },
+  {
+    "country": "FI",
+    "id": 655693,
+    "coord": {
+      "lat": 60.833328,
+      "lon": 23.5
+    },
+    "name": "Jokioinen"
+  },
+  {
+    "country": "FI",
+    "id": 655692,
+    "coord": {
+      "lat": 60.80162,
+      "lon": 23.48004
+    },
+    "name": "Jokioinen"
+  },
+  {
+    "country": "FI",
+    "id": 656015,
+    "coord": {
+      "lat": 62.37899,
+      "lon": 27.43372
+    },
+    "name": "Jappila"
+  },
+  {
+    "country": "FI",
+    "id": 656076,
+    "coord": {
+      "lat": 61.918999,
+      "lon": 25.170111
+    },
+    "name": "Jamsankoski"
+  },
+  {
+    "country": "FI",
+    "id": 656092,
+    "coord": {
+      "lat": 61.833328,
+      "lon": 22.66667
+    },
+    "name": "Jämijärvi"
+  },
+  {
+    "country": "FI",
+    "id": 656090,
+    "coord": {
+      "lat": 61.816669,
+      "lon": 22.700001
+    },
+    "name": "Jamijarvi"
+  },
+  {
+    "country": "FI",
+    "id": 656118,
+    "coord": {
+      "lat": 62.5,
+      "lon": 22.83333
+    },
+    "name": "Jalasjärvi"
+  },
+  {
+    "country": "FI",
+    "id": 656117,
+    "coord": {
+      "lat": 62.5,
+      "lon": 22.75
+    },
+    "name": "Jalasjarvi"
+  },
+  {
+    "country": "FI",
+    "id": 656183,
+    "coord": {
+      "lat": 61.049999,
+      "lon": 26.48333
+    },
+    "name": "Jaala"
+  },
+  {
+    "country": "FI",
+    "id": 656457,
+    "coord": {
+      "lat": 63,
+      "lon": 22.33333
+    },
+    "name": "Isokyrö"
+  },
+  {
+    "country": "FI",
+    "id": 656456,
+    "coord": {
+      "lat": 63.011719,
+      "lon": 22.333321
+    },
+    "name": "Isokyro"
+  },
+  {
+    "country": "FI",
+    "id": 656518,
+    "coord": {
+      "lat": 62.166672,
+      "lon": 21.91667
+    },
+    "name": "Isojoki"
+  },
+  {
+    "country": "FI",
+    "id": 656517,
+    "coord": {
+      "lat": 62.11319,
+      "lon": 21.958839
+    },
+    "name": "Isojoki"
+  },
+  {
+    "country": "FI",
+    "id": 656636,
+    "coord": {
+      "lat": 60.400002,
+      "lon": 21.4
+    },
+    "name": "Inio"
+  },
+  {
+    "country": "FI",
+    "id": 656652,
+    "coord": {
+      "lat": 60.045872,
+      "lon": 24.004589
+    },
+    "name": "Inga"
+  },
+  {
+    "country": "FI",
+    "id": 656657,
+    "coord": {
+      "lat": 68.90596,
+      "lon": 27.028811
+    },
+    "name": "Inari"
+  },
+  {
+    "country": "FI",
+    "id": 656711,
+    "coord": {
+      "lat": 62.833328,
+      "lon": 31
+    },
+    "name": "Ilomantsi"
+  },
+  {
+    "country": "FI",
+    "id": 656709,
+    "coord": {
+      "lat": 62.671619,
+      "lon": 30.93276
+    },
+    "name": "Ilomantsi"
+  },
+  {
+    "country": "FI",
+    "id": 656739,
+    "coord": {
+      "lat": 62.73333,
+      "lon": 22.566669
+    },
+    "name": "Ilmajoki"
+  },
+  {
+    "country": "FI",
+    "id": 656790,
+    "coord": {
+      "lat": 61.76667,
+      "lon": 23.066669
+    },
+    "name": "Ikaalinen"
+  },
+  {
+    "country": "FI",
+    "id": 656789,
+    "coord": {
+      "lat": 61.769508,
+      "lon": 23.0658
+    },
+    "name": "Ikaalinen"
+  },
+  {
+    "country": "FI",
+    "id": 656807,
+    "coord": {
+      "lat": 60.894878,
+      "lon": 26.33869
+    },
+    "name": "Iitti"
+  },
+  {
+    "country": "FI",
+    "id": 656851,
+    "coord": {
+      "lat": 65.317352,
+      "lon": 25.3731
+    },
+    "name": "Ii"
+  },
+  {
+    "country": "FI",
+    "id": 656949,
+    "coord": {
+      "lat": 64.666672,
+      "lon": 28.533331
+    },
+    "name": "Hyrynsalmi"
+  },
+  {
+    "country": "FI",
+    "id": 657113,
+    "coord": {
+      "lat": 60.916672,
+      "lon": 23.33333
+    },
+    "name": "Humppila"
+  },
+  {
+    "country": "FI",
+    "id": 657112,
+    "coord": {
+      "lat": 60.933331,
+      "lon": 23.366671
+    },
+    "name": "Humppila"
+  },
+  {
+    "country": "FI",
+    "id": 657180,
+    "coord": {
+      "lat": 61.183331,
+      "lon": 22.700001
+    },
+    "name": "Huittinen"
+  },
+  {
+    "country": "FI",
+    "id": 657305,
+    "coord": {
+      "lat": 60.222839,
+      "lon": 21.372181
+    },
+    "name": "Houtskar"
+  },
+  {
+    "country": "FI",
+    "id": 657480,
+    "coord": {
+      "lat": 62,
+      "lon": 22.25
+    },
+    "name": "Honkajoki"
+  },
+  {
+    "country": "FI",
+    "id": 657479,
+    "coord": {
+      "lat": 61.98333,
+      "lon": 22.26667
+    },
+    "name": "Honkajoki"
+  },
+  {
+    "country": "FI",
+    "id": 657731,
+    "coord": {
+      "lat": 61.666672,
+      "lon": 26.75
+    },
+    "name": "Hirvensalmi"
+  },
+  {
+    "country": "FI",
+    "id": 657730,
+    "coord": {
+      "lat": 61.633331,
+      "lon": 26.799999
+    },
+    "name": "Hirvensalmi"
+  },
+  {
+    "country": "FI",
+    "id": 657838,
+    "coord": {
+      "lat": 64.066673,
+      "lon": 23.65
+    },
+    "name": "Himanka"
+  },
+  {
+    "country": "FI",
+    "id": 658224,
+    "coord": {
+      "lat": 60.60778,
+      "lon": 21.438101
+    },
+    "name": "Helsinki"
+  },
+  {
+    "country": "FI",
+    "id": 658319,
+    "coord": {
+      "lat": 62.416672,
+      "lon": 28.75
+    },
+    "name": "Heinävesi"
+  },
+  {
+    "country": "FI",
+    "id": 658318,
+    "coord": {
+      "lat": 62.433331,
+      "lon": 28.6
+    },
+    "name": "Heinavesi"
+  },
+  {
+    "country": "FI",
+    "id": 658581,
+    "coord": {
+      "lat": 60.783329,
+      "lon": 24.933331
+    },
+    "name": "Hausjarvi"
+  },
+  {
+    "country": "FI",
+    "id": 658617,
+    "coord": {
+      "lat": 62.01667,
+      "lon": 27.216669
+    },
+    "name": "Haukivuori"
+  },
+  {
+    "country": "FI",
+    "id": 658670,
+    "coord": {
+      "lat": 61.17255,
+      "lon": 24.56303
+    },
+    "name": "Hauho"
+  },
+  {
+    "country": "FI",
+    "id": 658757,
+    "coord": {
+      "lat": 61.583328,
+      "lon": 26.01667
+    },
+    "name": "Hartola"
+  },
+  {
+    "country": "FI",
+    "id": 658922,
+    "coord": {
+      "lat": 61.333328,
+      "lon": 22.16667
+    },
+    "name": "Harjavalta"
+  },
+  {
+    "country": "FI",
+    "id": 658921,
+    "coord": {
+      "lat": 61.316669,
+      "lon": 22.133329
+    },
+    "name": "Harjavalta"
+  },
+  {
+    "country": "FI",
+    "id": 659025,
+    "coord": {
+      "lat": 62.416672,
+      "lon": 26.5
+    },
+    "name": "Hankasalmi"
+  },
+  {
+    "country": "FI",
+    "id": 659024,
+    "coord": {
+      "lat": 62.383331,
+      "lon": 26.433331
+    },
+    "name": "Hankasalmi"
+  },
+  {
+    "country": "FI",
+    "id": 659102,
+    "coord": {
+      "lat": 59.833328,
+      "lon": 22.950001
+    },
+    "name": "Hangö"
+  },
+  {
+    "country": "FI",
+    "id": 659101,
+    "coord": {
+      "lat": 59.833328,
+      "lon": 22.950001
+    },
+    "name": "Hanko"
+  },
+  {
+    "country": "FI",
+    "id": 659184,
+    "coord": {
+      "lat": 61.63913,
+      "lon": 23.195311
+    },
+    "name": "Hameenkyro"
+  },
+  {
+    "country": "FI",
+    "id": 659231,
+    "coord": {
+      "lat": 63.466671,
+      "lon": 24.16667
+    },
+    "name": "Halsua"
+  },
+  {
+    "country": "FI",
+    "id": 659350,
+    "coord": {
+      "lat": 60.400002,
+      "lon": 23.08333
+    },
+    "name": "Halikko"
+  },
+  {
+    "country": "FI",
+    "id": 659433,
+    "coord": {
+      "lat": 65.083328,
+      "lon": 24.75
+    },
+    "name": "Hailuoto"
+  },
+  {
+    "country": "FI",
+    "id": 659431,
+    "coord": {
+      "lat": 65.009003,
+      "lon": 24.71385
+    },
+    "name": "Hailuoto"
+  },
+  {
+    "country": "FI",
+    "id": 659554,
+    "coord": {
+      "lat": 64.133331,
+      "lon": 25.366671
+    },
+    "name": "Haapavesi"
+  },
+  {
+    "country": "FI",
+    "id": 659681,
+    "coord": {
+      "lat": 63.75,
+      "lon": 25.33333
+    },
+    "name": "Haapajaervi"
+  },
+  {
+    "country": "FI",
+    "id": 660067,
+    "coord": {
+      "lat": 63.416672,
+      "lon": 23.41667
+    },
+    "name": "Evijärvi"
+  },
+  {
+    "country": "FI",
+    "id": 660065,
+    "coord": {
+      "lat": 63.366669,
+      "lon": 23.48333
+    },
+    "name": "Evijarvi"
+  },
+  {
+    "country": "FI",
+    "id": 660074,
+    "coord": {
+      "lat": 61.299999,
+      "lon": 21.75
+    },
+    "name": "Eurajoki"
+  },
+  {
+    "country": "FI",
+    "id": 660073,
+    "coord": {
+      "lat": 61.200001,
+      "lon": 21.73333
+    },
+    "name": "Eurajoki"
+  },
+  {
+    "country": "FI",
+    "id": 660077,
+    "coord": {
+      "lat": 61.133331,
+      "lon": 22.133329
+    },
+    "name": "Eura"
+  },
+  {
+    "country": "FI",
+    "id": 660236,
+    "coord": {
+      "lat": 62.083328,
+      "lon": 28.91667
+    },
+    "name": "Enonkoski"
+  },
+  {
+    "country": "FI",
+    "id": 660235,
+    "coord": {
+      "lat": 62.083328,
+      "lon": 28.933331
+    },
+    "name": "Enonkoski"
+  },
+  {
+    "country": "FI",
+    "id": 660242,
+    "coord": {
+      "lat": 62.799999,
+      "lon": 30.15
+    },
+    "name": "Eno"
+  },
+  {
+    "country": "FI",
+    "id": 660294,
+    "coord": {
+      "lat": 60.716671,
+      "lon": 26.466669
+    },
+    "name": "Elimaki"
+  },
+  {
+    "country": "FI",
+    "id": 660325,
+    "coord": {
+      "lat": 59.973591,
+      "lon": 23.433889
+    },
+    "name": "Ekenaes"
+  },
+  {
+    "country": "FI",
+    "id": 660374,
+    "coord": {
+      "lat": 60.066669,
+      "lon": 22.48333
+    },
+    "name": "Dragsfjard"
+  },
+  {
+    "country": "FI",
+    "id": 660838,
+    "coord": {
+      "lat": 61.299999,
+      "lon": 25.08333
+    },
+    "name": "Auttoinen"
+  },
+  {
+    "country": "FI",
+    "id": 660927,
+    "coord": {
+      "lat": 60.533329,
+      "lon": 25.6
+    },
+    "name": "Askola"
+  },
+  {
+    "country": "FI",
+    "id": 660940,
+    "coord": {
+      "lat": 60.566669,
+      "lon": 21.866671
+    },
+    "name": "Askainen"
+  },
+  {
+    "country": "FI",
+    "id": 660974,
+    "coord": {
+      "lat": 60.745441,
+      "lon": 26.070841
+    },
+    "name": "Artjarvi"
+  },
+  {
+    "country": "FI",
+    "id": 661353,
+    "coord": {
+      "lat": 62.583328,
+      "lon": 23.5
+    },
+    "name": "Alavus"
+  },
+  {
+    "country": "FI",
+    "id": 661352,
+    "coord": {
+      "lat": 62.583328,
+      "lon": 23.616671
+    },
+    "name": "Alavus"
+  },
+  {
+    "country": "FI",
+    "id": 661363,
+    "coord": {
+      "lat": 64.166672,
+      "lon": 24.299999
+    },
+    "name": "Alavieska"
+  },
+  {
+    "country": "FI",
+    "id": 661410,
+    "coord": {
+      "lat": 60.950001,
+      "lon": 22.85
+    },
+    "name": "Alastaro"
+  },
+  {
+    "country": "FI",
+    "id": 661576,
+    "coord": {
+      "lat": 63,
+      "lon": 23.816669
+    },
+    "name": "Alajarvi"
+  },
+  {
+    "country": "FI",
+    "id": 661601,
+    "coord": {
+      "lat": 63.23333,
+      "lon": 22.85
+    },
+    "name": "Alaharma"
+  },
+  {
+    "country": "FI",
+    "id": 661896,
+    "coord": {
+      "lat": 62.554031,
+      "lon": 24.061859
+    },
+    "name": "Ahtari"
+  },
+  {
+    "country": "FI",
+    "id": 662095,
+    "coord": {
+      "lat": 62.599998,
+      "lon": 25.73333
+    },
+    "name": "Aanekoski"
+  },
+  {
+    "country": "FI",
+    "id": 846668,
+    "coord": {
+      "lat": 62.283329,
+      "lon": 27.066669
+    },
+    "name": "Pieksamaen Maalaiskunta"
+  },
+  {
+    "country": "FI",
+    "id": 7731911,
+    "coord": {
+      "lat": 63.555431,
+      "lon": 29.120159
+    },
+    "name": "Hovila"
+  }
+
+]

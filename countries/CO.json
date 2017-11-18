@@ -1,0 +1,10201 @@
+[
+
+  {
+    "country": "CO",
+    "id": 3681344,
+    "coord": {
+      "lat": 1.68944,
+      "lon": -72.820282
+    },
+    "name": "Departamento del Guaviare"
+  },
+  {
+    "country": "CO",
+    "id": 6851663,
+    "coord": {
+      "lat": 2.47017,
+      "lon": -72.391029
+    },
+    "name": "Inspección de Policía Puerto Ospina"
+  },
+  {
+    "country": "CO",
+    "id": 3674810,
+    "coord": {
+      "lat": 3.5,
+      "lon": -73
+    },
+    "name": "Departamento del Meta"
+  },
+  {
+    "country": "CO",
+    "id": 3668562,
+    "coord": {
+      "lat": 4.86775,
+      "lon": -68.361122
+    },
+    "name": "Santa Rita"
+  },
+  {
+    "country": "CO",
+    "id": 3668605,
+    "coord": {
+      "lat": 11.24079,
+      "lon": -74.199043
+    },
+    "name": "Santa Marta"
+  },
+  {
+    "country": "CO",
+    "id": 3674597,
+    "coord": {
+      "lat": 9.24194,
+      "lon": -74.426666
+    },
+    "name": "Mompos"
+  },
+  {
+    "country": "CO",
+    "id": 3675605,
+    "coord": {
+      "lat": 6.69903,
+      "lon": -72.73233
+    },
+    "name": "Malaga"
+  },
+  {
+    "country": "CO",
+    "id": 3689381,
+    "coord": {
+      "lat": 8.31372,
+      "lon": -75.139816
+    },
+    "name": "Ayapel"
+  },
+  {
+    "country": "CO",
+    "id": 3686110,
+    "coord": {
+      "lat": 4,
+      "lon": -72
+    },
+    "name": "Republic of Colombia"
+  },
+  {
+    "country": "CO",
+    "id": 3689982,
+    "coord": {
+      "lat": -1.01972,
+      "lon": -71.938332
+    },
+    "name": "Departamento del Amazonas"
+  },
+  {
+    "country": "CO",
+    "id": 3827656,
+    "coord": {
+      "lat": -4.19111,
+      "lon": -69.995827
+    },
+    "name": "Rondiña"
+  },
+  {
+    "country": "CO",
+    "id": 3666082,
+    "coord": {
+      "lat": 5,
+      "lon": -69.5
+    },
+    "name": "Departamento del Vichada"
+  },
+  {
+    "country": "CO",
+    "id": 3829421,
+    "coord": {
+      "lat": 4.32556,
+      "lon": -70.550003
+    },
+    "name": "Chananané"
+  },
+  {
+    "country": "CO",
+    "id": 3675686,
+    "coord": {
+      "lat": 10,
+      "lon": -74.5
+    },
+    "name": "Departamento del Magdalena"
+  },
+  {
+    "country": "CO",
+    "id": 3682254,
+    "coord": {
+      "lat": 11.19321,
+      "lon": -74.222923
+    },
+    "name": "Gaira"
+  },
+  {
+    "country": "CO",
+    "id": 3675252,
+    "coord": {
+      "lat": 5.19889,
+      "lon": -74.892952
+    },
+    "name": "Mariquita"
+  },
+  {
+    "country": "CO",
+    "id": 3687952,
+    "coord": {
+      "lat": 6.09106,
+      "lon": -75.635689
+    },
+    "name": "Caldas"
+  },
+  {
+    "country": "CO",
+    "id": 3688452,
+    "coord": {
+      "lat": 3.58333,
+      "lon": -77
+    },
+    "name": "Buenaventura"
+  },
+  {
+    "country": "CO",
+    "id": 3671178,
+    "coord": {
+      "lat": 0.5,
+      "lon": -76
+    },
+    "name": "Departamento del Putumayo"
+  },
+  {
+    "country": "CO",
+    "id": 6974754,
+    "coord": {
+      "lat": 0.47361,
+      "lon": -75.186111
+    },
+    "name": "El Mecaya"
+  },
+  {
+    "country": "CO",
+    "id": 3769975,
+    "coord": {
+      "lat": 4.03772,
+      "lon": -73.343163
+    },
+    "name": "Puerto Chigüiro"
+  },
+  {
+    "country": "CO",
+    "id": 3676623,
+    "coord": {
+      "lat": -4.21528,
+      "lon": -69.940559
+    },
+    "name": "Leticia"
+  },
+  {
+    "country": "CO",
+    "id": 3674654,
+    "coord": {
+      "lat": 1.14933,
+      "lon": -76.646606
+    },
+    "name": "Mocoa"
+  },
+  {
+    "country": "CO",
+    "id": 3674740,
+    "coord": {
+      "lat": 1.33667,
+      "lon": -71.951111
+    },
+    "name": "Miraflores"
+  },
+  {
+    "country": "CO",
+    "id": 3665900,
+    "coord": {
+      "lat": 4.142,
+      "lon": -73.62664
+    },
+    "name": "Villavicencio"
+  },
+  {
+    "country": "CO",
+    "id": 3671519,
+    "coord": {
+      "lat": 6.18903,
+      "lon": -67.485878
+    },
+    "name": "Puerto Carreno"
+  },
+  {
+    "country": "CO",
+    "id": 3688685,
+    "coord": {
+      "lat": 4.25,
+      "lon": -74.183327
+    },
+    "name": "Distrito Capital de Bogotá"
+  },
+  {
+    "country": "CO",
+    "id": 3688689,
+    "coord": {
+      "lat": 4.60971,
+      "lon": -74.081749
+    },
+    "name": "Bogota"
+  },
+  {
+    "country": "CO",
+    "id": 7033305,
+    "coord": {
+      "lat": 4.64882,
+      "lon": -74.058372
+    },
+    "name": "Granada"
+  },
+  {
+    "country": "CO",
+    "id": 8182072,
+    "coord": {
+      "lat": 4.60066,
+      "lon": -74.085861
+    },
+    "name": "Estanzuela"
+  },
+  {
+    "country": "CO",
+    "id": 3670698,
+    "coord": {
+      "lat": 5,
+      "lon": -76
+    },
+    "name": "Departamento de Risaralda"
+  },
+  {
+    "country": "CO",
+    "id": 3672486,
+    "coord": {
+      "lat": 4.81333,
+      "lon": -75.696114
+    },
+    "name": "Pereira"
+  },
+  {
+    "country": "CO",
+    "id": 3680692,
+    "coord": {
+      "lat": 2.5,
+      "lon": -75.75
+    },
+    "name": "Departamento del Huila"
+  },
+  {
+    "country": "CO",
+    "id": 3672532,
+    "coord": {
+      "lat": 2.91667,
+      "lon": -75.333328
+    },
+    "name": "Peñón de Opia"
+  },
+  {
+    "country": "CO",
+    "id": 3685413,
+    "coord": {
+      "lat": 5,
+      "lon": -74.166672
+    },
+    "name": "Departamento de Cundinamarca"
+  },
+  {
+    "country": "CO",
+    "id": 3666997,
+    "coord": {
+      "lat": 4.96531,
+      "lon": -73.91301
+    },
+    "name": "Tocancipa"
+  },
+  {
+    "country": "CO",
+    "id": 3689436,
+    "coord": {
+      "lat": 10.75,
+      "lon": -75
+    },
+    "name": "Departamento del Atlántico"
+  },
+  {
+    "country": "CO",
+    "id": 3689147,
+    "coord": {
+      "lat": 10.96389,
+      "lon": -74.796387
+    },
+    "name": "Barranquilla"
+  },
+  {
+    "country": "CO",
+    "id": 3668578,
+    "coord": {
+      "lat": 7,
+      "lon": -73.25
+    },
+    "name": "Departamento de Santander"
+  },
+  {
+    "country": "CO",
+    "id": 3688465,
+    "coord": {
+      "lat": 7.12539,
+      "lon": -73.119797
+    },
+    "name": "Bucaramanga"
+  },
+  {
+    "country": "CO",
+    "id": 3670235,
+    "coord": {
+      "lat": 7.13306,
+      "lon": -73.122223
+    },
+    "name": "San Alonso"
+  },
+  {
+    "country": "CO",
+    "id": 3666313,
+    "coord": {
+      "lat": 3.75,
+      "lon": -76.5
+    },
+    "name": "Departamento del Valle del Cauca"
+  },
+  {
+    "country": "CO",
+    "id": 3687925,
+    "coord": {
+      "lat": 3.43722,
+      "lon": -76.522499
+    },
+    "name": "Cali"
+  },
+  {
+    "country": "CO",
+    "id": 3689815,
+    "coord": {
+      "lat": 7,
+      "lon": -75.5
+    },
+    "name": "Departamento de Antioquia"
+  },
+  {
+    "country": "CO",
+    "id": 3688889,
+    "coord": {
+      "lat": 6.29238,
+      "lon": -75.547958
+    },
+    "name": "Berlín"
+  },
+  {
+    "country": "CO",
+    "id": 3665657,
+    "coord": {
+      "lat": 3.58234,
+      "lon": -76.491463
+    },
+    "name": "Yumbo"
+  },
+  {
+    "country": "CO",
+    "id": 3680450,
+    "coord": {
+      "lat": 6.17194,
+      "lon": -75.611389
+    },
+    "name": "Itagui"
+  },
+  {
+    "country": "CO",
+    "id": 3688256,
+    "coord": {
+      "lat": 3.90089,
+      "lon": -76.297829
+    },
+    "name": "Buga"
+  },
+  {
+    "country": "CO",
+    "id": 3682028,
+    "coord": {
+      "lat": 4.29866,
+      "lon": -74.80468
+    },
+    "name": "Girardot"
+  },
+  {
+    "country": "CO",
+    "id": 3687951,
+    "coord": {
+      "lat": 5.25,
+      "lon": -75.5
+    },
+    "name": "Departamento de Caldas"
+  },
+  {
+    "country": "CO",
+    "id": 3675443,
+    "coord": {
+      "lat": 5.06889,
+      "lon": -75.51738
+    },
+    "name": "Manizales"
+  },
+  {
+    "country": "CO",
+    "id": 3682631,
+    "coord": {
+      "lat": 6.17064,
+      "lon": -75.585312
+    },
+    "name": "Envigado"
+  },
+  {
+    "country": "CO",
+    "id": 3674021,
+    "coord": {
+      "lat": 1.5,
+      "lon": -78
+    },
+    "name": "Departamento de Nariño"
+  },
+  {
+    "country": "CO",
+    "id": 3672778,
+    "coord": {
+      "lat": 1.21361,
+      "lon": -77.281113
+    },
+    "name": "Pasto"
+  },
+  {
+    "country": "CO",
+    "id": 3666951,
+    "coord": {
+      "lat": 3.75,
+      "lon": -75.25
+    },
+    "name": "Departamento de Tolima"
+  },
+  {
+    "country": "CO",
+    "id": 3680656,
+    "coord": {
+      "lat": 4.43889,
+      "lon": -75.232224
+    },
+    "name": "Ibague"
+  },
+  {
+    "country": "CO",
+    "id": 3688536,
+    "coord": {
+      "lat": 5.5,
+      "lon": -72.5
+    },
+    "name": "Departamento de Boyacá"
+  },
+  {
+    "country": "CO",
+    "id": 3685084,
+    "coord": {
+      "lat": 5.8245,
+      "lon": -73.034081
+    },
+    "name": "Duitama"
+  },
+  {
+    "country": "CO",
+    "id": 3689169,
+    "coord": {
+      "lat": 7.06528,
+      "lon": -73.854721
+    },
+    "name": "Barrancabermeja"
+  },
+  {
+    "country": "CO",
+    "id": 3673798,
+    "coord": {
+      "lat": 8,
+      "lon": -73
+    },
+    "name": "Departamento de Norte de Santander"
+  },
+  {
+    "country": "CO",
+    "id": 3685533,
+    "coord": {
+      "lat": 7.88333,
+      "lon": -72.50528
+    },
+    "name": "Cucuta"
+  },
+  {
+    "country": "CO",
+    "id": 3685889,
+    "coord": {
+      "lat": 8.33333,
+      "lon": -75.666672
+    },
+    "name": "Departamento de Córdoba"
+  },
+  {
+    "country": "CO",
+    "id": 3671732,
+    "coord": {
+      "lat": 8.76566,
+      "lon": -75.886703
+    },
+    "name": "Pringamosa"
+  },
+  {
+    "country": "CO",
+    "id": 3666645,
+    "coord": {
+      "lat": 4.08466,
+      "lon": -76.195358
+    },
+    "name": "Tulua"
+  },
+  {
+    "country": "CO",
+    "id": 3689124,
+    "coord": {
+      "lat": 11.25,
+      "lon": -74.199997
+    },
+    "name": "Barrio Obrero"
+  },
+  {
+    "country": "CO",
+    "id": 3671087,
+    "coord": {
+      "lat": 4.5,
+      "lon": -75.666672
+    },
+    "name": "Departamento del Quindío"
+  },
+  {
+    "country": "CO",
+    "id": 3689560,
+    "coord": {
+      "lat": 4.53389,
+      "lon": -75.681107
+    },
+    "name": "Armenia"
+  },
+  {
+    "country": "CO",
+    "id": 3686675,
+    "coord": {
+      "lat": 4.85876,
+      "lon": -74.058662
+    },
+    "name": "Chia"
+  },
+  {
+    "country": "CO",
+    "id": 3674292,
+    "coord": {
+      "lat": 4.70592,
+      "lon": -74.230209
+    },
+    "name": "Mosquera"
+  },
+  {
+    "country": "CO",
+    "id": 3670478,
+    "coord": {
+      "lat": 4.35,
+      "lon": -74.366669
+    },
+    "name": "Sabaneta"
+  },
+  {
+    "country": "CO",
+    "id": 3673045,
+    "coord": {
+      "lat": 7.37565,
+      "lon": -72.647949
+    },
+    "name": "Pamplona"
+  },
+  {
+    "country": "CO",
+    "id": 3667725,
+    "coord": {
+      "lat": 9,
+      "lon": -75
+    },
+    "name": "Departamento de Sucre"
+  },
+  {
+    "country": "CO",
+    "id": 3667983,
+    "coord": {
+      "lat": 9.30472,
+      "lon": -75.397781
+    },
+    "name": "Sincelejo"
+  },
+  {
+    "country": "CO",
+    "id": 3667849,
+    "coord": {
+      "lat": 10.91843,
+      "lon": -74.764587
+    },
+    "name": "Soledad"
+  },
+  {
+    "country": "CO",
+    "id": 3682516,
+    "coord": {
+      "lat": 4.81367,
+      "lon": -74.35453
+    },
+    "name": "Facatativa"
+  },
+  {
+    "country": "CO",
+    "id": 3687173,
+    "coord": {
+      "lat": 5.5,
+      "lon": -71.5
+    },
+    "name": "Departamento de Casanare"
+  },
+  {
+    "country": "CO",
+    "id": 3665688,
+    "coord": {
+      "lat": 5.33775,
+      "lon": -72.395859
+    },
+    "name": "Yopal"
+  },
+  {
+    "country": "CO",
+    "id": 3669808,
+    "coord": {
+      "lat": 6.55573,
+      "lon": -73.133087
+    },
+    "name": "San Gil"
+  },
+  {
+    "country": "CO",
+    "id": 3683427,
+    "coord": {
+      "lat": 6.21033,
+      "lon": -75.572403
+    },
+    "name": "El Poblado"
+  },
+  {
+    "country": "CO",
+    "id": 3667905,
+    "coord": {
+      "lat": 4.57937,
+      "lon": -74.21682
+    },
+    "name": "Soacha"
+  },
+  {
+    "country": "CO",
+    "id": 3689047,
+    "coord": {
+      "lat": 4.33333,
+      "lon": -73.366669
+    },
+    "name": "Bavaria"
+  },
+  {
+    "country": "CO",
+    "id": 3811890,
+    "coord": {
+      "lat": 10.88722,
+      "lon": -75.019173
+    },
+    "name": "Caja"
+  },
+  {
+    "country": "CO",
+    "id": 3687479,
+    "coord": {
+      "lat": 1,
+      "lon": -74
+    },
+    "name": "Departamento del Caquetá"
+  },
+  {
+    "country": "CO",
+    "id": 8184847,
+    "coord": {
+      "lat": 1.62133,
+      "lon": -75.61644
+    },
+    "name": "Barrio La Consolata"
+  },
+  {
+    "country": "CO",
+    "id": 3670719,
+    "coord": {
+      "lat": 5.42164,
+      "lon": -75.703178
+    },
+    "name": "Riosucio"
+  },
+  {
+    "country": "CO",
+    "id": 3779399,
+    "coord": {
+      "lat": 8.67611,
+      "lon": -76.20417
+    },
+    "name": "Canalete"
+  },
+  {
+    "country": "CO",
+    "id": 3688928,
+    "coord": {
+      "lat": 6.33732,
+      "lon": -75.557953
+    },
+    "name": "Bello"
+  },
+  {
+    "country": "CO",
+    "id": 3687230,
+    "coord": {
+      "lat": 4.74639,
+      "lon": -75.911667
+    },
+    "name": "Cartago"
+  },
+  {
+    "country": "CO",
+    "id": 7524718,
+    "coord": {
+      "lat": 4.42406,
+      "lon": -73.944969
+    },
+    "name": "Santa Maria"
+  },
+  {
+    "country": "CO",
+    "id": 3665918,
+    "coord": {
+      "lat": 4.81667,
+      "lon": -74.099998
+    },
+    "name": "Villa Rosa"
+  },
+  {
+    "country": "CO",
+    "id": 3671098,
+    "coord": {
+      "lat": 4.62306,
+      "lon": -75.762779
+    },
+    "name": "Quimbaya"
+  },
+  {
+    "country": "CO",
+    "id": 3764011,
+    "coord": {
+      "lat": 3.25413,
+      "lon": -76.543457
+    },
+    "name": "Jalisco"
+  },
+  {
+    "country": "CO",
+    "id": 3685095,
+    "coord": {
+      "lat": 4.83916,
+      "lon": -75.667259
+    },
+    "name": "Dos Quebradas"
+  },
+  {
+    "country": "CO",
+    "id": 3666025,
+    "coord": {
+      "lat": 3.69934,
+      "lon": -76.442299
+    },
+    "name": "Vijes"
+  },
+  {
+    "country": "CO",
+    "id": 3668454,
+    "coord": {
+      "lat": 4.86806,
+      "lon": -75.621391
+    },
+    "name": "Santa Rosa de Cabal"
+  },
+  {
+    "country": "CO",
+    "id": 3686561,
+    "coord": {
+      "lat": 4.9825,
+      "lon": -75.603607
+    },
+    "name": "Chinchina"
+  },
+  {
+    "country": "CO",
+    "id": 3675242,
+    "coord": {
+      "lat": 5.47843,
+      "lon": -75.592667
+    },
+    "name": "Marmato"
+  },
+  {
+    "country": "CO",
+    "id": 3682385,
+    "coord": {
+      "lat": 7.06222,
+      "lon": -73.086441
+    },
+    "name": "Floridablanca"
+  },
+  {
+    "country": "CO",
+    "id": 3686422,
+    "coord": {
+      "lat": 5.14468,
+      "lon": -73.685783
+    },
+    "name": "Choconta"
+  },
+  {
+    "country": "CO",
+    "id": 3666522,
+    "coord": {
+      "lat": 4.48668,
+      "lon": -73.937477
+    },
+    "name": "Ubaque"
+  },
+  {
+    "country": "CO",
+    "id": 3687209,
+    "coord": {
+      "lat": 5.08333,
+      "lon": -73.616669
+    },
+    "name": "Casablanca"
+  },
+  {
+    "country": "CO",
+    "id": 3689941,
+    "coord": {
+      "lat": 4.52028,
+      "lon": -74.539436
+    },
+    "name": "Anapoima"
+  },
+  {
+    "country": "CO",
+    "id": 3680539,
+    "coord": {
+      "lat": 0.83018,
+      "lon": -77.64959
+    },
+    "name": "Ipiales"
+  },
+  {
+    "country": "CO",
+    "id": 3688989,
+    "coord": {
+      "lat": 5.20088,
+      "lon": -75.868652
+    },
+    "name": "Belen de Umbria"
+  },
+  {
+    "country": "CO",
+    "id": 3681360,
+    "coord": {
+      "lat": 4.93658,
+      "lon": -73.833138
+    },
+    "name": "Guatavita"
+  },
+  {
+    "country": "CO",
+    "id": 3667447,
+    "coord": {
+      "lat": 1.09473,
+      "lon": -77.394821
+    },
+    "name": "Tangua"
+  },
+  {
+    "country": "CO",
+    "id": 3667697,
+    "coord": {
+      "lat": 5.45303,
+      "lon": -75.650719
+    },
+    "name": "Supia"
+  },
+  {
+    "country": "CO",
+    "id": 3681404,
+    "coord": {
+      "lat": 4.86601,
+      "lon": -73.87748
+    },
+    "name": "Guasca"
+  },
+  {
+    "country": "CO",
+    "id": 3671119,
+    "coord": {
+      "lat": 4.33234,
+      "lon": -73.86142
+    },
+    "name": "Quetame"
+  },
+  {
+    "country": "CO",
+    "id": 3681303,
+    "coord": {
+      "lat": 4.21472,
+      "lon": -73.817192
+    },
+    "name": "Guayabetal"
+  },
+  {
+    "country": "CO",
+    "id": 3687339,
+    "coord": {
+      "lat": 9.0568,
+      "lon": -75.804077
+    },
+    "name": "Carito"
+  },
+  {
+    "country": "CO",
+    "id": 3670730,
+    "coord": {
+      "lat": 6.15515,
+      "lon": -75.373711
+    },
+    "name": "Rionegro"
+  },
+  {
+    "country": "CO",
+    "id": 3681429,
+    "coord": {
+      "lat": 6.28046,
+      "lon": -75.443542
+    },
+    "name": "Guarne"
+  },
+  {
+    "country": "CO",
+    "id": 3668451,
+    "coord": {
+      "lat": 6.64738,
+      "lon": -75.460297
+    },
+    "name": "Santa Rosa de Osos"
+  },
+  {
+    "country": "CO",
+    "id": 3667816,
+    "coord": {
+      "lat": 6.67028,
+      "lon": -75.747498
+    },
+    "name": "Sopetrán"
+  },
+  {
+    "country": "CO",
+    "id": 3689870,
+    "coord": {
+      "lat": 6.88508,
+      "lon": -75.334671
+    },
+    "name": "Angostura"
+  },
+  {
+    "country": "CO",
+    "id": 3786682,
+    "coord": {
+      "lat": 6.60833,
+      "lon": -75.665833
+    },
+    "name": "Azucenos"
+  },
+  {
+    "country": "CO",
+    "id": 3670644,
+    "coord": {
+      "lat": 4.41256,
+      "lon": -76.154572
+    },
+    "name": "Roldanillo"
+  },
+  {
+    "country": "CO",
+    "id": 3665559,
+    "coord": {
+      "lat": 4.39462,
+      "lon": -76.071503
+    },
+    "name": "Zarzal"
+  },
+  {
+    "country": "CO",
+    "id": 3681797,
+    "coord": {
+      "lat": 3.76383,
+      "lon": -76.332916
+    },
+    "name": "Guacari"
+  },
+  {
+    "country": "CO",
+    "id": 3685292,
+    "coord": {
+      "lat": 3.65685,
+      "lon": -76.688591
+    },
+    "name": "Dagua"
+  },
+  {
+    "country": "CO",
+    "id": 3682281,
+    "coord": {
+      "lat": 4.71638,
+      "lon": -74.211952
+    },
+    "name": "Funza"
+  },
+  {
+    "country": "CO",
+    "id": 3686441,
+    "coord": {
+      "lat": 4.52897,
+      "lon": -73.922729
+    },
+    "name": "Choachi"
+  },
+  {
+    "country": "CO",
+    "id": 3666755,
+    "coord": {
+      "lat": 5.05,
+      "lon": -73.800003
+    },
+    "name": "Tres Esquinas"
+  },
+  {
+    "country": "CO",
+    "id": 3683776,
+    "coord": {
+      "lat": 4.53288,
+      "lon": -74.7948
+    },
+    "name": "El Mono"
+  },
+  {
+    "country": "CO",
+    "id": 3670629,
+    "coord": {
+      "lat": 4.0108,
+      "lon": -75.604927
+    },
+    "name": "Roncesvalles"
+  },
+  {
+    "country": "CO",
+    "id": 3686431,
+    "coord": {
+      "lat": 6,
+      "lon": -77
+    },
+    "name": "Departamento del Chocó"
+  },
+  {
+    "country": "CO",
+    "id": 3671116,
+    "coord": {
+      "lat": 5.69472,
+      "lon": -76.66111
+    },
+    "name": "Quibdo"
+  },
+  {
+    "country": "CO",
+    "id": 3780941,
+    "coord": {
+      "lat": 2.65744,
+      "lon": -75.661346
+    },
+    "name": "El Salero"
+  },
+  {
+    "country": "CO",
+    "id": 3665991,
+    "coord": {
+      "lat": 5.27372,
+      "lon": -74.196136
+    },
+    "name": "Villagómez"
+  },
+  {
+    "country": "CO",
+    "id": 3665542,
+    "coord": {
+      "lat": 5.02208,
+      "lon": -74.004807
+    },
+    "name": "Zipaquira"
+  },
+  {
+    "country": "CO",
+    "id": 3669981,
+    "coord": {
+      "lat": 5.30153,
+      "lon": -74.069542
+    },
+    "name": "San Cayetano"
+  },
+  {
+    "country": "CO",
+    "id": 3666608,
+    "coord": {
+      "lat": 5.53528,
+      "lon": -73.367783
+    },
+    "name": "Tunja"
+  },
+  {
+    "country": "CO",
+    "id": 3667807,
+    "coord": {
+      "lat": 4.9075,
+      "lon": -73.9384
+    },
+    "name": "Sopo"
+  },
+  {
+    "country": "CO",
+    "id": 3675432,
+    "coord": {
+      "lat": 5.00864,
+      "lon": -73.541153
+    },
+    "name": "Manta"
+  },
+  {
+    "country": "CO",
+    "id": 3673887,
+    "coord": {
+      "lat": 5.05,
+      "lon": -73.883331
+    },
+    "name": "Nemocon"
+  },
+  {
+    "country": "CO",
+    "id": 3670502,
+    "coord": {
+      "lat": 10.62962,
+      "lon": -74.920631
+    },
+    "name": "Sabanalarga"
+  },
+  {
+    "country": "CO",
+    "id": 3687964,
+    "coord": {
+      "lat": 4.52949,
+      "lon": -75.640907
+    },
+    "name": "Calarca"
+  },
+  {
+    "country": "CO",
+    "id": 3682380,
+    "coord": {
+      "lat": 4.48797,
+      "lon": -73.897491
+    },
+    "name": "Fomeque"
+  },
+  {
+    "country": "CO",
+    "id": 3683968,
+    "coord": {
+      "lat": 5,
+      "lon": -73.883331
+    },
+    "name": "El Jordán"
+  },
+  {
+    "country": "CO",
+    "id": 3668716,
+    "coord": {
+      "lat": 4.71418,
+      "lon": -75.097992
+    },
+    "name": "Santa Isabel"
+  },
+  {
+    "country": "CO",
+    "id": 3686880,
+    "coord": {
+      "lat": 9.33333,
+      "lon": -73.5
+    },
+    "name": "Departamento del Cesar"
+  },
+  {
+    "country": "CO",
+    "id": 3666304,
+    "coord": {
+      "lat": 10.46314,
+      "lon": -73.25322
+    },
+    "name": "Valledupar"
+  },
+  {
+    "country": "CO",
+    "id": 3688650,
+    "coord": {
+      "lat": 9,
+      "lon": -74.333328
+    },
+    "name": "Departamento de Bolívar"
+  },
+  {
+    "country": "CO",
+    "id": 3668861,
+    "coord": {
+      "lat": 10.60361,
+      "lon": -75.288239
+    },
+    "name": "Santa Catalina"
+  },
+  {
+    "country": "CO",
+    "id": 3669218,
+    "coord": {
+      "lat": 9.73586,
+      "lon": -75.52626
+    },
+    "name": "San Onofre"
+  },
+  {
+    "country": "CO",
+    "id": 3688705,
+    "coord": {
+      "lat": 7.61096,
+      "lon": -72.647743
+    },
+    "name": "Bochalema"
+  },
+  {
+    "country": "CO",
+    "id": 3686574,
+    "coord": {
+      "lat": 7.60731,
+      "lon": -72.601082
+    },
+    "name": "Chinacota"
+  },
+  {
+    "country": "CO",
+    "id": 3685529,
+    "coord": {
+      "lat": 7.53941,
+      "lon": -72.772377
+    },
+    "name": "Cucutilla"
+  },
+  {
+    "country": "CO",
+    "id": 3685069,
+    "coord": {
+      "lat": 7.71307,
+      "lon": -72.657593
+    },
+    "name": "Durania"
+  },
+  {
+    "country": "CO",
+    "id": 3674885,
+    "coord": {
+      "lat": 4.20475,
+      "lon": -74.640747
+    },
+    "name": "Melgar"
+  },
+  {
+    "country": "CO",
+    "id": 3667003,
+    "coord": {
+      "lat": 4.4582,
+      "lon": -74.634338
+    },
+    "name": "Tocaima"
+  },
+  {
+    "country": "CO",
+    "id": 3682573,
+    "coord": {
+      "lat": 4.14924,
+      "lon": -74.884293
+    },
+    "name": "Espinal"
+  },
+  {
+    "country": "CO",
+    "id": 3671020,
+    "coord": {
+      "lat": 4.51952,
+      "lon": -74.592934
+    },
+    "name": "Apulo"
+  },
+  {
+    "country": "CO",
+    "id": 3679277,
+    "coord": {
+      "lat": 5.44783,
+      "lon": -74.663109
+    },
+    "name": "La Dorada"
+  },
+  {
+    "country": "CO",
+    "id": 3686712,
+    "coord": {
+      "lat": 7.28025,
+      "lon": -72.967819
+    },
+    "name": "Charta"
+  },
+  {
+    "country": "CO",
+    "id": 3666092,
+    "coord": {
+      "lat": 7.30911,
+      "lon": -72.871223
+    },
+    "name": "Vetas"
+  },
+  {
+    "country": "CO",
+    "id": 3687644,
+    "coord": {
+      "lat": 3.40671,
+      "lon": -76.34819
+    },
+    "name": "Candelaria"
+  },
+  {
+    "country": "CO",
+    "id": 3670370,
+    "coord": {
+      "lat": 5.40733,
+      "lon": -75.487488
+    },
+    "name": "Salamina"
+  },
+  {
+    "country": "CO",
+    "id": 3673164,
+    "coord": {
+      "lat": 3.53944,
+      "lon": -76.303612
+    },
+    "name": "Palmira"
+  },
+  {
+    "country": "CO",
+    "id": 3668028,
+    "coord": {
+      "lat": 4.40367,
+      "lon": -74.386703
+    },
+    "name": "Silvania"
+  },
+  {
+    "country": "CO",
+    "id": 3780754,
+    "coord": {
+      "lat": 5.9449,
+      "lon": -75.524277
+    },
+    "name": "Montebello"
+  },
+  {
+    "country": "CO",
+    "id": 3669332,
+    "coord": {
+      "lat": 3.69637,
+      "lon": -73.699577
+    },
+    "name": "San Martin"
+  },
+  {
+    "country": "CO",
+    "id": 3681605,
+    "coord": {
+      "lat": 3.88043,
+      "lon": -73.765663
+    },
+    "name": "Guamal"
+  },
+  {
+    "country": "CO",
+    "id": 3666502,
+    "coord": {
+      "lat": 4.70444,
+      "lon": -75.74028
+    },
+    "name": "Ulloa"
+  },
+  {
+    "country": "CO",
+    "id": 3682549,
+    "coord": {
+      "lat": 7.95422,
+      "lon": -72.829521
+    },
+    "name": "Estancia Nueva"
+  },
+  {
+    "country": "CO",
+    "id": 3687321,
+    "coord": {
+      "lat": 5.34862,
+      "lon": -73.90168
+    },
+    "name": "Carmen de Carupa"
+  },
+  {
+    "country": "CO",
+    "id": 3686134,
+    "coord": {
+      "lat": 5.06052,
+      "lon": -73.979248
+    },
+    "name": "Cogua"
+  },
+  {
+    "country": "CO",
+    "id": 3689833,
+    "coord": {
+      "lat": 5.33278,
+      "lon": -75.791107
+    },
+    "name": "Anserma"
+  },
+  {
+    "country": "CO",
+    "id": 3670141,
+    "coord": {
+      "lat": 5.21667,
+      "lon": -73.599998
+    },
+    "name": "San Antonio"
+  },
+  {
+    "country": "CO",
+    "id": 3682185,
+    "coord": {
+      "lat": 4.76288,
+      "lon": -73.610901
+    },
+    "name": "Gama"
+  },
+  {
+    "country": "CO",
+    "id": 3683155,
+    "coord": {
+      "lat": 4.85314,
+      "lon": -74.259956
+    },
+    "name": "El Rosal"
+  },
+  {
+    "country": "CO",
+    "id": 3667290,
+    "coord": {
+      "lat": 4.8727,
+      "lon": -74.144348
+    },
+    "name": "Tenjo"
+  },
+  {
+    "country": "CO",
+    "id": 3684276,
+    "coord": {
+      "lat": 1.67817,
+      "lon": -75.28466
+    },
+    "name": "El Doncello"
+  },
+  {
+    "country": "CO",
+    "id": 3665881,
+    "coord": {
+      "lat": 4.43713,
+      "lon": -74.521568
+    },
+    "name": "Viota"
+  },
+  {
+    "country": "CO",
+    "id": 3667351,
+    "coord": {
+      "lat": 5.19903,
+      "lon": -73.891281
+    },
+    "name": "Tausa"
+  },
+  {
+    "country": "CO",
+    "id": 3686513,
+    "coord": {
+      "lat": 5.61637,
+      "lon": -73.817482
+    },
+    "name": "Chiquinquira"
+  },
+  {
+    "country": "CO",
+    "id": 3782173,
+    "coord": {
+      "lat": 4.71493,
+      "lon": -73.821701
+    },
+    "name": "Palacio"
+  },
+  {
+    "country": "CO",
+    "id": 3665811,
+    "coord": {
+      "lat": 1.11577,
+      "lon": -77.401688
+    },
+    "name": "Yacuanquer"
+  },
+  {
+    "country": "CO",
+    "id": 3678097,
+    "coord": {
+      "lat": 2.39341,
+      "lon": -75.892319
+    },
+    "name": "La Plata"
+  },
+  {
+    "country": "CO",
+    "id": 3689187,
+    "coord": {
+      "lat": 6.63572,
+      "lon": -73.222816
+    },
+    "name": "Barichara"
+  },
+  {
+    "country": "CO",
+    "id": 3678847,
+    "coord": {
+      "lat": 11.5,
+      "lon": -72.5
+    },
+    "name": "Departamento de La Guajira"
+  },
+  {
+    "country": "CO",
+    "id": 3670521,
+    "coord": {
+      "lat": 11.15699,
+      "lon": -72.866783
+    },
+    "name": "Sabana del Potrero"
+  },
+  {
+    "country": "CO",
+    "id": 3688462,
+    "coord": {
+      "lat": 8.04096,
+      "lon": -72.865379
+    },
+    "name": "Bucarasica"
+  },
+  {
+    "country": "CO",
+    "id": 3681966,
+    "coord": {
+      "lat": 7.88752,
+      "lon": -72.797493
+    },
+    "name": "Gramalote"
+  },
+  {
+    "country": "CO",
+    "id": 3670745,
+    "coord": {
+      "lat": 11.54444,
+      "lon": -72.907219
+    },
+    "name": "Riohacha"
+  },
+  {
+    "country": "CO",
+    "id": 3670514,
+    "coord": {
+      "lat": 10.71972,
+      "lon": -74.682777
+    },
+    "name": "Sabanagrande"
+  },
+  {
+    "country": "CO",
+    "id": 3689570,
+    "coord": {
+      "lat": 10.25444,
+      "lon": -75.343887
+    },
+    "name": "Arjona"
+  },
+  {
+    "country": "CO",
+    "id": 3668087,
+    "coord": {
+      "lat": 4.48425,
+      "lon": -74.244987
+    },
+    "name": "Sibate"
+  },
+  {
+    "country": "CO",
+    "id": 3787902,
+    "coord": {
+      "lat": 6.89028,
+      "lon": -75.67083
+    },
+    "name": "Yarumal"
+  },
+  {
+    "country": "CO",
+    "id": 3685893,
+    "coord": {
+      "lat": 9.58612,
+      "lon": -74.827049
+    },
+    "name": "Cordoba"
+  },
+  {
+    "country": "CO",
+    "id": 3675234,
+    "coord": {
+      "lat": 5.29659,
+      "lon": -75.054962
+    },
+    "name": "Marquetalia"
+  },
+  {
+    "country": "CO",
+    "id": 3673431,
+    "coord": {
+      "lat": 5.13969,
+      "lon": -73.397392
+    },
+    "name": "Pachavita"
+  },
+  {
+    "country": "CO",
+    "id": 3686540,
+    "coord": {
+      "lat": 9.10569,
+      "lon": -75.398117
+    },
+    "name": "Chinu"
+  },
+  {
+    "country": "CO",
+    "id": 3687029,
+    "coord": {
+      "lat": 2.5,
+      "lon": -76.833328
+    },
+    "name": "Departamento del Cauca"
+  },
+  {
+    "country": "CO",
+    "id": 3673398,
+    "coord": {
+      "lat": 2.65472,
+      "lon": -75.992783
+    },
+    "name": "Belalcazar"
+  },
+  {
+    "country": "CO",
+    "id": 3682395,
+    "coord": {
+      "lat": 5.80487,
+      "lon": -73.970291
+    },
+    "name": "Florian"
+  },
+  {
+    "country": "CO",
+    "id": 3686851,
+    "coord": {
+      "lat": 4.94829,
+      "lon": -74.593918
+    },
+    "name": "Chaguani"
+  },
+  {
+    "country": "CO",
+    "id": 3678328,
+    "coord": {
+      "lat": 6.21826,
+      "lon": -73.811211
+    },
+    "name": "Landazuri"
+  },
+  {
+    "country": "CO",
+    "id": 3666562,
+    "coord": {
+      "lat": 5.3236,
+      "lon": -73.490669
+    },
+    "name": "Turmeque"
+  },
+  {
+    "country": "CO",
+    "id": 3667717,
+    "coord": {
+      "lat": 5.10289,
+      "lon": -73.798447
+    },
+    "name": "Suesca"
+  },
+  {
+    "country": "CO",
+    "id": 3667887,
+    "coord": {
+      "lat": 6.46838,
+      "lon": -73.260223
+    },
+    "name": "Socorro"
+  },
+  {
+    "country": "CO",
+    "id": 3685442,
+    "coord": {
+      "lat": 4.2708,
+      "lon": -73.486687
+    },
+    "name": "Cumaral"
+  },
+  {
+    "country": "CO",
+    "id": 3686233,
+    "coord": {
+      "lat": 4.61889,
+      "lon": -75.635834
+    },
+    "name": "Circasia"
+  },
+  {
+    "country": "CO",
+    "id": 3670587,
+    "coord": {
+      "lat": 4.23922,
+      "lon": -75.23996
+    },
+    "name": "Rovira"
+  },
+  {
+    "country": "CO",
+    "id": 3669718,
+    "coord": {
+      "lat": 6.44344,
+      "lon": -75.728149
+    },
+    "name": "San Jeronimo"
+  },
+  {
+    "country": "CO",
+    "id": 3679554,
+    "coord": {
+      "lat": 6.03082,
+      "lon": -75.431503
+    },
+    "name": "La Ceja"
+  },
+  {
+    "country": "CO",
+    "id": 3685058,
+    "coord": {
+      "lat": 6.32598,
+      "lon": -75.768349
+    },
+    "name": "Ebejico"
+  },
+  {
+    "country": "CO",
+    "id": 3667820,
+    "coord": {
+      "lat": 5.71062,
+      "lon": -75.310677
+    },
+    "name": "Sonson"
+  },
+  {
+    "country": "CO",
+    "id": 3672068,
+    "coord": {
+      "lat": 8.41472,
+      "lon": -75.588333
+    },
+    "name": "Planeta Rica"
+  },
+  {
+    "country": "CO",
+    "id": 3686272,
+    "coord": {
+      "lat": 8.87443,
+      "lon": -75.620277
+    },
+    "name": "Cienaga de Oro"
+  },
+  {
+    "country": "CO",
+    "id": 3670419,
+    "coord": {
+      "lat": 8.94616,
+      "lon": -75.442749
+    },
+    "name": "Sahagun"
+  },
+  {
+    "country": "CO",
+    "id": 3686922,
+    "coord": {
+      "lat": 8.88479,
+      "lon": -75.79052
+    },
+    "name": "Cerete"
+  },
+  {
+    "country": "CO",
+    "id": 3690316,
+    "coord": {
+      "lat": 5.17282,
+      "lon": -72.547058
+    },
+    "name": "Aguazul"
+  },
+  {
+    "country": "CO",
+    "id": 3675826,
+    "coord": {
+      "lat": 10.60921,
+      "lon": -75.143089
+    },
+    "name": "Luruaco"
+  },
+  {
+    "country": "CO",
+    "id": 3669355,
+    "coord": {
+      "lat": 4.82052,
+      "lon": -73.16851
+    },
+    "name": "San Luis de Gaceno"
+  },
+  {
+    "country": "CO",
+    "id": 3672255,
+    "coord": {
+      "lat": 4.33419,
+      "lon": -75.703484
+    },
+    "name": "Pijao"
+  },
+  {
+    "country": "CO",
+    "id": 3667629,
+    "coord": {
+      "lat": 4.91726,
+      "lon": -74.093643
+    },
+    "name": "Tabio"
+  },
+  {
+    "country": "CO",
+    "id": 3666577,
+    "coord": {
+      "lat": 10.32944,
+      "lon": -75.411369
+    },
+    "name": "Turbaco"
+  },
+  {
+    "country": "CO",
+    "id": 3792425,
+    "coord": {
+      "lat": 2.19614,
+      "lon": -75.64846
+    },
+    "name": "Alto de Garzón"
+  },
+  {
+    "country": "CO",
+    "id": 3688006,
+    "coord": {
+      "lat": 4.91857,
+      "lon": -74.027992
+    },
+    "name": "Cajica"
+  },
+  {
+    "country": "CO",
+    "id": 3685943,
+    "coord": {
+      "lat": 5.47681,
+      "lon": -74.044159
+    },
+    "name": "Coper"
+  },
+  {
+    "country": "CO",
+    "id": 3686793,
+    "coord": {
+      "lat": 3.72315,
+      "lon": -75.483162
+    },
+    "name": "Chaparral"
+  },
+  {
+    "country": "CO",
+    "id": 3666481,
+    "coord": {
+      "lat": 4.40306,
+      "lon": -74.025284
+    },
+    "name": "Une"
+  },
+  {
+    "country": "CO",
+    "id": 3678118,
+    "coord": {
+      "lat": 5.74867,
+      "lon": -75.606262
+    },
+    "name": "La Pintada"
+  },
+  {
+    "country": "CO",
+    "id": 3670475,
+    "coord": {
+      "lat": 6.15,
+      "lon": -75.599998
+    },
+    "name": "Sabaneta"
+  },
+  {
+    "country": "CO",
+    "id": 3689012,
+    "coord": {
+      "lat": 4.99528,
+      "lon": -75.812782
+    },
+    "name": "Belalcazar"
+  },
+  {
+    "country": "CO",
+    "id": 3669549,
+    "coord": {
+      "lat": 4.97417,
+      "lon": -76.228333
+    },
+    "name": "San Jose del Palmar"
+  },
+  {
+    "country": "CO",
+    "id": 3673826,
+    "coord": {
+      "lat": 5.06983,
+      "lon": -74.377998
+    },
+    "name": "Nocaima"
+  },
+  {
+    "country": "CO",
+    "id": 3671072,
+    "coord": {
+      "lat": 4.74806,
+      "lon": -74.563057
+    },
+    "name": "Quipile"
+  },
+  {
+    "country": "CO",
+    "id": 3666550,
+    "coord": {
+      "lat": 5.68966,
+      "lon": -73.227791
+    },
+    "name": "Tuta"
+  },
+  {
+    "country": "CO",
+    "id": 3680176,
+    "coord": {
+      "lat": 10.82813,
+      "lon": -75.033409
+    },
+    "name": "Juan de Acosta"
+  },
+  {
+    "country": "CO",
+    "id": 3666226,
+    "coord": {
+      "lat": 4.7193,
+      "lon": -74.929176
+    },
+    "name": "Venadillo"
+  },
+  {
+    "country": "CO",
+    "id": 3672813,
+    "coord": {
+      "lat": 4.30722,
+      "lon": -74.30056
+    },
+    "name": "Pasca"
+  },
+  {
+    "country": "CO",
+    "id": 3781883,
+    "coord": {
+      "lat": 4.81854,
+      "lon": -73.636589
+    },
+    "name": "Gacheta"
+  },
+  {
+    "country": "CO",
+    "id": 3686324,
+    "coord": {
+      "lat": 7.86667,
+      "lon": -76.666672
+    },
+    "name": "Churidó"
+  },
+  {
+    "country": "CO",
+    "id": 3682465,
+    "coord": {
+      "lat": 5.66885,
+      "lon": -72.992889
+    },
+    "name": "Firavitoba"
+  },
+  {
+    "country": "CO",
+    "id": 3667873,
+    "coord": {
+      "lat": 5.71434,
+      "lon": -72.933907
+    },
+    "name": "Sogamoso"
+  },
+  {
+    "country": "CO",
+    "id": 3673424,
+    "coord": {
+      "lat": 5.13278,
+      "lon": -74.159767
+    },
+    "name": "Pacho"
+  },
+  {
+    "country": "CO",
+    "id": 3673511,
+    "coord": {
+      "lat": 3.9361,
+      "lon": -75.221687
+    },
+    "name": "Ortega"
+  },
+  {
+    "country": "CO",
+    "id": 3670764,
+    "coord": {
+      "lat": 3.53083,
+      "lon": -75.680557
+    },
+    "name": "Rioblanco"
+  },
+  {
+    "country": "CO",
+    "id": 3675118,
+    "coord": {
+      "lat": 7.32233,
+      "lon": -73.01516
+    },
+    "name": "Matanza"
+  },
+  {
+    "country": "CO",
+    "id": 3674010,
+    "coord": {
+      "lat": 3.62057,
+      "lon": -75.094147
+    },
+    "name": "Natagaima"
+  },
+  {
+    "country": "CO",
+    "id": 3685708,
+    "coord": {
+      "lat": 3.79936,
+      "lon": -75.194672
+    },
+    "name": "Coyaima"
+  },
+  {
+    "country": "CO",
+    "id": 3682047,
+    "coord": {
+      "lat": 2.38677,
+      "lon": -75.545311
+    },
+    "name": "Gigante"
+  },
+  {
+    "country": "CO",
+    "id": 3689450,
+    "coord": {
+      "lat": 3.59147,
+      "lon": -75.381783
+    },
+    "name": "Ataco"
+  },
+  {
+    "country": "CO",
+    "id": 3690431,
+    "coord": {
+      "lat": 5.61161,
+      "lon": -75.456238
+    },
+    "name": "Aguadas"
+  },
+  {
+    "country": "CO",
+    "id": 3679661,
+    "coord": {
+      "lat": 4.38333,
+      "lon": -73.98333
+    },
+    "name": "La Calera"
+  },
+  {
+    "country": "CO",
+    "id": 3665973,
+    "coord": {
+      "lat": 5.04492,
+      "lon": -75.514603
+    },
+    "name": "Villamaria"
+  },
+  {
+    "country": "CO",
+    "id": 3686279,
+    "coord": {
+      "lat": 11.00703,
+      "lon": -74.24765
+    },
+    "name": "Cienaga"
+  },
+  {
+    "country": "CO",
+    "id": 3672328,
+    "coord": {
+      "lat": 6.98789,
+      "lon": -73.04953
+    },
+    "name": "Piedecuesta"
+  },
+  {
+    "country": "CO",
+    "id": 3687426,
+    "coord": {
+      "lat": 5.54782,
+      "lon": -75.643677
+    },
+    "name": "Caramanta"
+  },
+  {
+    "country": "CO",
+    "id": 3667760,
+    "coord": {
+      "lat": 4.92614,
+      "lon": -74.172989
+    },
+    "name": "Subachoque"
+  },
+  {
+    "country": "CO",
+    "id": 3665895,
+    "coord": {
+      "lat": 5.00886,
+      "lon": -74.47226
+    },
+    "name": "Villeta"
+  },
+  {
+    "country": "CO",
+    "id": 3683528,
+    "coord": {
+      "lat": 1.57006,
+      "lon": -75.328629
+    },
+    "name": "El Paujil"
+  },
+  {
+    "country": "CO",
+    "id": 3682160,
+    "coord": {
+      "lat": 5.08236,
+      "lon": -73.363342
+    },
+    "name": "Garagoa"
+  },
+  {
+    "country": "CO",
+    "id": 3782136,
+    "coord": {
+      "lat": 4.99694,
+      "lon": -73.51889
+    },
+    "name": "Minas"
+  },
+  {
+    "country": "CO",
+    "id": 3682279,
+    "coord": {
+      "lat": 5.40425,
+      "lon": -73.796402
+    },
+    "name": "Fúquene"
+  },
+  {
+    "country": "CO",
+    "id": 3667701,
+    "coord": {
+      "lat": 5.06097,
+      "lon": -74.237198
+    },
+    "name": "Supata"
+  },
+  {
+    "country": "CO",
+    "id": 3686051,
+    "coord": {
+      "lat": 5.63333,
+      "lon": -73.316673
+    },
+    "name": "Combita"
+  },
+  {
+    "country": "CO",
+    "id": 3672261,
+    "coord": {
+      "lat": 2.64306,
+      "lon": -76.989166
+    },
+    "name": "Piendamó"
+  },
+  {
+    "country": "CO",
+    "id": 3666680,
+    "coord": {
+      "lat": 4.21217,
+      "lon": -76.31945
+    },
+    "name": "Trujillo"
+  },
+  {
+    "country": "CO",
+    "id": 3673386,
+    "coord": {
+      "lat": 2.44962,
+      "lon": -75.775002
+    },
+    "name": "Paicol"
+  },
+  {
+    "country": "CO",
+    "id": 3681025,
+    "coord": {
+      "lat": 6.54302,
+      "lon": -73.308258
+    },
+    "name": "Hato"
+  },
+  {
+    "country": "CO",
+    "id": 3672093,
+    "coord": {
+      "lat": 10.46168,
+      "lon": -74.616211
+    },
+    "name": "Pivijay"
+  },
+  {
+    "country": "CO",
+    "id": 3688811,
+    "coord": {
+      "lat": 4.87252,
+      "lon": -74.539261
+    },
+    "name": "Bituima"
+  },
+  {
+    "country": "CO",
+    "id": 3792404,
+    "coord": {
+      "lat": 4.61889,
+      "lon": -74.353889
+    },
+    "name": "San Antonio del Tequendama"
+  },
+  {
+    "country": "CO",
+    "id": 3688254,
+    "coord": {
+      "lat": 4.21207,
+      "lon": -76.15564
+    },
+    "name": "Bugalagrande"
+  },
+  {
+    "country": "CO",
+    "id": 3681175,
+    "coord": {
+      "lat": 4.25472,
+      "lon": -74.002502
+    },
+    "name": "Gutiérrez"
+  },
+  {
+    "country": "CO",
+    "id": 3684270,
+    "coord": {
+      "lat": 4.9,
+      "lon": -74.433327
+    },
+    "name": "El Dorán"
+  },
+  {
+    "country": "CO",
+    "id": 3682018,
+    "coord": {
+      "lat": 7.0682,
+      "lon": -73.169807
+    },
+    "name": "Giron"
+  },
+  {
+    "country": "CO",
+    "id": 3669084,
+    "coord": {
+      "lat": 8.95833,
+      "lon": -75.836273
+    },
+    "name": "San Pelayo"
+  },
+  {
+    "country": "CO",
+    "id": 3669173,
+    "coord": {
+      "lat": 5.66034,
+      "lon": -74.062119
+    },
+    "name": "San Pablo de Borbur"
+  },
+  {
+    "country": "CO",
+    "id": 3671315,
+    "coord": {
+      "lat": 3.23114,
+      "lon": -76.416679
+    },
+    "name": "Puerto Tejada"
+  },
+  {
+    "country": "CO",
+    "id": 3665803,
+    "coord": {
+      "lat": 2.66355,
+      "lon": -75.517532
+    },
+    "name": "Yaguara"
+  },
+  {
+    "country": "CO",
+    "id": 3672176,
+    "coord": {
+      "lat": 10.74846,
+      "lon": -75.107758
+    },
+    "name": "Piojo"
+  },
+  {
+    "country": "CO",
+    "id": 3675657,
+    "coord": {
+      "lat": 11.38321,
+      "lon": -72.24321
+    },
+    "name": "Maicao"
+  },
+  {
+    "country": "CO",
+    "id": 3681619,
+    "coord": {
+      "lat": 0.91888,
+      "lon": -77.566513
+    },
+    "name": "Gualmatan"
+  },
+  {
+    "country": "CO",
+    "id": 3666111,
+    "coord": {
+      "lat": 5.11841,
+      "lon": -74.34549
+    },
+    "name": "Vergara"
+  },
+  {
+    "country": "CO",
+    "id": 3678702,
+    "coord": {
+      "lat": 4.26667,
+      "lon": -75.933327
+    },
+    "name": "La Isla"
+  },
+  {
+    "country": "CO",
+    "id": 3684666,
+    "coord": {
+      "lat": 9.7174,
+      "lon": -75.120232
+    },
+    "name": "El Carmen de Bolivar"
+  },
+  {
+    "country": "CO",
+    "id": 3682266,
+    "coord": {
+      "lat": 4.69244,
+      "lon": -73.520416
+    },
+    "name": "Gachala"
+  },
+  {
+    "country": "CO",
+    "id": 3675287,
+    "coord": {
+      "lat": 9.9832,
+      "lon": -75.301552
+    },
+    "name": "Maria la Baja"
+  },
+  {
+    "country": "CO",
+    "id": 3689759,
+    "coord": {
+      "lat": 10.59181,
+      "lon": -74.189827
+    },
+    "name": "Aracataca"
+  },
+  {
+    "country": "CO",
+    "id": 3690577,
+    "coord": {
+      "lat": 3.98695,
+      "lon": -73.757973
+    },
+    "name": "Acacias"
+  },
+  {
+    "country": "CO",
+    "id": 3686311,
+    "coord": {
+      "lat": 5.24271,
+      "lon": -73.458061
+    },
+    "name": "Chuscal"
+  },
+  {
+    "country": "CO",
+    "id": 3688918,
+    "coord": {
+      "lat": 4.80165,
+      "lon": -74.741768
+    },
+    "name": "Beltrán"
+  },
+  {
+    "country": "CO",
+    "id": 3667651,
+    "coord": {
+      "lat": 5.61538,
+      "lon": -73.617012
+    },
+    "name": "Sutamarchan"
+  },
+  {
+    "country": "CO",
+    "id": 3690520,
+    "coord": {
+      "lat": 2.25725,
+      "lon": -75.771423
+    },
+    "name": "Agrado"
+  },
+  {
+    "country": "CO",
+    "id": 3672123,
+    "coord": {
+      "lat": 2.2665,
+      "lon": -75.80442
+    },
+    "name": "Pital"
+  },
+  {
+    "country": "CO",
+    "id": 3682292,
+    "coord": {
+      "lat": 10.52066,
+      "lon": -74.185043
+    },
+    "name": "Fundacion"
+  },
+  {
+    "country": "CO",
+    "id": 3666519,
+    "coord": {
+      "lat": 5.30933,
+      "lon": -73.815742
+    },
+    "name": "Ubate"
+  },
+  {
+    "country": "CO",
+    "id": 3666232,
+    "coord": {
+      "lat": 6.01335,
+      "lon": -73.673523
+    },
+    "name": "Velez"
+  },
+  {
+    "country": "CO",
+    "id": 3689838,
+    "coord": {
+      "lat": 7.07272,
+      "lon": -75.147682
+    },
+    "name": "Anorí"
+  },
+  {
+    "country": "CO",
+    "id": 3676397,
+    "coord": {
+      "lat": 9.23648,
+      "lon": -75.813499
+    },
+    "name": "Lorica"
+  },
+  {
+    "country": "CO",
+    "id": 3682358,
+    "coord": {
+      "lat": 4.33916,
+      "lon": -73.938522
+    },
+    "name": "Fosca"
+  },
+  {
+    "country": "CO",
+    "id": 3668572,
+    "coord": {
+      "lat": 3.00945,
+      "lon": -76.48494
+    },
+    "name": "Santander de Quilichao"
+  },
+  {
+    "country": "CO",
+    "id": 3684917,
+    "coord": {
+      "lat": 9.00114,
+      "lon": -73.975807
+    },
+    "name": "El Banco"
+  },
+  {
+    "country": "CO",
+    "id": 3671772,
+    "coord": {
+      "lat": 3.42111,
+      "lon": -76.24472
+    },
+    "name": "Pradera"
+  },
+  {
+    "country": "CO",
+    "id": 3665913,
+    "coord": {
+      "lat": 7.83389,
+      "lon": -72.474167
+    },
+    "name": "Villa del Rosario"
+  },
+  {
+    "country": "CO",
+    "id": 3792692,
+    "coord": {
+      "lat": 2.44368,
+      "lon": -75.630463
+    },
+    "name": "Fosfaco"
+  },
+  {
+    "country": "CO",
+    "id": 3666395,
+    "coord": {
+      "lat": 6.3152,
+      "lon": -76.134201
+    },
+    "name": "Urrao"
+  },
+  {
+    "country": "CO",
+    "id": 3792375,
+    "coord": {
+      "lat": 7.75849,
+      "lon": -76.652542
+    },
+    "name": "Carepa"
+  },
+  {
+    "country": "CO",
+    "id": 3681997,
+    "coord": {
+      "lat": 6.68178,
+      "lon": -75.219063
+    },
+    "name": "Gomez Plata"
+  },
+  {
+    "country": "CO",
+    "id": 3688071,
+    "coord": {
+      "lat": 4.3324,
+      "lon": -75.826653
+    },
+    "name": "Caicedonia"
+  },
+  {
+    "country": "CO",
+    "id": 3670856,
+    "coord": {
+      "lat": 3.82203,
+      "lon": -76.522423
+    },
+    "name": "Restrepo"
+  },
+  {
+    "country": "CO",
+    "id": 3679065,
+    "coord": {
+      "lat": 6.15769,
+      "lon": -75.643173
+    },
+    "name": "La Estrella"
+  },
+  {
+    "country": "CO",
+    "id": 3686569,
+    "coord": {
+      "lat": 5.16723,
+      "lon": -73.368233
+    },
+    "name": "Chinavita"
+  },
+  {
+    "country": "CO",
+    "id": 3684319,
+    "coord": {
+      "lat": 4.56798,
+      "lon": -74.9534
+    },
+    "name": "El Diamante"
+  },
+  {
+    "country": "CO",
+    "id": 3665987,
+    "coord": {
+      "lat": 4.76667,
+      "lon": -74.48333
+    },
+    "name": "Villa Hermosa"
+  },
+  {
+    "country": "CO",
+    "id": 3688106,
+    "coord": {
+      "lat": 7.74104,
+      "lon": -73.048302
+    },
+    "name": "Cachira"
+  },
+  {
+    "country": "CO",
+    "id": 3683463,
+    "coord": {
+      "lat": 10.40283,
+      "lon": -74.82415
+    },
+    "name": "El Pinon"
+  },
+  {
+    "country": "CO",
+    "id": 3674702,
+    "coord": {
+      "lat": 3.24991,
+      "lon": -76.228142
+    },
+    "name": "Miranda"
+  },
+  {
+    "country": "CO",
+    "id": 3687025,
+    "coord": {
+      "lat": 7.98654,
+      "lon": -75.193489
+    },
+    "name": "Caucasia"
+  },
+  {
+    "country": "CO",
+    "id": 3686532,
+    "coord": {
+      "lat": 4.4425,
+      "lon": -74.044167
+    },
+    "name": "Chipaque"
+  },
+  {
+    "country": "CO",
+    "id": 3665547,
+    "coord": {
+      "lat": 5.28215,
+      "lon": -73.168961
+    },
+    "name": "Zetaquira"
+  },
+  {
+    "country": "CO",
+    "id": 3672110,
+    "coord": {
+      "lat": 1.84966,
+      "lon": -76.047852
+    },
+    "name": "Pitalito"
+  },
+  {
+    "country": "CO",
+    "id": 3669133,
+    "coord": {
+      "lat": 7.83333,
+      "lon": -72.51667
+    },
+    "name": "San Pedro"
+  },
+  {
+    "country": "CO",
+    "id": 3665587,
+    "coord": {
+      "lat": 6.81532,
+      "lon": -73.267677
+    },
+    "name": "Zapatoca"
+  },
+  {
+    "country": "CO",
+    "id": 3667202,
+    "coord": {
+      "lat": 8.63896,
+      "lon": -72.735832
+    },
+    "name": "Tibu"
+  },
+  {
+    "country": "CO",
+    "id": 3668245,
+    "coord": {
+      "lat": 8.08289,
+      "lon": -72.800713
+    },
+    "name": "Sardinata"
+  },
+  {
+    "country": "CO",
+    "id": 3681702,
+    "coord": {
+      "lat": 5.06692,
+      "lon": -74.594994
+    },
+    "name": "Guaduas"
+  },
+  {
+    "country": "CO",
+    "id": 3671418,
+    "coord": {
+      "lat": 4.08451,
+      "lon": -72.955971
+    },
+    "name": "Puerto Lopez"
+  },
+  {
+    "country": "CO",
+    "id": 3680554,
+    "coord": {
+      "lat": 2.5513,
+      "lon": -76.06546
+    },
+    "name": "Inza"
+  },
+  {
+    "country": "CO",
+    "id": 3675791,
+    "coord": {
+      "lat": 4.97214,
+      "lon": -73.319588
+    },
+    "name": "Macanal"
+  },
+  {
+    "country": "CO",
+    "id": 3674166,
+    "coord": {
+      "lat": 4.87393,
+      "lon": -75.171509
+    },
+    "name": "Murillo"
+  },
+  {
+    "country": "CO",
+    "id": 3668332,
+    "coord": {
+      "lat": 10.75773,
+      "lon": -74.754509
+    },
+    "name": "Santo Tomas"
+  },
+  {
+    "country": "CO",
+    "id": 3669352,
+    "coord": {
+      "lat": 5.42139,
+      "lon": -71.731667
+    },
+    "name": "San Luis de Palenque"
+  },
+  {
+    "country": "CO",
+    "id": 3689717,
+    "coord": {
+      "lat": 6.66667,
+      "lon": -71
+    },
+    "name": "Departamento de Arauca"
+  },
+  {
+    "country": "CO",
+    "id": 3667478,
+    "coord": {
+      "lat": 6.461,
+      "lon": -71.730042
+    },
+    "name": "Tame"
+  },
+  {
+    "country": "CO",
+    "id": 3682458,
+    "coord": {
+      "lat": 4.29413,
+      "lon": -74.819008
+    },
+    "name": "Flandes"
+  },
+  {
+    "country": "CO",
+    "id": 3672428,
+    "coord": {
+      "lat": 5.55,
+      "lon": -73.050003
+    },
+    "name": "Pesca"
+  },
+  {
+    "country": "CO",
+    "id": 3670849,
+    "coord": {
+      "lat": 6.05861,
+      "lon": -75.503059
+    },
+    "name": "El Retiro"
+  },
+  {
+    "country": "CO",
+    "id": 3685823,
+    "coord": {
+      "lat": 9.31505,
+      "lon": -75.292831
+    },
+    "name": "Corozal"
+  },
+  {
+    "country": "CO",
+    "id": 3665678,
+    "coord": {
+      "lat": 3.86048,
+      "lon": -76.383636
+    },
+    "name": "Yotoco"
+  },
+  {
+    "country": "CO",
+    "id": 7523298,
+    "coord": {
+      "lat": 5.20926,
+      "lon": -74.926193
+    },
+    "name": "La Primavera"
+  },
+  {
+    "country": "CO",
+    "id": 3667288,
+    "coord": {
+      "lat": 5.07664,
+      "lon": -73.420769
+    },
+    "name": "Tenza"
+  },
+  {
+    "country": "CO",
+    "id": 3667811,
+    "coord": {
+      "lat": 10.39306,
+      "lon": -75.140831
+    },
+    "name": "Soplaviento"
+  },
+  {
+    "country": "CO",
+    "id": 3675692,
+    "coord": {
+      "lat": 9.24202,
+      "lon": -74.754669
+    },
+    "name": "Magangue"
+  },
+  {
+    "country": "CO",
+    "id": 3668257,
+    "coord": {
+      "lat": 6.95376,
+      "lon": -71.875229
+    },
+    "name": "Saravena"
+  },
+  {
+    "country": "CO",
+    "id": 3690429,
+    "coord": {
+      "lat": 4.37648,
+      "lon": -74.669952
+    },
+    "name": "Agua de Dios"
+  },
+  {
+    "country": "CO",
+    "id": 3678345,
+    "coord": {
+      "lat": 8.78282,
+      "lon": -75.378883
+    },
+    "name": "La Muerte"
+  },
+  {
+    "country": "CO",
+    "id": 3666570,
+    "coord": {
+      "lat": 8.09368,
+      "lon": -76.726913
+    },
+    "name": "Turbo"
+  },
+  {
+    "country": "CO",
+    "id": 3667665,
+    "coord": {
+      "lat": 5.4519,
+      "lon": -73.814362
+    },
+    "name": "Susa"
+  },
+  {
+    "country": "CO",
+    "id": 3689162,
+    "coord": {
+      "lat": 10.95756,
+      "lon": -72.787689
+    },
+    "name": "Barrancas"
+  },
+  {
+    "country": "CO",
+    "id": 3668025,
+    "coord": {
+      "lat": 2.61103,
+      "lon": -76.378532
+    },
+    "name": "Silvia"
+  },
+  {
+    "country": "CO",
+    "id": 3680317,
+    "coord": {
+      "lat": 5.79211,
+      "lon": -75.786011
+    },
+    "name": "Jerico"
+  },
+  {
+    "country": "CO",
+    "id": 3687318,
+    "coord": {
+      "lat": 6.08236,
+      "lon": -75.335091
+    },
+    "name": "Carmen de Viboral"
+  },
+  {
+    "country": "CO",
+    "id": 3671540,
+    "coord": {
+      "lat": 6.49156,
+      "lon": -74.403259
+    },
+    "name": "Puerto Berrio"
+  },
+  {
+    "country": "CO",
+    "id": 3673143,
+    "coord": {
+      "lat": 9.33333,
+      "lon": -75.550003
+    },
+    "name": "Palmito"
+  },
+  {
+    "country": "CO",
+    "id": 3681563,
+    "coord": {
+      "lat": 4.03078,
+      "lon": -74.9701
+    },
+    "name": "Guamo"
+  },
+  {
+    "country": "CO",
+    "id": 3682633,
+    "coord": {
+      "lat": 6.5654,
+      "lon": -75.516899
+    },
+    "name": "Entrerrios"
+  },
+  {
+    "country": "CO",
+    "id": 3676795,
+    "coord": {
+      "lat": 1.80671,
+      "lon": -75.901016
+    },
+    "name": "La Victoria"
+  },
+  {
+    "country": "CO",
+    "id": 3668323,
+    "coord": {
+      "lat": 6.13833,
+      "lon": -75.264168
+    },
+    "name": "Santuario"
+  },
+  {
+    "country": "CO",
+    "id": 3668017,
+    "coord": {
+      "lat": 5.50291,
+      "lon": -73.852272
+    },
+    "name": "Simijaca"
+  },
+  {
+    "country": "CO",
+    "id": 3685569,
+    "coord": {
+      "lat": 5.54373,
+      "lon": -73.45433
+    },
+    "name": "Cucaita"
+  },
+  {
+    "country": "CO",
+    "id": 3675263,
+    "coord": {
+      "lat": 6.17358,
+      "lon": -75.336212
+    },
+    "name": "Marinilla"
+  },
+  {
+    "country": "CO",
+    "id": 3670899,
+    "coord": {
+      "lat": 7.03083,
+      "lon": -74.533333
+    },
+    "name": "Remedios"
+  },
+  {
+    "country": "CO",
+    "id": 3673369,
+    "coord": {
+      "lat": 5.78013,
+      "lon": -73.117081
+    },
+    "name": "Paipa"
+  },
+  {
+    "country": "CO",
+    "id": 3673662,
+    "coord": {
+      "lat": 8.23773,
+      "lon": -73.356041
+    },
+    "name": "Ocana"
+  },
+  {
+    "country": "CO",
+    "id": 3689709,
+    "coord": {
+      "lat": 4.27254,
+      "lon": -74.415131
+    },
+    "name": "Arbelaez"
+  },
+  {
+    "country": "CO",
+    "id": 3671325,
+    "coord": {
+      "lat": 8.36361,
+      "lon": -72.406303
+    },
+    "name": "Puerto Santander"
+  },
+  {
+    "country": "CO",
+    "id": 3677010,
+    "coord": {
+      "lat": 4.45265,
+      "lon": -75.78746
+    },
+    "name": "La Tebaida"
+  },
+  {
+    "country": "CO",
+    "id": 3671497,
+    "coord": {
+      "lat": 10.98778,
+      "lon": -74.95472
+    },
+    "name": "Puerto Colombia"
+  },
+  {
+    "country": "CO",
+    "id": 3682374,
+    "coord": {
+      "lat": 10.88606,
+      "lon": -72.848701
+    },
+    "name": "Fonseca"
+  },
+  {
+    "country": "CO",
+    "id": 7910975,
+    "coord": {
+      "lat": 9.23333,
+      "lon": -74.416672
+    },
+    "name": "Santa Cruz de Mompox"
+  },
+  {
+    "country": "CO",
+    "id": 3669469,
+    "coord": {
+      "lat": 10.77108,
+      "lon": -73.003143
+    },
+    "name": "San Juan del Cesar"
+  },
+  {
+    "country": "CO",
+    "id": 3667728,
+    "coord": {
+      "lat": 8.81136,
+      "lon": -74.72084
+    },
+    "name": "Sucre"
+  },
+  {
+    "country": "CO",
+    "id": 3675595,
+    "coord": {
+      "lat": 10.85953,
+      "lon": -74.773857
+    },
+    "name": "Malambo"
+  },
+  {
+    "country": "CO",
+    "id": 3684770,
+    "coord": {
+      "lat": 4.35342,
+      "lon": -73.711472
+    },
+    "name": "El Calvario"
+  },
+  {
+    "country": "CO",
+    "id": 3671531,
+    "coord": {
+      "lat": 5.97584,
+      "lon": -74.588463
+    },
+    "name": "Puerto Boyaca"
+  },
+  {
+    "country": "CO",
+    "id": 3665992,
+    "coord": {
+      "lat": 1.0375,
+      "lon": -76.626671
+    },
+    "name": "Villagarzon"
+  },
+  {
+    "country": "CO",
+    "id": 3829343,
+    "coord": {
+      "lat": 0.67656,
+      "lon": -76.877121
+    },
+    "name": "Orito"
+  },
+  {
+    "country": "CO",
+    "id": 3672540,
+    "coord": {
+      "lat": 6.21829,
+      "lon": -75.242981
+    },
+    "name": "Peñol"
+  },
+  {
+    "country": "CO",
+    "id": 3687758,
+    "coord": {
+      "lat": 10.37808,
+      "lon": -74.88356
+    },
+    "name": "Campo de la Cruz"
+  },
+  {
+    "country": "CO",
+    "id": 3690465,
+    "coord": {
+      "lat": 8.30844,
+      "lon": -73.6166
+    },
+    "name": "Aguachica"
+  },
+  {
+    "country": "CO",
+    "id": 3689831,
+    "coord": {
+      "lat": 4.79722,
+      "lon": -75.995003
+    },
+    "name": "Ansermanuevo"
+  },
+  {
+    "country": "CO",
+    "id": 3684293,
+    "coord": {
+      "lat": 9.84975,
+      "lon": -74.236267
+    },
+    "name": "El Difícil"
+  },
+  {
+    "country": "CO",
+    "id": 3687111,
+    "coord": {
+      "lat": 5.56368,
+      "lon": -71.891357
+    },
+    "name": "Caserío Regalito"
+  },
+  {
+    "country": "CO",
+    "id": 3688673,
+    "coord": {
+      "lat": 4.73176,
+      "lon": -74.341293
+    },
+    "name": "Bojaca"
+  },
+  {
+    "country": "CO",
+    "id": 3680641,
+    "coord": {
+      "lat": 4.17698,
+      "lon": -74.532539
+    },
+    "name": "Icononzo"
+  },
+  {
+    "country": "CO",
+    "id": 3670692,
+    "coord": {
+      "lat": 2.77717,
+      "lon": -75.256416
+    },
+    "name": "Rivera"
+  },
+  {
+    "country": "CO",
+    "id": 3776374,
+    "coord": {
+      "lat": 5.51333,
+      "lon": -73.737221
+    },
+    "name": "El Mirador"
+  },
+  {
+    "country": "CO",
+    "id": 3686636,
+    "coord": {
+      "lat": 7.66638,
+      "lon": -76.681061
+    },
+    "name": "Chigorodo"
+  },
+  {
+    "country": "CO",
+    "id": 3686107,
+    "coord": {
+      "lat": 1.19117,
+      "lon": -76.968498
+    },
+    "name": "Colon"
+  },
+  {
+    "country": "CO",
+    "id": 3689172,
+    "coord": {
+      "lat": 9.90715,
+      "lon": -75.537331
+    },
+    "name": "Barranca"
+  },
+  {
+    "country": "CO",
+    "id": 3676674,
+    "coord": {
+      "lat": 7.11317,
+      "lon": -73.217796
+    },
+    "name": "Lebrija"
+  },
+  {
+    "country": "CO",
+    "id": 3685949,
+    "coord": {
+      "lat": 6.34633,
+      "lon": -75.508881
+    },
+    "name": "Municipio de Copacabana"
+  },
+  {
+    "country": "CO",
+    "id": 3671381,
+    "coord": {
+      "lat": 10.25,
+      "lon": -74.900002
+    },
+    "name": "Puerto Niño"
+  },
+  {
+    "country": "CO",
+    "id": 3667158,
+    "coord": {
+      "lat": 8.17361,
+      "lon": -76.059174
+    },
+    "name": "Tierralta"
+  },
+  {
+    "country": "CO",
+    "id": 3670199,
+    "coord": {
+      "lat": 9.3741,
+      "lon": -75.758911
+    },
+    "name": "San Antero"
+  },
+  {
+    "country": "CO",
+    "id": 3681491,
+    "coord": {
+      "lat": 6.30798,
+      "lon": -73.320198
+    },
+    "name": "Guapotá"
+  },
+  {
+    "country": "CO",
+    "id": 3828545,
+    "coord": {
+      "lat": 2.57286,
+      "lon": -72.645912
+    },
+    "name": "San Jose del Guaviare"
+  },
+  {
+    "country": "CO",
+    "id": 3670966,
+    "coord": {
+      "lat": 5.53793,
+      "lon": -73.632011
+    },
+    "name": "Raquira"
+  },
+  {
+    "country": "CO",
+    "id": 3669454,
+    "coord": {
+      "lat": 9.95156,
+      "lon": -75.081978
+    },
+    "name": "San Juan Nepomuceno"
+  },
+  {
+    "country": "CO",
+    "id": 3674603,
+    "coord": {
+      "lat": 9.23768,
+      "lon": -75.674889
+    },
+    "name": "Momil"
+  },
+  {
+    "country": "CO",
+    "id": 3678674,
+    "coord": {
+      "lat": 9.56228,
+      "lon": -73.334053
+    },
+    "name": "La Jagua de Ibirico"
+  },
+  {
+    "country": "CO",
+    "id": 3665691,
+    "coord": {
+      "lat": 7.00621,
+      "lon": -73.909721
+    },
+    "name": "Yondo"
+  },
+  {
+    "country": "CO",
+    "id": 3689899,
+    "coord": {
+      "lat": 5.6561,
+      "lon": -75.878769
+    },
+    "name": "Los Andes"
+  },
+  {
+    "country": "CO",
+    "id": 3666087,
+    "coord": {
+      "lat": 4.87384,
+      "lon": -74.562439
+    },
+    "name": "Viani"
+  },
+  {
+    "country": "CO",
+    "id": 3687324,
+    "coord": {
+      "lat": 4.14725,
+      "lon": -74.720139
+    },
+    "name": "Carmen de Apicala"
+  },
+  {
+    "country": "CO",
+    "id": 3675452,
+    "coord": {
+      "lat": 4.81722,
+      "lon": -72.288612
+    },
+    "name": "Mani"
+  },
+  {
+    "country": "CO",
+    "id": 3671549,
+    "coord": {
+      "lat": 0.51328,
+      "lon": -76.500748
+    },
+    "name": "Puerto Asis"
+  },
+  {
+    "country": "CO",
+    "id": 3670352,
+    "coord": {
+      "lat": 4.6375,
+      "lon": -75.570282
+    },
+    "name": "Salento"
+  },
+  {
+    "country": "CO",
+    "id": 3671002,
+    "coord": {
+      "lat": 5.4002,
+      "lon": -73.335442
+    },
+    "name": "Ramiriqui"
+  },
+  {
+    "country": "CO",
+    "id": 3687880,
+    "coord": {
+      "lat": 3.03586,
+      "lon": -76.407883
+    },
+    "name": "Caloto"
+  },
+  {
+    "country": "CO",
+    "id": 3685027,
+    "coord": {
+      "lat": 4.91345,
+      "lon": -76.040039
+    },
+    "name": "El Aguila"
+  },
+  {
+    "country": "CO",
+    "id": 3775199,
+    "coord": {
+      "lat": 5.65917,
+      "lon": -74.181107
+    },
+    "name": "Otanche"
+  },
+  {
+    "country": "CO",
+    "id": 3688112,
+    "coord": {
+      "lat": 5.26667,
+      "lon": -74.566673
+    },
+    "name": "Cachipay"
+  },
+  {
+    "country": "CO",
+    "id": 3666640,
+    "coord": {
+      "lat": 1.79861,
+      "lon": -78.815559
+    },
+    "name": "Tumaco"
+  },
+  {
+    "country": "CO",
+    "id": 3666582,
+    "coord": {
+      "lat": 1.09234,
+      "lon": -77.62085
+    },
+    "name": "Tuquerres"
+  },
+  {
+    "country": "CO",
+    "id": 3675637,
+    "coord": {
+      "lat": 8.53886,
+      "lon": -74.620377
+    },
+    "name": "Majagual"
+  },
+  {
+    "country": "CO",
+    "id": 3783478,
+    "coord": {
+      "lat": 8.55072,
+      "lon": -75.852966
+    },
+    "name": "Tuchín"
+  },
+  {
+    "country": "CO",
+    "id": 3670357,
+    "coord": {
+      "lat": 3.92922,
+      "lon": -75.015167
+    },
+    "name": "Saldana"
+  },
+  {
+    "country": "CO",
+    "id": 3689205,
+    "coord": {
+      "lat": 6.43809,
+      "lon": -75.33136
+    },
+    "name": "Barbosa"
+  },
+  {
+    "country": "CO",
+    "id": 3673407,
+    "coord": {
+      "lat": 3.22038,
+      "lon": -76.31385
+    },
+    "name": "Padilla"
+  },
+  {
+    "country": "CO",
+    "id": 3666939,
+    "coord": {
+      "lat": 9.52392,
+      "lon": -75.58139
+    },
+    "name": "Tolu"
+  },
+  {
+    "country": "CO",
+    "id": 3679505,
+    "coord": {
+      "lat": 4.66667,
+      "lon": -74.349998
+    },
+    "name": "La Chorrera"
+  },
+  {
+    "country": "CO",
+    "id": 3666673,
+    "coord": {
+      "lat": 10.87444,
+      "lon": -74.978889
+    },
+    "name": "Tubara"
+  },
+  {
+    "country": "CO",
+    "id": 3689697,
+    "coord": {
+      "lat": 7.64233,
+      "lon": -72.799438
+    },
+    "name": "Arboledas"
+  },
+  {
+    "country": "CO",
+    "id": 3671330,
+    "coord": {
+      "lat": 5.46304,
+      "lon": -74.654358
+    },
+    "name": "Puerto Salgar"
+  },
+  {
+    "country": "CO",
+    "id": 3671208,
+    "coord": {
+      "lat": 3.8587,
+      "lon": -74.93129
+    },
+    "name": "Purificacion"
+  },
+  {
+    "country": "CO",
+    "id": 3689235,
+    "coord": {
+      "lat": 10.79408,
+      "lon": -74.916397
+    },
+    "name": "Baranoa"
+  },
+  {
+    "country": "CO",
+    "id": 3674572,
+    "coord": {
+      "lat": 5.87638,
+      "lon": -73.572838
+    },
+    "name": "Moniquira"
+  },
+  {
+    "country": "CO",
+    "id": 3792376,
+    "coord": {
+      "lat": 5.85389,
+      "lon": -76.025284
+    },
+    "name": "Ciudad Bolivar"
+  },
+  {
+    "country": "CO",
+    "id": 3671287,
+    "coord": {
+      "lat": 7.34828,
+      "lon": -73.896011
+    },
+    "name": "Puerto Wilches"
+  },
+  {
+    "country": "CO",
+    "id": 3673829,
+    "coord": {
+      "lat": 5.76978,
+      "lon": -72.940987
+    },
+    "name": "Nobsa"
+  },
+  {
+    "country": "CO",
+    "id": 3683233,
+    "coord": {
+      "lat": 10.61135,
+      "lon": -74.268242
+    },
+    "name": "El Reten"
+  },
+  {
+    "country": "CO",
+    "id": 3673637,
+    "coord": {
+      "lat": 6.26388,
+      "lon": -73.298759
+    },
+    "name": "Oiba"
+  },
+  {
+    "country": "CO",
+    "id": 3669799,
+    "coord": {
+      "lat": 4.74679,
+      "lon": -74.087692
+    },
+    "name": "San Hilario"
+  },
+  {
+    "country": "CO",
+    "id": 3667355,
+    "coord": {
+      "lat": 5.01831,
+      "lon": -72.749191
+    },
+    "name": "Tauramena"
+  },
+  {
+    "country": "CO",
+    "id": 3668098,
+    "coord": {
+      "lat": 6.33333,
+      "lon": -72.699997
+    },
+    "name": "Siachia"
+  },
+  {
+    "country": "CO",
+    "id": 3686464,
+    "coord": {
+      "lat": 6.18715,
+      "lon": -72.472603
+    },
+    "name": "Chita"
+  },
+  {
+    "country": "CO",
+    "id": 3687418,
+    "coord": {
+      "lat": 1.66667,
+      "lon": -78.183327
+    },
+    "name": "Caraño"
+  },
+  {
+    "country": "CO",
+    "id": 3671228,
+    "coord": {
+      "lat": 0.87136,
+      "lon": -77.640266
+    },
+    "name": "Pupiales"
+  },
+  {
+    "country": "CO",
+    "id": 3668263,
+    "coord": {
+      "lat": 1.35,
+      "lon": -77.599998
+    },
+    "name": "Sarancocho"
+  },
+  {
+    "country": "CO",
+    "id": 3671091,
+    "coord": {
+      "lat": 5.33957,
+      "lon": -75.730179
+    },
+    "name": "Quinchia"
+  },
+  {
+    "country": "CO",
+    "id": 3667764,
+    "coord": {
+      "lat": 1.97611,
+      "lon": -75.79454
+    },
+    "name": "Suaza"
+  },
+  {
+    "country": "CO",
+    "id": 3681733,
+    "coord": {
+      "lat": 2.0248,
+      "lon": -75.75589
+    },
+    "name": "Guadalupe"
+  },
+  {
+    "country": "CO",
+    "id": 3686445,
+    "coord": {
+      "lat": 10.02502,
+      "lon": -74.622787
+    },
+    "name": "Chivolo"
+  },
+  {
+    "country": "CO",
+    "id": 3689589,
+    "coord": {
+      "lat": 10.25,
+      "lon": -74
+    },
+    "name": "Ariguani"
+  },
+  {
+    "country": "CO",
+    "id": 3680453,
+    "coord": {
+      "lat": 5.16054,
+      "lon": -76.683968
+    },
+    "name": "Istmina"
+  },
+  {
+    "country": "CO",
+    "id": 3685200,
+    "coord": {
+      "lat": 10.89693,
+      "lon": -72.886101
+    },
+    "name": "Distraccion"
+  },
+  {
+    "country": "CO",
+    "id": 3792392,
+    "coord": {
+      "lat": 9.79029,
+      "lon": -74.78244
+    },
+    "name": "Plato"
+  },
+  {
+    "country": "CO",
+    "id": 3775850,
+    "coord": {
+      "lat": 9.96889,
+      "lon": -73.883614
+    },
+    "name": "Bosconia"
+  },
+  {
+    "country": "CO",
+    "id": 3686479,
+    "coord": {
+      "lat": 9.36238,
+      "lon": -73.603142
+    },
+    "name": "Chiriguana"
+  },
+  {
+    "country": "CO",
+    "id": 3669346,
+    "coord": {
+      "lat": 8.65972,
+      "lon": -75.12809
+    },
+    "name": "San Marcos"
+  },
+  {
+    "country": "CO",
+    "id": 3666381,
+    "coord": {
+      "lat": 10.55894,
+      "lon": -73.012321
+    },
+    "name": "Urumita"
+  },
+  {
+    "country": "CO",
+    "id": 3681756,
+    "coord": {
+      "lat": 0.96093,
+      "lon": -77.731598
+    },
+    "name": "Guachucal"
+  },
+  {
+    "country": "CO",
+    "id": 3689714,
+    "coord": {
+      "lat": 7.02917,
+      "lon": -71.428062
+    },
+    "name": "Arauquita"
+  },
+  {
+    "country": "CO",
+    "id": 3792379,
+    "coord": {
+      "lat": 7.96444,
+      "lon": -74.054443
+    },
+    "name": "Santa Rosa del Sur"
+  },
+  {
+    "country": "CO",
+    "id": 3667892,
+    "coord": {
+      "lat": 5.9817,
+      "lon": -72.715027
+    },
+    "name": "Socha Viejo"
+  },
+  {
+    "country": "CO",
+    "id": 3682330,
+    "coord": {
+      "lat": 5.15264,
+      "lon": -75.03624
+    },
+    "name": "Fresno"
+  },
+  {
+    "country": "CO",
+    "id": 3681652,
+    "coord": {
+      "lat": 2.5,
+      "lon": -69
+    },
+    "name": "Departamento del Guainía"
+  },
+  {
+    "country": "CO",
+    "id": 3671450,
+    "coord": {
+      "lat": 3.86528,
+      "lon": -67.923889
+    },
+    "name": "Inirida"
+  },
+  {
+    "country": "CO",
+    "id": 3685178,
+    "coord": {
+      "lat": 3.0725,
+      "lon": -74.900284
+    },
+    "name": "Dolores"
+  },
+  {
+    "country": "CO",
+    "id": 3666887,
+    "coord": {
+      "lat": 2.95481,
+      "lon": -76.268387
+    },
+    "name": "Toribio"
+  },
+  {
+    "country": "CO",
+    "id": 3674931,
+    "coord": {
+      "lat": 4.51005,
+      "lon": -73.349823
+    },
+    "name": "Medina"
+  },
+  {
+    "country": "CO",
+    "id": 3685702,
+    "coord": {
+      "lat": 6.30174,
+      "lon": -70.204147
+    },
+    "name": "Cravo Norte"
+  },
+  {
+    "country": "CO",
+    "id": 3671203,
+    "coord": {
+      "lat": 9.23657,
+      "lon": -75.721901
+    },
+    "name": "Purisima"
+  },
+  {
+    "country": "CO",
+    "id": 7544228,
+    "coord": {
+      "lat": 1.19615,
+      "lon": -76.92778
+    },
+    "name": "El Ejido"
+  },
+  {
+    "country": "CO",
+    "id": 3675409,
+    "coord": {
+      "lat": 5.32472,
+      "lon": -75.156937
+    },
+    "name": "Manzanares"
+  },
+  {
+    "country": "CO",
+    "id": 3731933,
+    "coord": {
+      "lat": 6.40667,
+      "lon": -73.286942
+    },
+    "name": "Palmas del Socorro"
+  },
+  {
+    "country": "CO",
+    "id": 3682510,
+    "coord": {
+      "lat": 5.11564,
+      "lon": -74.948936
+    },
+    "name": "Falan"
+  },
+  {
+    "country": "CO",
+    "id": 3673352,
+    "coord": {
+      "lat": 5.2929,
+      "lon": -72.702766
+    },
+    "name": "Pajarito"
+  },
+  {
+    "country": "CO",
+    "id": 3670303,
+    "coord": {
+      "lat": 5.49274,
+      "lon": -73.485367
+    },
+    "name": "Samaca"
+  },
+  {
+    "country": "CO",
+    "id": 3666881,
+    "coord": {
+      "lat": 4.61167,
+      "lon": -76.08139
+    },
+    "name": "Toro"
+  },
+  {
+    "country": "CO",
+    "id": 3686142,
+    "coord": {
+      "lat": 4.28908,
+      "lon": -74.898247
+    },
+    "name": "Coello"
+  },
+  {
+    "country": "CO",
+    "id": 3668292,
+    "coord": {
+      "lat": 6.881,
+      "lon": -73.409767
+    },
+    "name": "San Vicente de Chucuri"
+  },
+  {
+    "country": "CO",
+    "id": 3681368,
+    "coord": {
+      "lat": 6.23274,
+      "lon": -75.158638
+    },
+    "name": "Guatape"
+  },
+  {
+    "country": "CO",
+    "id": 8016083,
+    "coord": {
+      "lat": 8.33387,
+      "lon": -73.739754
+    },
+    "name": "Puerto Real"
+  },
+  {
+    "country": "CO",
+    "id": 3680434,
+    "coord": {
+      "lat": 7.17117,
+      "lon": -75.764038
+    },
+    "name": "Ituango"
+  },
+  {
+    "country": "CO",
+    "id": 3687084,
+    "coord": {
+      "lat": 3.82845,
+      "lon": -73.679871
+    },
+    "name": "Castilla La Nueva"
+  },
+  {
+    "country": "CO",
+    "id": 3686736,
+    "coord": {
+      "lat": 6.28581,
+      "lon": -73.147217
+    },
+    "name": "Charalá"
+  },
+  {
+    "country": "CO",
+    "id": 3687835,
+    "coord": {
+      "lat": 6.9792,
+      "lon": -75.297241
+    },
+    "name": "Campamento"
+  },
+  {
+    "country": "CO",
+    "id": 3672077,
+    "coord": {
+      "lat": 3.19698,
+      "lon": -75.645058
+    },
+    "name": "Planadas"
+  },
+  {
+    "country": "CO",
+    "id": 3669545,
+    "coord": {
+      "lat": 6.6587,
+      "lon": -72.733437
+    },
+    "name": "San Jose de Miranda"
+  },
+  {
+    "country": "CO",
+    "id": 3674678,
+    "coord": {
+      "lat": 5.2973,
+      "lon": -75.883217
+    },
+    "name": "Mistrato"
+  },
+  {
+    "country": "CO",
+    "id": 3673220,
+    "coord": {
+      "lat": 10.74055,
+      "lon": -74.754433
+    },
+    "name": "Palmar de Varela"
+  },
+  {
+    "country": "CO",
+    "id": 3670280,
+    "coord": {
+      "lat": 9.18361,
+      "lon": -75.381668
+    },
+    "name": "Sampues"
+  },
+  {
+    "country": "CO",
+    "id": 3690287,
+    "coord": {
+      "lat": 3.22222,
+      "lon": -75.236671
+    },
+    "name": "Aipe"
+  },
+  {
+    "country": "CO",
+    "id": 3771124,
+    "coord": {
+      "lat": 2.80591,
+      "lon": -76.545799
+    },
+    "name": "Crucero de Pescador"
+  },
+  {
+    "country": "CO",
+    "id": 3671216,
+    "coord": {
+      "lat": 5.33333,
+      "lon": -76.333328
+    },
+    "name": "Pureto"
+  },
+  {
+    "country": "CO",
+    "id": 3684266,
+    "coord": {
+      "lat": 4.5079,
+      "lon": -76.236191
+    },
+    "name": "El Dovio"
+  },
+  {
+    "country": "CO",
+    "id": 3686262,
+    "coord": {
+      "lat": 5.40867,
+      "lon": -73.295723
+    },
+    "name": "Cienega"
+  },
+  {
+    "country": "CO",
+    "id": 3678502,
+    "coord": {
+      "lat": 4.88333,
+      "lon": -74.01667
+    },
+    "name": "La Mana"
+  },
+  {
+    "country": "CO",
+    "id": 3669087,
+    "coord": {
+      "lat": 8.27515,
+      "lon": -76.376411
+    },
+    "name": "San Pedro de Uraba"
+  },
+  {
+    "country": "CO",
+    "id": 3689206,
+    "coord": {
+      "lat": 5.93168,
+      "lon": -73.615059
+    },
+    "name": "Barbosa"
+  },
+  {
+    "country": "CO",
+    "id": 3688266,
+    "coord": {
+      "lat": 1.39017,
+      "lon": -77.159821
+    },
+    "name": "Buesaco"
+  },
+  {
+    "country": "CO",
+    "id": 3688710,
+    "coord": {
+      "lat": 6.50698,
+      "lon": -75.407349
+    },
+    "name": "Bocatoma"
+  },
+  {
+    "country": "CO",
+    "id": 3777286,
+    "coord": {
+      "lat": 5.57194,
+      "lon": -73.648888
+    },
+    "name": "Tres Esquinas"
+  },
+  {
+    "country": "CO",
+    "id": 3681769,
+    "coord": {
+      "lat": 3.13333,
+      "lon": -76.3927
+    },
+    "name": "Guachené"
+  },
+  {
+    "country": "CO",
+    "id": 3686013,
+    "coord": {
+      "lat": 6.04639,
+      "lon": -75.907059
+    },
+    "name": "Concordia"
+  },
+  {
+    "country": "CO",
+    "id": 3669461,
+    "coord": {
+      "lat": 8.75924,
+      "lon": -76.529694
+    },
+    "name": "San Juan de Uraba"
+  },
+  {
+    "country": "CO",
+    "id": 3686227,
+    "coord": {
+      "lat": 6.53833,
+      "lon": -75.088608
+    },
+    "name": "Cisneros"
+  },
+  {
+    "country": "CO",
+    "id": 3689458,
+    "coord": {
+      "lat": 9.49828,
+      "lon": -73.975906
+    },
+    "name": "Astrea"
+  },
+  {
+    "country": "CO",
+    "id": 3673676,
+    "coord": {
+      "lat": 4.57583,
+      "lon": -75.973892
+    },
+    "name": "Obando"
+  },
+  {
+    "country": "CO",
+    "id": 3682313,
+    "coord": {
+      "lat": 6.78005,
+      "lon": -76.128799
+    },
+    "name": "Frontino"
+  },
+  {
+    "country": "CO",
+    "id": 3685540,
+    "coord": {
+      "lat": 5.24958,
+      "lon": -73.766098
+    },
+    "name": "Cucunuba"
+  },
+  {
+    "country": "CO",
+    "id": 3683538,
+    "coord": {
+      "lat": 9.66057,
+      "lon": -73.747231
+    },
+    "name": "El Paso"
+  },
+  {
+    "country": "CO",
+    "id": 8182090,
+    "coord": {
+      "lat": 4.60393,
+      "lon": -74.115372
+    },
+    "name": "Ciudad Montes"
+  },
+  {
+    "country": "CO",
+    "id": 3667082,
+    "coord": {
+      "lat": 1.97136,
+      "lon": -75.931229
+    },
+    "name": "Timana"
+  },
+  {
+    "country": "CO",
+    "id": 3667402,
+    "coord": {
+      "lat": 7.58358,
+      "lon": -75.400681
+    },
+    "name": "Tarazá"
+  },
+  {
+    "country": "CO",
+    "id": 3669859,
+    "coord": {
+      "lat": 5.56453,
+      "lon": -73.210602
+    },
+    "name": "San Francisco"
+  },
+  {
+    "country": "CO",
+    "id": 3673849,
+    "coord": {
+      "lat": 4.30604,
+      "lon": -74.620827
+    },
+    "name": "Nilo"
+  },
+  {
+    "country": "CO",
+    "id": 3670855,
+    "coord": {
+      "lat": 4.25833,
+      "lon": -73.561417
+    },
+    "name": "Restrepo"
+  },
+  {
+    "country": "CO",
+    "id": 3668023,
+    "coord": {
+      "lat": 6.4429,
+      "lon": -73.336884
+    },
+    "name": "Simacota"
+  },
+  {
+    "country": "CO",
+    "id": 3685345,
+    "coord": {
+      "lat": 6.60519,
+      "lon": -73.068092
+    },
+    "name": "Curiti"
+  },
+  {
+    "country": "CO",
+    "id": 3670207,
+    "coord": {
+      "lat": 9.14476,
+      "lon": -75.508774
+    },
+    "name": "San Andres de Sotavento"
+  },
+  {
+    "country": "CO",
+    "id": 3666409,
+    "coord": {
+      "lat": 11.7139,
+      "lon": -72.266037
+    },
+    "name": "Uribia"
+  },
+  {
+    "country": "CO",
+    "id": 3686158,
+    "coord": {
+      "lat": 6.0573,
+      "lon": -75.185242
+    },
+    "name": "Cocorna"
+  },
+  {
+    "country": "CO",
+    "id": 3670242,
+    "coord": {
+      "lat": 7.76107,
+      "lon": -73.392197
+    },
+    "name": "San Alberto"
+  },
+  {
+    "country": "CO",
+    "id": 3686255,
+    "coord": {
+      "lat": 6.31419,
+      "lon": -73.949677
+    },
+    "name": "Cimitarra"
+  },
+  {
+    "country": "CO",
+    "id": 3679716,
+    "coord": {
+      "lat": 5.56223,
+      "lon": -72.574989
+    },
+    "name": "Labranzagrande"
+  },
+  {
+    "country": "CO",
+    "id": 3780602,
+    "coord": {
+      "lat": 5.92583,
+      "lon": -75.670563
+    },
+    "name": "Fredonia"
+  },
+  {
+    "country": "CO",
+    "id": 3690019,
+    "coord": {
+      "lat": 6.04001,
+      "lon": -75.703148
+    },
+    "name": "Amaga"
+  },
+  {
+    "country": "CO",
+    "id": 3685335,
+    "coord": {
+      "lat": 9.19992,
+      "lon": -73.54274
+    },
+    "name": "Curumani"
+  },
+  {
+    "country": "CO",
+    "id": 3687806,
+    "coord": {
+      "lat": 2.68489,
+      "lon": -75.323112
+    },
+    "name": "Campoalegre"
+  },
+  {
+    "country": "CO",
+    "id": 3793791,
+    "coord": {
+      "lat": 8.26914,
+      "lon": -76.157707
+    },
+    "name": "Los Lagos"
+  },
+  {
+    "country": "CO",
+    "id": 3672651,
+    "coord": {
+      "lat": 5.98452,
+      "lon": -72.750504
+    },
+    "name": "Paz de Río"
+  },
+  {
+    "country": "CO",
+    "id": 3675780,
+    "coord": {
+      "lat": 6.50567,
+      "lon": -72.592987
+    },
+    "name": "Macaravita"
+  },
+  {
+    "country": "CO",
+    "id": 3671161,
+    "coord": {
+      "lat": 5.11737,
+      "lon": -74.479439
+    },
+    "name": "Quebradanegra"
+  },
+  {
+    "country": "CO",
+    "id": 3829349,
+    "coord": {
+      "lat": 0.68362,
+      "lon": -76.604393
+    },
+    "name": "Puerto Caicedo"
+  },
+  {
+    "country": "CO",
+    "id": 3671630,
+    "coord": {
+      "lat": 5.79176,
+      "lon": -75.841011
+    },
+    "name": "Pueblorrico"
+  },
+  {
+    "country": "CO",
+    "id": 3665898,
+    "coord": {
+      "lat": 3.22052,
+      "lon": -75.218643
+    },
+    "name": "Villavieja"
+  },
+  {
+    "country": "CO",
+    "id": 3686027,
+    "coord": {
+      "lat": 6.7662,
+      "lon": -72.694
+    },
+    "name": "Concepcion"
+  },
+  {
+    "country": "CO",
+    "id": 3670929,
+    "coord": {
+      "lat": 1.4,
+      "lon": -77.533333
+    },
+    "name": "Recreo"
+  },
+  {
+    "country": "CO",
+    "id": 3685578,
+    "coord": {
+      "lat": 10.9,
+      "lon": -74.883331
+    },
+    "name": "Cuba"
+  },
+  {
+    "country": "CO",
+    "id": 3670350,
+    "coord": {
+      "lat": 5.96502,
+      "lon": -75.965408
+    },
+    "name": "Salgar"
+  },
+  {
+    "country": "CO",
+    "id": 3679778,
+    "coord": {
+      "lat": 4.70898,
+      "lon": -74.034599
+    },
+    "name": "Bella Suiza"
+  },
+  {
+    "country": "CO",
+    "id": 7033249,
+    "coord": {
+      "lat": 4.7021,
+      "lon": -74.039192
+    },
+    "name": "Santa Barbara Central"
+  },
+  {
+    "country": "CO",
+    "id": 3690592,
+    "coord": {
+      "lat": 5.78928,
+      "lon": -75.427254
+    },
+    "name": "Abejorral"
+  },
+  {
+    "country": "CO",
+    "id": 3688499,
+    "coord": {
+      "lat": 7.11096,
+      "lon": -75.551521
+    },
+    "name": "Briceno"
+  },
+  {
+    "country": "CO",
+    "id": 3667649,
+    "coord": {
+      "lat": 5.24779,
+      "lon": -73.852379
+    },
+    "name": "Sutatausa"
+  },
+  {
+    "country": "CO",
+    "id": 3669977,
+    "coord": {
+      "lat": 7.87707,
+      "lon": -72.624298
+    },
+    "name": "San Cayetano"
+  },
+  {
+    "country": "CO",
+    "id": 3689039,
+    "coord": {
+      "lat": 10.53569,
+      "lon": -75.397278
+    },
+    "name": "Bayunca"
+  },
+  {
+    "country": "CO",
+    "id": 3687451,
+    "coord": {
+      "lat": 6.41194,
+      "lon": -74.760559
+    },
+    "name": "Caracoli"
+  },
+  {
+    "country": "CO",
+    "id": 3684945,
+    "coord": {
+      "lat": 7.59272,
+      "lon": -74.808578
+    },
+    "name": "El Bagre"
+  },
+  {
+    "country": "CO",
+    "id": 3665965,
+    "coord": {
+      "lat": 4.64967,
+      "lon": -74.150261
+    },
+    "name": "Villa Mejía"
+  },
+  {
+    "country": "CO",
+    "id": 3675808,
+    "coord": {
+      "lat": 8.43372,
+      "lon": -75.170479
+    },
+    "name": "Mabobo"
+  },
+  {
+    "country": "CO",
+    "id": 3689175,
+    "coord": {
+      "lat": 6.03333,
+      "lon": -73.699997
+    },
+    "name": "Barranca"
+  },
+  {
+    "country": "CO",
+    "id": 3689723,
+    "coord": {
+      "lat": 6.69353,
+      "lon": -73.020828
+    },
+    "name": "Aratoca"
+  },
+  {
+    "country": "CO",
+    "id": 3792383,
+    "coord": {
+      "lat": 10.03409,
+      "lon": -73.236107
+    },
+    "name": "Agustin Codazzi"
+  },
+  {
+    "country": "CO",
+    "id": 3781858,
+    "coord": {
+      "lat": 4.70131,
+      "lon": -73.619019
+    },
+    "name": "El Toronjo"
+  },
+  {
+    "country": "CO",
+    "id": 3793692,
+    "coord": {
+      "lat": 8.06669,
+      "lon": -76.448212
+    },
+    "name": "Viva Dios"
+  },
+  {
+    "country": "CO",
+    "id": 3770718,
+    "coord": {
+      "lat": 2.75701,
+      "lon": -76.617233
+    },
+    "name": "Morales"
+  },
+  {
+    "country": "CO",
+    "id": 3685628,
+    "coord": {
+      "lat": 7.73333,
+      "lon": -72.716667
+    },
+    "name": "Cuajadoras"
+  },
+  {
+    "country": "CO",
+    "id": 3685984,
+    "coord": {
+      "lat": 1.21544,
+      "lon": -77.469551
+    },
+    "name": "Consaca"
+  },
+  {
+    "country": "CO",
+    "id": 3671437,
+    "coord": {
+      "lat": -0.19337,
+      "lon": -74.781891
+    },
+    "name": "Puerto Leguizamo"
+  },
+  {
+    "country": "CO",
+    "id": 3666314,
+    "coord": {
+      "lat": 6.72594,
+      "lon": -75.486969
+    },
+    "name": "Vallecito"
+  },
+  {
+    "country": "CO",
+    "id": 3736146,
+    "coord": {
+      "lat": 3.255,
+      "lon": -75.489441
+    },
+    "name": "Nochebuena"
+  },
+  {
+    "country": "CO",
+    "id": 3680857,
+    "coord": {
+      "lat": 5.79925,
+      "lon": -75.907181
+    },
+    "name": "Hispania"
+  },
+  {
+    "country": "CO",
+    "id": 3665851,
+    "coord": {
+      "lat": 5.06242,
+      "lon": -75.87159
+    },
+    "name": "Viterbo"
+  },
+  {
+    "country": "CO",
+    "id": 3685814,
+    "coord": {
+      "lat": 9.04634,
+      "lon": -75.629189
+    },
+    "name": "Corozalito"
+  },
+  {
+    "country": "CO",
+    "id": 3681767,
+    "coord": {
+      "lat": 5.38425,
+      "lon": -73.686172
+    },
+    "name": "Guacheta"
+  },
+  {
+    "country": "CO",
+    "id": 3685271,
+    "coord": {
+      "lat": 4.45,
+      "lon": -75.949997
+    },
+    "name": "Dávila"
+  },
+  {
+    "country": "CO",
+    "id": 3669938,
+    "coord": {
+      "lat": 1.29151,
+      "lon": -77.474091
+    },
+    "name": "Sandona"
+  },
+  {
+    "country": "CO",
+    "id": 3682944,
+    "coord": {
+      "lat": 5.73135,
+      "lon": -72.988609
+    },
+    "name": "El Tendido"
+  },
+  {
+    "country": "CO",
+    "id": 3828718,
+    "coord": {
+      "lat": 0.8482,
+      "lon": -77.731049
+    },
+    "name": "Yapurquer"
+  },
+  {
+    "country": "CO",
+    "id": 3731909,
+    "coord": {
+      "lat": 7.1003,
+      "lon": -73.48983
+    },
+    "name": "El Naranjito"
+  },
+  {
+    "country": "CO",
+    "id": 3671604,
+    "coord": {
+      "lat": 4.63333,
+      "lon": -74.116669
+    },
+    "name": "Puente Aranda"
+  },
+  {
+    "country": "CO",
+    "id": 3675987,
+    "coord": {
+      "lat": 9.37899,
+      "lon": -75.267693
+    },
+    "name": "Los Palmitos"
+  },
+  {
+    "country": "CO",
+    "id": 3685418,
+    "coord": {
+      "lat": 4.06004,
+      "lon": -74.692123
+    },
+    "name": "Cunday"
+  },
+  {
+    "country": "CO",
+    "id": 3688072,
+    "coord": {
+      "lat": 6.40511,
+      "lon": -75.982552
+    },
+    "name": "Caicedo"
+  },
+  {
+    "country": "CO",
+    "id": 3685295,
+    "coord": {
+      "lat": 7.00172,
+      "lon": -76.26722
+    },
+    "name": "Dabeiba"
+  },
+  {
+    "country": "CO",
+    "id": 3689239,
+    "coord": {
+      "lat": 5.01667,
+      "lon": -73.966667
+    },
+    "name": "Barandillas"
+  },
+  {
+    "country": "CO",
+    "id": 3670061,
+    "coord": {
+      "lat": 6.18394,
+      "lon": -75.657318
+    },
+    "name": "San Antonio de Prado"
+  },
+  {
+    "country": "CO",
+    "id": 3756455,
+    "coord": {
+      "lat": 11.46745,
+      "lon": -72.576576
+    },
+    "name": "Tutehón"
+  },
+  {
+    "country": "CO",
+    "id": 3680349,
+    "coord": {
+      "lat": 4.51667,
+      "lon": -74.433327
+    },
+    "name": "Java"
+  },
+  {
+    "country": "CO",
+    "id": 3778835,
+    "coord": {
+      "lat": 3.7225,
+      "lon": -76.020828
+    },
+    "name": "La Cumbre"
+  },
+  {
+    "country": "CO",
+    "id": 3673902,
+    "coord": {
+      "lat": 5.1665,
+      "lon": -75.520012
+    },
+    "name": "Neira"
+  },
+  {
+    "country": "CO",
+    "id": 3782071,
+    "coord": {
+      "lat": 4.82806,
+      "lon": -73.972816
+    },
+    "name": "Las Tominejas"
+  },
+  {
+    "country": "CO",
+    "id": 3669557,
+    "coord": {
+      "lat": 6.85028,
+      "lon": -75.683327
+    },
+    "name": "San Jose de La Montana"
+  },
+  {
+    "country": "CO",
+    "id": 3673668,
+    "coord": {
+      "lat": 3.70638,
+      "lon": -76.486458
+    },
+    "name": "Ocache"
+  },
+  {
+    "country": "CO",
+    "id": 3673413,
+    "coord": {
+      "lat": 5.52708,
+      "lon": -75.459297
+    },
+    "name": "Pacora"
+  },
+  {
+    "country": "CO",
+    "id": 3671950,
+    "coord": {
+      "lat": 10.77697,
+      "lon": -74.853439
+    },
+    "name": "Polonuevo"
+  },
+  {
+    "country": "CO",
+    "id": 3828811,
+    "coord": {
+      "lat": 3.5369,
+      "lon": -76.62336
+    },
+    "name": "Kilómetro Diez y Ocho"
+  },
+  {
+    "country": "CO",
+    "id": 3673536,
+    "coord": {
+      "lat": 4.79118,
+      "lon": -71.335419
+    },
+    "name": "Orocue"
+  },
+  {
+    "country": "CO",
+    "id": 3776586,
+    "coord": {
+      "lat": 5.79083,
+      "lon": -73.848892
+    },
+    "name": "La Belleza"
+  },
+  {
+    "country": "CO",
+    "id": 3685432,
+    "coord": {
+      "lat": 0.90875,
+      "lon": -77.791451
+    },
+    "name": "Cumbal"
+  },
+  {
+    "country": "CO",
+    "id": 3681596,
+    "coord": {
+      "lat": 9.14334,
+      "lon": -74.223839
+    },
+    "name": "Guamal"
+  },
+  {
+    "country": "CO",
+    "id": 3668033,
+    "coord": {
+      "lat": 7.20524,
+      "lon": -72.756393
+    },
+    "name": "Silos"
+  },
+  {
+    "country": "CO",
+    "id": 3674130,
+    "coord": {
+      "lat": 7.24407,
+      "lon": -76.435638
+    },
+    "name": "Mutata"
+  },
+  {
+    "country": "CO",
+    "id": 3673268,
+    "coord": {
+      "lat": 7.4,
+      "lon": -73.5
+    },
+    "name": "Palestina"
+  },
+  {
+    "country": "CO",
+    "id": 3688128,
+    "coord": {
+      "lat": 7.58078,
+      "lon": -75.348419
+    },
+    "name": "Caceres"
+  },
+  {
+    "country": "CO",
+    "id": 7527065,
+    "coord": {
+      "lat": 4.17861,
+      "lon": -73.61348
+    },
+    "name": "Nancilandia"
+  },
+  {
+    "country": "CO",
+    "id": 3687355,
+    "coord": {
+      "lat": 10.43333,
+      "lon": -73.25
+    },
+    "name": "Caribe"
+  },
+  {
+    "country": "CO",
+    "id": 3782886,
+    "coord": {
+      "lat": 4.08538,
+      "lon": -76.231499
+    },
+    "name": "Campoalegre"
+  },
+  {
+    "country": "CO",
+    "id": 3756852,
+    "coord": {
+      "lat": 7.07309,
+      "lon": -70.747993
+    },
+    "name": "San Carlos"
+  },
+  {
+    "country": "CO",
+    "id": 7522928,
+    "coord": {
+      "lat": 8.11523,
+      "lon": -76.72039
+    },
+    "name": "Villa Maria"
+  },
+  {
+    "country": "CO",
+    "id": 3684922,
+    "coord": {
+      "lat": 5.43333,
+      "lon": -71.650002
+    },
+    "name": "El Banco"
+  },
+  {
+    "country": "CO",
+    "id": 3685600,
+    "coord": {
+      "lat": 11.515,
+      "lon": -72.932777
+    },
+    "name": "Cuatro Bocas"
+  },
+  {
+    "country": "CO",
+    "id": 7523302,
+    "coord": {
+      "lat": 5.22642,
+      "lon": -74.876099
+    },
+    "name": "San Rafael"
+  },
+  {
+    "country": "CO",
+    "id": 3670205,
+    "coord": {
+      "lat": 12.5,
+      "lon": -81.75
+    },
+    "name": "Providencia y Santa Catalina, Departamento de Archipiélago de San Andrés"
+  },
+  {
+    "country": "CO",
+    "id": 3682788,
+    "coord": {
+      "lat": 13.35,
+      "lon": -81.349998
+    },
+    "name": "El Valle"
+  },
+  {
+    "country": "CO",
+    "id": 3686867,
+    "coord": {
+      "lat": 1.35943,
+      "lon": -77.283669
+    },
+    "name": "Chachagui"
+  },
+  {
+    "country": "CO",
+    "id": 3671916,
+    "coord": {
+      "lat": 2.43823,
+      "lon": -76.613159
+    },
+    "name": "Popayan"
+  },
+  {
+    "country": "CO",
+    "id": 7544046,
+    "coord": {
+      "lat": 1.86076,
+      "lon": -76.110847
+    },
+    "name": "Rincón de Contado"
+  },
+  {
+    "country": "CO",
+    "id": 3736937,
+    "coord": {
+      "lat": 4.8025,
+      "lon": -75.738892
+    },
+    "name": "Cuba"
+  },
+  {
+    "country": "CO",
+    "id": 3683209,
+    "coord": {
+      "lat": 7.0089,
+      "lon": -74.718246
+    },
+    "name": "El Rhin"
+  },
+  {
+    "country": "CO",
+    "id": 3673899,
+    "coord": {
+      "lat": 2.9273,
+      "lon": -75.281883
+    },
+    "name": "Neiva"
+  },
+  {
+    "country": "CO",
+    "id": 3682205,
+    "coord": {
+      "lat": 5.03333,
+      "lon": -75.449997
+    },
+    "name": "Gallinazo"
+  },
+  {
+    "country": "CO",
+    "id": 3666254,
+    "coord": {
+      "lat": 0.25,
+      "lon": -70.75
+    },
+    "name": "Departamento del Vaupés"
+  },
+  {
+    "country": "CO",
+    "id": 3685070,
+    "coord": {
+      "lat": 1.26667,
+      "lon": -70.183327
+    },
+    "name": "Durania"
+  },
+  {
+    "country": "CO",
+    "id": 3783506,
+    "coord": {
+      "lat": 8.82333,
+      "lon": -75.830002
+    },
+    "name": "El Central"
+  },
+  {
+    "country": "CO",
+    "id": 3689002,
+    "coord": {
+      "lat": 6.21667,
+      "lon": -75.599998
+    },
+    "name": "Belén"
+  },
+  {
+    "country": "CO",
+    "id": 3827660,
+    "coord": {
+      "lat": -4.18111,
+      "lon": -69.94944
+    },
+    "name": "San Sebastián"
+  },
+  {
+    "country": "CO",
+    "id": 3666041,
+    "coord": {
+      "lat": 7.81667,
+      "lon": -76.716667
+    },
+    "name": "Vijagual"
+  },
+  {
+    "country": "CO",
+    "id": 3828656,
+    "coord": {
+      "lat": 0.85801,
+      "lon": -77.677132
+    },
+    "name": "Villa Rosa"
+  },
+  {
+    "country": "CO",
+    "id": 3668564,
+    "coord": {
+      "lat": 4.41639,
+      "lon": -75.148888
+    },
+    "name": "Santa Rita"
+  },
+  {
+    "country": "CO",
+    "id": 3681505,
+    "coord": {
+      "lat": 2.57082,
+      "lon": -77.885422
+    },
+    "name": "Guapi"
+  },
+  {
+    "country": "CO",
+    "id": 3669067,
+    "coord": {
+      "lat": 4.27724,
+      "lon": -74.773407
+    },
+    "name": "San Rafael"
+  },
+  {
+    "country": "CO",
+    "id": 7930017,
+    "coord": {
+      "lat": 1.58501,
+      "lon": -75.566597
+    },
+    "name": "Corinto"
+  },
+  {
+    "country": "CO",
+    "id": 3829940,
+    "coord": {
+      "lat": 7.02639,
+      "lon": -73.809441
+    },
+    "name": "Atenas"
+  },
+  {
+    "country": "CO",
+    "id": 3778842,
+    "coord": {
+      "lat": 3.55564,
+      "lon": -76.376892
+    },
+    "name": "La Esmeralda"
+  },
+  {
+    "country": "CO",
+    "id": 3683115,
+    "coord": {
+      "lat": 7.93415,
+      "lon": -72.500893
+    },
+    "name": "El Salado"
+  },
+  {
+    "country": "CO",
+    "id": 3665626,
+    "coord": {
+      "lat": 3.81584,
+      "lon": -77.002769
+    },
+    "name": "Zacarías-Riodagua"
+  },
+  {
+    "country": "CO",
+    "id": 3689325,
+    "coord": {
+      "lat": 6.22622,
+      "lon": -77.404388
+    },
+    "name": "Mutis"
+  },
+  {
+    "country": "CO",
+    "id": 3679556,
+    "coord": {
+      "lat": 10.88333,
+      "lon": -74.783333
+    },
+    "name": "La Ceibita"
+  },
+  {
+    "country": "CO",
+    "id": 3732203,
+    "coord": {
+      "lat": 7.11989,
+      "lon": -73.198639
+    },
+    "name": "Palonegro"
+  },
+  {
+    "country": "CO",
+    "id": 3732002,
+    "coord": {
+      "lat": 9.04968,
+      "lon": -73.980377
+    },
+    "name": "Las Flores"
+  },
+  {
+    "country": "CO",
+    "id": 3684257,
+    "coord": {
+      "lat": 4.46667,
+      "lon": -75.76667
+    },
+    "name": "El Edén"
+  },
+  {
+    "country": "CO",
+    "id": 3669793,
+    "coord": {
+      "lat": 5.55,
+      "lon": -75.383331
+    },
+    "name": "San Ignacio"
+  },
+  {
+    "country": "CO",
+    "id": 3665566,
+    "coord": {
+      "lat": 7.48971,
+      "lon": -74.869186
+    },
+    "name": "Zaragoza"
+  },
+  {
+    "country": "CO",
+    "id": 3665741,
+    "coord": {
+      "lat": 6.96321,
+      "lon": -75.417381
+    },
+    "name": "Yarumal"
+  },
+  {
+    "country": "CO",
+    "id": 3665934,
+    "coord": {
+      "lat": 10.60528,
+      "lon": -72.980003
+    },
+    "name": "Villanueva"
+  },
+  {
+    "country": "CO",
+    "id": 3665951,
+    "coord": {
+      "lat": 5.28333,
+      "lon": -71.966667
+    },
+    "name": "Villanueva"
+  },
+  {
+    "country": "CO",
+    "id": 3667991,
+    "coord": {
+      "lat": 9.24391,
+      "lon": -75.146751
+    },
+    "name": "Since"
+  },
+  {
+    "country": "CO",
+    "id": 3668132,
+    "coord": {
+      "lat": 4.26425,
+      "lon": -75.930847
+    },
+    "name": "Sevilla"
+  },
+  {
+    "country": "CO",
+    "id": 3668175,
+    "coord": {
+      "lat": 7.07993,
+      "lon": -74.698898
+    },
+    "name": "Segovia"
+  },
+  {
+    "country": "CO",
+    "id": 3668655,
+    "coord": {
+      "lat": 10.3242,
+      "lon": -74.960167
+    },
+    "name": "Santa Lucia"
+  },
+  {
+    "country": "CO",
+    "id": 3669736,
+    "coord": {
+      "lat": 9.82767,
+      "lon": -75.121696
+    },
+    "name": "San Jacinto"
+  },
+  {
+    "country": "CO",
+    "id": 3669997,
+    "coord": {
+      "lat": 8.79577,
+      "lon": -75.699471
+    },
+    "name": "San Carlos"
+  },
+  {
+    "country": "CO",
+    "id": 3669998,
+    "coord": {
+      "lat": 7.79177,
+      "lon": -74.773163
+    },
+    "name": "San Carlos"
+  },
+  {
+    "country": "CO",
+    "id": 3670038,
+    "coord": {
+      "lat": 8.92901,
+      "lon": -75.027092
+    },
+    "name": "San Benito Abad"
+  },
+  {
+    "country": "CO",
+    "id": 3670218,
+    "coord": {
+      "lat": 12.58472,
+      "lon": -81.700562
+    },
+    "name": "San Andres"
+  },
+  {
+    "country": "CO",
+    "id": 3670513,
+    "coord": {
+      "lat": 10.79115,
+      "lon": -74.76059
+    },
+    "name": "Sabanagrande"
+  },
+  {
+    "country": "CO",
+    "id": 3670874,
+    "coord": {
+      "lat": 10.49194,
+      "lon": -75.129173
+    },
+    "name": "Repelon"
+  },
+  {
+    "country": "CO",
+    "id": 3672761,
+    "coord": {
+      "lat": 2.06895,
+      "lon": -77.052727
+    },
+    "name": "Patia"
+  },
+  {
+    "country": "CO",
+    "id": 3674412,
+    "coord": {
+      "lat": 8.2752,
+      "lon": -73.868843
+    },
+    "name": "Morales"
+  },
+  {
+    "country": "CO",
+    "id": 3674453,
+    "coord": {
+      "lat": 8.74798,
+      "lon": -75.881432
+    },
+    "name": "Monteria"
+  },
+  {
+    "country": "CO",
+    "id": 3674463,
+    "coord": {
+      "lat": 4.56639,
+      "lon": -75.751106
+    },
+    "name": "Montenegro"
+  },
+  {
+    "country": "CO",
+    "id": 3674470,
+    "coord": {
+      "lat": 7.98288,
+      "lon": -75.422928
+    },
+    "name": "Montelibano"
+  },
+  {
+    "country": "CO",
+    "id": 3674962,
+    "coord": {
+      "lat": 6.25184,
+      "lon": -75.563591
+    },
+    "name": "Medellin"
+  },
+  {
+    "country": "CO",
+    "id": 3675707,
+    "coord": {
+      "lat": 4.73244,
+      "lon": -74.264191
+    },
+    "name": "Madrid"
+  },
+  {
+    "country": "CO",
+    "id": 3675975,
+    "coord": {
+      "lat": 7.83793,
+      "lon": -72.5037
+    },
+    "name": "Los Patios"
+  },
+  {
+    "country": "CO",
+    "id": 3676604,
+    "coord": {
+      "lat": 4.9218,
+      "lon": -75.062317
+    },
+    "name": "Libano"
+  },
+  {
+    "country": "CO",
+    "id": 3676626,
+    "coord": {
+      "lat": 4.86242,
+      "lon": -74.909767
+    },
+    "name": "Lerida"
+  },
+  {
+    "country": "CO",
+    "id": 3676720,
+    "coord": {
+      "lat": 4.89972,
+      "lon": -75.8825
+    },
+    "name": "La Virginia"
+  },
+  {
+    "country": "CO",
+    "id": 3676928,
+    "coord": {
+      "lat": 4.53282,
+      "lon": -76.10318
+    },
+    "name": "La Union"
+  },
+  {
+    "country": "CO",
+    "id": 3676934,
+    "coord": {
+      "lat": 1.6045,
+      "lon": -77.131523
+    },
+    "name": "La Union"
+  },
+  {
+    "country": "CO",
+    "id": 3678405,
+    "coord": {
+      "lat": 5.26667,
+      "lon": -73.916672
+    },
+    "name": "La Mesa"
+  },
+  {
+    "country": "CO",
+    "id": 3680387,
+    "coord": {
+      "lat": 3.26074,
+      "lon": -76.534988
+    },
+    "name": "Jamundi"
+  },
+  {
+    "country": "CO",
+    "id": 3680840,
+    "coord": {
+      "lat": 5.20856,
+      "lon": -74.73584
+    },
+    "name": "Honda"
+  },
+  {
+    "country": "CO",
+    "id": 3681957,
+    "coord": {
+      "lat": 3.53861,
+      "lon": -73.700562
+    },
+    "name": "Granada"
+  },
+  {
+    "country": "CO",
+    "id": 3682108,
+    "coord": {
+      "lat": 2.19593,
+      "lon": -75.627769
+    },
+    "name": "Garzon"
+  },
+  {
+    "country": "CO",
+    "id": 3682238,
+    "coord": {
+      "lat": 10.89686,
+      "lon": -74.886002
+    },
+    "name": "Galapa"
+  },
+  {
+    "country": "CO",
+    "id": 3682274,
+    "coord": {
+      "lat": 4.33646,
+      "lon": -74.363777
+    },
+    "name": "Fusagasuga"
+  },
+  {
+    "country": "CO",
+    "id": 3682393,
+    "coord": {
+      "lat": 3.3223,
+      "lon": -76.234802
+    },
+    "name": "Florida"
+  },
+  {
+    "country": "CO",
+    "id": 3682426,
+    "coord": {
+      "lat": 1.61438,
+      "lon": -75.606232
+    },
+    "name": "Florencia"
+  },
+  {
+    "country": "CO",
+    "id": 3684452,
+    "coord": {
+      "lat": 10.15031,
+      "lon": -73.961403
+    },
+    "name": "El Copey"
+  },
+  {
+    "country": "CO",
+    "id": 3684579,
+    "coord": {
+      "lat": 2.47691,
+      "lon": -78.110489
+    },
+    "name": "El Charco"
+  },
+  {
+    "country": "CO",
+    "id": 3684615,
+    "coord": {
+      "lat": 3.68549,
+      "lon": -76.313721
+    },
+    "name": "El Cerrito"
+  },
+  {
+    "country": "CO",
+    "id": 3685871,
+    "coord": {
+      "lat": 3.17407,
+      "lon": -76.259933
+    },
+    "name": "Corinto"
+  },
+  {
+    "country": "CO",
+    "id": 3686585,
+    "coord": {
+      "lat": 9.25778,
+      "lon": -73.812279
+    },
+    "name": "Chimichagua"
+  },
+  {
+    "country": "CO",
+    "id": 3687238,
+    "coord": {
+      "lat": 10.39972,
+      "lon": -75.514442
+    },
+    "name": "Cartagena"
+  },
+  {
+    "country": "CO",
+    "id": 3688451,
+    "coord": {
+      "lat": 3.8801,
+      "lon": -77.031158
+    },
+    "name": "Buenaventura"
+  },
+  {
+    "country": "CO",
+    "id": 3689718,
+    "coord": {
+      "lat": 7.08471,
+      "lon": -70.759079
+    },
+    "name": "Arauca"
+  },
+  {
+    "country": "CO",
+    "id": 3689798,
+    "coord": {
+      "lat": 7.88299,
+      "lon": -76.62587
+    },
+    "name": "Apartado"
+  },
+  {
+    "country": "CO",
+    "id": 3689905,
+    "coord": {
+      "lat": 4.17061,
+      "lon": -76.166412
+    },
+    "name": "Andalucia"
+  },
+  {
+    "country": "CO",
+    "id": 3665544,
+    "coord": {
+      "lat": 4.75881,
+      "lon": -74.380173
+    },
+    "name": "Zipacon"
+  },
+  {
+    "country": "CO",
+    "id": 3665616,
+    "coord": {
+      "lat": 9.74724,
+      "lon": -74.8153
+    },
+    "name": "Zambrano"
+  },
+  {
+    "country": "CO",
+    "id": 3665693,
+    "coord": {
+      "lat": 6.59841,
+      "lon": -75.011398
+    },
+    "name": "Yolombo"
+  },
+  {
+    "country": "CO",
+    "id": 3665792,
+    "coord": {
+      "lat": 6.67456,
+      "lon": -74.834297
+    },
+    "name": "Yali"
+  },
+  {
+    "country": "CO",
+    "id": 3665813,
+    "coord": {
+      "lat": 5.45948,
+      "lon": -74.338226
+    },
+    "name": "Yacopi"
+  },
+  {
+    "country": "CO",
+    "id": 3665860,
+    "coord": {
+      "lat": 3.12428,
+      "lon": -73.751556
+    },
+    "name": "Vista Hermosa"
+  },
+  {
+    "country": "CO",
+    "id": 3665910,
+    "coord": {
+      "lat": 3.93502,
+      "lon": -74.600357
+    },
+    "name": "Villarrica"
+  },
+  {
+    "country": "CO",
+    "id": 3665924,
+    "coord": {
+      "lat": 5.21617,
+      "lon": -73.594902
+    },
+    "name": "Villapinzon"
+  },
+  {
+    "country": "CO",
+    "id": 3665935,
+    "coord": {
+      "lat": 10.44361,
+      "lon": -75.273064
+    },
+    "name": "Villanueva"
+  },
+  {
+    "country": "CO",
+    "id": 3665949,
+    "coord": {
+      "lat": 6.67169,
+      "lon": -73.174202
+    },
+    "name": "Villanueva"
+  },
+  {
+    "country": "CO",
+    "id": 3665986,
+    "coord": {
+      "lat": 5.03067,
+      "lon": -75.116074
+    },
+    "name": "Villahermosa"
+  },
+  {
+    "country": "CO",
+    "id": 3666003,
+    "coord": {
+      "lat": 5.645,
+      "lon": -73.566673
+    },
+    "name": "Villa de Leiva"
+  },
+  {
+    "country": "CO",
+    "id": 3666042,
+    "coord": {
+      "lat": 6.57891,
+      "lon": -76.886276
+    },
+    "name": "Vigia del Fuerte"
+  },
+  {
+    "country": "CO",
+    "id": 3666075,
+    "coord": {
+      "lat": 5.31648,
+      "lon": -74.911011
+    },
+    "name": "Victoria"
+  },
+  {
+    "country": "CO",
+    "id": 3666102,
+    "coord": {
+      "lat": 4.57544,
+      "lon": -76.198143
+    },
+    "name": "Versalles"
+  },
+  {
+    "country": "CO",
+    "id": 3666163,
+    "coord": {
+      "lat": 5.36753,
+      "lon": -73.520752
+    },
+    "name": "Ventaquemada"
+  },
+  {
+    "country": "CO",
+    "id": 3666193,
+    "coord": {
+      "lat": 5.96278,
+      "lon": -75.73806
+    },
+    "name": "Venecia"
+  },
+  {
+    "country": "CO",
+    "id": 3666203,
+    "coord": {
+      "lat": 4.08808,
+      "lon": -74.477463
+    },
+    "name": "Venecia"
+  },
+  {
+    "country": "CO",
+    "id": 3666287,
+    "coord": {
+      "lat": 5.615,
+      "lon": -75.624222
+    },
+    "name": "Valparaiso"
+  },
+  {
+    "country": "CO",
+    "id": 3666291,
+    "coord": {
+      "lat": 1.19512,
+      "lon": -75.707047
+    },
+    "name": "Valparaiso"
+  },
+  {
+    "country": "CO",
+    "id": 3666309,
+    "coord": {
+      "lat": 4.19869,
+      "lon": -75.117332
+    },
+    "name": "Valle de San Juan"
+  },
+  {
+    "country": "CO",
+    "id": 3666311,
+    "coord": {
+      "lat": 6.4475,
+      "lon": -73.143608
+    },
+    "name": "Valle de San Jose"
+  },
+  {
+    "country": "CO",
+    "id": 3666326,
+    "coord": {
+      "lat": 8.25801,
+      "lon": -76.149277
+    },
+    "name": "Valencia"
+  },
+  {
+    "country": "CO",
+    "id": 3666333,
+    "coord": {
+      "lat": 7.28889,
+      "lon": -75.397781
+    },
+    "name": "Valdivia"
+  },
+  {
+    "country": "CO",
+    "id": 3666363,
+    "coord": {
+      "lat": 5.18727,
+      "lon": -74.481049
+    },
+    "name": "Utica"
+  },
+  {
+    "country": "CO",
+    "id": 3666370,
+    "coord": {
+      "lat": 10.75,
+      "lon": -74.98333
+    },
+    "name": "Usiacuri"
+  },
+  {
+    "country": "CO",
+    "id": 3666436,
+    "coord": {
+      "lat": 6.89944,
+      "lon": -76.174171
+    },
+    "name": "Uramita"
+  },
+  {
+    "country": "CO",
+    "id": 3666475,
+    "coord": {
+      "lat": 8.04335,
+      "lon": -77.094528
+    },
+    "name": "Ungia"
+  },
+  {
+    "country": "CO",
+    "id": 3666493,
+    "coord": {
+      "lat": 5.22041,
+      "lon": -73.456947
+    },
+    "name": "Umbita"
+  },
+  {
+    "country": "CO",
+    "id": 3666526,
+    "coord": {
+      "lat": 4.74778,
+      "lon": -72.536942
+    },
+    "name": "Ubala"
+  },
+  {
+    "country": "CO",
+    "id": 3666575,
+    "coord": {
+      "lat": 10.2717,
+      "lon": -75.442223
+    },
+    "name": "Turbana"
+  },
+  {
+    "country": "CO",
+    "id": 3666719,
+    "coord": {
+      "lat": 5.43056,
+      "lon": -71.631111
+    },
+    "name": "Trinidad"
+  },
+  {
+    "country": "CO",
+    "id": 3666834,
+    "coord": {
+      "lat": 2.51204,
+      "lon": -76.401237
+    },
+    "name": "Totoro"
+  },
+  {
+    "country": "CO",
+    "id": 3666903,
+    "coord": {
+      "lat": 5.33457,
+      "lon": -74.302917
+    },
+    "name": "Topaipi"
+  },
+  {
+    "country": "CO",
+    "id": 3666905,
+    "coord": {
+      "lat": 5.75979,
+      "lon": -72.825829
+    },
+    "name": "Topaga"
+  },
+  {
+    "country": "CO",
+    "id": 3666936,
+    "coord": {
+      "lat": 9.45082,
+      "lon": -75.438637
+    },
+    "name": "Toluviejo"
+  },
+  {
+    "country": "CO",
+    "id": 3666959,
+    "coord": {
+      "lat": 7.30984,
+      "lon": -72.482948
+    },
+    "name": "Toledo"
+  },
+  {
+    "country": "CO",
+    "id": 3667007,
+    "coord": {
+      "lat": 5.56392,
+      "lon": -73.183983
+    },
+    "name": "Toca"
+  },
+  {
+    "country": "CO",
+    "id": 3667023,
+    "coord": {
+      "lat": 6.06276,
+      "lon": -75.793701
+    },
+    "name": "Titiribi"
+  },
+  {
+    "country": "CO",
+    "id": 3667044,
+    "coord": {
+      "lat": 6.42031,
+      "lon": -72.691841
+    },
+    "name": "Tipacoque"
+  },
+  {
+    "country": "CO",
+    "id": 3667070,
+    "coord": {
+      "lat": 2.7717,
+      "lon": -77.665359
+    },
+    "name": "Timbiqui"
+  },
+  {
+    "country": "CO",
+    "id": 3667211,
+    "coord": {
+      "lat": 5.75,
+      "lon": -73
+    },
+    "name": "Tibasosa"
+  },
+  {
+    "country": "CO",
+    "id": 3667218,
+    "coord": {
+      "lat": 5.31728,
+      "lon": -73.396553
+    },
+    "name": "Tibana"
+  },
+  {
+    "country": "CO",
+    "id": 3667244,
+    "coord": {
+      "lat": 2.48587,
+      "lon": -75.72921
+    },
+    "name": "Tesalia"
+  },
+  {
+    "country": "CO",
+    "id": 3667247,
+    "coord": {
+      "lat": 2.74193,
+      "lon": -75.567383
+    },
+    "name": "Teruel"
+  },
+  {
+    "country": "CO",
+    "id": 3667323,
+    "coord": {
+      "lat": 3.06694,
+      "lon": -75.137779
+    },
+    "name": "Tello"
+  },
+  {
+    "country": "CO",
+    "id": 3667373,
+    "coord": {
+      "lat": 5.91044,
+      "lon": -72.780006
+    },
+    "name": "Tasco"
+  },
+  {
+    "country": "CO",
+    "id": 3667380,
+    "coord": {
+      "lat": 5.86467,
+      "lon": -75.821922
+    },
+    "name": "Tarso"
+  },
+  {
+    "country": "CO",
+    "id": 3667386,
+    "coord": {
+      "lat": 2.11248,
+      "lon": -75.824188
+    },
+    "name": "Tarqui"
+  },
+  {
+    "country": "CO",
+    "id": 3667471,
+    "coord": {
+      "lat": 1.57491,
+      "lon": -77.286659
+    },
+    "name": "Taminango"
+  },
+  {
+    "country": "CO",
+    "id": 3667473,
+    "coord": {
+      "lat": 5.66462,
+      "lon": -75.713387
+    },
+    "name": "Tamesis"
+  },
+  {
+    "country": "CO",
+    "id": 3667516,
+    "coord": {
+      "lat": 5.82972,
+      "lon": -72.16333
+    },
+    "name": "Tamara"
+  },
+  {
+    "country": "CO",
+    "id": 3667528,
+    "coord": {
+      "lat": 8.85221,
+      "lon": -73.812286
+    },
+    "name": "Tamalameque"
+  },
+  {
+    "country": "CO",
+    "id": 3667547,
+    "coord": {
+      "lat": 9.31206,
+      "lon": -74.585442
+    },
+    "name": "Talaigua Viejo"
+  },
+  {
+    "country": "CO",
+    "id": 3667579,
+    "coord": {
+      "lat": 5.26598,
+      "lon": -76.564873
+    },
+    "name": "Tado"
+  },
+  {
+    "country": "CO",
+    "id": 3667660,
+    "coord": {
+      "lat": 6.22978,
+      "lon": -72.690102
+    },
+    "name": "Susacon"
+  },
+  {
+    "country": "CO",
+    "id": 3667731,
+    "coord": {
+      "lat": 5.91833,
+      "lon": -73.791092
+    },
+    "name": "Sucre"
+  },
+  {
+    "country": "CO",
+    "id": 3667732,
+    "coord": {
+      "lat": 2.03805,
+      "lon": -76.924461
+    },
+    "name": "Sucre"
+  },
+  {
+    "country": "CO",
+    "id": 3667772,
+    "coord": {
+      "lat": 4.04906,
+      "lon": -74.831978
+    },
+    "name": "Suarez"
+  },
+  {
+    "country": "CO",
+    "id": 3667773,
+    "coord": {
+      "lat": 2.95395,
+      "lon": -76.696442
+    },
+    "name": "Suarez"
+  },
+  {
+    "country": "CO",
+    "id": 3667780,
+    "coord": {
+      "lat": 10.33347,
+      "lon": -74.880157
+    },
+    "name": "Suan"
+  },
+  {
+    "country": "CO",
+    "id": 3667783,
+    "coord": {
+      "lat": 6.1014,
+      "lon": -73.440407
+    },
+    "name": "Suaita"
+  },
+  {
+    "country": "CO",
+    "id": 3667791,
+    "coord": {
+      "lat": 1.51469,
+      "lon": -77.50444
+    },
+    "name": "Sotomayor"
+  },
+  {
+    "country": "CO",
+    "id": 3667796,
+    "coord": {
+      "lat": 5.76483,
+      "lon": -73.247581
+    },
+    "name": "Sotaquira"
+  },
+  {
+    "country": "CO",
+    "id": 3667834,
+    "coord": {
+      "lat": 4.98778,
+      "lon": -73.436111
+    },
+    "name": "Somondoco"
+  },
+  {
+    "country": "CO",
+    "id": 3667868,
+    "coord": {
+      "lat": 0.69937,
+      "lon": -75.253532
+    },
+    "name": "Solano"
+  },
+  {
+    "country": "CO",
+    "id": 3667880,
+    "coord": {
+      "lat": 6.04028,
+      "lon": -72.635094
+    },
+    "name": "Socota"
+  },
+  {
+    "country": "CO",
+    "id": 3667901,
+    "coord": {
+      "lat": 6.33369,
+      "lon": -72.682831
+    },
+    "name": "Soata"
+  },
+  {
+    "country": "CO",
+    "id": 3667918,
+    "coord": {
+      "lat": 10.77737,
+      "lon": -74.72049
+    },
+    "name": "Sitionuevo"
+  },
+  {
+    "country": "CO",
+    "id": 3668012,
+    "coord": {
+      "lat": 7.9579,
+      "lon": -73.943604
+    },
+    "name": "Simiti"
+  },
+  {
+    "country": "CO",
+    "id": 3668078,
+    "coord": {
+      "lat": 1.20478,
+      "lon": -76.92366
+    },
+    "name": "Sibundoy"
+  },
+  {
+    "country": "CO",
+    "id": 3668096,
+    "coord": {
+      "lat": 5.51238,
+      "lon": -73.244362
+    },
+    "name": "Siachoque"
+  },
+  {
+    "country": "CO",
+    "id": 3668138,
+    "coord": {
+      "lat": 5.0475,
+      "lon": -73.800827
+    },
+    "name": "Sesquile"
+  },
+  {
+    "country": "CO",
+    "id": 3668228,
+    "coord": {
+      "lat": 4.96611,
+      "lon": -74.43512
+    },
+    "name": "Sasaima"
+  },
+  {
+    "country": "CO",
+    "id": 3668268,
+    "coord": {
+      "lat": 1.03728,
+      "lon": -77.620941
+    },
+    "name": "Sapuyes"
+  },
+  {
+    "country": "CO",
+    "id": 3668286,
+    "coord": {
+      "lat": 9.24217,
+      "lon": -74.500366
+    },
+    "name": "San Zenon"
+  },
+  {
+    "country": "CO",
+    "id": 3668302,
+    "coord": {
+      "lat": 6.23278,
+      "lon": -75.336113
+    },
+    "name": "San Vicente"
+  },
+  {
+    "country": "CO",
+    "id": 3668324,
+    "coord": {
+      "lat": 5.07237,
+      "lon": -75.963409
+    },
+    "name": "Santuario"
+  },
+  {
+    "country": "CO",
+    "id": 3668373,
+    "coord": {
+      "lat": 6.47222,
+      "lon": -75.164719
+    },
+    "name": "Santo Domingo"
+  },
+  {
+    "country": "CO",
+    "id": 3668396,
+    "coord": {
+      "lat": 7.86432,
+      "lon": -72.716202
+    },
+    "name": "Santiago"
+  },
+  {
+    "country": "CO",
+    "id": 3668400,
+    "coord": {
+      "lat": 1.14844,
+      "lon": -77.004501
+    },
+    "name": "Santiago"
+  },
+  {
+    "country": "CO",
+    "id": 3668434,
+    "coord": {
+      "lat": 5.70908,
+      "lon": -73.604042
+    },
+    "name": "Santa Sofia"
+  },
+  {
+    "country": "CO",
+    "id": 3668447,
+    "coord": {
+      "lat": 5.87401,
+      "lon": -72.98217
+    },
+    "name": "Santa Rosa de Viterbo"
+  },
+  {
+    "country": "CO",
+    "id": 3668472,
+    "coord": {
+      "lat": 10.44472,
+      "lon": -75.36972
+    },
+    "name": "Santa Rosa"
+  },
+  {
+    "country": "CO",
+    "id": 3668594,
+    "coord": {
+      "lat": 6.0575,
+      "lon": -73.481117
+    },
+    "name": "Santana"
+  },
+  {
+    "country": "CO",
+    "id": 3668631,
+    "coord": {
+      "lat": 4.86048,
+      "lon": -73.262337
+    },
+    "name": "Santa Maria"
+  },
+  {
+    "country": "CO",
+    "id": 3668635,
+    "coord": {
+      "lat": 2.95,
+      "lon": -75.650002
+    },
+    "name": "Santa Maria"
+  },
+  {
+    "country": "CO",
+    "id": 3668895,
+    "coord": {
+      "lat": 5.87458,
+      "lon": -75.567062
+    },
+    "name": "Santa Barbara"
+  },
+  {
+    "country": "CO",
+    "id": 3668937,
+    "coord": {
+      "lat": 9.32125,
+      "lon": -74.568481
+    },
+    "name": "Santa Ana"
+  },
+  {
+    "country": "CO",
+    "id": 3669011,
+    "coord": {
+      "lat": 6.48511,
+      "lon": -75.0196
+    },
+    "name": "San Roque"
+  },
+  {
+    "country": "CO",
+    "id": 3669056,
+    "coord": {
+      "lat": 6.29436,
+      "lon": -75.025887
+    },
+    "name": "San Rafael"
+  },
+  {
+    "country": "CO",
+    "id": 3669128,
+    "coord": {
+      "lat": 9.3956,
+      "lon": -75.064758
+    },
+    "name": "San Pedro"
+  },
+  {
+    "country": "CO",
+    "id": 3669138,
+    "coord": {
+      "lat": 6.46221,
+      "lon": -75.556557
+    },
+    "name": "San Pedro"
+  },
+  {
+    "country": "CO",
+    "id": 3669156,
+    "coord": {
+      "lat": 3.99456,
+      "lon": -76.227798
+    },
+    "name": "San Pedro"
+  },
+  {
+    "country": "CO",
+    "id": 3669188,
+    "coord": {
+      "lat": 10.05154,
+      "lon": -75.267754
+    },
+    "name": "San Pablo"
+  },
+  {
+    "country": "CO",
+    "id": 3669214,
+    "coord": {
+      "lat": 1.6725,
+      "lon": -77.013893
+    },
+    "name": "San Pablo"
+  },
+  {
+    "country": "CO",
+    "id": 3669293,
+    "coord": {
+      "lat": 0.34314,
+      "lon": -76.91124
+    },
+    "name": "San Miguel"
+  },
+  {
+    "country": "CO",
+    "id": 3669310,
+    "coord": {
+      "lat": 6.40111,
+      "lon": -72.555634
+    },
+    "name": "San Mateo"
+  },
+  {
+    "country": "CO",
+    "id": 3669358,
+    "coord": {
+      "lat": 3.79352,
+      "lon": -73.84063
+    },
+    "name": "San Luis de Cubarral"
+  },
+  {
+    "country": "CO",
+    "id": 3669399,
+    "coord": {
+      "lat": 4.13258,
+      "lon": -75.094994
+    },
+    "name": "San Luis"
+  },
+  {
+    "country": "CO",
+    "id": 3669440,
+    "coord": {
+      "lat": 1.50628,
+      "lon": -77.218979
+    },
+    "name": "San Lorenzo"
+  },
+  {
+    "country": "CO",
+    "id": 3669480,
+    "coord": {
+      "lat": 9.27345,
+      "lon": -75.241028
+    },
+    "name": "San Juan de Betulia"
+  },
+  {
+    "country": "CO",
+    "id": 3669482,
+    "coord": {
+      "lat": 3.34639,
+      "lon": -73.889442
+    },
+    "name": "San Juan de Arama"
+  },
+  {
+    "country": "CO",
+    "id": 3669623,
+    "coord": {
+      "lat": 5.08583,
+      "lon": -75.78833
+    },
+    "name": "San Jose"
+  },
+  {
+    "country": "CO",
+    "id": 3669654,
+    "coord": {
+      "lat": 1.69659,
+      "lon": -78.24482
+    },
+    "name": "San Jose"
+  },
+  {
+    "country": "CO",
+    "id": 3669857,
+    "coord": {
+      "lat": 6.11667,
+      "lon": -75.98333
+    },
+    "name": "San Francisco"
+  },
+  {
+    "country": "CO",
+    "id": 3669860,
+    "coord": {
+      "lat": 4.97372,
+      "lon": -74.290062
+    },
+    "name": "San Francisco"
+  },
+  {
+    "country": "CO",
+    "id": 3669881,
+    "coord": {
+      "lat": 1.17867,
+      "lon": -76.878502
+    },
+    "name": "San Francisco"
+  },
+  {
+    "country": "CO",
+    "id": 3669895,
+    "coord": {
+      "lat": 9.27972,
+      "lon": -74.53389
+    },
+    "name": "San Fernando"
+  },
+  {
+    "country": "CO",
+    "id": 3669929,
+    "coord": {
+      "lat": 10.39833,
+      "lon": -75.151108
+    },
+    "name": "San Estanislao"
+  },
+  {
+    "country": "CO",
+    "id": 3669947,
+    "coord": {
+      "lat": 10.33427,
+      "lon": -73.180038
+    },
+    "name": "San Diego"
+  },
+  {
+    "country": "CO",
+    "id": 3669956,
+    "coord": {
+      "lat": 9.87809,
+      "lon": -75.25248
+    },
+    "name": "San Cristobal"
+  },
+  {
+    "country": "CO",
+    "id": 3669987,
+    "coord": {
+      "lat": 3.71161,
+      "lon": -73.243439
+    },
+    "name": "San Carlos de Guaroa"
+  },
+  {
+    "country": "CO",
+    "id": 3670000,
+    "coord": {
+      "lat": 6.18789,
+      "lon": -74.993149
+    },
+    "name": "San Carlos"
+  },
+  {
+    "country": "CO",
+    "id": 3670011,
+    "coord": {
+      "lat": 8.4021,
+      "lon": -73.207367
+    },
+    "name": "San Calixto"
+  },
+  {
+    "country": "CO",
+    "id": 3670018,
+    "coord": {
+      "lat": 9.3533,
+      "lon": -75.952438
+    },
+    "name": "San Bernardo del Viento"
+  },
+  {
+    "country": "CO",
+    "id": 3670034,
+    "coord": {
+      "lat": 1.52119,
+      "lon": -77.030907
+    },
+    "name": "San Bernardo"
+  },
+  {
+    "country": "CO",
+    "id": 3670107,
+    "coord": {
+      "lat": 9.93303,
+      "lon": -74.693459
+    },
+    "name": "San Antonio"
+  },
+  {
+    "country": "CO",
+    "id": 3670162,
+    "coord": {
+      "lat": 3.91423,
+      "lon": -75.48008
+    },
+    "name": "San Antonio"
+  },
+  {
+    "country": "CO",
+    "id": 3670224,
+    "coord": {
+      "lat": 6.81148,
+      "lon": -72.849289
+    },
+    "name": "San Andres"
+  },
+  {
+    "country": "CO",
+    "id": 3670260,
+    "coord": {
+      "lat": 1.87863,
+      "lon": -76.275574
+    },
+    "name": "San Agustin"
+  },
+  {
+    "country": "CO",
+    "id": 3670293,
+    "coord": {
+      "lat": 1.3385,
+      "lon": -77.595703
+    },
+    "name": "Samaniego"
+  },
+  {
+    "country": "CO",
+    "id": 3670368,
+    "coord": {
+      "lat": 10.49027,
+      "lon": -74.794632
+    },
+    "name": "Salamina"
+  },
+  {
+    "country": "CO",
+    "id": 3670383,
+    "coord": {
+      "lat": 1.99244,
+      "lon": -76.04335
+    },
+    "name": "Saladoblanco"
+  },
+  {
+    "country": "CO",
+    "id": 3670431,
+    "coord": {
+      "lat": 5.58453,
+      "lon": -73.54184
+    },
+    "name": "Sachica"
+  },
+  {
+    "country": "CO",
+    "id": 3670447,
+    "coord": {
+      "lat": 5.69636,
+      "lon": -73.769318
+    },
+    "name": "Saboya"
+  },
+  {
+    "country": "CO",
+    "id": 3670506,
+    "coord": {
+      "lat": 6.84893,
+      "lon": -75.817108
+    },
+    "name": "Sabanalarga"
+  },
+  {
+    "country": "CO",
+    "id": 3670520,
+    "coord": {
+      "lat": 7.3915,
+      "lon": -73.495743
+    },
+    "name": "Sabana de Torres"
+  },
+  {
+    "country": "CO",
+    "id": 3670595,
+    "coord": {
+      "lat": 2.26093,
+      "lon": -76.739861
+    },
+    "name": "Rosas"
+  },
+  {
+    "country": "CO",
+    "id": 3670700,
+    "coord": {
+      "lat": 5.16647,
+      "lon": -75.765953
+    },
+    "name": "Risaralda"
+  },
+  {
+    "country": "CO",
+    "id": 3670709,
+    "coord": {
+      "lat": 8.5874,
+      "lon": -73.839012
+    },
+    "name": "Rio Viejo"
+  },
+  {
+    "country": "CO",
+    "id": 3670718,
+    "coord": {
+      "lat": 7.44027,
+      "lon": -77.116699
+    },
+    "name": "Riosucio"
+  },
+  {
+    "country": "CO",
+    "id": 3670754,
+    "coord": {
+      "lat": 4.1571,
+      "lon": -76.288521
+    },
+    "name": "Riofrio"
+  },
+  {
+    "country": "CO",
+    "id": 3670756,
+    "coord": {
+      "lat": 8.2919,
+      "lon": -73.38485
+    },
+    "name": "Rio de Oro"
+  },
+  {
+    "country": "CO",
+    "id": 3670812,
+    "coord": {
+      "lat": 4.28075,
+      "lon": -74.764687
+    },
+    "name": "Ricaurte"
+  },
+  {
+    "country": "CO",
+    "id": 3670816,
+    "coord": {
+      "lat": 1.1727,
+      "lon": -77.937202
+    },
+    "name": "Ricaurte"
+  },
+  {
+    "country": "CO",
+    "id": 3670884,
+    "coord": {
+      "lat": 10.70198,
+      "lon": -74.716019
+    },
+    "name": "Remolino"
+  },
+  {
+    "country": "CO",
+    "id": 3670910,
+    "coord": {
+      "lat": 8.66565,
+      "lon": -73.82151
+    },
+    "name": "Regidor"
+  },
+  {
+    "country": "CO",
+    "id": 3671018,
+    "coord": {
+      "lat": 7.57749,
+      "lon": -72.475739
+    },
+    "name": "Ragonvalia"
+  },
+  {
+    "country": "CO",
+    "id": 3671308,
+    "coord": {
+      "lat": 5.87262,
+      "lon": -74.640289
+    },
+    "name": "Puerto Triunfo"
+  },
+  {
+    "country": "CO",
+    "id": 3671337,
+    "coord": {
+      "lat": 6.28048,
+      "lon": -71.099998
+    },
+    "name": "Puerto Rondon"
+  },
+  {
+    "country": "CO",
+    "id": 3671346,
+    "coord": {
+      "lat": 2.93833,
+      "lon": -73.208328
+    },
+    "name": "Puerto Rico"
+  },
+  {
+    "country": "CO",
+    "id": 3671348,
+    "coord": {
+      "lat": 1.91417,
+      "lon": -75.144997
+    },
+    "name": "Puerto Rico"
+  },
+  {
+    "country": "CO",
+    "id": 3671371,
+    "coord": {
+      "lat": 6.65149,
+      "lon": -74.057343
+    },
+    "name": "Puerto Parra"
+  },
+  {
+    "country": "CO",
+    "id": 3671387,
+    "coord": {
+      "lat": -3.77028,
+      "lon": -70.383057
+    },
+    "name": "Puerto Narino"
+  },
+  {
+    "country": "CO",
+    "id": 3671424,
+    "coord": {
+      "lat": 3.02225,
+      "lon": -73.404404
+    },
+    "name": "Puerto Lleras"
+  },
+  {
+    "country": "CO",
+    "id": 3671470,
+    "coord": {
+      "lat": 9.0181,
+      "lon": -76.26413
+    },
+    "name": "Puerto Escondido"
+  },
+  {
+    "country": "CO",
+    "id": 3671576,
+    "coord": {
+      "lat": 1.19374,
+      "lon": -77.266609
+    },
+    "name": "Puerres"
+  },
+  {
+    "country": "CO",
+    "id": 3671591,
+    "coord": {
+      "lat": 5.8774,
+      "lon": -73.678101
+    },
+    "name": "Puente Nacional"
+  },
+  {
+    "country": "CO",
+    "id": 3671615,
+    "coord": {
+      "lat": 10.99376,
+      "lon": -74.284378
+    },
+    "name": "Puebloviejo"
+  },
+  {
+    "country": "CO",
+    "id": 3671633,
+    "coord": {
+      "lat": 5.23833,
+      "lon": -76.036392
+    },
+    "name": "Pueblo Rico"
+  },
+  {
+    "country": "CO",
+    "id": 3671655,
+    "coord": {
+      "lat": 8.2411,
+      "lon": -74.958153
+    },
+    "name": "Pueblo Nuevo"
+  },
+  {
+    "country": "CO",
+    "id": 3671714,
+    "coord": {
+      "lat": 1.56976,
+      "lon": -77.463997
+    },
+    "name": "Providencia"
+  },
+  {
+    "country": "CO",
+    "id": 3671765,
+    "coord": {
+      "lat": 3.75024,
+      "lon": -74.929321
+    },
+    "name": "Prado"
+  },
+  {
+    "country": "CO",
+    "id": 3671848,
+    "coord": {
+      "lat": 0.80739,
+      "lon": -77.572159
+    },
+    "name": "Potosi"
+  },
+  {
+    "country": "CO",
+    "id": 3671901,
+    "coord": {
+      "lat": 5.72722,
+      "lon": -71.99472
+    },
+    "name": "Pore"
+  },
+  {
+    "country": "CO",
+    "id": 3671936,
+    "coord": {
+      "lat": 10.64104,
+      "lon": -74.750259
+    },
+    "name": "Ponedera"
+  },
+  {
+    "country": "CO",
+    "id": 3671961,
+    "coord": {
+      "lat": 1.63231,
+      "lon": -77.46199
+    },
+    "name": "Policarpa"
+  },
+  {
+    "country": "CO",
+    "id": 3672086,
+    "coord": {
+      "lat": 4.95334,
+      "lon": -77.365982
+    },
+    "name": "Pizarro"
+  },
+  {
+    "country": "CO",
+    "id": 3672087,
+    "coord": {
+      "lat": 2.10194,
+      "lon": -78.721672
+    },
+    "name": "Francisco Pizarro"
+  },
+  {
+    "country": "CO",
+    "id": 3672197,
+    "coord": {
+      "lat": 8.91925,
+      "lon": -74.467712
+    },
+    "name": "Pinillos"
+  },
+  {
+    "country": "CO",
+    "id": 3672249,
+    "coord": {
+      "lat": 9.32908,
+      "lon": -74.453018
+    },
+    "name": "Pijino"
+  },
+  {
+    "country": "CO",
+    "id": 3672290,
+    "coord": {
+      "lat": 4.53833,
+      "lon": -74.881752
+    },
+    "name": "Piedras"
+  },
+  {
+    "country": "CO",
+    "id": 3672295,
+    "coord": {
+      "lat": 1.1374,
+      "lon": -77.8489
+    },
+    "name": "Piedrancha"
+  },
+  {
+    "country": "CO",
+    "id": 3672327,
+    "coord": {
+      "lat": 5.51604,
+      "lon": -76.974487
+    },
+    "name": "Pie de Pato"
+  },
+  {
+    "country": "CO",
+    "id": 3672512,
+    "coord": {
+      "lat": 7.02122,
+      "lon": -75.909264
+    },
+    "name": "Peque"
+  },
+  {
+    "country": "CO",
+    "id": 3672521,
+    "coord": {
+      "lat": 5.38346,
+      "lon": -75.161217
+    },
+    "name": "Pensilvania"
+  },
+  {
+    "country": "CO",
+    "id": 3672599,
+    "coord": {
+      "lat": 8.68819,
+      "lon": -73.66452
+    },
+    "name": "Pelaya"
+  },
+  {
+    "country": "CO",
+    "id": 3672633,
+    "coord": {
+      "lat": 10.18739,
+      "lon": -74.915039
+    },
+    "name": "Pedraza"
+  },
+  {
+    "country": "CO",
+    "id": 3672665,
+    "coord": {
+      "lat": 1.935,
+      "lon": -78.205002
+    },
+    "name": "Payan"
+  },
+  {
+    "country": "CO",
+    "id": 3672698,
+    "coord": {
+      "lat": 5.65861,
+      "lon": -73.982498
+    },
+    "name": "Pauna"
+  },
+  {
+    "country": "CO",
+    "id": 3672997,
+    "coord": {
+      "lat": 4.19111,
+      "lon": -74.487503
+    },
+    "name": "Pandi"
+  },
+  {
+    "country": "CO",
+    "id": 3673126,
+    "coord": {
+      "lat": 5.11705,
+      "lon": -75.017319
+    },
+    "name": "Palocabildo"
+  },
+  {
+    "country": "CO",
+    "id": 3673269,
+    "coord": {
+      "lat": 5.0194,
+      "lon": -75.622421
+    },
+    "name": "Palestina"
+  },
+  {
+    "country": "CO",
+    "id": 3673275,
+    "coord": {
+      "lat": 1.72362,
+      "lon": -76.134033
+    },
+    "name": "Palestina"
+  },
+  {
+    "country": "CO",
+    "id": 3673286,
+    "coord": {
+      "lat": 2.89167,
+      "lon": -75.4375
+    },
+    "name": "Palermo"
+  },
+  {
+    "country": "CO",
+    "id": 3673368,
+    "coord": {
+      "lat": 2.25462,
+      "lon": -76.610863
+    },
+    "name": "Paispamba"
+  },
+  {
+    "country": "CO",
+    "id": 3673379,
+    "coord": {
+      "lat": 8.95652,
+      "lon": -73.625481
+    },
+    "name": "Pailitas"
+  },
+  {
+    "country": "CO",
+    "id": 3673397,
+    "coord": {
+      "lat": 5.10112,
+      "lon": -73.051224
+    },
+    "name": "Paez"
+  },
+  {
+    "country": "CO",
+    "id": 3673455,
+    "coord": {
+      "lat": 9.53248,
+      "lon": -75.223824
+    },
+    "name": "Ovejas"
+  },
+  {
+    "country": "CO",
+    "id": 3673475,
+    "coord": {
+      "lat": 5.65672,
+      "lon": -74.182487
+    },
+    "name": "Otanche"
+  },
+  {
+    "country": "CO",
+    "id": 3673482,
+    "coord": {
+      "lat": 1.0595,
+      "lon": -77.565536
+    },
+    "name": "Ospina"
+  },
+  {
+    "country": "CO",
+    "id": 3673578,
+    "coord": {
+      "lat": 2.05015,
+      "lon": -75.976753
+    },
+    "name": "Oporapa"
+  },
+  {
+    "country": "CO",
+    "id": 3673590,
+    "coord": {
+      "lat": 6.34434,
+      "lon": -72.817261
+    },
+    "name": "Onzaga"
+  },
+  {
+    "country": "CO",
+    "id": 3673609,
+    "coord": {
+      "lat": 1.25609,
+      "lon": -77.496651
+    },
+    "name": "Olaya Herrera"
+  },
+  {
+    "country": "CO",
+    "id": 3673690,
+    "coord": {
+      "lat": 5.7125,
+      "lon": -77.270828
+    },
+    "name": "Nuqui"
+  },
+  {
+    "country": "CO",
+    "id": 3673695,
+    "coord": {
+      "lat": 5.64056,
+      "lon": -72.198608
+    },
+    "name": "Nunchia"
+  },
+  {
+    "country": "CO",
+    "id": 3673756,
+    "coord": {
+      "lat": 9.80168,
+      "lon": -74.393044
+    },
+    "name": "Nueva Granada"
+  },
+  {
+    "country": "CO",
+    "id": 3673783,
+    "coord": {
+      "lat": 4.95511,
+      "lon": -76.605263
+    },
+    "name": "Novita"
+  },
+  {
+    "country": "CO",
+    "id": 3673811,
+    "coord": {
+      "lat": 5.57782,
+      "lon": -74.885208
+    },
+    "name": "Norcasia"
+  },
+  {
+    "country": "CO",
+    "id": 3673974,
+    "coord": {
+      "lat": 8.42342,
+      "lon": -76.785973
+    },
+    "name": "Necocli"
+  },
+  {
+    "country": "CO",
+    "id": 3673976,
+    "coord": {
+      "lat": 8.09419,
+      "lon": -74.775726
+    },
+    "name": "Nechi"
+  },
+  {
+    "country": "CO",
+    "id": 3674012,
+    "coord": {
+      "lat": 2.54359,
+      "lon": -75.808517
+    },
+    "name": "Nataga"
+  },
+  {
+    "country": "CO",
+    "id": 3674027,
+    "coord": {
+      "lat": 5.60893,
+      "lon": -75.176559
+    },
+    "name": "Narino"
+  },
+  {
+    "country": "CO",
+    "id": 3674029,
+    "coord": {
+      "lat": 4.39781,
+      "lon": -74.827309
+    },
+    "name": "Narino"
+  },
+  {
+    "country": "CO",
+    "id": 3674031,
+    "coord": {
+      "lat": 1.29546,
+      "lon": -77.360497
+    },
+    "name": "Narino"
+  },
+  {
+    "country": "CO",
+    "id": 3674121,
+    "coord": {
+      "lat": 5.53528,
+      "lon": -74.10778
+    },
+    "name": "Muzo"
+  },
+  {
+    "country": "CO",
+    "id": 3674161,
+    "coord": {
+      "lat": 6.98481,
+      "lon": -76.754387
+    },
+    "name": "Murindo"
+  },
+  {
+    "country": "CO",
+    "id": 3674272,
+    "coord": {
+      "lat": 13.36667,
+      "lon": -81.366669
+    },
+    "name": "Mountain"
+  },
+  {
+    "country": "CO",
+    "id": 3674293,
+    "coord": {
+      "lat": 2.50861,
+      "lon": -78.451103
+    },
+    "name": "Mosquera"
+  },
+  {
+    "country": "CO",
+    "id": 3674337,
+    "coord": {
+      "lat": 9.33348,
+      "lon": -75.30542
+    },
+    "name": "Morroa"
+  },
+  {
+    "country": "CO",
+    "id": 3674393,
+    "coord": {
+      "lat": 1.48747,
+      "lon": -75.725807
+    },
+    "name": "Morelia"
+  },
+  {
+    "country": "CO",
+    "id": 3674499,
+    "coord": {
+      "lat": 8.2971,
+      "lon": -74.473297
+    },
+    "name": "Montecristo"
+  },
+  {
+    "country": "CO",
+    "id": 3674519,
+    "coord": {
+      "lat": 5.94806,
+      "lon": -75.527496
+    },
+    "name": "Montebello"
+  },
+  {
+    "country": "CO",
+    "id": 3674569,
+    "coord": {
+      "lat": 8.25,
+      "lon": -76.050003
+    },
+    "name": "Monitos"
+  },
+  {
+    "country": "CO",
+    "id": 3674576,
+    "coord": {
+      "lat": 5.72151,
+      "lon": -72.849083
+    },
+    "name": "Mongui"
+  },
+  {
+    "country": "CO",
+    "id": 3674580,
+    "coord": {
+      "lat": 5.75084,
+      "lon": -72.803391
+    },
+    "name": "Mongua"
+  },
+  {
+    "country": "CO",
+    "id": 3674618,
+    "coord": {
+      "lat": 6.67315,
+      "lon": -72.808746
+    },
+    "name": "Molagavita"
+  },
+  {
+    "country": "CO",
+    "id": 3674640,
+    "coord": {
+      "lat": 6.47559,
+      "lon": -72.970459
+    },
+    "name": "Mogotes"
+  },
+  {
+    "country": "CO",
+    "id": 3674676,
+    "coord": {
+      "lat": 1.19833,
+      "lon": -70.173332
+    },
+    "name": "Mitu"
+  },
+  {
+    "country": "CO",
+    "id": 3674735,
+    "coord": {
+      "lat": 5.19608,
+      "lon": -73.145042
+    },
+    "name": "Miraflores"
+  },
+  {
+    "country": "CO",
+    "id": 3674784,
+    "coord": {
+      "lat": 1.29205,
+      "lon": -75.511673
+    },
+    "name": "Milan"
+  },
+  {
+    "country": "CO",
+    "id": 3674851,
+    "coord": {
+      "lat": 1.80094,
+      "lon": -77.165962
+    },
+    "name": "Mercaderes"
+  },
+  {
+    "country": "CO",
+    "id": 3675191,
+    "coord": {
+      "lat": 5.28393,
+      "lon": -75.260162
+    },
+    "name": "Marulanda"
+  },
+  {
+    "country": "CO",
+    "id": 3675212,
+    "coord": {
+      "lat": 4.93722,
+      "lon": -75.737778
+    },
+    "name": "Marsella"
+  },
+  {
+    "country": "CO",
+    "id": 3675255,
+    "coord": {
+      "lat": 5.55194,
+      "lon": -74.008614
+    },
+    "name": "Maripi"
+  },
+  {
+    "country": "CO",
+    "id": 3675305,
+    "coord": {
+      "lat": 9.15596,
+      "lon": -74.266182
+    },
+    "name": "Margarita"
+  },
+  {
+    "country": "CO",
+    "id": 3675504,
+    "coord": {
+      "lat": 11.77505,
+      "lon": -72.444473
+    },
+    "name": "Manaure"
+  },
+  {
+    "country": "CO",
+    "id": 3675512,
+    "coord": {
+      "lat": 10.44589,
+      "lon": -74.958687
+    },
+    "name": "Manati"
+  },
+  {
+    "country": "CO",
+    "id": 3675668,
+    "coord": {
+      "lat": 10.23293,
+      "lon": -75.18985
+    },
+    "name": "Mahates"
+  },
+  {
+    "country": "CO",
+    "id": 3675757,
+    "coord": {
+      "lat": 5.08154,
+      "lon": -73.607613
+    },
+    "name": "Macheta"
+  },
+  {
+    "country": "CO",
+    "id": 3675768,
+    "coord": {
+      "lat": 6.55196,
+      "lon": -74.787422
+    },
+    "name": "Maceo"
+  },
+  {
+    "country": "CO",
+    "id": 3675857,
+    "coord": {
+      "lat": 7.94411,
+      "lon": -72.832527
+    },
+    "name": "Lourdes"
+  },
+  {
+    "country": "CO",
+    "id": 3676205,
+    "coord": {
+      "lat": 8.89403,
+      "lon": -76.354553
+    },
+    "name": "Los Cordobas"
+  },
+  {
+    "country": "CO",
+    "id": 3676417,
+    "coord": {
+      "lat": 2.43333,
+      "lon": -76.800003
+    },
+    "name": "Lopez"
+  },
+  {
+    "country": "CO",
+    "id": 3676477,
+    "coord": {
+      "lat": 5.49605,
+      "lon": -76.549454
+    },
+    "name": "Lloro"
+  },
+  {
+    "country": "CO",
+    "id": 3676540,
+    "coord": {
+      "lat": 1.35783,
+      "lon": -77.527252
+    },
+    "name": "Linares"
+  },
+  {
+    "country": "CO",
+    "id": 3676591,
+    "coord": {
+      "lat": 6.6779,
+      "lon": -75.81218
+    },
+    "name": "Liborina"
+  },
+  {
+    "country": "CO",
+    "id": 3676644,
+    "coord": {
+      "lat": 5.30711,
+      "lon": -73.711517
+    },
+    "name": "Lenguazaque"
+  },
+  {
+    "country": "CO",
+    "id": 3676661,
+    "coord": {
+      "lat": 1.93389,
+      "lon": -77.302528
+    },
+    "name": "Leiva"
+  },
+  {
+    "country": "CO",
+    "id": 3676791,
+    "coord": {
+      "lat": 4.52271,
+      "lon": -76.037376
+    },
+    "name": "La Victoria"
+  },
+  {
+    "country": "CO",
+    "id": 3676864,
+    "coord": {
+      "lat": 4.99779,
+      "lon": -74.33979
+    },
+    "name": "La Vega"
+  },
+  {
+    "country": "CO",
+    "id": 3676868,
+    "coord": {
+      "lat": 2.00628,
+      "lon": -76.780281
+    },
+    "name": "La Vega"
+  },
+  {
+    "country": "CO",
+    "id": 3676884,
+    "coord": {
+      "lat": 6.31684,
+      "lon": -72.560318
+    },
+    "name": "La Uvita"
+  },
+  {
+    "country": "CO",
+    "id": 3676912,
+    "coord": {
+      "lat": 8.86056,
+      "lon": -75.280563
+    },
+    "name": "La Union"
+  },
+  {
+    "country": "CO",
+    "id": 3676923,
+    "coord": {
+      "lat": 5.97431,
+      "lon": -75.361954
+    },
+    "name": "La Union"
+  },
+  {
+    "country": "CO",
+    "id": 3677457,
+    "coord": {
+      "lat": 2.17835,
+      "lon": -76.76265
+    },
+    "name": "La Sierra"
+  },
+  {
+    "country": "CO",
+    "id": 3678000,
+    "coord": {
+      "lat": 5.49056,
+      "lon": -70.409172
+    },
+    "name": "La Primavera"
+  },
+  {
+    "country": "CO",
+    "id": 3678083,
+    "coord": {
+      "lat": 8.21639,
+      "lon": -73.241386
+    },
+    "name": "La Playa"
+  },
+  {
+    "country": "CO",
+    "id": 3678167,
+    "coord": {
+      "lat": 5.19847,
+      "lon": -74.393677
+    },
+    "name": "La Pena"
+  },
+  {
+    "country": "CO",
+    "id": 3678186,
+    "coord": {
+      "lat": 10.38439,
+      "lon": -73.173317
+    },
+    "name": "La Paz"
+  },
+  {
+    "country": "CO",
+    "id": 3678190,
+    "coord": {
+      "lat": 6.17848,
+      "lon": -73.589478
+    },
+    "name": "La Paz"
+  },
+  {
+    "country": "CO",
+    "id": 3678363,
+    "coord": {
+      "lat": 1.4766,
+      "lon": -75.439796
+    },
+    "name": "La Montanita"
+  },
+  {
+    "country": "CO",
+    "id": 3678415,
+    "coord": {
+      "lat": 5.40194,
+      "lon": -75.88472
+    },
+    "name": "La Merced"
+  },
+  {
+    "country": "CO",
+    "id": 3678575,
+    "coord": {
+      "lat": 1.48997,
+      "lon": -77.583473
+    },
+    "name": "La Llanada"
+  },
+  {
+    "country": "CO",
+    "id": 3678907,
+    "coord": {
+      "lat": 8.61868,
+      "lon": -73.80265
+    },
+    "name": "La Gloria"
+  },
+  {
+    "country": "CO",
+    "id": 3679007,
+    "coord": {
+      "lat": 1.29851,
+      "lon": -77.406143
+    },
+    "name": "La Florida"
+  },
+  {
+    "country": "CO",
+    "id": 3679130,
+    "coord": {
+      "lat": 8.21043,
+      "lon": -72.463989
+    },
+    "name": "La Esperanza"
+  },
+  {
+    "country": "CO",
+    "id": 3679379,
+    "coord": {
+      "lat": 1.60301,
+      "lon": -76.969009
+    },
+    "name": "La Cruz"
+  },
+  {
+    "country": "CO",
+    "id": 3679542,
+    "coord": {
+      "lat": 5.04333,
+      "lon": -76.01667
+    },
+    "name": "La Celia"
+  },
+  {
+    "country": "CO",
+    "id": 3679622,
+    "coord": {
+      "lat": 5.70493,
+      "lon": -73.475273
+    },
+    "name": "La Capilla"
+  },
+  {
+    "country": "CO",
+    "id": 3679660,
+    "coord": {
+      "lat": 4.72069,
+      "lon": -73.969261
+    },
+    "name": "La Calera"
+  },
+  {
+    "country": "CO",
+    "id": 3679776,
+    "coord": {
+      "lat": 5.86371,
+      "lon": -73.96167
+    },
+    "name": "La Belleza"
+  },
+  {
+    "country": "CO",
+    "id": 3679780,
+    "coord": {
+      "lat": 7.29847,
+      "lon": -72.494431
+    },
+    "name": "Labateca"
+  },
+  {
+    "country": "CO",
+    "id": 3680090,
+    "coord": {
+      "lat": 7.10534,
+      "lon": -77.76413
+    },
+    "name": "Jurado"
+  },
+  {
+    "country": "CO",
+    "id": 3680113,
+    "coord": {
+      "lat": 4.79027,
+      "lon": -73.66011
+    },
+    "name": "Junin"
+  },
+  {
+    "country": "CO",
+    "id": 3680335,
+    "coord": {
+      "lat": 5.38541,
+      "lon": -73.36364
+    },
+    "name": "Jenesano"
+  },
+  {
+    "country": "CO",
+    "id": 3680366,
+    "coord": {
+      "lat": 5.59902,
+      "lon": -75.819763
+    },
+    "name": "Jardin"
+  },
+  {
+    "country": "CO",
+    "id": 3680393,
+    "coord": {
+      "lat": 2.79225,
+      "lon": -76.322578
+    },
+    "name": "Jambalo"
+  },
+  {
+    "country": "CO",
+    "id": 3680491,
+    "coord": {
+      "lat": 2.45007,
+      "lon": -77.979362
+    },
+    "name": "Iscuande"
+  },
+  {
+    "country": "CO",
+    "id": 3680531,
+    "coord": {
+      "lat": 2.64867,
+      "lon": -75.634567
+    },
+    "name": "Iquira"
+  },
+  {
+    "country": "CO",
+    "id": 3680601,
+    "coord": {
+      "lat": 1.06072,
+      "lon": -77.500443
+    },
+    "name": "Imues"
+  },
+  {
+    "country": "CO",
+    "id": 3680616,
+    "coord": {
+      "lat": 0.97491,
+      "lon": -77.527412
+    },
+    "name": "Iles"
+  },
+  {
+    "country": "CO",
+    "id": 3680854,
+    "coord": {
+      "lat": 2.58333,
+      "lon": -75.449997
+    },
+    "name": "Hobo"
+  },
+  {
+    "country": "CO",
+    "id": 3680880,
+    "coord": {
+      "lat": 5.08333,
+      "lon": -75.166672
+    },
+    "name": "Herveo"
+  },
+  {
+    "country": "CO",
+    "id": 3680886,
+    "coord": {
+      "lat": 7.50611,
+      "lon": -72.483322
+    },
+    "name": "Herran"
+  },
+  {
+    "country": "CO",
+    "id": 3680902,
+    "coord": {
+      "lat": 6.20689,
+      "lon": -75.733673
+    },
+    "name": "Heliconia"
+  },
+  {
+    "country": "CO",
+    "id": 3681008,
+    "coord": {
+      "lat": 6.15676,
+      "lon": -71.763718
+    },
+    "name": "Municipio Hato Corozal"
+  },
+  {
+    "country": "CO",
+    "id": 3681029,
+    "coord": {
+      "lat": 8.95635,
+      "lon": -74.078201
+    },
+    "name": "Hatillo de Loba"
+  },
+  {
+    "country": "CO",
+    "id": 3681168,
+    "coord": {
+      "lat": 8.32333,
+      "lon": -73.148888
+    },
+    "name": "Hacari"
+  },
+  {
+    "country": "CO",
+    "id": 3681222,
+    "coord": {
+      "lat": 6.46184,
+      "lon": -72.411293
+    },
+    "name": "Guican"
+  },
+  {
+    "country": "CO",
+    "id": 3681234,
+    "coord": {
+      "lat": 6.02505,
+      "lon": -73.573128
+    },
+    "name": "Guepsa"
+  },
+  {
+    "country": "CO",
+    "id": 3681255,
+    "coord": {
+      "lat": 4.96417,
+      "lon": -73.487503
+    },
+    "name": "Guayata"
+  },
+  {
+    "country": "CO",
+    "id": 3681306,
+    "coord": {
+      "lat": 4.87739,
+      "lon": -74.467438
+    },
+    "name": "Guayabal de Siquima"
+  },
+  {
+    "country": "CO",
+    "id": 3681353,
+    "coord": {
+      "lat": 5.31569,
+      "lon": -75.798264
+    },
+    "name": "Guatica"
+  },
+  {
+    "country": "CO",
+    "id": 3681356,
+    "coord": {
+      "lat": 5.00619,
+      "lon": -73.47274
+    },
+    "name": "Guateque"
+  },
+  {
+    "country": "CO",
+    "id": 3681364,
+    "coord": {
+      "lat": 4.51573,
+      "lon": -74.789352
+    },
+    "name": "Guataqui"
+  },
+  {
+    "country": "CO",
+    "id": 3681644,
+    "coord": {
+      "lat": 1.13855,
+      "lon": -77.553009
+    },
+    "name": "Guaitarilla"
+  },
+  {
+    "country": "CO",
+    "id": 3681731,
+    "coord": {
+      "lat": 6.81449,
+      "lon": -75.240631
+    },
+    "name": "Guadalupe"
+  },
+  {
+    "country": "CO",
+    "id": 3681732,
+    "coord": {
+      "lat": 6.2464,
+      "lon": -73.418327
+    },
+    "name": "Guadalupe"
+  },
+  {
+    "country": "CO",
+    "id": 3681832,
+    "coord": {
+      "lat": 6.87621,
+      "lon": -72.855942
+    },
+    "name": "Guaca"
+  },
+  {
+    "country": "CO",
+    "id": 3681952,
+    "coord": {
+      "lat": 6.14353,
+      "lon": -75.185318
+    },
+    "name": "Granada"
+  },
+  {
+    "country": "CO",
+    "id": 3681953,
+    "coord": {
+      "lat": 5.06667,
+      "lon": -74.566673
+    },
+    "name": "Granada"
+  },
+  {
+    "country": "CO",
+    "id": 3681990,
+    "coord": {
+      "lat": 8.38944,
+      "lon": -73.37989
+    },
+    "name": "Gonzalez"
+  },
+  {
+    "country": "CO",
+    "id": 3682030,
+    "coord": {
+      "lat": 6.68306,
+      "lon": -75.989166
+    },
+    "name": "Giraldo"
+  },
+  {
+    "country": "CO",
+    "id": 3682039,
+    "coord": {
+      "lat": 3.72461,
+      "lon": -76.266747
+    },
+    "name": "Ginebra"
+  },
+  {
+    "country": "CO",
+    "id": 3682068,
+    "coord": {
+      "lat": 4.31667,
+      "lon": -75.76667
+    },
+    "name": "Genova"
+  },
+  {
+    "country": "CO",
+    "id": 3682070,
+    "coord": {
+      "lat": 1.64322,
+      "lon": -77.02433
+    },
+    "name": "Genova"
+  },
+  {
+    "country": "CO",
+    "id": 3682172,
+    "coord": {
+      "lat": 5.80263,
+      "lon": -72.805862
+    },
+    "name": "Gameza"
+  },
+  {
+    "country": "CO",
+    "id": 3682182,
+    "coord": {
+      "lat": 8.32279,
+      "lon": -73.742683
+    },
+    "name": "Gamarra"
+  },
+  {
+    "country": "CO",
+    "id": 3682232,
+    "coord": {
+      "lat": 9.16095,
+      "lon": -75.048111
+    },
+    "name": "Galeras"
+  },
+  {
+    "country": "CO",
+    "id": 3682243,
+    "coord": {
+      "lat": 6.63781,
+      "lon": -73.28878
+    },
+    "name": "Galan"
+  },
+  {
+    "country": "CO",
+    "id": 3682262,
+    "coord": {
+      "lat": 4.99111,
+      "lon": -73.871536
+    },
+    "name": "Gachancipa"
+  },
+  {
+    "country": "CO",
+    "id": 3682283,
+    "coord": {
+      "lat": 1.00266,
+      "lon": -77.450668
+    },
+    "name": "Funes"
+  },
+  {
+    "country": "CO",
+    "id": 3682299,
+    "coord": {
+      "lat": 3.45944,
+      "lon": -73.612778
+    },
+    "name": "Fuente de Oro"
+  },
+  {
+    "country": "CO",
+    "id": 3682361,
+    "coord": {
+      "lat": 6.79277,
+      "lon": -71.771698
+    },
+    "name": "Municipio de Fortul"
+  },
+  {
+    "country": "CO",
+    "id": 3682400,
+    "coord": {
+      "lat": 5.85903,
+      "lon": -72.918823
+    },
+    "name": "Floresta"
+  },
+  {
+    "country": "CO",
+    "id": 3682425,
+    "coord": {
+      "lat": 1.68318,
+      "lon": -77.073303
+    },
+    "name": "Florencia"
+  },
+  {
+    "country": "CO",
+    "id": 3682473,
+    "coord": {
+      "lat": 4.67472,
+      "lon": -75.658333
+    },
+    "name": "Filandia"
+  },
+  {
+    "country": "CO",
+    "id": 3682481,
+    "coord": {
+      "lat": 5.29606,
+      "lon": -75.561203
+    },
+    "name": "Filadelfia"
+  },
+  {
+    "country": "CO",
+    "id": 3682682,
+    "coord": {
+      "lat": 7.93248,
+      "lon": -72.60125
+    },
+    "name": "El Zulia"
+  },
+  {
+    "country": "CO",
+    "id": 3682963,
+    "coord": {
+      "lat": 2.45199,
+      "lon": -76.810287
+    },
+    "name": "El Tambo"
+  },
+  {
+    "country": "CO",
+    "id": 3682965,
+    "coord": {
+      "lat": 1.41814,
+      "lon": -77.396782
+    },
+    "name": "El Tambo"
+  },
+  {
+    "country": "CO",
+    "id": 3682981,
+    "coord": {
+      "lat": 1.43188,
+      "lon": -77.096642
+    },
+    "name": "El Tablon"
+  },
+  {
+    "country": "CO",
+    "id": 3683149,
+    "coord": {
+      "lat": 1.74173,
+      "lon": -77.335197
+    },
+    "name": "El Rosario"
+  },
+  {
+    "country": "CO",
+    "id": 3683180,
+    "coord": {
+      "lat": 9.10194,
+      "lon": -75.195084
+    },
+    "name": "El Roble"
+  },
+  {
+    "country": "CO",
+    "id": 3683497,
+    "coord": {
+      "lat": 8.98916,
+      "lon": -73.94857
+    },
+    "name": "El Penon"
+  },
+  {
+    "country": "CO",
+    "id": 3683508,
+    "coord": {
+      "lat": 1.45987,
+      "lon": -77.445442
+    },
+    "name": "El Penol"
+  },
+  {
+    "country": "CO",
+    "id": 3683778,
+    "coord": {
+      "lat": 10.65225,
+      "lon": -72.924049
+    },
+    "name": "El Molino"
+  },
+  {
+    "country": "CO",
+    "id": 3684029,
+    "coord": {
+      "lat": 2.0117,
+      "lon": -75.939682
+    },
+    "name": "Elias"
+  },
+  {
+    "country": "CO",
+    "id": 3684115,
+    "coord": {
+      "lat": 10.03155,
+      "lon": -74.97612
+    },
+    "name": "El Guamo"
+  },
+  {
+    "country": "CO",
+    "id": 3684189,
+    "coord": {
+      "lat": 6.48277,
+      "lon": -72.497177
+    },
+    "name": "El Espino"
+  },
+  {
+    "country": "CO",
+    "id": 3684510,
+    "coord": {
+      "lat": 6.40784,
+      "lon": -72.444641
+    },
+    "name": "El Cocuy"
+  },
+  {
+    "country": "CO",
+    "id": 3684662,
+    "coord": {
+      "lat": 3.56363,
+      "lon": -73.794884
+    },
+    "name": "El Castillo"
+  },
+  {
+    "country": "CO",
+    "id": 3684683,
+    "coord": {
+      "lat": 8.51064,
+      "lon": -73.447762
+    },
+    "name": "El Carmen"
+  },
+  {
+    "country": "CO",
+    "id": 3684689,
+    "coord": {
+      "lat": 6.69736,
+      "lon": -73.511162
+    },
+    "name": "El Carmen"
+  },
+  {
+    "country": "CO",
+    "id": 3684692,
+    "coord": {
+      "lat": 5.88778,
+      "lon": -75.164169
+    },
+    "name": "El Carmen"
+  },
+  {
+    "country": "CO",
+    "id": 3684785,
+    "coord": {
+      "lat": 4.75909,
+      "lon": -76.22226
+    },
+    "name": "El Cairo"
+  },
+  {
+    "country": "CO",
+    "id": 3684860,
+    "coord": {
+      "lat": 2.11696,
+      "lon": -76.98214
+    },
+    "name": "El Bordo"
+  },
+  {
+    "country": "CO",
+    "id": 3685126,
+    "coord": {
+      "lat": 6.48568,
+      "lon": -75.394958
+    },
+    "name": "Don Matias"
+  },
+  {
+    "country": "CO",
+    "id": 3685223,
+    "coord": {
+      "lat": 11.27251,
+      "lon": -73.309113
+    },
+    "name": "Dibulla"
+  },
+  {
+    "country": "CO",
+    "id": 3685428,
+    "coord": {
+      "lat": 1.65174,
+      "lon": -77.582253
+    },
+    "name": "Cumbitara"
+  },
+  {
+    "country": "CO",
+    "id": 3685571,
+    "coord": {
+      "lat": 7.00078,
+      "lon": -72.108521
+    },
+    "name": "Cubara"
+  },
+  {
+    "country": "CO",
+    "id": 3685649,
+    "coord": {
+      "lat": 7.18333,
+      "lon": -75.066673
+    },
+    "name": "Cruces de Anori"
+  },
+  {
+    "country": "CO",
+    "id": 3685724,
+    "coord": {
+      "lat": 9.03886,
+      "lon": -75.789688
+    },
+    "name": "Cotorra"
+  },
+  {
+    "country": "CO",
+    "id": 3685733,
+    "coord": {
+      "lat": 4.80938,
+      "lon": -74.098
+    },
+    "name": "Cota"
+  },
+  {
+    "country": "CO",
+    "id": 3685794,
+    "coord": {
+      "lat": 5.82968,
+      "lon": -72.843323
+    },
+    "name": "Corrales"
+  },
+  {
+    "country": "CO",
+    "id": 3685840,
+    "coord": {
+      "lat": 6.29461,
+      "lon": -73.040222
+    },
+    "name": "Coromoro"
+  },
+  {
+    "country": "CO",
+    "id": 3685900,
+    "coord": {
+      "lat": 4.39318,
+      "lon": -75.689346
+    },
+    "name": "Cordoba"
+  },
+  {
+    "country": "CO",
+    "id": 3685903,
+    "coord": {
+      "lat": 0.85905,
+      "lon": -77.519501
+    },
+    "name": "Cordoba"
+  },
+  {
+    "country": "CO",
+    "id": 3685961,
+    "coord": {
+      "lat": 6.29005,
+      "lon": -73.473541
+    },
+    "name": "Contratacion"
+  },
+  {
+    "country": "CO",
+    "id": 3685974,
+    "coord": {
+      "lat": 0.907,
+      "lon": -77.547287
+    },
+    "name": "Contadero"
+  },
+  {
+    "country": "CO",
+    "id": 3686002,
+    "coord": {
+      "lat": 5.09351,
+      "lon": -76.649727
+    },
+    "name": "Condoto"
+  },
+  {
+    "country": "CO",
+    "id": 3686011,
+    "coord": {
+      "lat": 9.83545,
+      "lon": -74.455482
+    },
+    "name": "Concordia"
+  },
+  {
+    "country": "CO",
+    "id": 3686028,
+    "coord": {
+      "lat": 6.39408,
+      "lon": -75.258301
+    },
+    "name": "Concepcion"
+  },
+  {
+    "country": "CO",
+    "id": 3686065,
+    "coord": {
+      "lat": 9.4915,
+      "lon": -75.36145
+    },
+    "name": "Coloso"
+  },
+  {
+    "country": "CO",
+    "id": 3686120,
+    "coord": {
+      "lat": 3.37606,
+      "lon": -74.801498
+    },
+    "name": "Colombia"
+  },
+  {
+    "country": "CO",
+    "id": 3686196,
+    "coord": {
+      "lat": 10.56646,
+      "lon": -75.324989
+    },
+    "name": "Clemencia"
+  },
+  {
+    "country": "CO",
+    "id": 3686288,
+    "coord": {
+      "lat": 9.26306,
+      "lon": -74.656937
+    },
+    "name": "Cicuco"
+  },
+  {
+    "country": "CO",
+    "id": 3686460,
+    "coord": {
+      "lat": 7.13781,
+      "lon": -72.664558
+    },
+    "name": "Chitaga"
+  },
+  {
+    "country": "CO",
+    "id": 3686471,
+    "coord": {
+      "lat": 6.55236,
+      "lon": -72.499763
+    },
+    "name": "Chiscas"
+  },
+  {
+    "country": "CO",
+    "id": 3686605,
+    "coord": {
+      "lat": 9.14893,
+      "lon": -75.62841
+    },
+    "name": "Chima"
+  },
+  {
+    "country": "CO",
+    "id": 3686835,
+    "coord": {
+      "lat": 9.54765,
+      "lon": -75.311279
+    },
+    "name": "Chalan"
+  },
+  {
+    "country": "CO",
+    "id": 3686883,
+    "coord": {
+      "lat": 5.37073,
+      "lon": -76.604401
+    },
+    "name": "Certegui"
+  },
+  {
+    "country": "CO",
+    "id": 3686894,
+    "coord": {
+      "lat": 10.32585,
+      "lon": -74.869331
+    },
+    "name": "Cerro de San Antonio"
+  },
+  {
+    "country": "CO",
+    "id": 3686907,
+    "coord": {
+      "lat": 6.84315,
+      "lon": -72.694038
+    },
+    "name": "Cerrito"
+  },
+  {
+    "country": "CO",
+    "id": 3686918,
+    "coord": {
+      "lat": 5.95568,
+      "lon": -72.94783
+    },
+    "name": "Cerinza"
+  },
+  {
+    "country": "CO",
+    "id": 3687213,
+    "coord": {
+      "lat": 5.07959,
+      "lon": -75.12059
+    },
+    "name": "Casabianca"
+  },
+  {
+    "country": "CO",
+    "id": 3687231,
+    "coord": {
+      "lat": 1.56305,
+      "lon": -77.117599
+    },
+    "name": "Cartago"
+  },
+  {
+    "country": "CO",
+    "id": 3687310,
+    "coord": {
+      "lat": 6.72439,
+      "lon": -75.281677
+    },
+    "name": "Carolina"
+  },
+  {
+    "country": "CO",
+    "id": 3687335,
+    "coord": {
+      "lat": 0.86292,
+      "lon": -77.727341
+    },
+    "name": "Carlosama"
+  },
+  {
+    "country": "CO",
+    "id": 3687476,
+    "coord": {
+      "lat": 4.40569,
+      "lon": -73.946831
+    },
+    "name": "Caqueza"
+  },
+  {
+    "country": "CO",
+    "id": 3687490,
+    "coord": {
+      "lat": 6.52881,
+      "lon": -72.695953
+    },
+    "name": "Capitanejo"
+  },
+  {
+    "country": "CO",
+    "id": 3687505,
+    "coord": {
+      "lat": 5.34644,
+      "lon": -74.49147
+    },
+    "name": "Caparrapi"
+  },
+  {
+    "country": "CO",
+    "id": 3687541,
+    "coord": {
+      "lat": 7.37599,
+      "lon": -73.919632
+    },
+    "name": "Cantagallo"
+  },
+  {
+    "country": "CO",
+    "id": 3687634,
+    "coord": {
+      "lat": 10.45912,
+      "lon": -74.8797
+    },
+    "name": "Candelaria"
+  },
+  {
+    "country": "CO",
+    "id": 3687677,
+    "coord": {
+      "lat": 6.74989,
+      "lon": -76.025391
+    },
+    "name": "Canasgordas"
+  },
+  {
+    "country": "CO",
+    "id": 3687933,
+    "coord": {
+      "lat": 2.7974,
+      "lon": -76.483162
+    },
+    "name": "Caldono"
+  },
+  {
+    "country": "CO",
+    "id": 3687972,
+    "coord": {
+      "lat": 10.2511,
+      "lon": -74.914619
+    },
+    "name": "Calamar"
+  },
+  {
+    "country": "CO",
+    "id": 3687975,
+    "coord": {
+      "lat": 1.95972,
+      "lon": -72.653893
+    },
+    "name": "Calamar"
+  },
+  {
+    "country": "CO",
+    "id": 3688009,
+    "coord": {
+      "lat": 2.62271,
+      "lon": -76.570389
+    },
+    "name": "Cajibio"
+  },
+  {
+    "country": "CO",
+    "id": 3688021,
+    "coord": {
+      "lat": 4.44172,
+      "lon": -75.426781
+    },
+    "name": "Cajamarca"
+  },
+  {
+    "country": "CO",
+    "id": 3688030,
+    "coord": {
+      "lat": 8.81229,
+      "lon": -75.41066
+    },
+    "name": "Caimito"
+  },
+  {
+    "country": "CO",
+    "id": 3688087,
+    "coord": {
+      "lat": 7.26787,
+      "lon": -72.641968
+    },
+    "name": "Cacota"
+  },
+  {
+    "country": "CO",
+    "id": 3688151,
+    "coord": {
+      "lat": 4.2817,
+      "lon": -72.793991
+    },
+    "name": "Cabuyaro"
+  },
+  {
+    "country": "CO",
+    "id": 3688170,
+    "coord": {
+      "lat": 3.98598,
+      "lon": -74.482826
+    },
+    "name": "Cabrera"
+  },
+  {
+    "country": "CO",
+    "id": 3688357,
+    "coord": {
+      "lat": 3.01503,
+      "lon": -76.642754
+    },
+    "name": "Buenos Aires"
+  },
+  {
+    "country": "CO",
+    "id": 3688396,
+    "coord": {
+      "lat": 9.21433,
+      "lon": -74.313629
+    },
+    "name": "Buenavista"
+  },
+  {
+    "country": "CO",
+    "id": 3688397,
+    "coord": {
+      "lat": 9.04963,
+      "lon": -76.0028
+    },
+    "name": "Buenavista"
+  },
+  {
+    "country": "CO",
+    "id": 3688433,
+    "coord": {
+      "lat": 4.3539,
+      "lon": -75.717819
+    },
+    "name": "Buenavista"
+  },
+  {
+    "country": "CO",
+    "id": 3688656,
+    "coord": {
+      "lat": 5.98943,
+      "lon": -73.77021
+    },
+    "name": "Bolivar"
+  },
+  {
+    "country": "CO",
+    "id": 3688659,
+    "coord": {
+      "lat": 4.3387,
+      "lon": -76.183418
+    },
+    "name": "Bolivar"
+  },
+  {
+    "country": "CO",
+    "id": 3688775,
+    "coord": {
+      "lat": 6.33031,
+      "lon": -72.585052
+    },
+    "name": "Boavita"
+  },
+  {
+    "country": "CO",
+    "id": 3688839,
+    "coord": {
+      "lat": 6.90069,
+      "lon": -73.28347
+    },
+    "name": "Betulia"
+  },
+  {
+    "country": "CO",
+    "id": 3688840,
+    "coord": {
+      "lat": 6.11284,
+      "lon": -75.98378
+    },
+    "name": "Betulia"
+  },
+  {
+    "country": "CO",
+    "id": 3688855,
+    "coord": {
+      "lat": 5.746,
+      "lon": -75.977654
+    },
+    "name": "Betania"
+  },
+  {
+    "country": "CO",
+    "id": 3688875,
+    "coord": {
+      "lat": 1.49766,
+      "lon": -77.135872
+    },
+    "name": "Arboleda"
+  },
+  {
+    "country": "CO",
+    "id": 3688923,
+    "coord": {
+      "lat": 6.60508,
+      "lon": -75.666191
+    },
+    "name": "Belmira"
+  },
+  {
+    "country": "CO",
+    "id": 3688991,
+    "coord": {
+      "lat": 1.41828,
+      "lon": -75.877541
+    },
+    "name": "Belen de los Andaquies"
+  },
+  {
+    "country": "CO",
+    "id": 3689003,
+    "coord": {
+      "lat": 5.98892,
+      "lon": -72.912537
+    },
+    "name": "Belen"
+  },
+  {
+    "country": "CO",
+    "id": 3689006,
+    "coord": {
+      "lat": 1.59787,
+      "lon": -77.013992
+    },
+    "name": "Belen"
+  },
+  {
+    "country": "CO",
+    "id": 3689026,
+    "coord": {
+      "lat": 9.70413,
+      "lon": -73.279297
+    },
+    "name": "Becerril"
+  },
+  {
+    "country": "CO",
+    "id": 3689157,
+    "coord": {
+      "lat": 8.94597,
+      "lon": -74.106468
+    },
+    "name": "Barranco de Loba"
+  },
+  {
+    "country": "CO",
+    "id": 3689167,
+    "coord": {
+      "lat": 4.56963,
+      "lon": -72.966759
+    },
+    "name": "Barranca de Upia"
+  },
+  {
+    "country": "CO",
+    "id": 3689228,
+    "coord": {
+      "lat": 1.67154,
+      "lon": -78.139778
+    },
+    "name": "Barbacoas"
+  },
+  {
+    "country": "CO",
+    "id": 3689232,
+    "coord": {
+      "lat": 3.15333,
+      "lon": -75.053062
+    },
+    "name": "Baraya"
+  },
+  {
+    "country": "CO",
+    "id": 3689291,
+    "coord": {
+      "lat": 4.95167,
+      "lon": -75.957222
+    },
+    "name": "Balboa"
+  },
+  {
+    "country": "CO",
+    "id": 3689292,
+    "coord": {
+      "lat": 2.03956,
+      "lon": -77.216843
+    },
+    "name": "Balboa"
+  },
+  {
+    "country": "CO",
+    "id": 3689336,
+    "coord": {
+      "lat": 5.41164,
+      "lon": -76.415199
+    },
+    "name": "Bagado"
+  },
+  {
+    "country": "CO",
+    "id": 3689507,
+    "coord": {
+      "lat": 10.2522,
+      "lon": -75.019798
+    },
+    "name": "Arroyohondo"
+  },
+  {
+    "country": "CO",
+    "id": 3689551,
+    "coord": {
+      "lat": 5.03103,
+      "lon": -74.886818
+    },
+    "name": "Guayabal"
+  },
+  {
+    "country": "CO",
+    "id": 3689559,
+    "coord": {
+      "lat": 6.15639,
+      "lon": -75.787216
+    },
+    "name": "Armenia"
+  },
+  {
+    "country": "CO",
+    "id": 3689611,
+    "coord": {
+      "lat": 5.73127,
+      "lon": -75.14257
+    },
+    "name": "Argelia"
+  },
+  {
+    "country": "CO",
+    "id": 3689613,
+    "coord": {
+      "lat": 4.72342,
+      "lon": -76.119087
+    },
+    "name": "Argelia"
+  },
+  {
+    "country": "CO",
+    "id": 3689615,
+    "coord": {
+      "lat": 2.25563,
+      "lon": -77.248756
+    },
+    "name": "Argelia"
+  },
+  {
+    "country": "CO",
+    "id": 3689653,
+    "coord": {
+      "lat": 8.45928,
+      "lon": -73.943314
+    },
+    "name": "Arenal"
+  },
+  {
+    "country": "CO",
+    "id": 3689689,
+    "coord": {
+      "lat": 5.75463,
+      "lon": -73.436691
+    },
+    "name": "Arcabuco"
+  },
+  {
+    "country": "CO",
+    "id": 3689693,
+    "coord": {
+      "lat": 8.85051,
+      "lon": -76.426941
+    },
+    "name": "Arboletes"
+  },
+  {
+    "country": "CO",
+    "id": 3689740,
+    "coord": {
+      "lat": 5.27123,
+      "lon": -75.49044
+    },
+    "name": "Aranzazu"
+  },
+  {
+    "country": "CO",
+    "id": 3689771,
+    "coord": {
+      "lat": 5.51972,
+      "lon": -72.887497
+    },
+    "name": "Aquitania"
+  },
+  {
+    "country": "CO",
+    "id": 3689793,
+    "coord": {
+      "lat": 5.10645,
+      "lon": -75.943176
+    },
+    "name": "Apia"
+  },
+  {
+    "country": "CO",
+    "id": 3689802,
+    "coord": {
+      "lat": 4.62996,
+      "lon": -75.09539
+    },
+    "name": "Anzoategui"
+  },
+  {
+    "country": "CO",
+    "id": 3689816,
+    "coord": {
+      "lat": 6.55687,
+      "lon": -75.828056
+    },
+    "name": "Antioquia"
+  },
+  {
+    "country": "CO",
+    "id": 3689841,
+    "coord": {
+      "lat": 4.83362,
+      "lon": -74.499496
+    },
+    "name": "Anolaima"
+  },
+  {
+    "country": "CO",
+    "id": 3689877,
+    "coord": {
+      "lat": 6.11072,
+      "lon": -75.709229
+    },
+    "name": "Angelopolis"
+  },
+  {
+    "country": "CO",
+    "id": 3689915,
+    "coord": {
+      "lat": 1.2703,
+      "lon": -77.515747
+    },
+    "name": "Ancuya"
+  },
+  {
+    "country": "CO",
+    "id": 3689979,
+    "coord": {
+      "lat": 4.78405,
+      "lon": -74.76268
+    },
+    "name": "Ambalema"
+  },
+  {
+    "country": "CO",
+    "id": 3690010,
+    "coord": {
+      "lat": 6.91016,
+      "lon": -75.077637
+    },
+    "name": "Amalfi"
+  },
+  {
+    "country": "CO",
+    "id": 3690030,
+    "coord": {
+      "lat": 4.56612,
+      "lon": -74.962288
+    },
+    "name": "Alvarado"
+  },
+  {
+    "country": "CO",
+    "id": 3690102,
+    "coord": {
+      "lat": 2.06278,
+      "lon": -75.787216
+    },
+    "name": "Altamira"
+  },
+  {
+    "country": "CO",
+    "id": 3690136,
+    "coord": {
+      "lat": 1.917,
+      "lon": -76.852333
+    },
+    "name": "Almaguer"
+  },
+  {
+    "country": "CO",
+    "id": 3690160,
+    "coord": {
+      "lat": 2.52295,
+      "lon": -75.314919
+    },
+    "name": "Algeciras"
+  },
+  {
+    "country": "CO",
+    "id": 3690172,
+    "coord": {
+      "lat": 10.18694,
+      "lon": -74.575279
+    },
+    "name": "Algarrobo"
+  },
+  {
+    "country": "CO",
+    "id": 3690226,
+    "coord": {
+      "lat": 0.88283,
+      "lon": -77.701027
+    },
+    "name": "Aldana"
+  },
+  {
+    "country": "CO",
+    "id": 3690237,
+    "coord": {
+      "lat": 4.67472,
+      "lon": -75.782501
+    },
+    "name": "Alcala"
+  },
+  {
+    "country": "CO",
+    "id": 3690250,
+    "coord": {
+      "lat": 11.16099,
+      "lon": -72.592377
+    },
+    "name": "Albania"
+  },
+  {
+    "country": "CO",
+    "id": 3690262,
+    "coord": {
+      "lat": 1.32866,
+      "lon": -75.878242
+    },
+    "name": "Albania"
+  },
+  {
+    "country": "CO",
+    "id": 3690264,
+    "coord": {
+      "lat": 4.87661,
+      "lon": -74.437683
+    },
+    "name": "Alban"
+  },
+  {
+    "country": "CO",
+    "id": 3690549,
+    "coord": {
+      "lat": 8.56818,
+      "lon": -74.554047
+    },
+    "name": "Achi"
+  },
+  {
+    "country": "CO",
+    "id": 3690552,
+    "coord": {
+      "lat": 1.83606,
+      "lon": -75.85498
+    },
+    "name": "Acevedo"
+  },
+  {
+    "country": "CO",
+    "id": 3690572,
+    "coord": {
+      "lat": 8.50633,
+      "lon": -77.27784
+    },
+    "name": "Acandi"
+  },
+  {
+    "country": "CO",
+    "id": 3690582,
+    "coord": {
+      "lat": 6.63148,
+      "lon": -76.064438
+    },
+    "name": "Abriaqui"
+  },
+  {
+    "country": "CO",
+    "id": 3690584,
+    "coord": {
+      "lat": 8.08065,
+      "lon": -73.220543
+    },
+    "name": "Abrego"
+  },
+  {
+    "country": "CO",
+    "id": 3732273,
+    "coord": {
+      "lat": 7.17,
+      "lon": -73.093063
+    },
+    "name": "Los Santos"
+  },
+  {
+    "country": "CO",
+    "id": 3732964,
+    "coord": {
+      "lat": 3.5251,
+      "lon": -74.021561
+    },
+    "name": "Lejanias"
+  },
+  {
+    "country": "CO",
+    "id": 3733434,
+    "coord": {
+      "lat": 2.77411,
+      "lon": -72.86834
+    },
+    "name": "El Dorado"
+  },
+  {
+    "country": "CO",
+    "id": 3733861,
+    "coord": {
+      "lat": 1.03327,
+      "lon": -75.91906
+    },
+    "name": "Curillo"
+  },
+  {
+    "country": "CO",
+    "id": 3735680,
+    "coord": {
+      "lat": 1.5209,
+      "lon": -77.262062
+    },
+    "name": "Santacruz"
+  },
+  {
+    "country": "CO",
+    "id": 3738301,
+    "coord": {
+      "lat": 8.57562,
+      "lon": -73.094887
+    },
+    "name": "El Tarra"
+  },
+  {
+    "country": "CO",
+    "id": 3763578,
+    "coord": {
+      "lat": 3.38464,
+      "lon": -74.044243
+    },
+    "name": "Mesetas"
+  },
+  {
+    "country": "CO",
+    "id": 3766939,
+    "coord": {
+      "lat": 6.5213,
+      "lon": -76.972343
+    },
+    "name": "Bellavista"
+  },
+  {
+    "country": "CO",
+    "id": 3769623,
+    "coord": {
+      "lat": 4.88556,
+      "lon": -73.368889
+    },
+    "name": "Chivor"
+  },
+  {
+    "country": "CO",
+    "id": 3769932,
+    "coord": {
+      "lat": 4.87206,
+      "lon": -72.898788
+    },
+    "name": "Monterrey"
+  },
+  {
+    "country": "CO",
+    "id": 3769960,
+    "coord": {
+      "lat": 4.37575,
+      "lon": -73.215469
+    },
+    "name": "Paratebueno"
+  },
+  {
+    "country": "CO",
+    "id": 3769976,
+    "coord": {
+      "lat": 4.31328,
+      "lon": -72.081573
+    },
+    "name": "Puerto Gaitan"
+  },
+  {
+    "country": "CO",
+    "id": 3769988,
+    "coord": {
+      "lat": 4.8543,
+      "lon": -73.040031
+    },
+    "name": "Sabanalarga"
+  },
+  {
+    "country": "CO",
+    "id": 3770066,
+    "coord": {
+      "lat": 6.04167,
+      "lon": -74.992783
+    },
+    "name": "San Luis"
+  },
+  {
+    "country": "CO",
+    "id": 3770955,
+    "coord": {
+      "lat": 2.50949,
+      "lon": -76.844177
+    },
+    "name": "Villa Rica"
+  },
+  {
+    "country": "CO",
+    "id": 3775262,
+    "coord": {
+      "lat": 5.5194,
+      "lon": -74.17765
+    },
+    "name": "Quipama"
+  },
+  {
+    "country": "CO",
+    "id": 3783663,
+    "coord": {
+      "lat": 8.74372,
+      "lon": -75.71331
+    },
+    "name": "San Carlos"
+  },
+  {
+    "country": "CO",
+    "id": 3787727,
+    "coord": {
+      "lat": 6.90333,
+      "lon": -75.682503
+    },
+    "name": "San Andres"
+  },
+  {
+    "country": "CO",
+    "id": 3792374,
+    "coord": {
+      "lat": 6.71873,
+      "lon": -75.907341
+    },
+    "name": "Buritica"
+  },
+  {
+    "country": "CO",
+    "id": 3792377,
+    "coord": {
+      "lat": 6.76141,
+      "lon": -74.794731
+    },
+    "name": "Vegachi"
+  },
+  {
+    "country": "CO",
+    "id": 3792378,
+    "coord": {
+      "lat": 8.79444,
+      "lon": -74.165833
+    },
+    "name": "Altos del Rosario"
+  },
+  {
+    "country": "CO",
+    "id": 3792380,
+    "coord": {
+      "lat": 8.55972,
+      "lon": -74.266937
+    },
+    "name": "Tiquisio"
+  },
+  {
+    "country": "CO",
+    "id": 3792382,
+    "coord": {
+      "lat": 1.33488,
+      "lon": -74.842888
+    },
+    "name": "Cartagena del Chaira"
+  },
+  {
+    "country": "CO",
+    "id": 3792384,
+    "coord": {
+      "lat": 10.39278,
+      "lon": -73.032501
+    },
+    "name": "Manaure Balcon del Cesar"
+  },
+  {
+    "country": "CO",
+    "id": 3792385,
+    "coord": {
+      "lat": 8.00151,
+      "lon": -73.511261
+    },
+    "name": "San Martin"
+  },
+  {
+    "country": "CO",
+    "id": 3792386,
+    "coord": {
+      "lat": 5.33889,
+      "lon": -76.731392
+    },
+    "name": "El Canton de San Pablo"
+  },
+  {
+    "country": "CO",
+    "id": 3792387,
+    "coord": {
+      "lat": 2.33022,
+      "lon": -72.627647
+    },
+    "name": "El Retorno"
+  },
+  {
+    "country": "CO",
+    "id": 3792389,
+    "coord": {
+      "lat": 1.93556,
+      "lon": -76.240562
+    },
+    "name": "Isnos"
+  },
+  {
+    "country": "CO",
+    "id": 3792394,
+    "coord": {
+      "lat": 2.88916,
+      "lon": -72.125587
+    },
+    "name": "Mapiripan"
+  },
+  {
+    "country": "CO",
+    "id": 3792395,
+    "coord": {
+      "lat": 2.62206,
+      "lon": -72.75724
+    },
+    "name": "Puerto Concordia"
+  },
+  {
+    "country": "CO",
+    "id": 3792396,
+    "coord": {
+      "lat": 2.41083,
+      "lon": -78.242783
+    },
+    "name": "La Tola"
+  },
+  {
+    "country": "CO",
+    "id": 3792398,
+    "coord": {
+      "lat": 0.97028,
+      "lon": -76.585831
+    },
+    "name": "Puerto Guzman"
+  },
+  {
+    "country": "CO",
+    "id": 3792399,
+    "coord": {
+      "lat": 7.47131,
+      "lon": -73.203102
+    },
+    "name": "El Playon"
+  },
+  {
+    "country": "CO",
+    "id": 3792406,
+    "coord": {
+      "lat": 4.35111,
+      "lon": -72.45639
+    },
+    "name": "Tibacuy"
+  },
+  {
+    "country": "CO",
+    "id": 3792408,
+    "coord": {
+      "lat": 4.25875,
+      "lon": -77.365158
+    },
+    "name": "Santa Genoveva de Docorodo"
+  },
+  {
+    "country": "CO",
+    "id": 3792743,
+    "coord": {
+      "lat": 2.19611,
+      "lon": -75.980003
+    },
+    "name": "La Argentina"
+  },
+  {
+    "country": "CO",
+    "id": 3827693,
+    "coord": {
+      "lat": 2.18367,
+      "lon": -73.784851
+    },
+    "name": "La Macarena"
+  },
+  {
+    "country": "CO",
+    "id": 3827723,
+    "coord": {
+      "lat": 0.4525,
+      "lon": -76.919167
+    },
+    "name": "Valle del Guamuez"
+  },
+  {
+    "country": "CO",
+    "id": 6196086,
+    "coord": {
+      "lat": 6.99889,
+      "lon": -72.109169
+    },
+    "name": "Cubara"
+  },
+  {
+    "country": "CO",
+    "id": 3678413,
+    "coord": {
+      "lat": 4.6213,
+      "lon": -74.069221
+    },
+    "name": "La Merced"
+  }
+
+]

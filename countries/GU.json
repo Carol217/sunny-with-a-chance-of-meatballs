@@ -1,0 +1,445 @@
+[
+
+  {
+    "country": "GU",
+    "id": 4038796,
+    "coord": {
+      "lat": 13.53603,
+      "lon": 144.88913
+    },
+    "name": "Yigo Municipality"
+  },
+  {
+    "country": "GU",
+    "id": 7267913,
+    "coord": {
+      "lat": 13.55691,
+      "lon": 144.922318
+    },
+    "name": "Andersen AFB Housing Areas"
+  },
+  {
+    "country": "GU",
+    "id": 4038661,
+    "coord": {
+      "lat": 13.48759,
+      "lon": 144.780945
+    },
+    "name": "Tamuning-Tumon-Harmon Municipality"
+  },
+  {
+    "country": "GU",
+    "id": 4041694,
+    "coord": {
+      "lat": 13.50403,
+      "lon": 144.778778
+    },
+    "name": "Perezville"
+  },
+  {
+    "country": "GU",
+    "id": 4038659,
+    "coord": {
+      "lat": 13.48773,
+      "lon": 144.781387
+    },
+    "name": "Tamuning-Tumon-Harmon Village"
+  },
+  {
+    "country": "GU",
+    "id": 4038794,
+    "coord": {
+      "lat": 13.53605,
+      "lon": 144.88855
+    },
+    "name": "Yigo Village"
+  },
+  {
+    "country": "GU",
+    "id": 4044019,
+    "coord": {
+      "lat": 13.47279,
+      "lon": 144.757874
+    },
+    "name": "Hagåtña Municipality"
+  },
+  {
+    "country": "GU",
+    "id": 4043547,
+    "coord": {
+      "lat": 13.47191,
+      "lon": 144.749786
+    },
+    "name": "Guam Government House"
+  },
+  {
+    "country": "GU",
+    "id": 4043877,
+    "coord": {
+      "lat": 13.51776,
+      "lon": 144.838974
+    },
+    "name": "Dededo Municipality"
+  },
+  {
+    "country": "GU",
+    "id": 4043909,
+    "coord": {
+      "lat": 13.51777,
+      "lon": 144.839096
+    },
+    "name": "Dededo Village"
+  },
+  {
+    "country": "GU",
+    "id": 7268049,
+    "coord": {
+      "lat": 13.44761,
+      "lon": 144.801086
+    },
+    "name": "Mangilao Village"
+  },
+  {
+    "country": "GU",
+    "id": 4043988,
+    "coord": {
+      "lat": 13.481,
+      "lon": 144.731506
+    },
+    "name": "Guam"
+  },
+  {
+    "country": "GU",
+    "id": 4038652,
+    "coord": {
+      "lat": 13.35522,
+      "lon": 144.758804
+    },
+    "name": "Talofofo Municipality"
+  },
+  {
+    "country": "GU",
+    "id": 4038813,
+    "coord": {
+      "lat": 13.35363,
+      "lon": 144.768723
+    },
+    "name": "Ypan"
+  },
+  {
+    "country": "GU",
+    "id": 4043416,
+    "coord": {
+      "lat": 13.44766,
+      "lon": 144.800705
+    },
+    "name": "Mangilao Municipality"
+  },
+  {
+    "country": "GU",
+    "id": 7871084,
+    "coord": {
+      "lat": 13.4417,
+      "lon": 144.791245
+    },
+    "name": "Tai"
+  },
+  {
+    "country": "GU",
+    "id": 4038597,
+    "coord": {
+      "lat": 13.48946,
+      "lon": 144.789886
+    },
+    "name": "Socio"
+  },
+  {
+    "country": "GU",
+    "id": 4044012,
+    "coord": {
+      "lat": 13.47567,
+      "lon": 144.748856
+    },
+    "name": "Hagatna"
+  },
+  {
+    "country": "GU",
+    "id": 4038473,
+    "coord": {
+      "lat": 13.46256,
+      "lon": 144.693314
+    },
+    "name": "Piti Village"
+  },
+  {
+    "country": "GU",
+    "id": 4038554,
+    "coord": {
+      "lat": 13.38608,
+      "lon": 144.672256
+    },
+    "name": "Santa Rita Village"
+  },
+  {
+    "country": "GU",
+    "id": 4038588,
+    "coord": {
+      "lat": 13.46334,
+      "lon": 144.754059
+    },
+    "name": "Sinajana Village"
+  },
+  {
+    "country": "GU",
+    "id": 4038647,
+    "coord": {
+      "lat": 13.35513,
+      "lon": 144.758347
+    },
+    "name": "Talofofo Village"
+  },
+  {
+    "country": "GU",
+    "id": 4038809,
+    "coord": {
+      "lat": 13.40974,
+      "lon": 144.776978
+    },
+    "name": "Yona Village"
+  },
+  {
+    "country": "GU",
+    "id": 4043399,
+    "coord": {
+      "lat": 13.26584,
+      "lon": 144.669083
+    },
+    "name": "Merizo Village"
+  },
+  {
+    "country": "GU",
+    "id": 4043499,
+    "coord": {
+      "lat": 13.27363,
+      "lon": 144.748444
+    },
+    "name": "Inarajan Village"
+  },
+  {
+    "country": "GU",
+    "id": 4043525,
+    "coord": {
+      "lat": 13.46559,
+      "lon": 144.747955
+    },
+    "name": "Agana Heights Village"
+  },
+  {
+    "country": "GU",
+    "id": 4043615,
+    "coord": {
+      "lat": 13.44741,
+      "lon": 144.759018
+    },
+    "name": "Chalan Pago-Ordot Village"
+  },
+  {
+    "country": "GU",
+    "id": 4043656,
+    "coord": {
+      "lat": 13.46913,
+      "lon": 144.799011
+    },
+    "name": "Barrigada Village"
+  },
+  {
+    "country": "GU",
+    "id": 4043804,
+    "coord": {
+      "lat": 13.38855,
+      "lon": 144.658524
+    },
+    "name": "Agat Village"
+  },
+  {
+    "country": "GU",
+    "id": 4043812,
+    "coord": {
+      "lat": 13.47215,
+      "lon": 144.716537
+    },
+    "name": "Asan-Maina Village"
+  },
+  {
+    "country": "GU",
+    "id": 4044121,
+    "coord": {
+      "lat": 13.44689,
+      "lon": 144.801437
+    },
+    "name": "Mangilao Mayors Office"
+  },
+  {
+    "country": "GU",
+    "id": 7267954,
+    "coord": {
+      "lat": 13.46274,
+      "lon": 144.754608
+    },
+    "name": "Sinajana Mayors Office"
+  },
+  {
+    "country": "GU",
+    "id": 7267962,
+    "coord": {
+      "lat": 13.29851,
+      "lon": 144.6633
+    },
+    "name": "Umatac Mayors Office"
+  },
+  {
+    "country": "GU",
+    "id": 7840191,
+    "coord": {
+      "lat": 13.51744,
+      "lon": 144.839127
+    },
+    "name": "Dededo Mayors Office"
+  },
+  {
+    "country": "GU",
+    "id": 7854557,
+    "coord": {
+      "lat": 13.40983,
+      "lon": 144.775436
+    },
+    "name": "Yona Mayors Office"
+  },
+  {
+    "country": "GU",
+    "id": 7869842,
+    "coord": {
+      "lat": 13.3548,
+      "lon": 144.75589
+    },
+    "name": "Talofofo Mayors Office"
+  },
+  {
+    "country": "GU",
+    "id": 7869850,
+    "coord": {
+      "lat": 13.27126,
+      "lon": 144.6745
+    },
+    "name": "Merizo Mayors Office"
+  },
+  {
+    "country": "GU",
+    "id": 7869852,
+    "coord": {
+      "lat": 13.47188,
+      "lon": 144.716568
+    },
+    "name": "Asan-Maina Mayors Office"
+  },
+  {
+    "country": "GU",
+    "id": 7870492,
+    "coord": {
+      "lat": 13.29987,
+      "lon": 144.76207
+    },
+    "name": "Inarajan Mayors Office"
+  },
+  {
+    "country": "GU",
+    "id": 7870639,
+    "coord": {
+      "lat": 13.38801,
+      "lon": 144.659286
+    },
+    "name": "Agat Mayors Office"
+  },
+  {
+    "country": "GU",
+    "id": 7871342,
+    "coord": {
+      "lat": 13.53565,
+      "lon": 144.893097
+    },
+    "name": "Yigo Mayors Office"
+  },
+  {
+    "country": "GU",
+    "id": 7871406,
+    "coord": {
+      "lat": 13.46912,
+      "lon": 144.799606
+    },
+    "name": "Barrigada Mayors Office"
+  },
+  {
+    "country": "GU",
+    "id": 7871474,
+    "coord": {
+      "lat": 13.48715,
+      "lon": 144.780777
+    },
+    "name": "Tamuning-Tumon-Harmon Mayors Office"
+  },
+  {
+    "country": "GU",
+    "id": 7873865,
+    "coord": {
+      "lat": 13.46796,
+      "lon": 144.782181
+    },
+    "name": "Mongmong-Toto-Maite Mayors Office"
+  },
+  {
+    "country": "GU",
+    "id": 7873866,
+    "coord": {
+      "lat": 13.46857,
+      "lon": 144.782135
+    },
+    "name": "Mongmong-Toto-Maite Village"
+  },
+  {
+    "country": "GU",
+    "id": 7873868,
+    "coord": {
+      "lat": 13.47215,
+      "lon": 144.758026
+    },
+    "name": "Hagatna Mayors Office"
+  },
+  {
+    "country": "GU",
+    "id": 7873952,
+    "coord": {
+      "lat": 13.46494,
+      "lon": 144.747574
+    },
+    "name": "Agana Heights Mayors Office"
+  },
+  {
+    "country": "GU",
+    "id": 7874008,
+    "coord": {
+      "lat": 13.47279,
+      "lon": 144.758026
+    },
+    "name": "Hagatna Village"
+  },
+  {
+    "country": "GU",
+    "id": 7874392,
+    "coord": {
+      "lat": 13.44682,
+      "lon": 144.758987
+    },
+    "name": "Chalan Pago-Ordot Mayors Office"
+  }
+
+]

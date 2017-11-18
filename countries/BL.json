@@ -1,0 +1,31 @@
+[
+
+  {
+    "country": "BL",
+    "id": 3579132,
+    "coord": {
+      "lat": 17.896179,
+      "lon": -62.849781
+    },
+    "name": "Gustavia"
+  },
+  {
+    "country": "BL",
+    "id": 3578476,
+    "coord": {
+      "lat": 17.9,
+      "lon": -62.833328
+    },
+    "name": "Saint-Barthélemy"
+  },
+  {
+    "country": "BL",
+    "id": 3578562,
+    "coord": {
+      "lat": 17.9,
+      "lon": -62.849998
+    },
+    "name": "Public"
+  }
+
+]

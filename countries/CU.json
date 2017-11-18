@@ -1,0 +1,1542 @@
+[
+
+  {
+    "country": "CU",
+    "id": 3746183,
+    "coord": {
+      "lat": 23.13833,
+      "lon": -82.364166
+    },
+    "name": "Centro Habana"
+  },
+  {
+    "country": "CU",
+    "id": 3566062,
+    "coord": {
+      "lat": 21.35,
+      "lon": -77.849998
+    },
+    "name": "Provincia de Camagüey"
+  },
+  {
+    "country": "CU",
+    "id": 3566067,
+    "coord": {
+      "lat": 21.380831,
+      "lon": -77.916939
+    },
+    "name": "Camaguey"
+  },
+  {
+    "country": "CU",
+    "id": 3564175,
+    "coord": {
+      "lat": 21.9,
+      "lon": -78.599998
+    },
+    "name": "Provincia de Ciego de Ávila"
+  },
+  {
+    "country": "CU",
+    "id": 3564178,
+    "coord": {
+      "lat": 21.84,
+      "lon": -78.76194
+    },
+    "name": "Ciego de Avila"
+  },
+  {
+    "country": "CU",
+    "id": 3550595,
+    "coord": {
+      "lat": 21.1,
+      "lon": -76.900002
+    },
+    "name": "Las Tunas"
+  },
+  {
+    "country": "CU",
+    "id": 3550598,
+    "coord": {
+      "lat": 20.96167,
+      "lon": -76.951111
+    },
+    "name": "Las Tunas"
+  },
+  {
+    "country": "CU",
+    "id": 3556965,
+    "coord": {
+      "lat": 20.799999,
+      "lon": -75.75
+    },
+    "name": "Provincia de Holguín"
+  },
+  {
+    "country": "CU",
+    "id": 3556969,
+    "coord": {
+      "lat": 20.88722,
+      "lon": -76.263062
+    },
+    "name": "Holguin"
+  },
+  {
+    "country": "CU",
+    "id": 3558052,
+    "coord": {
+      "lat": 20.25,
+      "lon": -77
+    },
+    "name": "Provincia Granma"
+  },
+  {
+    "country": "CU",
+    "id": 3567597,
+    "coord": {
+      "lat": 20.379169,
+      "lon": -76.643333
+    },
+    "name": "Bayamo"
+  },
+  {
+    "country": "CU",
+    "id": 3536725,
+    "coord": {
+      "lat": 20.25,
+      "lon": -76
+    },
+    "name": "Provincia de Santiago de Cuba"
+  },
+  {
+    "country": "CU",
+    "id": 3536729,
+    "coord": {
+      "lat": 20.024719,
+      "lon": -75.821938
+    },
+    "name": "Santiago de Cuba"
+  },
+  {
+    "country": "CU",
+    "id": 3534168,
+    "coord": {
+      "lat": 22.5,
+      "lon": -80
+    },
+    "name": "Provincia de Villa Clara"
+  },
+  {
+    "country": "CU",
+    "id": 3537900,
+    "coord": {
+      "lat": 22.16667,
+      "lon": -79.76667
+    },
+    "name": "Santa Clara"
+  },
+  {
+    "country": "CU",
+    "id": 3558744,
+    "coord": {
+      "lat": 22.103889,
+      "lon": -79.721672
+    },
+    "name": "Fomento"
+  },
+  {
+    "country": "CU",
+    "id": 7668824,
+    "coord": {
+      "lat": 22.813999,
+      "lon": -82.756058
+    },
+    "name": "Provincia Artemisa"
+  },
+  {
+    "country": "CU",
+    "id": 3541999,
+    "coord": {
+      "lat": 22.34083,
+      "lon": -80.55722
+    },
+    "name": "Rodas"
+  },
+  {
+    "country": "CU",
+    "id": 3556077,
+    "coord": {
+      "lat": 20.96917,
+      "lon": -76.299438
+    },
+    "name": "Jobabo"
+  },
+  {
+    "country": "CU",
+    "id": 3557801,
+    "coord": {
+      "lat": 22.92639,
+      "lon": -82.6875
+    },
+    "name": "Guanajay"
+  },
+  {
+    "country": "CU",
+    "id": 3558315,
+    "coord": {
+      "lat": 21.10972,
+      "lon": -76.131668
+    },
+    "name": "Gibara"
+  },
+  {
+    "country": "CU",
+    "id": 3746938,
+    "coord": {
+      "lat": 20.751671,
+      "lon": -76.026939
+    },
+    "name": "Baguanos"
+  },
+  {
+    "country": "CU",
+    "id": 3564073,
+    "coord": {
+      "lat": 23.08333,
+      "lon": -82.300003
+    },
+    "name": "Provincia de La Habana"
+  },
+  {
+    "country": "CU",
+    "id": 3553478,
+    "coord": {
+      "lat": 23.13302,
+      "lon": -82.383041
+    },
+    "name": "Havana"
+  },
+  {
+    "country": "CU",
+    "id": 3547394,
+    "coord": {
+      "lat": 22.66667,
+      "lon": -81.166672
+    },
+    "name": "Provincia de Matanzas"
+  },
+  {
+    "country": "CU",
+    "id": 3547398,
+    "coord": {
+      "lat": 23.041109,
+      "lon": -81.577499
+    },
+    "name": "Matanzas"
+  },
+  {
+    "country": "CU",
+    "id": 3544091,
+    "coord": {
+      "lat": 22.4175,
+      "lon": -83.698059
+    },
+    "name": "Pinar del Rio"
+  },
+  {
+    "country": "CU",
+    "id": 3540665,
+    "coord": {
+      "lat": 22,
+      "lon": -79.25
+    },
+    "name": "Provincia de Sancti Spíritus"
+  },
+  {
+    "country": "CU",
+    "id": 3540667,
+    "coord": {
+      "lat": 21.92972,
+      "lon": -79.442497
+    },
+    "name": "Sancti Spiritus"
+  },
+  {
+    "country": "CU",
+    "id": 3564124,
+    "coord": {
+      "lat": 22.146111,
+      "lon": -80.435562
+    },
+    "name": "Cienfuegos"
+  },
+  {
+    "country": "CU",
+    "id": 3533826,
+    "coord": {
+      "lat": 22.327221,
+      "lon": -79.237778
+    },
+    "name": "Yaguajay"
+  },
+  {
+    "country": "CU",
+    "id": 3539093,
+    "coord": {
+      "lat": 20.1875,
+      "lon": -75.85083
+    },
+    "name": "San Luis"
+  },
+  {
+    "country": "CU",
+    "id": 3557758,
+    "coord": {
+      "lat": 22.202499,
+      "lon": -84.087502
+    },
+    "name": "Guane"
+  },
+  {
+    "country": "CU",
+    "id": 3566356,
+    "coord": {
+      "lat": 22.520559,
+      "lon": -79.466942
+    },
+    "name": "Caibarien"
+  },
+  {
+    "country": "CU",
+    "id": 3542759,
+    "coord": {
+      "lat": 23.15,
+      "lon": -82.26667
+    },
+    "name": "Rancho Pekita"
+  },
+  {
+    "country": "CU",
+    "id": 3562981,
+    "coord": {
+      "lat": 22,
+      "lon": -79.5
+    },
+    "name": "Republic of Cuba"
+  },
+  {
+    "country": "CU",
+    "id": 3544088,
+    "coord": {
+      "lat": 22.41667,
+      "lon": -83.833328
+    },
+    "name": "Provincia de Pinar del Río"
+  },
+  {
+    "country": "CU",
+    "id": 3547258,
+    "coord": {
+      "lat": 22.26667,
+      "lon": -83.383331
+    },
+    "name": "Media Luna"
+  },
+  {
+    "country": "CU",
+    "id": 3564120,
+    "coord": {
+      "lat": 22.299999,
+      "lon": -80.5
+    },
+    "name": "Provincia de Cienfuegos"
+  },
+  {
+    "country": "CU",
+    "id": 3539201,
+    "coord": {
+      "lat": 22.4,
+      "lon": -80.550003
+    },
+    "name": "San Lino"
+  },
+  {
+    "country": "CU",
+    "id": 3537511,
+    "coord": {
+      "lat": 22.4,
+      "lon": -83.583328
+    },
+    "name": "Santa Juana"
+  },
+  {
+    "country": "CU",
+    "id": 3542351,
+    "coord": {
+      "lat": 23.01667,
+      "lon": -82.349998
+    },
+    "name": "Residencial Porta"
+  },
+  {
+    "country": "CU",
+    "id": 3566714,
+    "coord": {
+      "lat": 22.98333,
+      "lon": -82.400002
+    },
+    "name": "Buenavista"
+  },
+  {
+    "country": "CU",
+    "id": 3569185,
+    "coord": {
+      "lat": 23.066669,
+      "lon": -81.416672
+    },
+    "name": "Almanza"
+  },
+  {
+    "country": "CU",
+    "id": 3534452,
+    "coord": {
+      "lat": 21.783331,
+      "lon": -79.98333
+    },
+    "name": "Venegas"
+  },
+  {
+    "country": "CU",
+    "id": 3539232,
+    "coord": {
+      "lat": 22.1,
+      "lon": -84.150002
+    },
+    "name": "San Julián"
+  },
+  {
+    "country": "CU",
+    "id": 3550852,
+    "coord": {
+      "lat": 22.47917,
+      "lon": -79.925003
+    },
+    "name": "Las Minas"
+  },
+  {
+    "country": "CU",
+    "id": 3556608,
+    "coord": {
+      "lat": 21.83333,
+      "lon": -82.481941
+    },
+    "name": "Municipio Especial Isla de la Juventud"
+  },
+  {
+    "country": "CU",
+    "id": 3534002,
+    "coord": {
+      "lat": 21.85,
+      "lon": -82.816673
+    },
+    "name": "Vista del Río"
+  },
+  {
+    "country": "CU",
+    "id": 3562914,
+    "coord": {
+      "lat": 20.299999,
+      "lon": -77.083328
+    },
+    "name": "Cuentas Claras"
+  },
+  {
+    "country": "CU",
+    "id": 3746599,
+    "coord": {
+      "lat": 20.647779,
+      "lon": -74.921669
+    },
+    "name": "Rolo Monterrey"
+  },
+  {
+    "country": "CU",
+    "id": 3549480,
+    "coord": {
+      "lat": 20.78694,
+      "lon": -76.340828
+    },
+    "name": "Los Ángeles"
+  },
+  {
+    "country": "CU",
+    "id": 3552838,
+    "coord": {
+      "lat": 22.98333,
+      "lon": -82.416672
+    },
+    "name": "La Luisa"
+  },
+  {
+    "country": "CU",
+    "id": 3557685,
+    "coord": {
+      "lat": 20.25,
+      "lon": -74.75
+    },
+    "name": "Provincia de Guantánamo"
+  },
+  {
+    "country": "CU",
+    "id": 3543939,
+    "coord": {
+      "lat": 20.084999,
+      "lon": -75.147499
+    },
+    "name": "Platanal"
+  },
+  {
+    "country": "CU",
+    "id": 3766955,
+    "coord": {
+      "lat": 19.96806,
+      "lon": -75.832222
+    },
+    "name": "Playa de Aguadores"
+  },
+  {
+    "country": "CU",
+    "id": 3754913,
+    "coord": {
+      "lat": 21.42333,
+      "lon": -77.854721
+    },
+    "name": "El Próximo"
+  },
+  {
+    "country": "CU",
+    "id": 3535431,
+    "coord": {
+      "lat": 22.133329,
+      "lon": -80.416672
+    },
+    "name": "Tejar la Palma"
+  },
+  {
+    "country": "CU",
+    "id": 3539662,
+    "coord": {
+      "lat": 22.01667,
+      "lon": -78.800003
+    },
+    "name": "San José"
+  },
+  {
+    "country": "CU",
+    "id": 3545365,
+    "coord": {
+      "lat": 20.4,
+      "lon": -76.599998
+    },
+    "name": "Padrón"
+  },
+  {
+    "country": "CU",
+    "id": 3552028,
+    "coord": {
+      "lat": 20.346939,
+      "lon": -74.504723
+    },
+    "name": "La Playa"
+  },
+  {
+    "country": "CU",
+    "id": 3536192,
+    "coord": {
+      "lat": 21.63139,
+      "lon": -82.959717
+    },
+    "name": "Siguanea"
+  },
+  {
+    "country": "CU",
+    "id": 3533753,
+    "coord": {
+      "lat": 20.27528,
+      "lon": -76.953331
+    },
+    "name": "Yara"
+  },
+  {
+    "country": "CU",
+    "id": 3534094,
+    "coord": {
+      "lat": 22.61639,
+      "lon": -83.707779
+    },
+    "name": "Vinales"
+  },
+  {
+    "country": "CU",
+    "id": 3534363,
+    "coord": {
+      "lat": 21.259439,
+      "lon": -78.146393
+    },
+    "name": "Vertientes"
+  },
+  {
+    "country": "CU",
+    "id": 3534432,
+    "coord": {
+      "lat": 21.735279,
+      "lon": -78.796387
+    },
+    "name": "Venezuela"
+  },
+  {
+    "country": "CU",
+    "id": 3534632,
+    "coord": {
+      "lat": 23.15361,
+      "lon": -81.251389
+    },
+    "name": "Varadero"
+  },
+  {
+    "country": "CU",
+    "id": 3534761,
+    "coord": {
+      "lat": 22.79528,
+      "lon": -81.537498
+    },
+    "name": "Union de Reyes"
+  },
+  {
+    "country": "CU",
+    "id": 3534915,
+    "coord": {
+      "lat": 21.801941,
+      "lon": -79.984169
+    },
+    "name": "Trinidad"
+  },
+  {
+    "country": "CU",
+    "id": 3536259,
+    "coord": {
+      "lat": 21.235001,
+      "lon": -77.52639
+    },
+    "name": "Sibanicu"
+  },
+  {
+    "country": "CU",
+    "id": 3536640,
+    "coord": {
+      "lat": 22.58667,
+      "lon": -80.243607
+    },
+    "name": "Santo Domingo"
+  },
+  {
+    "country": "CU",
+    "id": 3536724,
+    "coord": {
+      "lat": 22.969999,
+      "lon": -82.38694
+    },
+    "name": "Santiago de las Vegas"
+  },
+  {
+    "country": "CU",
+    "id": 3537840,
+    "coord": {
+      "lat": 20.71472,
+      "lon": -77.99556
+    },
+    "name": "Santa Cruz del Sur"
+  },
+  {
+    "country": "CU",
+    "id": 7668827,
+    "coord": {
+      "lat": 22.96155,
+      "lon": -82.147179
+    },
+    "name": "Provincia Mayabeque"
+  },
+  {
+    "country": "CU",
+    "id": 3537845,
+    "coord": {
+      "lat": 23.153891,
+      "lon": -81.923607
+    },
+    "name": "Santa Cruz del Norte"
+  },
+  {
+    "country": "CU",
+    "id": 3537906,
+    "coord": {
+      "lat": 22.4,
+      "lon": -79.966667
+    },
+    "name": "Santa Clara"
+  },
+  {
+    "country": "CU",
+    "id": 3539560,
+    "coord": {
+      "lat": 22.96139,
+      "lon": -82.151108
+    },
+    "name": "San Jose de las Lajas"
+  },
+  {
+    "country": "CU",
+    "id": 3540680,
+    "coord": {
+      "lat": 22.71417,
+      "lon": -83.048058
+    },
+    "name": "San Cristobal"
+  },
+  {
+    "country": "CU",
+    "id": 3540885,
+    "coord": {
+      "lat": 22.891109,
+      "lon": -82.499168
+    },
+    "name": "San Antonio de los Banos"
+  },
+  {
+    "country": "CU",
+    "id": 3541440,
+    "coord": {
+      "lat": 22.806669,
+      "lon": -80.075562
+    },
+    "name": "Sagua la Grande"
+  },
+  {
+    "country": "CU",
+    "id": 3541446,
+    "coord": {
+      "lat": 20.58194,
+      "lon": -75.241386
+    },
+    "name": "Sagua de Tanamo"
+  },
+  {
+    "country": "CU",
+    "id": 3542137,
+    "coord": {
+      "lat": 20.366671,
+      "lon": -75.01667
+    },
+    "name": "Rio Guayabal de Yateras"
+  },
+  {
+    "country": "CU",
+    "id": 3542167,
+    "coord": {
+      "lat": 20.56028,
+      "lon": -76.916107
+    },
+    "name": "Rio Cauto"
+  },
+  {
+    "country": "CU",
+    "id": 3542455,
+    "coord": {
+      "lat": 22.49472,
+      "lon": -79.54583
+    },
+    "name": "Remedios"
+  },
+  {
+    "country": "CU",
+    "id": 3542744,
+    "coord": {
+      "lat": 22.37722,
+      "lon": -80.148888
+    },
+    "name": "Ranchuelo"
+  },
+  {
+    "country": "CU",
+    "id": 3543299,
+    "coord": {
+      "lat": 21.195,
+      "lon": -76.602783
+    },
+    "name": "Puerto Padre"
+  },
+  {
+    "country": "CU",
+    "id": 3543498,
+    "coord": {
+      "lat": 21.946939,
+      "lon": -78.428329
+    },
+    "name": "Primero de Enero"
+  },
+  {
+    "country": "CU",
+    "id": 3543961,
+    "coord": {
+      "lat": 22.311939,
+      "lon": -79.653328
+    },
+    "name": "Placetas"
+  },
+  {
+    "country": "CU",
+    "id": 3544393,
+    "coord": {
+      "lat": 22.769171,
+      "lon": -81.01889
+    },
+    "name": "Perico"
+  },
+  {
+    "country": "CU",
+    "id": 3544607,
+    "coord": {
+      "lat": 22.727221,
+      "lon": -81.290001
+    },
+    "name": "Pedro Betancourt"
+  },
+  {
+    "country": "CU",
+    "id": 3545040,
+    "coord": {
+      "lat": 22.241671,
+      "lon": -80.390282
+    },
+    "name": "Palmira"
+  },
+  {
+    "country": "CU",
+    "id": 3545064,
+    "coord": {
+      "lat": 20.21722,
+      "lon": -75.998894
+    },
+    "name": "Palma Soriano"
+  },
+  {
+    "country": "CU",
+    "id": 3545841,
+    "coord": {
+      "lat": 21.54528,
+      "lon": -77.264442
+    },
+    "name": "Nuevitas"
+  },
+  {
+    "country": "CU",
+    "id": 3545867,
+    "coord": {
+      "lat": 21.883329,
+      "lon": -82.800003
+    },
+    "name": "Nueva Gerona"
+  },
+  {
+    "country": "CU",
+    "id": 3545981,
+    "coord": {
+      "lat": 20.04306,
+      "lon": -77.582779
+    },
+    "name": "Niquero"
+  },
+  {
+    "country": "CU",
+    "id": 3546434,
+    "coord": {
+      "lat": 22.10944,
+      "lon": -78.627502
+    },
+    "name": "Moron"
+  },
+  {
+    "country": "CU",
+    "id": 3546791,
+    "coord": {
+      "lat": 20.65694,
+      "lon": -74.940277
+    },
+    "name": "Moa"
+  },
+  {
+    "country": "CU",
+    "id": 3546894,
+    "coord": {
+      "lat": 21.48333,
+      "lon": -77.616669
+    },
+    "name": "Minas"
+  },
+  {
+    "country": "CU",
+    "id": 3547260,
+    "coord": {
+      "lat": 20.141939,
+      "lon": -77.434998
+    },
+    "name": "Media Luna"
+  },
+  {
+    "country": "CU",
+    "id": 3547600,
+    "coord": {
+      "lat": 22.987499,
+      "lon": -82.753609
+    },
+    "name": "Mariel"
+  },
+  {
+    "country": "CU",
+    "id": 3547867,
+    "coord": {
+      "lat": 20.34333,
+      "lon": -77.116669
+    },
+    "name": "Manzanillo"
+  },
+  {
+    "country": "CU",
+    "id": 3547976,
+    "coord": {
+      "lat": 22.149441,
+      "lon": -79.97361
+    },
+    "name": "Manicaragua"
+  },
+  {
+    "country": "CU",
+    "id": 3548529,
+    "coord": {
+      "lat": 22.91139,
+      "lon": -81.85611
+    },
+    "name": "Madruga"
+  },
+  {
+    "country": "CU",
+    "id": 3548993,
+    "coord": {
+      "lat": 22.587219,
+      "lon": -83.248611
+    },
+    "name": "Los Palacios"
+  },
+  {
+    "country": "CU",
+    "id": 3551608,
+    "coord": {
+      "lat": 22.871389,
+      "lon": -82.423889
+    },
+    "name": "La Salud"
+  },
+  {
+    "country": "CU",
+    "id": 3555907,
+    "coord": {
+      "lat": 22.80444,
+      "lon": -81.194443
+    },
+    "name": "Jovellanos"
+  },
+  {
+    "country": "CU",
+    "id": 3556168,
+    "coord": {
+      "lat": 20.366671,
+      "lon": -76.427223
+    },
+    "name": "Jiguani"
+  },
+  {
+    "country": "CU",
+    "id": 3556334,
+    "coord": {
+      "lat": 21.94194,
+      "lon": -79.169998
+    },
+    "name": "Jatibonico"
+  },
+  {
+    "country": "CU",
+    "id": 3556351,
+    "coord": {
+      "lat": 23.04306,
+      "lon": -82.010834
+    },
+    "name": "Jaruco"
+  },
+  {
+    "country": "CU",
+    "id": 3556437,
+    "coord": {
+      "lat": 22.526939,
+      "lon": -81.128609
+    },
+    "name": "Jaguey Grande"
+  },
+  {
+    "country": "CU",
+    "id": 3557332,
+    "coord": {
+      "lat": 20.254999,
+      "lon": -76.538612
+    },
+    "name": "Guisa"
+  },
+  {
+    "country": "CU",
+    "id": 3557347,
+    "coord": {
+      "lat": 22.79056,
+      "lon": -82.50528
+    },
+    "name": "Guira de Melena"
+  },
+  {
+    "country": "CU",
+    "id": 3557378,
+    "coord": {
+      "lat": 22.836109,
+      "lon": -82.028061
+    },
+    "name": "Gueines"
+  },
+  {
+    "country": "CU",
+    "id": 3557689,
+    "coord": {
+      "lat": 20.14444,
+      "lon": -75.209167
+    },
+    "name": "Guantanamo"
+  },
+  {
+    "country": "CU",
+    "id": 3557923,
+    "coord": {
+      "lat": 21.049999,
+      "lon": -77.349998
+    },
+    "name": "Guaimaro"
+  },
+  {
+    "country": "CU",
+    "id": 3558771,
+    "coord": {
+      "lat": 21.524719,
+      "lon": -78.22583
+    },
+    "name": "Florida"
+  },
+  {
+    "country": "CU",
+    "id": 3559318,
+    "coord": {
+      "lat": 21.852501,
+      "lon": -78.116943
+    },
+    "name": "Esmeralda"
+  },
+  {
+    "country": "CU",
+    "id": 3559416,
+    "coord": {
+      "lat": 22.61694,
+      "lon": -79.871109
+    },
+    "name": "Encrucijada"
+  },
+  {
+    "country": "CU",
+    "id": 3562827,
+    "coord": {
+      "lat": 22.149441,
+      "lon": -80.202217
+    },
+    "name": "Cumanayagua"
+  },
+  {
+    "country": "CU",
+    "id": 3562895,
+    "coord": {
+      "lat": 20.64389,
+      "lon": -75.935562
+    },
+    "name": "Cueto"
+  },
+  {
+    "country": "CU",
+    "id": 3563145,
+    "coord": {
+      "lat": 22.34111,
+      "lon": -80.26667
+    },
+    "name": "Cruces"
+  },
+  {
+    "country": "CU",
+    "id": 3563317,
+    "coord": {
+      "lat": 22.981939,
+      "lon": -80.585564
+    },
+    "name": "Corralillo"
+  },
+  {
+    "country": "CU",
+    "id": 3563504,
+    "coord": {
+      "lat": 20.297779,
+      "lon": -76.241386
+    },
+    "name": "Contramaestre"
+  },
+  {
+    "country": "CU",
+    "id": 3563559,
+    "coord": {
+      "lat": 22.504721,
+      "lon": -83.513611
+    },
+    "name": "Consolacion del Sur"
+  },
+  {
+    "country": "CU",
+    "id": 3563609,
+    "coord": {
+      "lat": 21.876671,
+      "lon": -79.840279
+    },
+    "name": "Condado"
+  },
+  {
+    "country": "CU",
+    "id": 3563843,
+    "coord": {
+      "lat": 22.71917,
+      "lon": -80.90583
+    },
+    "name": "Colon"
+  },
+  {
+    "country": "CU",
+    "id": 3563856,
+    "coord": {
+      "lat": 20.98806,
+      "lon": -77.429718
+    },
+    "name": "Colombia"
+  },
+  {
+    "country": "CU",
+    "id": 3564114,
+    "coord": {
+      "lat": 22.645,
+      "lon": -80.046112
+    },
+    "name": "Cifuentes"
+  },
+  {
+    "country": "CU",
+    "id": 3564394,
+    "coord": {
+      "lat": 22.19278,
+      "lon": -78.913612
+    },
+    "name": "Chambas"
+  },
+  {
+    "country": "CU",
+    "id": 3565432,
+    "coord": {
+      "lat": 23.0375,
+      "lon": -81.20472
+    },
+    "name": "Cardenas"
+  },
+  {
+    "country": "CU",
+    "id": 3565951,
+    "coord": {
+      "lat": 20.234171,
+      "lon": -77.278893
+    },
+    "name": "Campechuela"
+  },
+  {
+    "country": "CU",
+    "id": 3566054,
+    "coord": {
+      "lat": 22.48333,
+      "lon": -79.75
+    },
+    "name": "Camajuani"
+  },
+  {
+    "country": "CU",
+    "id": 3566134,
+    "coord": {
+      "lat": 22.533331,
+      "lon": -80.906113
+    },
+    "name": "Calimete"
+  },
+  {
+    "country": "CU",
+    "id": 3566603,
+    "coord": {
+      "lat": 22.07889,
+      "lon": -79.499168
+    },
+    "name": "Cabaiguan"
+  },
+  {
+    "country": "CU",
+    "id": 3567546,
+    "coord": {
+      "lat": 22.92861,
+      "lon": -82.388611
+    },
+    "name": "Bejucal"
+  },
+  {
+    "country": "CU",
+    "id": 3567612,
+    "coord": {
+      "lat": 22.98278,
+      "lon": -82.546387
+    },
+    "name": "Bauta"
+  },
+  {
+    "country": "CU",
+    "id": 3567823,
+    "coord": {
+      "lat": 21.696671,
+      "lon": -78.632782
+    },
+    "name": "Baragua"
+  },
+  {
+    "country": "CU",
+    "id": 3567834,
+    "coord": {
+      "lat": 20.34667,
+      "lon": -74.495827
+    },
+    "name": "Baracoa"
+  },
+  {
+    "country": "CU",
+    "id": 3567869,
+    "coord": {
+      "lat": 20.9625,
+      "lon": -75.718613
+    },
+    "name": "Banes"
+  },
+  {
+    "country": "CU",
+    "id": 3567995,
+    "coord": {
+      "lat": 22.90361,
+      "lon": -83.159172
+    },
+    "name": "Bahia Honda"
+  },
+  {
+    "country": "CU",
+    "id": 3568312,
+    "coord": {
+      "lat": 22.813061,
+      "lon": -82.76194
+    },
+    "name": "Artemisa"
+  },
+  {
+    "country": "CU",
+    "id": 3569136,
+    "coord": {
+      "lat": 22.80583,
+      "lon": -82.584167
+    },
+    "name": "Alquizar"
+  },
+  {
+    "country": "CU",
+    "id": 3569370,
+    "coord": {
+      "lat": 23.158331,
+      "lon": -82.276939
+    },
+    "name": "Alamar"
+  },
+  {
+    "country": "CU",
+    "id": 3569546,
+    "coord": {
+      "lat": 22.385,
+      "lon": -80.85083
+    },
+    "name": "Aguada de Pasajeros"
+  },
+  {
+    "country": "CU",
+    "id": 3569741,
+    "coord": {
+      "lat": 22.2775,
+      "lon": -80.567497
+    },
+    "name": "Abreus"
+  },
+  {
+    "country": "CU",
+    "id": 3533556,
+    "coord": {
+      "lat": 21.996111,
+      "lon": -79.366943
+    },
+    "name": "Zaza del Medio"
+  },
+  {
+    "country": "CU",
+    "id": 3538758,
+    "coord": {
+      "lat": 22.784439,
+      "lon": -81.91333
+    },
+    "name": "San Nicolas"
+  },
+  {
+    "country": "CU",
+    "id": 3539092,
+    "coord": {
+      "lat": 22.27861,
+      "lon": -83.761108
+    },
+    "name": "San Luis"
+  },
+  {
+    "country": "CU",
+    "id": 3540618,
+    "coord": {
+      "lat": 22.646669,
+      "lon": -83.36972
+    },
+    "name": "San Diego de los Banos"
+  },
+  {
+    "country": "CU",
+    "id": 3542753,
+    "coord": {
+      "lat": 22.88056,
+      "lon": -80.39167
+    },
+    "name": "Rancho Veloz"
+  },
+  {
+    "country": "CU",
+    "id": 3542965,
+    "coord": {
+      "lat": 22.823059,
+      "lon": -82.355003
+    },
+    "name": "Quivican"
+  },
+  {
+    "country": "CU",
+    "id": 3543077,
+    "coord": {
+      "lat": 22.78528,
+      "lon": -80.253609
+    },
+    "name": "Quemado de Guines"
+  },
+  {
+    "country": "CU",
+    "id": 3547181,
+    "coord": {
+      "lat": 22.78813,
+      "lon": -82.151382
+    },
+    "name": "Melena del Sur"
+  },
+  {
+    "country": "CU",
+    "id": 3547519,
+    "coord": {
+      "lat": 22.9475,
+      "lon": -80.92028
+    },
+    "name": "Marti"
+  },
+  {
+    "country": "CU",
+    "id": 3547930,
+    "coord": {
+      "lat": 22.288891,
+      "lon": -84.284439
+    },
+    "name": "Mantua"
+  },
+  {
+    "country": "CU",
+    "id": 3548000,
+    "coord": {
+      "lat": 22.58806,
+      "lon": -80.914436
+    },
+    "name": "Manguito"
+  },
+  {
+    "country": "CU",
+    "id": 3548099,
+    "coord": {
+      "lat": 21.3125,
+      "lon": -76.937782
+    },
+    "name": "Manati"
+  },
+  {
+    "country": "CU",
+    "id": 3549463,
+    "coord": {
+      "lat": 22.72806,
+      "lon": -80.72139
+    },
+    "name": "Los Arabos"
+  },
+  {
+    "country": "CU",
+    "id": 3556406,
+    "coord": {
+      "lat": 22.97917,
+      "lon": -82.17028
+    },
+    "name": "Jamaica"
+  },
+  {
+    "country": "CU",
+    "id": 3547180,
+    "coord": {
+      "lat": 22.78821,
+      "lon": -82.151131
+    },
+    "name": "Municipio de Melena del Sur"
+  },
+  {
+    "country": "CU",
+    "id": 3557678,
+    "coord": {
+      "lat": 22.809999,
+      "lon": -82.203056
+    },
+    "name": "Guara"
+  },
+  {
+    "country": "CU",
+    "id": 3558032,
+    "coord": {
+      "lat": 22.811119,
+      "lon": -82.147476
+    },
+    "name": "Manalich"
+  },
+  {
+    "country": "CU",
+    "id": 3559235,
+    "coord": {
+      "lat": 22.450001,
+      "lon": -80.099998
+    },
+    "name": "Esperanza"
+  },
+  {
+    "country": "CU",
+    "id": 3561408,
+    "coord": {
+      "lat": 20.048889,
+      "lon": -75.946938
+    },
+    "name": "El Cobre"
+  },
+  {
+    "country": "CU",
+    "id": 3561667,
+    "coord": {
+      "lat": 21.299999,
+      "lon": -78.48333
+    },
+    "name": "El Caney"
+  },
+  {
+    "country": "CU",
+    "id": 3565768,
+    "coord": {
+      "lat": 22.740561,
+      "lon": -82.961113
+    },
+    "name": "Candelaria"
+  },
+  {
+    "country": "CU",
+    "id": 3566235,
+    "coord": {
+      "lat": 22.64472,
+      "lon": -79.896111
+    },
+    "name": "Calabazar de Sagua"
+  },
+  {
+    "country": "CU",
+    "id": 3566573,
+    "coord": {
+      "lat": 22.97583,
+      "lon": -82.921944
+    },
+    "name": "Cabanas"
+  },
+  {
+    "country": "CU",
+    "id": 3567082,
+    "coord": {
+      "lat": 22.76333,
+      "lon": -81.446938
+    },
+    "name": "Bolondron"
+  },
+  {
+    "country": "CU",
+    "id": 3567655,
+    "coord": {
+      "lat": 22.716391,
+      "lon": -82.288063
+    },
+    "name": "Batabano"
+  },
+  {
+    "country": "CU",
+    "id": 3569379,
+    "coord": {
+      "lat": 22.7675,
+      "lon": -81.567497
+    },
+    "name": "Alacranes"
+  }
+]

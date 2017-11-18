@@ -1,0 +1,273 @@
+[
+
+  {
+    "country": "FO",
+    "id": 2619504,
+    "coord": {
+      "lat": 62.045471,
+      "lon": -6.76297
+    },
+    "name": "Hvítanes"
+  },
+  {
+    "country": "FO",
+    "id": 2616145,
+    "coord": {
+      "lat": 62.283329,
+      "lon": -6.58333
+    },
+    "name": "Norðoyar sýsla"
+  },
+  {
+    "country": "FO",
+    "id": 2618795,
+    "coord": {
+      "lat": 62.226551,
+      "lon": -6.58901
+    },
+    "name": "Klaksvik"
+  },
+  {
+    "country": "FO",
+    "id": 2621808,
+    "coord": {
+      "lat": 62.24398,
+      "lon": -6.81395
+    },
+    "name": "Fuglafjordur"
+  },
+  {
+    "country": "FO",
+    "id": 2612137,
+    "coord": {
+      "lat": 61.48333,
+      "lon": -6.81667
+    },
+    "name": "Suðuroyar sýsla"
+  },
+  {
+    "country": "FO",
+    "id": 2620838,
+    "coord": {
+      "lat": 61.599998,
+      "lon": -6.95
+    },
+    "name": "Hamar"
+  },
+  {
+    "country": "FO",
+    "id": 2618304,
+    "coord": {
+      "lat": 61.467419,
+      "lon": -6.8138
+    },
+    "name": "Kráir"
+  },
+  {
+    "country": "FO",
+    "id": 2612225,
+    "coord": {
+      "lat": 62.133331,
+      "lon": -7
+    },
+    "name": "Streymoyar Sýsla"
+  },
+  {
+    "country": "FO",
+    "id": 2611396,
+    "coord": {
+      "lat": 62.009731,
+      "lon": -6.77164
+    },
+    "name": "Torshavn"
+  },
+  {
+    "country": "FO",
+    "id": 2624653,
+    "coord": {
+      "lat": 61.995949,
+      "lon": -6.77154
+    },
+    "name": "Argir"
+  },
+  {
+    "country": "FO",
+    "id": 2622387,
+    "coord": {
+      "lat": 62.216671,
+      "lon": -6.86667
+    },
+    "name": "Eysturoyar sýsla"
+  },
+  {
+    "country": "FO",
+    "id": 2614402,
+    "coord": {
+      "lat": 62.116669,
+      "lon": -6.71667
+    },
+    "name": "Runavík"
+  },
+  {
+    "country": "FO",
+    "id": 7798678,
+    "coord": {
+      "lat": 62.209068,
+      "lon": -6.75247
+    },
+    "name": "Eystur"
+  },
+  {
+    "country": "FO",
+    "id": 2622677,
+    "coord": {
+      "lat": 62.300861,
+      "lon": -7.08541
+    },
+    "name": "Eiði"
+  },
+  {
+    "country": "FO",
+    "id": 2622320,
+    "coord": {
+      "lat": 62,
+      "lon": -7
+    },
+    "name": "Faroe Islands"
+  },
+  {
+    "country": "FO",
+    "id": 2611060,
+    "coord": {
+      "lat": 61.555569,
+      "lon": -6.81109
+    },
+    "name": "Tvoroyri"
+  },
+  {
+    "country": "FO",
+    "id": 2616495,
+    "coord": {
+      "lat": 62.150059,
+      "lon": -7.15493
+    },
+    "name": "Nesið"
+  },
+  {
+    "country": "FO",
+    "id": 2614323,
+    "coord": {
+      "lat": 62.248211,
+      "lon": -7.17241
+    },
+    "name": "Saksun"
+  },
+  {
+    "country": "FO",
+    "id": 2621415,
+    "coord": {
+      "lat": 62.322941,
+      "lon": -6.9358
+    },
+    "name": "Gjógv"
+  },
+  {
+    "country": "FO",
+    "id": 2610816,
+    "coord": {
+      "lat": 62.083328,
+      "lon": -7.25
+    },
+    "name": "Vága Sýsla"
+  },
+  {
+    "country": "FO",
+    "id": 2610685,
+    "coord": {
+      "lat": 62.066669,
+      "lon": -7.23333
+    },
+    "name": "Vatnsoyrar"
+  },
+  {
+    "country": "FO",
+    "id": 2610343,
+    "coord": {
+      "lat": 62.156391,
+      "lon": -7.16639
+    },
+    "name": "Vestmanna"
+  },
+  {
+    "country": "FO",
+    "id": 2610806,
+    "coord": {
+      "lat": 61.47324,
+      "lon": -6.81185
+    },
+    "name": "Vagur"
+  },
+  {
+    "country": "FO",
+    "id": 2612890,
+    "coord": {
+      "lat": 62.09726,
+      "lon": -7.3577
+    },
+    "name": "Sorvagur"
+  },
+  {
+    "country": "FO",
+    "id": 2614219,
+    "coord": {
+      "lat": 61.833328,
+      "lon": -6.75
+    },
+    "name": "Sandoyar Sýsla"
+  },
+  {
+    "country": "FO",
+    "id": 2614212,
+    "coord": {
+      "lat": 61.842499,
+      "lon": -6.80778
+    },
+    "name": "Sandur"
+  },
+  {
+    "country": "FO",
+    "id": 2616914,
+    "coord": {
+      "lat": 62.051109,
+      "lon": -7.19389
+    },
+    "name": "Midvagur"
+  },
+  {
+    "country": "FO",
+    "id": 2618511,
+    "coord": {
+      "lat": 62.111671,
+      "lon": -6.91067
+    },
+    "name": "Kollafjordhur"
+  },
+  {
+    "country": "FO",
+    "id": 2619693,
+    "coord": {
+      "lat": 62.034069,
+      "lon": -6.78127
+    },
+    "name": "Hoyvik"
+  },
+  {
+    "country": "FO",
+    "id": 2622676,
+    "coord": {
+      "lat": 62.299301,
+      "lon": -7.09245
+    },
+    "name": "Eidi"
+  }
+]

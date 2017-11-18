@@ -1,0 +1,418 @@
+[
+
+  {
+    "country": "GA",
+    "id": 2396924,
+    "coord": {
+      "lat": -2,
+      "lon": 9.5
+    },
+    "name": "Province de l’ Ogooué-Maritime"
+  },
+  {
+    "country": "GA",
+    "id": 2396518,
+    "coord": {
+      "lat": -0.71933,
+      "lon": 8.78151
+    },
+    "name": "Port-Gentil"
+  },
+  {
+    "country": "GA",
+    "id": 2396646,
+    "coord": {
+      "lat": 1.5995,
+      "lon": 11.57933
+    },
+    "name": "Oyem"
+  },
+  {
+    "country": "GA",
+    "id": 2398269,
+    "coord": {
+      "lat": -1.55746,
+      "lon": 13.21775
+    },
+    "name": "Moanda"
+  },
+  {
+    "country": "GA",
+    "id": 2399888,
+    "coord": {
+      "lat": -0.7001,
+      "lon": 10.24055
+    },
+    "name": "Lambarene"
+  },
+  {
+    "country": "GA",
+    "id": 2399959,
+    "coord": {
+      "lat": -1.13032,
+      "lon": 12.47359
+    },
+    "name": "Koulamoutou"
+  },
+  {
+    "country": "GA",
+    "id": 2400555,
+    "coord": {
+      "lat": -1.63333,
+      "lon": 13.58357
+    },
+    "name": "Franceville"
+  },
+  {
+    "country": "GA",
+    "id": 2400553,
+    "coord": {
+      "lat": -1,
+      "lon": 11.75
+    },
+    "name": "Gabonese Republic"
+  },
+  {
+    "country": "GA",
+    "id": 2397842,
+    "coord": {
+      "lat": -0.5,
+      "lon": 10.5
+    },
+    "name": "Province du Moyen-Ogooué"
+  },
+  {
+    "country": "GA",
+    "id": 2401325,
+    "coord": {
+      "lat": -0.7,
+      "lon": 10.21667
+    },
+    "name": "Dakar"
+  },
+  {
+    "country": "GA",
+    "id": 2400547,
+    "coord": {
+      "lat": -2.65,
+      "lon": 10
+    },
+    "name": "Gamba"
+  },
+  {
+    "country": "GA",
+    "id": 2400454,
+    "coord": {
+      "lat": -2,
+      "lon": 14
+    },
+    "name": "Province du Haut-Ogooué"
+  },
+  {
+    "country": "GA",
+    "id": 2397574,
+    "coord": {
+      "lat": -1.63333,
+      "lon": 13.58333
+    },
+    "name": "Ngobounda"
+  },
+  {
+    "country": "GA",
+    "id": 2397141,
+    "coord": {
+      "lat": -3,
+      "lon": 11
+    },
+    "name": "Province de la Nyanga"
+  },
+  {
+    "country": "GA",
+    "id": 2396253,
+    "coord": {
+      "lat": -2.85,
+      "lon": 11.03333
+    },
+    "name": "Tchibanga"
+  },
+  {
+    "country": "GA",
+    "id": 2396925,
+    "coord": {
+      "lat": -1,
+      "lon": 13
+    },
+    "name": "Province de l’ Ogooué-Lolo"
+  },
+  {
+    "country": "GA",
+    "id": 2399672,
+    "coord": {
+      "lat": -0.82716,
+      "lon": 12.74007
+    },
+    "name": "Limbenga"
+  },
+  {
+    "country": "GA",
+    "id": 2401506,
+    "coord": {
+      "lat": -1.65,
+      "lon": 13.43333
+    },
+    "name": "Bongo"
+  },
+  {
+    "country": "GA",
+    "id": 2396076,
+    "coord": {
+      "lat": 2,
+      "lon": 12
+    },
+    "name": "Province du Woleu-Ntem"
+  },
+  {
+    "country": "GA",
+    "id": 2398283,
+    "coord": {
+      "lat": 0.78206,
+      "lon": 11.54904
+    },
+    "name": "Mitzic"
+  },
+  {
+    "country": "GA",
+    "id": 2400682,
+    "coord": {
+      "lat": 0.16667,
+      "lon": 10
+    },
+    "name": "Province de l’ Estuaire"
+  },
+  {
+    "country": "GA",
+    "id": 2400870,
+    "coord": {
+      "lat": 0.46667,
+      "lon": 9.41667
+    },
+    "name": "Edouangani I"
+  },
+  {
+    "country": "GA",
+    "id": 2396926,
+    "coord": {
+      "lat": 0.5,
+      "lon": 13
+    },
+    "name": "Province de l’ Ogooué-Ivindo"
+  },
+  {
+    "country": "GA",
+    "id": 2402123,
+    "coord": {
+      "lat": 0.56667,
+      "lon": 12.88333
+    },
+    "name": "Avil-Chicago"
+  },
+  {
+    "country": "GA",
+    "id": 2400033,
+    "coord": {
+      "lat": 0.99092,
+      "lon": 13.96556
+    },
+    "name": "Koko"
+  },
+  {
+    "country": "GA",
+    "id": 2401346,
+    "coord": {
+      "lat": -1.54154,
+      "lon": 13.23661
+    },
+    "name": "Comilog"
+  },
+  {
+    "country": "GA",
+    "id": 2401578,
+    "coord": {
+      "lat": 2.07597,
+      "lon": 11.50065
+    },
+    "name": "Bitam"
+  },
+  {
+    "country": "GA",
+    "id": 2399075,
+    "coord": {
+      "lat": -0.7,
+      "lon": 10.25
+    },
+    "name": "Massouka"
+  },
+  {
+    "country": "GA",
+    "id": 2397466,
+    "coord": {
+      "lat": -2,
+      "lon": 11
+    },
+    "name": "Province de la Ngounié"
+  },
+  {
+    "country": "GA",
+    "id": 2398073,
+    "coord": {
+      "lat": -1.86846,
+      "lon": 11.05594
+    },
+    "name": "Mouila"
+  },
+  {
+    "country": "GA",
+    "id": 2399697,
+    "coord": {
+      "lat": 0.3925,
+      "lon": 9.45365
+    },
+    "name": "Libreville"
+  },
+  {
+    "country": "GA",
+    "id": 2396853,
+    "coord": {
+      "lat": -1.57464,
+      "lon": 9.26184
+    },
+    "name": "Omboue"
+  },
+  {
+    "country": "GA",
+    "id": 2396898,
+    "coord": {
+      "lat": -0.65487,
+      "lon": 13.67533
+    },
+    "name": "Okondja"
+  },
+  {
+    "country": "GA",
+    "id": 2397169,
+    "coord": {
+      "lat": 0.38333,
+      "lon": 9.78333
+    },
+    "name": "Ntoum"
+  },
+  {
+    "country": "GA",
+    "id": 2397614,
+    "coord": {
+      "lat": -2.40077,
+      "lon": 11.35813
+    },
+    "name": "Ndende"
+  },
+  {
+    "country": "GA",
+    "id": 2397674,
+    "coord": {
+      "lat": -0.17827,
+      "lon": 10.76488
+    },
+    "name": "Ndjole"
+  },
+  {
+    "country": "GA",
+    "id": 2397978,
+    "coord": {
+      "lat": -1.4085,
+      "lon": 13.15857
+    },
+    "name": "Mounana"
+  },
+  {
+    "country": "GA",
+    "id": 2398430,
+    "coord": {
+      "lat": -1.61952,
+      "lon": 11.60675
+    },
+    "name": "Mimongo"
+  },
+  {
+    "country": "GA",
+    "id": 2398929,
+    "coord": {
+      "lat": -1.90046,
+      "lon": 11.906
+    },
+    "name": "Mbigou"
+  },
+  {
+    "country": "GA",
+    "id": 2399001,
+    "coord": {
+      "lat": -3.43198,
+      "lon": 10.6554
+    },
+    "name": "Mayumba"
+  },
+  {
+    "country": "GA",
+    "id": 2399371,
+    "coord": {
+      "lat": 0.57381,
+      "lon": 12.86419
+    },
+    "name": "Makokou"
+  },
+  {
+    "country": "GA",
+    "id": 2399831,
+    "coord": {
+      "lat": -1.58431,
+      "lon": 14.25905
+    },
+    "name": "Lekoni"
+  },
+  {
+    "country": "GA",
+    "id": 2399870,
+    "coord": {
+      "lat": -0.81433,
+      "lon": 12.72869
+    },
+    "name": "Lastoursville"
+  },
+  {
+    "country": "GA",
+    "id": 2400578,
+    "coord": {
+      "lat": -1.21544,
+      "lon": 10.58378
+    },
+    "name": "Fougamou"
+  },
+  {
+    "country": "GA",
+    "id": 2401357,
+    "coord": {
+      "lat": 1.00019,
+      "lon": 9.58228
+    },
+    "name": "Cocobeach"
+  },
+  {
+    "country": "GA",
+    "id": 2401495,
+    "coord": {
+      "lat": -0.09207,
+      "lon": 11.93846
+    },
+    "name": "Booue"
+  }
+
+]

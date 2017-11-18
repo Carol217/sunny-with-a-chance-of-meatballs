@@ -1,0 +1,94 @@
+[
+
+  {
+    "country": "BN",
+    "id": 1820572,
+    "coord": {
+      "lat": 4.95,
+      "lon": 114.933327
+    },
+    "name": "Kampong Serusup"
+  },
+  {
+    "country": "BN",
+    "id": 1820818,
+    "coord": {
+      "lat": 4.83333,
+      "lon": 114.916672
+    },
+    "name": "Brunei and Muara District"
+  },
+  {
+    "country": "BN",
+    "id": 1820614,
+    "coord": {
+      "lat": 4.88333,
+      "lon": 114.933327
+    },
+    "name": "Kampong Parit"
+  },
+  {
+    "country": "BN",
+    "id": 1820071,
+    "coord": {
+      "lat": 4.8,
+      "lon": 114.650002
+    },
+    "name": "Tutong"
+  },
+  {
+    "country": "BN",
+    "id": 1820363,
+    "coord": {
+      "lat": 5.03333,
+      "lon": 115.066673
+    },
+    "name": "Muara"
+  },
+  {
+    "country": "BN",
+    "id": 1820187,
+    "coord": {
+      "lat": 4.61667,
+      "lon": 114.316673
+    },
+    "name": "Seria"
+  },
+  {
+    "country": "BN",
+    "id": 1820491,
+    "coord": {
+      "lat": 4.58333,
+      "lon": 114.183327
+    },
+    "name": "Kuala Belait"
+  },
+  {
+    "country": "BN",
+    "id": 1820814,
+    "coord": {
+      "lat": 4.5,
+      "lon": 114.666672
+    },
+    "name": "Negara Brunei Darussalam"
+  },
+  {
+    "country": "BN",
+    "id": 1820906,
+    "coord": {
+      "lat": 4.94029,
+      "lon": 114.948059
+    },
+    "name": "Bandar Seri Begawan"
+  },
+  {
+    "country": "BN",
+    "id": 1820903,
+    "coord": {
+      "lat": 4.71667,
+      "lon": 115.066673
+    },
+    "name": "Bangar"
+  }
+
+]

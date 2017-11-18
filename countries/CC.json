@@ -1,0 +1,22 @@
+[
+
+  {
+    "country": "CC",
+    "id": 7304591,
+    "coord": {
+      "lat": -12.15681,
+      "lon": 96.82251
+    },
+    "name": "West Island"
+  },
+  {
+    "country": "CC",
+    "id": 1547376,
+    "coord": {
+      "lat": -12.1642,
+      "lon": 96.873322
+    },
+    "name": "Territory of Cocos (Keeling) Islands"
+  }
+
+]

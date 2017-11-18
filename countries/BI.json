@@ -1,0 +1,328 @@
+[
+
+  {
+    "country": "BI",
+    "id": 425551,
+    "coord": {
+      "lat": -3.2682,
+      "lon": 29.607901
+    },
+    "name": "Muramvya"
+  },
+  {
+    "country": "BI",
+    "id": 422233,
+    "coord": {
+      "lat": -4.16667,
+      "lon": 29.752781
+    },
+    "name": "iProvense ya Makamba"
+  },
+  {
+    "country": "BI",
+    "id": 422232,
+    "coord": {
+      "lat": -4.1348,
+      "lon": 29.804001
+    },
+    "name": "Makamba"
+  },
+  {
+    "country": "BI",
+    "id": 423327,
+    "coord": {
+      "lat": -3.85,
+      "lon": 29.633329
+    },
+    "name": "iProvense ya Bururi"
+  },
+  {
+    "country": "BI",
+    "id": 423328,
+    "coord": {
+      "lat": -3.94877,
+      "lon": 29.62438
+    },
+    "name": "Bururi"
+  },
+  {
+    "country": "BI",
+    "id": 425550,
+    "coord": {
+      "lat": -3.25,
+      "lon": 29.66667
+    },
+    "name": "iProvense ya Muramvya"
+  },
+  {
+    "country": "BI",
+    "id": 426271,
+    "coord": {
+      "lat": -3.5,
+      "lon": 29.950001
+    },
+    "name": "iProvense ya Gitega"
+  },
+  {
+    "country": "BI",
+    "id": 426272,
+    "coord": {
+      "lat": -3.4264,
+      "lon": 29.930799
+    },
+    "name": "Gitega"
+  },
+  {
+    "country": "BI",
+    "id": 426699,
+    "coord": {
+      "lat": -3.45,
+      "lon": 30.316669
+    },
+    "name": "iProvense ya Ruyigi"
+  },
+  {
+    "country": "BI",
+    "id": 426700,
+    "coord": {
+      "lat": -3.47639,
+      "lon": 30.24861
+    },
+    "name": "Ruyigi"
+  },
+  {
+    "country": "BI",
+    "id": 430567,
+    "coord": {
+      "lat": -2.875,
+      "lon": 29.924999
+    },
+    "name": "iProvense ya Ngozi"
+  },
+  {
+    "country": "BI",
+    "id": 430569,
+    "coord": {
+      "lat": -2.9075,
+      "lon": 29.830601
+    },
+    "name": "Ngozi"
+  },
+  {
+    "country": "BI",
+    "id": 430951,
+    "coord": {
+      "lat": -3.06667,
+      "lon": 29.66667
+    },
+    "name": "iProvense ya Kayanza"
+  },
+  {
+    "country": "BI",
+    "id": 430952,
+    "coord": {
+      "lat": -2.9221,
+      "lon": 29.629299
+    },
+    "name": "Kayanza"
+  },
+  {
+    "country": "BI",
+    "id": 431747,
+    "coord": {
+      "lat": -2.83333,
+      "lon": 30.33333
+    },
+    "name": "iProvense ya Muyinga"
+  },
+  {
+    "country": "BI",
+    "id": 431748,
+    "coord": {
+      "lat": -2.8451,
+      "lon": 30.3414
+    },
+    "name": "Muyinga"
+  },
+  {
+    "country": "BI",
+    "id": 434147,
+    "coord": {
+      "lat": -3.86667,
+      "lon": 30.1
+    },
+    "name": "iProvense ya Rutana"
+  },
+  {
+    "country": "BI",
+    "id": 433635,
+    "coord": {
+      "lat": -3.9279,
+      "lon": 29.992001
+    },
+    "name": "Rutana"
+  },
+  {
+    "country": "BI",
+    "id": 423549,
+    "coord": {
+      "lat": -3.9736,
+      "lon": 29.438601
+    },
+    "name": "Rumonge"
+  },
+  {
+    "country": "BI",
+    "id": 7303939,
+    "coord": {
+      "lat": -3.3802,
+      "lon": 29.3547
+    },
+    "name": "Bujumbura Mairie"
+  },
+  {
+    "country": "BI",
+    "id": 425378,
+    "coord": {
+      "lat": -3.3822,
+      "lon": 29.364401
+    },
+    "name": "Bujumbura"
+  },
+  {
+    "country": "BI",
+    "id": 425374,
+    "coord": {
+      "lat": -3.3797,
+      "lon": 29.363899
+    },
+    "name": "Rohero"
+  },
+  {
+    "country": "BI",
+    "id": 433561,
+    "coord": {
+      "lat": -3.5,
+      "lon": 30
+    },
+    "name": "Republic of Burundi"
+  },
+  {
+    "country": "BI",
+    "id": 425306,
+    "coord": {
+      "lat": -3.3272,
+      "lon": 29.3361
+    },
+    "name": "Murukaramu"
+  },
+  {
+    "country": "BI",
+    "id": 434386,
+    "coord": {
+      "lat": -3.5,
+      "lon": 29.66667
+    },
+    "name": "Province de Mwaro"
+  },
+  {
+    "country": "BI",
+    "id": 423794,
+    "coord": {
+      "lat": -3.5272,
+      "lon": 29.7034
+    },
+    "name": "Mwaro"
+  },
+  {
+    "country": "BI",
+    "id": 427700,
+    "coord": {
+      "lat": -3.13333,
+      "lon": 30.58333
+    },
+    "name": "iProvense ya Cankuzo"
+  },
+  {
+    "country": "BI",
+    "id": 427701,
+    "coord": {
+      "lat": -3.2186,
+      "lon": 30.552799
+    },
+    "name": "Cankuzo"
+  },
+  {
+    "country": "BI",
+    "id": 428218,
+    "coord": {
+      "lat": -3.125,
+      "lon": 30.133329
+    },
+    "name": "iProvense ya Karuzi"
+  },
+  {
+    "country": "BI",
+    "id": 428219,
+    "coord": {
+      "lat": -3.10608,
+      "lon": 30.17351
+    },
+    "name": "Karuzi"
+  },
+  {
+    "country": "BI",
+    "id": 428514,
+    "coord": {
+      "lat": -3.11667,
+      "lon": 29.4
+    },
+    "name": "iProvense ya Bubanza"
+  },
+  {
+    "country": "BI",
+    "id": 428515,
+    "coord": {
+      "lat": -3.0804,
+      "lon": 29.391001
+    },
+    "name": "Bubanza"
+  },
+  {
+    "country": "BI",
+    "id": 430020,
+    "coord": {
+      "lat": -2.88333,
+      "lon": 29.25
+    },
+    "name": "iProvense ya Cibitoke"
+  },
+  {
+    "country": "BI",
+    "id": 430021,
+    "coord": {
+      "lat": -2.8869,
+      "lon": 29.1248
+    },
+    "name": "Cibitoke"
+  },
+  {
+    "country": "BI",
+    "id": 432455,
+    "coord": {
+      "lat": -2.58333,
+      "lon": 30.16667
+    },
+    "name": "iProvense ya Kirundo"
+  },
+  {
+    "country": "BI",
+    "id": 432456,
+    "coord": {
+      "lat": -2.5845,
+      "lon": 30.0959
+    },
+    "name": "Kirundo"
+  }
+
+]

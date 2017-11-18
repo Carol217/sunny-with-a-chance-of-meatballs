@@ -1,0 +1,166 @@
+[
+
+  {
+    "country": "BH",
+    "id": 7090954,
+    "coord": {
+      "lat": 26.216669,
+      "lon": 50.583328
+    },
+    "name": "Capital Governorate"
+  },
+  {
+    "country": "BH",
+    "id": 290215,
+    "coord": {
+      "lat": 26.218611,
+      "lon": 50.547779
+    },
+    "name": "Jidd Hafs"
+  },
+  {
+    "country": "BH",
+    "id": 290247,
+    "coord": {
+      "lat": 26.11528,
+      "lon": 50.506939
+    },
+    "name": "Madinat Hamad"
+  },
+  {
+    "country": "BH",
+    "id": 290269,
+    "coord": {
+      "lat": 26.068609,
+      "lon": 50.503891
+    },
+    "name": "Dar Kulayb"
+  },
+  {
+    "country": "BH",
+    "id": 290332,
+    "coord": {
+      "lat": 26.257219,
+      "lon": 50.611938
+    },
+    "name": "Al Muharraq"
+  },
+  {
+    "country": "BH",
+    "id": 385038,
+    "coord": {
+      "lat": 26.129999,
+      "lon": 50.555
+    },
+    "name": "Ar Rifa"
+  },
+  {
+    "country": "BH",
+    "id": 7090974,
+    "coord": {
+      "lat": 26.15,
+      "lon": 50.466671
+    },
+    "name": "Northern Governorate"
+  },
+  {
+    "country": "BH",
+    "id": 290118,
+    "coord": {
+      "lat": 26.19417,
+      "lon": 50.481941
+    },
+    "name": "Sār"
+  },
+  {
+    "country": "BH",
+    "id": 290291,
+    "coord": {
+      "lat": 26,
+      "lon": 50.5
+    },
+    "name": "Kingdom of Bahrain"
+  },
+  {
+    "country": "BH",
+    "id": 290187,
+    "coord": {
+      "lat": 26.173611,
+      "lon": 50.547779
+    },
+    "name": "Madinat Isa"
+  },
+  {
+    "country": "BH",
+    "id": 290340,
+    "coord": {
+      "lat": 26.215361,
+      "lon": 50.583199
+    },
+    "name": "Manama"
+  },
+  {
+    "country": "BH",
+    "id": 290082,
+    "coord": {
+      "lat": 26.216669,
+      "lon": 50.583328
+    },
+    "name": "Umm ash Sha‘ūm"
+  },
+  {
+    "country": "BH",
+    "id": 7090973,
+    "coord": {
+      "lat": 26.16667,
+      "lon": 50.566669
+    },
+    "name": "Central Governorate"
+  },
+  {
+    "country": "BH",
+    "id": 290104,
+    "coord": {
+      "lat": 26.15472,
+      "lon": 50.62056
+    },
+    "name": "Sitrah"
+  },
+  {
+    "country": "BH",
+    "id": 290240,
+    "coord": {
+      "lat": 26.22139,
+      "lon": 50.51667
+    },
+    "name": "Ḩillat ‘Abd aş Şāliḩ"
+  },
+  {
+    "country": "BH",
+    "id": 290333,
+    "coord": {
+      "lat": 26.25,
+      "lon": 50.616669
+    },
+    "name": "Muharraq Governorate"
+  },
+  {
+    "country": "BH",
+    "id": 290123,
+    "coord": {
+      "lat": 26.280001,
+      "lon": 50.634998
+    },
+    "name": "Samāhīj"
+  },
+  {
+    "country": "BH",
+    "id": 290363,
+    "coord": {
+      "lat": 26.24556,
+      "lon": 50.654171
+    },
+    "name": "Al Hadd"
+  }
+
+]

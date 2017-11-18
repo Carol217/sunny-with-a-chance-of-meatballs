@@ -1,0 +1,193 @@
+[
+
+  {
+    "country": "GW",
+    "id": 2375167,
+    "coord": {
+      "lat": 12.51667,
+      "lon": -14.58333
+    },
+    "name": "Bambato"
+  },
+  {
+    "country": "GW",
+    "id": 2374320,
+    "coord": {
+      "lat": 11.35,
+      "lon": -15.28333
+    },
+    "name": "Cachanga"
+  },
+  {
+    "country": "GW",
+    "id": 2369484,
+    "coord": {
+      "lat": 12.06667,
+      "lon": -14.43333
+    },
+    "name": "Sinchã Jai"
+  },
+  {
+    "country": "GW",
+    "id": 2375255,
+    "coord": {
+      "lat": 12.16667,
+      "lon": -14.75
+    },
+    "name": "Bafatá"
+  },
+  {
+    "country": "GW",
+    "id": 2375254,
+    "coord": {
+      "lat": 12.16667,
+      "lon": -14.66667
+    },
+    "name": "Bafata"
+  },
+  {
+    "country": "GW",
+    "id": 2372248,
+    "coord": {
+      "lat": 12,
+      "lon": -15
+    },
+    "name": "Republic of Guinea-Bissau"
+  },
+  {
+    "country": "GW",
+    "id": 2374776,
+    "coord": {
+      "lat": 11.85391,
+      "lon": -15.59097
+    },
+    "name": "Bissau"
+  },
+  {
+    "country": "GW",
+    "id": 2372055,
+    "coord": {
+      "lat": 11.9,
+      "lon": -15.65
+    },
+    "name": "Intusso"
+  },
+  {
+    "country": "GW",
+    "id": 2374775,
+    "coord": {
+      "lat": 11.86357,
+      "lon": -15.59767
+    },
+    "name": "Bissau"
+  },
+  {
+    "country": "GW",
+    "id": 2370358,
+    "coord": {
+      "lat": 11.88333,
+      "lon": -15.85
+    },
+    "name": "Quinhamel"
+  },
+  {
+    "country": "GW",
+    "id": 2370473,
+    "coord": {
+      "lat": 11.33333,
+      "lon": -14.93333
+    },
+    "name": "Quebo"
+  },
+  {
+    "country": "GW",
+    "id": 2371467,
+    "coord": {
+      "lat": 12.07333,
+      "lon": -15.31889
+    },
+    "name": "Mansoa"
+  },
+  {
+    "country": "GW",
+    "id": 2372532,
+    "coord": {
+      "lat": 12.28333,
+      "lon": -14.21667
+    },
+    "name": "Gabu"
+  },
+  {
+    "country": "GW",
+    "id": 2372647,
+    "coord": {
+      "lat": 12.48389,
+      "lon": -15.22167
+    },
+    "name": "Farim"
+  },
+  {
+    "country": "GW",
+    "id": 2373526,
+    "coord": {
+      "lat": 11.28333,
+      "lon": -15.25
+    },
+    "name": "Catio"
+  },
+  {
+    "country": "GW",
+    "id": 2373951,
+    "coord": {
+      "lat": 12.06722,
+      "lon": -16.033331
+    },
+    "name": "Canchungo"
+  },
+  {
+    "country": "GW",
+    "id": 2374311,
+    "coord": {
+      "lat": 12.27056,
+      "lon": -16.165831
+    },
+    "name": "Cacheu"
+  },
+  {
+    "country": "GW",
+    "id": 2374583,
+    "coord": {
+      "lat": 11.28333,
+      "lon": -15.83333
+    },
+    "name": "Bubaque"
+  },
+  {
+    "country": "GW",
+    "id": 2374588,
+    "coord": {
+      "lat": 11.58333,
+      "lon": -15
+    },
+    "name": "Buba"
+  },
+  {
+    "country": "GW",
+    "id": 2374688,
+    "coord": {
+      "lat": 11.58333,
+      "lon": -15.46667
+    },
+    "name": "Bolama"
+  },
+  {
+    "country": "GW",
+    "id": 2374759,
+    "coord": {
+      "lat": 12.22306,
+      "lon": -15.4475
+    },
+    "name": "Bissora"
+  }
+
+]

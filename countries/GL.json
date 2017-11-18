@@ -1,0 +1,319 @@
+[
+
+  {
+    "country": "GL",
+    "id": 3423146,
+    "coord": {
+      "lat": 69.216667,
+      "lon": -51.099998
+    },
+    "name": "Ilulissat"
+  },
+  {
+    "country": "GL",
+    "id": 3421711,
+    "coord": {
+      "lat": 61.166672,
+      "lon": -45.416672
+    },
+    "name": "Narsarsuaq"
+  },
+  {
+    "country": "GL",
+    "id": 3422683,
+    "coord": {
+      "lat": 68.30648,
+      "lon": -53.46405
+    },
+    "name": "Kangaatsiaq"
+  },
+  {
+    "country": "GL",
+    "id": 3420768,
+    "coord": {
+      "lat": 68.81926,
+      "lon": -51.192211
+    },
+    "name": "Qasigiannguit"
+  },
+  {
+    "country": "GL",
+    "id": 3422225,
+    "coord": {
+      "lat": 65.575302,
+      "lon": -37.18351
+    },
+    "name": "Kulusuk"
+  },
+  {
+    "country": "GL",
+    "id": 3422891,
+    "coord": {
+      "lat": 70.484558,
+      "lon": -21.96221
+    },
+    "name": "Ittoqqortoormiit"
+  },
+  {
+    "country": "GL",
+    "id": 3424424,
+    "coord": {
+      "lat": 64.800003,
+      "lon": -52.216671
+    },
+    "name": "Atammik"
+  },
+  {
+    "country": "GL",
+    "id": 3422700,
+    "coord": {
+      "lat": 65.825104,
+      "lon": -53.342682
+    },
+    "name": "Kangaamiut"
+  },
+  {
+    "country": "GL",
+    "id": 7602007,
+    "coord": {
+      "lat": 64.182838,
+      "lon": -51.718311
+    },
+    "name": "Sermersooq"
+  },
+  {
+    "country": "GL",
+    "id": 3421319,
+    "coord": {
+      "lat": 64.183472,
+      "lon": -51.721569
+    },
+    "name": "Nuuk"
+  },
+  {
+    "country": "GL",
+    "id": 3420635,
+    "coord": {
+      "lat": 69.247208,
+      "lon": -53.536819
+    },
+    "name": "Qeqertarsuaq"
+  },
+  {
+    "country": "GL",
+    "id": 3831208,
+    "coord": {
+      "lat": 77.483971,
+      "lon": -69.363213
+    },
+    "name": "Qaanaaq"
+  },
+  {
+    "country": "GL",
+    "id": 3422861,
+    "coord": {
+      "lat": 61.200001,
+      "lon": -48.166672
+    },
+    "name": "Ivittuut"
+  },
+  {
+    "country": "GL",
+    "id": 3425505,
+    "coord": {
+      "lat": 72,
+      "lon": -40
+    },
+    "name": "Greenland"
+  },
+  {
+    "country": "GL",
+    "id": 7602005,
+    "coord": {
+      "lat": 60.719051,
+      "lon": -46.036831
+    },
+    "name": "Kujalleq"
+  },
+  {
+    "country": "GL",
+    "id": 3421765,
+    "coord": {
+      "lat": 60.143169,
+      "lon": -45.237148
+    },
+    "name": "Nanortalik"
+  },
+  {
+    "country": "GL",
+    "id": 7602003,
+    "coord": {
+      "lat": 69.216621,
+      "lon": -51.103512
+    },
+    "name": "Qaasuitsup"
+  },
+  {
+    "country": "GL",
+    "id": 3421522,
+    "coord": {
+      "lat": 68.616669,
+      "lon": -52.416672
+    },
+    "name": "Nivaaq"
+  },
+  {
+    "country": "GL",
+    "id": 7602006,
+    "coord": {
+      "lat": 66.933052,
+      "lon": -53.675171
+    },
+    "name": "Qeqqata"
+  },
+  {
+    "country": "GL",
+    "id": 3419714,
+    "coord": {
+      "lat": 67.008759,
+      "lon": -50.689369
+    },
+    "name": "Kangerlussuaq"
+  },
+  {
+    "country": "GL",
+    "id": 3420937,
+    "coord": {
+      "lat": 70.73333,
+      "lon": -52.650002
+    },
+    "name": "Qaarsut"
+  },
+  {
+    "country": "GL",
+    "id": 3831682,
+    "coord": {
+      "lat": 76.550003,
+      "lon": -68.800003
+    },
+    "name": "Dundas"
+  },
+  {
+    "country": "GL",
+    "id": 3419842,
+    "coord": {
+      "lat": 66.939461,
+      "lon": -53.6735
+    },
+    "name": "Sisimiut"
+  },
+  {
+    "country": "GL",
+    "id": 3421719,
+    "coord": {
+      "lat": 60.916672,
+      "lon": -46.049999
+    },
+    "name": "Narsaq"
+  },
+  {
+    "country": "GL",
+    "id": 3422518,
+    "coord": {
+      "lat": 65.566673,
+      "lon": -37.116669
+    },
+    "name": "Kap Dan"
+  },
+  {
+    "country": "GL",
+    "id": 6295666,
+    "coord": {
+      "lat": 61.22995,
+      "lon": -48.09
+    },
+    "name": "Kangilinnguit"
+  },
+  {
+    "country": "GL",
+    "id": 3421193,
+    "coord": {
+      "lat": 61.994019,
+      "lon": -49.667759
+    },
+    "name": "Paamiut"
+  },
+  {
+    "country": "GL",
+    "id": 3831451,
+    "coord": {
+      "lat": 76.577217,
+      "lon": -68.775558
+    },
+    "name": "Dundas"
+  },
+  {
+    "country": "GL",
+    "id": 3422887,
+    "coord": {
+      "lat": 70.449997,
+      "lon": -22.450001
+    },
+    "name": "Ittorisseq"
+  },
+  {
+    "country": "GL",
+    "id": 3424607,
+    "coord": {
+      "lat": 65.61451,
+      "lon": -37.636761
+    },
+    "name": "Tasiilaq"
+  },
+  {
+    "country": "GL",
+    "id": 3424901,
+    "coord": {
+      "lat": 68.709808,
+      "lon": -52.869881
+    },
+    "name": "Aasiaat"
+  },
+  {
+    "country": "GL",
+    "id": 3418910,
+    "coord": {
+      "lat": 72.786842,
+      "lon": -56.15485
+    },
+    "name": "Upernavik"
+  },
+  {
+    "country": "GL",
+    "id": 3420846,
+    "coord": {
+      "lat": 60.716671,
+      "lon": -46.033329
+    },
+    "name": "Qaqortoq"
+  },
+  {
+    "country": "GL",
+    "id": 3421982,
+    "coord": {
+      "lat": 65.416672,
+      "lon": -52.900002
+    },
+    "name": "Maniitsoq"
+  },
+  {
+    "country": "GL",
+    "id": 3426193,
+    "coord": {
+      "lat": 70.674721,
+      "lon": -52.126389
+    },
+    "name": "Uummannaq"
+  }
+
+]

@@ -1,0 +1,40 @@
+[
+
+  {
+    "country": "CK",
+    "id": 4036495,
+    "coord": {
+      "lat": -21.206671,
+      "lon": -159.809433
+    },
+    "name": "Nikao"
+  },
+  {
+    "country": "CK",
+    "id": 1899402,
+    "coord": {
+      "lat": -21.248421,
+      "lon": -159.785156
+    },
+    "name": "Cook Islands"
+  },
+  {
+    "country": "CK",
+    "id": 4035715,
+    "coord": {
+      "lat": -21.207781,
+      "lon": -159.774994
+    },
+    "name": "Avarua"
+  },
+  {
+    "country": "CK",
+    "id": 4036467,
+    "coord": {
+      "lat": -20.146669,
+      "lon": -157.350006
+    },
+    "name": "Kimiangatau Village"
+  }
+
+]

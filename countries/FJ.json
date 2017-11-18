@@ -1,0 +1,157 @@
+[
+
+  {
+    "country": "FJ",
+    "id": 2201316,
+    "coord": {
+      "lat": -18.033331,
+      "lon": 178.25
+    },
+    "name": "Nasirotu"
+  },
+  {
+    "country": "FJ",
+    "id": 2204582,
+    "coord": {
+      "lat": -16.41667,
+      "lon": 179.383331
+    },
+    "name": "Lambasa"
+  },
+  {
+    "country": "FJ",
+    "id": 2201079,
+    "coord": {
+      "lat": -16.799999,
+      "lon": 179.333328
+    },
+    "name": "Nathekoro"
+  },
+  {
+    "country": "FJ",
+    "id": 2204113,
+    "coord": {
+      "lat": -12.48333,
+      "lon": 177.066666
+    },
+    "name": "Malsa’a"
+  },
+  {
+    "country": "FJ",
+    "id": 4036017,
+    "coord": {
+      "lat": -16.700001,
+      "lon": -179.866669
+    },
+    "name": "Naselesele"
+  },
+  {
+    "country": "FJ",
+    "id": 4036024,
+    "coord": {
+      "lat": -18.183331,
+      "lon": -178.800003
+    },
+    "name": "Nasanggalau"
+  },
+  {
+    "country": "FJ",
+    "id": 2202999,
+    "coord": {
+      "lat": -16.48333,
+      "lon": 179.350006
+    },
+    "name": "Nakama"
+  },
+  {
+    "country": "FJ",
+    "id": 2201391,
+    "coord": {
+      "lat": -18.049999,
+      "lon": 178.566666
+    },
+    "name": "Naselai"
+  },
+  {
+    "country": "FJ",
+    "id": 7302224,
+    "coord": {
+      "lat": -17.76581,
+      "lon": 177.433228
+    },
+    "name": "Namaka"
+  },
+  {
+    "country": "FJ",
+    "id": 2205272,
+    "coord": {
+      "lat": -18,
+      "lon": 178.333328
+    },
+    "name": "Central Division"
+  },
+  {
+    "country": "FJ",
+    "id": 2199295,
+    "coord": {
+      "lat": -16.5,
+      "lon": 179.5
+    },
+    "name": "Northern Division"
+  },
+  {
+    "country": "FJ",
+    "id": 2202064,
+    "coord": {
+      "lat": -17.799999,
+      "lon": 177.416672
+    },
+    "name": "Nadi"
+  },
+  {
+    "country": "FJ",
+    "id": 2205218,
+    "coord": {
+      "lat": -18,
+      "lon": 178
+    },
+    "name": "Republic of Fiji"
+  },
+  {
+    "country": "FJ",
+    "id": 2194371,
+    "coord": {
+      "lat": -18,
+      "lon": 177.5
+    },
+    "name": "Western Division"
+  },
+  {
+    "country": "FJ",
+    "id": 2204506,
+    "coord": {
+      "lat": -17.616671,
+      "lon": 177.466675
+    },
+    "name": "Lautoka"
+  },
+  {
+    "country": "FJ",
+    "id": 2202179,
+    "coord": {
+      "lat": -17.799999,
+      "lon": 177.416672
+    },
+    "name": "Namotomoto"
+  },
+  {
+    "country": "FJ",
+    "id": 2198148,
+    "coord": {
+      "lat": -18.141609,
+      "lon": 178.441483
+    },
+    "name": "Suva"
+  }
+
+]

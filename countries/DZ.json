@@ -1,0 +1,3775 @@
+[
+
+  {
+    "country": "DZ",
+    "id": 2476412,
+    "coord": {
+      "lat": 36.650002,
+      "lon": 4.77361
+    },
+    "name": "el hed"
+  },
+  {
+    "country": "DZ",
+    "id": 2479183,
+    "coord": {
+      "lat": 36.51833,
+      "lon": 2.90528
+    },
+    "name": "Souma"
+  },
+  {
+    "country": "DZ",
+    "id": 2482939,
+    "coord": {
+      "lat": 36.457741,
+      "lon": 6.04267
+    },
+    "name": "Rouached"
+  },
+  {
+    "country": "DZ",
+    "id": 2483761,
+    "coord": {
+      "lat": 26.715759,
+      "lon": 0.1714
+    },
+    "name": "Reggane"
+  },
+  {
+    "country": "DZ",
+    "id": 2487620,
+    "coord": {
+      "lat": 32.26667,
+      "lon": 3.63333
+    },
+    "name": "Metlili Chaamba"
+  },
+  {
+    "country": "DZ",
+    "id": 2498775,
+    "coord": {
+      "lat": 32.893002,
+      "lon": 0.54839
+    },
+    "name": "El Abiodh Sidi Cheikh"
+  },
+  {
+    "country": "DZ",
+    "id": 2491335,
+    "coord": {
+      "lat": 35.212219,
+      "lon": 2.31889
+    },
+    "name": "Ksar Chellala"
+  },
+  {
+    "country": "DZ",
+    "id": 2492345,
+    "coord": {
+      "lat": 36.929169,
+      "lon": 6.58556
+    },
+    "name": "Kerkera"
+  },
+  {
+    "country": "DZ",
+    "id": 2498752,
+    "coord": {
+      "lat": 36.4701,
+      "lon": 2.62528
+    },
+    "name": "El Affroun"
+  },
+  {
+    "country": "DZ",
+    "id": 2508813,
+    "coord": {
+      "lat": 27.87429,
+      "lon": -0.29388
+    },
+    "name": "Adrar"
+  },
+  {
+    "country": "DZ",
+    "id": 2508807,
+    "coord": {
+      "lat": 25.75,
+      "lon": -1
+    },
+    "name": "Wilaya d’ Adrar"
+  },
+  {
+    "country": "DZ",
+    "id": 2507678,
+    "coord": {
+      "lat": 26.708281,
+      "lon": 1.37528
+    },
+    "name": "Akabli"
+  },
+  {
+    "country": "DZ",
+    "id": 2496045,
+    "coord": {
+      "lat": 31.08333,
+      "lon": 3.16667
+    },
+    "name": "Wilaya de Ghardaïa"
+  },
+  {
+    "country": "DZ",
+    "id": 2496049,
+    "coord": {
+      "lat": 32.49094,
+      "lon": 3.67347
+    },
+    "name": "Ghardaïa"
+  },
+  {
+    "country": "DZ",
+    "id": 2493330,
+    "coord": {
+      "lat": 28.043711,
+      "lon": 9.54112
+    },
+    "name": "I-n-Amenas"
+  },
+  {
+    "country": "DZ",
+    "id": 2507480,
+    "coord": {
+      "lat": 36.752499,
+      "lon": 3.04197
+    },
+    "name": "Algiers"
+  },
+  {
+    "country": "DZ",
+    "id": 2491195,
+    "coord": {
+      "lat": 36.76667,
+      "lon": 3.05
+    },
+    "name": "L’Agha"
+  },
+  {
+    "country": "DZ",
+    "id": 2483757,
+    "coord": {
+      "lat": 36.73587,
+      "lon": 3.34018
+    },
+    "name": "Reghaia"
+  },
+  {
+    "country": "DZ",
+    "id": 2485801,
+    "coord": {
+      "lat": 31.94932,
+      "lon": 5.32502
+    },
+    "name": "Ouargla"
+  },
+  {
+    "country": "DZ",
+    "id": 2487452,
+    "coord": {
+      "lat": 36.450279,
+      "lon": 6.26444
+    },
+    "name": "Mila"
+  },
+  {
+    "country": "DZ",
+    "id": 2489987,
+    "coord": {
+      "lat": 36.122318,
+      "lon": 0.89865
+    },
+    "name": "Mazouna"
+  },
+  {
+    "country": "DZ",
+    "id": 2490180,
+    "coord": {
+      "lat": 36.08725,
+      "lon": 4.45192
+    },
+    "name": "Mansourah"
+  },
+  {
+    "country": "DZ",
+    "id": 2491042,
+    "coord": {
+      "lat": 36.631119,
+      "lon": 4.19864
+    },
+    "name": "LArbaa Nait Irathen"
+  },
+  {
+    "country": "DZ",
+    "id": 2493605,
+    "coord": {
+      "lat": 36.462952,
+      "lon": 4.50532
+    },
+    "name": "Ighram"
+  },
+  {
+    "country": "DZ",
+    "id": 2498766,
+    "coord": {
+      "lat": 36.063862,
+      "lon": 4.62744
+    },
+    "name": "El Achir"
+  },
+  {
+    "country": "DZ",
+    "id": 2499116,
+    "coord": {
+      "lat": 36.73436,
+      "lon": 3.96223
+    },
+    "name": "Draa Ben Khedda"
+  },
+  {
+    "country": "DZ",
+    "id": 2501362,
+    "coord": {
+      "lat": 34.921291,
+      "lon": -1.29512
+    },
+    "name": "Chetouane"
+  },
+  {
+    "country": "DZ",
+    "id": 2501465,
+    "coord": {
+      "lat": 36.76775,
+      "lon": 2.95924
+    },
+    "name": "Cheraga"
+  },
+  {
+    "country": "DZ",
+    "id": 2501508,
+    "coord": {
+      "lat": 36.599998,
+      "lon": 4.61667
+    },
+    "name": "Chemini"
+  },
+  {
+    "country": "DZ",
+    "id": 2501680,
+    "coord": {
+      "lat": 36.577221,
+      "lon": 3.00917
+    },
+    "name": "Chebli"
+  },
+  {
+    "country": "DZ",
+    "id": 2501873,
+    "coord": {
+      "lat": 36.637089,
+      "lon": 3.69474
+    },
+    "name": "Chabet el Ameur"
+  },
+  {
+    "country": "DZ",
+    "id": 2502939,
+    "coord": {
+      "lat": 36.64262,
+      "lon": 2.69007
+    },
+    "name": "Bou Ismail"
+  },
+  {
+    "country": "DZ",
+    "id": 2503620,
+    "coord": {
+      "lat": 36.27462,
+      "lon": 4.85668
+    },
+    "name": "Bordj Zemoura"
+  },
+  {
+    "country": "DZ",
+    "id": 2503847,
+    "coord": {
+      "lat": 36.714989,
+      "lon": 3.05002
+    },
+    "name": "Birkhadem"
+  },
+  {
+    "country": "DZ",
+    "id": 2503852,
+    "coord": {
+      "lat": 35.634998,
+      "lon": 3.225
+    },
+    "name": "Birine"
+  },
+  {
+    "country": "DZ",
+    "id": 2503874,
+    "coord": {
+      "lat": 35.720001,
+      "lon": -0.545
+    },
+    "name": "Bir el Djir"
+  },
+  {
+    "country": "DZ",
+    "id": 2503878,
+    "coord": {
+      "lat": 34.744881,
+      "lon": 8.06024
+    },
+    "name": "Bir el Ater"
+  },
+  {
+    "country": "DZ",
+    "id": 2504616,
+    "coord": {
+      "lat": 34.870449,
+      "lon": -1.42319
+    },
+    "name": "Beni Mester"
+  },
+  {
+    "country": "DZ",
+    "id": 2504622,
+    "coord": {
+      "lat": 36.523891,
+      "lon": 2.86131
+    },
+    "name": "Beni Mered"
+  },
+  {
+    "country": "DZ",
+    "id": 2504703,
+    "coord": {
+      "lat": 36.619541,
+      "lon": 4.08282
+    },
+    "name": "Beni Douala"
+  },
+  {
+    "country": "DZ",
+    "id": 2505329,
+    "coord": {
+      "lat": 36.755871,
+      "lon": 5.08433
+    },
+    "name": "Bejaia"
+  },
+  {
+    "country": "DZ",
+    "id": 2505651,
+    "coord": {
+      "lat": 36.566669,
+      "lon": 4.96667
+    },
+    "name": "Barbacha"
+  },
+  {
+    "country": "DZ",
+    "id": 2505653,
+    "coord": {
+      "lat": 36.66655,
+      "lon": 3.09606
+    },
+    "name": "Baraki"
+  },
+  {
+    "country": "DZ",
+    "id": 2505854,
+    "coord": {
+      "lat": 36.726151,
+      "lon": 3.18291
+    },
+    "name": "Bab Ezzouar"
+  },
+  {
+    "country": "DZ",
+    "id": 2506043,
+    "coord": {
+      "lat": 36.74472,
+      "lon": 4.37222
+    },
+    "name": "Azazga"
+  },
+  {
+    "country": "DZ",
+    "id": 2506519,
+    "coord": {
+      "lat": 36.79361,
+      "lon": 4.31158
+    },
+    "name": "Arhribs"
+  },
+  {
+    "country": "DZ",
+    "id": 2507155,
+    "coord": {
+      "lat": 35.867809,
+      "lon": 1.11143
+    },
+    "name": "Ammi Moussa"
+  },
+  {
+    "country": "DZ",
+    "id": 2507169,
+    "coord": {
+      "lat": 36.640221,
+      "lon": 4.90131
+    },
+    "name": "Amizour"
+  },
+  {
+    "country": "DZ",
+    "id": 2507646,
+    "coord": {
+      "lat": 36.4575,
+      "lon": 4.53494
+    },
+    "name": "Akbou"
+  },
+  {
+    "country": "DZ",
+    "id": 2507877,
+    "coord": {
+      "lat": 35.376751,
+      "lon": 5.90001
+    },
+    "name": "Ain Touta"
+  },
+  {
+    "country": "DZ",
+    "id": 2507912,
+    "coord": {
+      "lat": 36.793331,
+      "lon": 3.28694
+    },
+    "name": "Ain Taya"
+  },
+  {
+    "country": "DZ",
+    "id": 2507926,
+    "coord": {
+      "lat": 36.267399,
+      "lon": 6.50135
+    },
+    "name": "Ain Smara"
+  },
+  {
+    "country": "DZ",
+    "id": 2508102,
+    "coord": {
+      "lat": 35.971081,
+      "lon": 6.87374
+    },
+    "name": "Ain Fakroun"
+  },
+  {
+    "country": "DZ",
+    "id": 2508119,
+    "coord": {
+      "lat": 35.743809,
+      "lon": -0.7693
+    },
+    "name": "Ain el Turk"
+  },
+  {
+    "country": "DZ",
+    "id": 2508152,
+    "coord": {
+      "lat": 36.564709,
+      "lon": 4.30619
+    },
+    "name": "Ain el Hammam"
+  },
+  {
+    "country": "DZ",
+    "id": 2508157,
+    "coord": {
+      "lat": 35.670029,
+      "lon": 3.88153
+    },
+    "name": "Ain el Hadjel"
+  },
+  {
+    "country": "DZ",
+    "id": 2508287,
+    "coord": {
+      "lat": 35.796391,
+      "lon": 7.39278
+    },
+    "name": "Ain Beida"
+  },
+  {
+    "country": "DZ",
+    "id": 2509031,
+    "coord": {
+      "lat": 36.416569,
+      "lon": 1.19616
+    },
+    "name": "Abou el Hassan"
+  },
+  {
+    "country": "DZ",
+    "id": 2484738,
+    "coord": {
+      "lat": 34.692921,
+      "lon": 5.68092
+    },
+    "name": "Oumache"
+  },
+  {
+    "country": "DZ",
+    "id": 2508262,
+    "coord": {
+      "lat": 35.891232,
+      "lon": 3.1585
+    },
+    "name": "Ain Boucif"
+  },
+  {
+    "country": "DZ",
+    "id": 2589581,
+    "coord": {
+      "lat": 28,
+      "lon": 3
+    },
+    "name": "People’s Democratic Republic of Algeria"
+  },
+  {
+    "country": "DZ",
+    "id": 2507475,
+    "coord": {
+      "lat": 36.75,
+      "lon": 3.16667
+    },
+    "name": "Wilaya d’ Alger"
+  },
+  {
+    "country": "DZ",
+    "id": 2474506,
+    "coord": {
+      "lat": 34.682838,
+      "lon": 6.51109
+    },
+    "name": "Zeribet el Oued"
+  },
+  {
+    "country": "DZ",
+    "id": 2474638,
+    "coord": {
+      "lat": 35.722511,
+      "lon": 0.75509
+    },
+    "name": "Zemoura"
+  },
+  {
+    "country": "DZ",
+    "id": 2475740,
+    "coord": {
+      "lat": 36.671761,
+      "lon": 4.19176
+    },
+    "name": "Tizi Rached"
+  },
+  {
+    "country": "DZ",
+    "id": 2475752,
+    "coord": {
+      "lat": 36.545689,
+      "lon": 4.05712
+    },
+    "name": "Tizi-n-Tleta"
+  },
+  {
+    "country": "DZ",
+    "id": 2475921,
+    "coord": {
+      "lat": 36.653931,
+      "lon": 3.98143
+    },
+    "name": "Tirmitine"
+  },
+  {
+    "country": "DZ",
+    "id": 2476396,
+    "coord": {
+      "lat": 36.799999,
+      "lon": 4.26667
+    },
+    "name": "Timizart"
+  },
+  {
+    "country": "DZ",
+    "id": 2476915,
+    "coord": {
+      "lat": 35.871109,
+      "lon": 2.02806
+    },
+    "name": "Theniet el Had"
+  },
+  {
+    "country": "DZ",
+    "id": 2477255,
+    "coord": {
+      "lat": 36.116531,
+      "lon": 6.35434
+    },
+    "name": "Telerghma"
+  },
+  {
+    "country": "DZ",
+    "id": 2477462,
+    "coord": {
+      "lat": 33.116669,
+      "lon": 6.08333
+    },
+    "name": "Tebesbest"
+  },
+  {
+    "country": "DZ",
+    "id": 2478226,
+    "coord": {
+      "lat": 36.837631,
+      "lon": 6.64018
+    },
+    "name": "Tamalous"
+  },
+  {
+    "country": "DZ",
+    "id": 2479609,
+    "coord": {
+      "lat": 35.52832,
+      "lon": -0.19369
+    },
+    "name": "Sig"
+  },
+  {
+    "country": "DZ",
+    "id": 2479916,
+    "coord": {
+      "lat": 34.745121,
+      "lon": 5.89833
+    },
+    "name": "Sidi Okba"
+  },
+  {
+    "country": "DZ",
+    "id": 2479966,
+    "coord": {
+      "lat": 36.606369,
+      "lon": 3.08783
+    },
+    "name": "Sidi Moussa"
+  },
+  {
+    "country": "DZ",
+    "id": 2480198,
+    "coord": {
+      "lat": 36.520561,
+      "lon": 6.26111
+    },
+    "name": "Sidi Merouane"
+  },
+  {
+    "country": "DZ",
+    "id": 2480618,
+    "coord": {
+      "lat": 35.659031,
+      "lon": -0.52168
+    },
+    "name": "Sidi ech Chahmi"
+  },
+  {
+    "country": "DZ",
+    "id": 2481058,
+    "coord": {
+      "lat": 33.498852,
+      "lon": 6.00803
+    },
+    "name": "Sidi Amrane"
+  },
+  {
+    "country": "DZ",
+    "id": 2481207,
+    "coord": {
+      "lat": 36.464722,
+      "lon": 1.30258
+    },
+    "name": "Sidi Akkacha"
+  },
+  {
+    "country": "DZ",
+    "id": 2481389,
+    "coord": {
+      "lat": 35.06937,
+      "lon": -1.13706
+    },
+    "name": "Sidi Abdelli"
+  },
+  {
+    "country": "DZ",
+    "id": 2482090,
+    "coord": {
+      "lat": 36.128681,
+      "lon": 7.53376
+    },
+    "name": "Sedrata"
+  },
+  {
+    "country": "DZ",
+    "id": 2482211,
+    "coord": {
+      "lat": 34.637032,
+      "lon": -1.33143
+    },
+    "name": "Sebdou"
+  },
+  {
+    "country": "DZ",
+    "id": 2482447,
+    "coord": {
+      "lat": 35.8545,
+      "lon": 5.29053
+    },
+    "name": "Salah Bey"
+  },
+  {
+    "country": "DZ",
+    "id": 2482886,
+    "coord": {
+      "lat": 31.924271,
+      "lon": 5.35018
+    },
+    "name": "Rouissat"
+  },
+  {
+    "country": "DZ",
+    "id": 2483000,
+    "coord": {
+      "lat": 33.279659,
+      "lon": 6.90984
+    },
+    "name": "Robbah"
+  },
+  {
+    "country": "DZ",
+    "id": 2483649,
+    "coord": {
+      "lat": 35.061958,
+      "lon": -1.43362
+    },
+    "name": "Remchi"
+  },
+  {
+    "country": "DZ",
+    "id": 2483936,
+    "coord": {
+      "lat": 35.944099,
+      "lon": 5.03107
+    },
+    "name": "Ras el Oued"
+  },
+  {
+    "country": "DZ",
+    "id": 2483968,
+    "coord": {
+      "lat": 35.67384,
+      "lon": 5.6453
+    },
+    "name": "Ras el Aioun"
+  },
+  {
+    "country": "DZ",
+    "id": 2484846,
+    "coord": {
+      "lat": 34.90472,
+      "lon": -1.03394
+    },
+    "name": "Ouled Mimoun"
+  },
+  {
+    "country": "DZ",
+    "id": 2485572,
+    "coord": {
+      "lat": 36.101238,
+      "lon": 1.19949
+    },
+    "name": "Oued Sly"
+  },
+  {
+    "country": "DZ",
+    "id": 2485633,
+    "coord": {
+      "lat": 36.555279,
+      "lon": 2.79028
+    },
+    "name": "Oued el Alleug"
+  },
+  {
+    "country": "DZ",
+    "id": 2485636,
+    "coord": {
+      "lat": 35.455952,
+      "lon": 0.68778
+    },
+    "name": "Oued el Abtal"
+  },
+  {
+    "country": "DZ",
+    "id": 2486505,
+    "coord": {
+      "lat": 36.74625,
+      "lon": 3.83163
+    },
+    "name": "Naciria"
+  },
+  {
+    "country": "DZ",
+    "id": 2487805,
+    "coord": {
+      "lat": 35.630581,
+      "lon": 7.66606
+    },
+    "name": "Meskiana"
+  },
+  {
+    "country": "DZ",
+    "id": 2487852,
+    "coord": {
+      "lat": 35.727901,
+      "lon": -0.7081
+    },
+    "name": "Mers el Kebir"
+  },
+  {
+    "country": "DZ",
+    "id": 2488500,
+    "coord": {
+      "lat": 36.681782,
+      "lon": 4.26378
+    },
+    "name": "Mekla"
+  },
+  {
+    "country": "DZ",
+    "id": 2488616,
+    "coord": {
+      "lat": 35.43058,
+      "lon": 1.75714
+    },
+    "name": "Mehdia"
+  },
+  {
+    "country": "DZ",
+    "id": 2488716,
+    "coord": {
+      "lat": 33.191952,
+      "lon": 6.08695
+    },
+    "name": "Megarine"
+  },
+  {
+    "country": "DZ",
+    "id": 2490183,
+    "coord": {
+      "lat": 34.86158,
+      "lon": -1.33935
+    },
+    "name": "Mansoura"
+  },
+  {
+    "country": "DZ",
+    "id": 2490297,
+    "coord": {
+      "lat": 36.785671,
+      "lon": 4.06273
+    },
+    "name": "Makouda"
+  },
+  {
+    "country": "DZ",
+    "id": 2491050,
+    "coord": {
+      "lat": 36.564709,
+      "lon": 3.15434
+    },
+    "name": "LArba"
+  },
+  {
+    "country": "DZ",
+    "id": 2491913,
+    "coord": {
+      "lat": 36.649971,
+      "lon": 3.3308
+    },
+    "name": "Khemis el Khechna"
+  },
+  {
+    "country": "DZ",
+    "id": 2492920,
+    "coord": {
+      "lat": 35.92989,
+      "lon": 0.82871
+    },
+    "name": "Djidiouia"
+  },
+  {
+    "country": "DZ",
+    "id": 2492991,
+    "coord": {
+      "lat": 36.71859,
+      "lon": 3.66924
+    },
+    "name": "Isser"
+  },
+  {
+    "country": "DZ",
+    "id": 2493222,
+    "coord": {
+      "lat": 27.19351,
+      "lon": 2.46069
+    },
+    "name": "I-n-Salah"
+  },
+  {
+    "country": "DZ",
+    "id": 2493918,
+    "coord": {
+      "lat": 34.951389,
+      "lon": -1.36806
+    },
+    "name": "Hennaya"
+  },
+  {
+    "country": "DZ",
+    "id": 2493956,
+    "coord": {
+      "lat": 36.503609,
+      "lon": 7.44278
+    },
+    "name": "Heliopolis"
+  },
+  {
+    "country": "DZ",
+    "id": 2494548,
+    "coord": {
+      "lat": 35.44862,
+      "lon": 7.95184
+    },
+    "name": "Hammamet"
+  },
+  {
+    "country": "DZ",
+    "id": 2494554,
+    "coord": {
+      "lat": 35.378891,
+      "lon": -0.96778
+    },
+    "name": "Hammam Bou Hadjar"
+  },
+  {
+    "country": "DZ",
+    "id": 2494610,
+    "coord": {
+      "lat": 36.412048,
+      "lon": 6.59603
+    },
+    "name": "Hamma Bouziane"
+  },
+  {
+    "country": "DZ",
+    "id": 2494962,
+    "coord": {
+      "lat": 36.512569,
+      "lon": 2.41382
+    },
+    "name": "Hadjout"
+  },
+  {
+    "country": "DZ",
+    "id": 2496573,
+    "coord": {
+      "lat": 36.560398,
+      "lon": 4.85454
+    },
+    "name": "Feraoun"
+  },
+  {
+    "country": "DZ",
+    "id": 2497796,
+    "coord": {
+      "lat": 36.67942,
+      "lon": 4.8555
+    },
+    "name": "El Kseur"
+  },
+  {
+    "country": "DZ",
+    "id": 2498172,
+    "coord": {
+      "lat": 32.613361,
+      "lon": 5.51259
+    },
+    "name": "El Hadjira"
+  },
+  {
+    "country": "DZ",
+    "id": 2498704,
+    "coord": {
+      "lat": 35.524391,
+      "lon": -1.01577
+    },
+    "name": "El Amria"
+  },
+  {
+    "country": "DZ",
+    "id": 2498541,
+    "coord": {
+      "lat": 32.5,
+      "lon": 1.16667
+    },
+    "name": "Wilaya d’ El Bayadh"
+  },
+  {
+    "country": "DZ",
+    "id": 2498954,
+    "coord": {
+      "lat": 36.195911,
+      "lon": 1.25538
+    },
+    "name": "Ech Chettia"
+  },
+  {
+    "country": "DZ",
+    "id": 2500583,
+    "coord": {
+      "lat": 36.91716,
+      "lon": 3.91311
+    },
+    "name": "Dellys"
+  },
+  {
+    "country": "DZ",
+    "id": 2500737,
+    "coord": {
+      "lat": 33.51667,
+      "lon": 6.95
+    },
+    "name": "Debila"
+  },
+  {
+    "country": "DZ",
+    "id": 2500904,
+    "coord": {
+      "lat": 34.896381,
+      "lon": 3.48543
+    },
+    "name": "Dar Chioukh"
+  },
+  {
+    "country": "DZ",
+    "id": 2501289,
+    "coord": {
+      "lat": 36.365051,
+      "lon": 4.32636
+    },
+    "name": "Chorfa"
+  },
+  {
+    "country": "DZ",
+    "id": 2501767,
+    "coord": {
+      "lat": 34.620979,
+      "lon": 2.79503
+    },
+    "name": "Charef"
+  },
+  {
+    "country": "DZ",
+    "id": 2502034,
+    "coord": {
+      "lat": 33.098919,
+      "lon": 1.26082
+    },
+    "name": "Brezina"
+  },
+  {
+    "country": "DZ",
+    "id": 2502239,
+    "coord": {
+      "lat": 35.57272,
+      "lon": -0.8996
+    },
+    "name": "Bou Tlelis"
+  },
+  {
+    "country": "DZ",
+    "id": 2502962,
+    "coord": {
+      "lat": 36.53167,
+      "lon": 2.99194
+    },
+    "name": "Bouinan"
+  },
+  {
+    "country": "DZ",
+    "id": 2503033,
+    "coord": {
+      "lat": 35.314732,
+      "lon": -0.05037
+    },
+    "name": "Bou Hanifia el Hamamat"
+  },
+  {
+    "country": "DZ",
+    "id": 2503237,
+    "coord": {
+      "lat": 36.802181,
+      "lon": 4.15187
+    },
+    "name": "Boudjima"
+  },
+  {
+    "country": "DZ",
+    "id": 2503468,
+    "coord": {
+      "lat": 36.462978,
+      "lon": 2.81464
+    },
+    "name": "Bou Arfa"
+  },
+  {
+    "country": "DZ",
+    "id": 2503654,
+    "coord": {
+      "lat": 35.901112,
+      "lon": 4.89806
+    },
+    "name": "Bordj Ghdir"
+  },
+  {
+    "country": "DZ",
+    "id": 2503661,
+    "coord": {
+      "lat": 36.748711,
+      "lon": 3.19248
+    },
+    "name": "Bordj el Kiffan"
+  },
+  {
+    "country": "DZ",
+    "id": 2503755,
+    "coord": {
+      "lat": 36.542221,
+      "lon": 3.95306
+    },
+    "name": "Boghni"
+  },
+  {
+    "country": "DZ",
+    "id": 2504136,
+    "coord": {
+      "lat": 36.835281,
+      "lon": 7.45333
+    },
+    "name": "Berrahal"
+  },
+  {
+    "country": "DZ",
+    "id": 2504385,
+    "coord": {
+      "lat": 35.07465,
+      "lon": -1.22431
+    },
+    "name": "Bensekrane"
+  },
+  {
+    "country": "DZ",
+    "id": 2504486,
+    "coord": {
+      "lat": 36.769669,
+      "lon": 7.9064
+    },
+    "name": "Ben Mehidi"
+  },
+  {
+    "country": "DZ",
+    "id": 2506623,
+    "coord": {
+      "lat": 36.63773,
+      "lon": 3.37127
+    },
+    "name": "Arbatache"
+  },
+  {
+    "country": "DZ",
+    "id": 2506795,
+    "coord": {
+      "lat": 26.966669,
+      "lon": 1.08333
+    },
+    "name": "Aoulef"
+  },
+  {
+    "country": "DZ",
+    "id": 2507943,
+    "coord": {
+      "lat": 32.75,
+      "lon": -0.58333
+    },
+    "name": "Ain Sefra"
+  },
+  {
+    "country": "DZ",
+    "id": 2507972,
+    "coord": {
+      "lat": 35.451389,
+      "lon": 2.90583
+    },
+    "name": "Ain Oussera"
+  },
+  {
+    "country": "DZ",
+    "id": 2508010,
+    "coord": {
+      "lat": 36.162769,
+      "lon": 0.97037
+    },
+    "name": "Ain Merane"
+  },
+  {
+    "country": "DZ",
+    "id": 2508130,
+    "coord": {
+      "lat": 34.841461,
+      "lon": 4.16383
+    },
+    "name": "Ain el Melh"
+  },
+  {
+    "country": "DZ",
+    "id": 2508174,
+    "coord": {
+      "lat": 35.80389,
+      "lon": -0.30178
+    },
+    "name": "Ain el Bya"
+  },
+  {
+    "country": "DZ",
+    "id": 2508180,
+    "coord": {
+      "lat": 35.363949,
+      "lon": -0.51278
+    },
+    "name": "Ain el Berd"
+  },
+  {
+    "country": "DZ",
+    "id": 2508184,
+    "coord": {
+      "lat": 34.3438,
+      "lon": 3.22475
+    },
+    "name": "Ain el Bell"
+  },
+  {
+    "country": "DZ",
+    "id": 2508225,
+    "coord": {
+      "lat": 34.842178,
+      "lon": 1.54698
+    },
+    "name": "Ain Deheb"
+  },
+  {
+    "country": "DZ",
+    "id": 2508268,
+    "coord": {
+      "lat": 36.293331,
+      "lon": 3.67319
+    },
+    "name": "Ain Bessem"
+  },
+  {
+    "country": "DZ",
+    "id": 2508275,
+    "coord": {
+      "lat": 36.802769,
+      "lon": 2.92185
+    },
+    "name": "Ain Benian"
+  },
+  {
+    "country": "DZ",
+    "id": 2508297,
+    "coord": {
+      "lat": 36.186829,
+      "lon": 5.31347
+    },
+    "name": "Ain Arnat"
+  },
+  {
+    "country": "DZ",
+    "id": 2508309,
+    "coord": {
+      "lat": 36.231941,
+      "lon": 6.94333
+    },
+    "name": "Ain Abid"
+  },
+  {
+    "country": "DZ",
+    "id": 2508737,
+    "coord": {
+      "lat": 34.112801,
+      "lon": 2.10228
+    },
+    "name": "Aflou"
+  },
+  {
+    "country": "DZ",
+    "id": 6698360,
+    "coord": {
+      "lat": 36.489941,
+      "lon": 5.5393
+    },
+    "name": "BABOR - VILLE"
+  },
+  {
+    "country": "DZ",
+    "id": 2486523,
+    "coord": {
+      "lat": 33.26667,
+      "lon": -0.31667
+    },
+    "name": "Naama"
+  },
+  {
+    "country": "DZ",
+    "id": 2508162,
+    "coord": {
+      "lat": 34.758461,
+      "lon": 0.14528
+    },
+    "name": "Ain el Hadjar"
+  },
+  {
+    "country": "DZ",
+    "id": 2493455,
+    "coord": {
+      "lat": 26.83333,
+      "lon": 8.16667
+    },
+    "name": "Wilaya d’ Illizi"
+  },
+  {
+    "country": "DZ",
+    "id": 2503633,
+    "coord": {
+      "lat": 28.120239,
+      "lon": 6.81856
+    },
+    "name": "Bordj Omar Driss"
+  },
+  {
+    "country": "DZ",
+    "id": 2491188,
+    "coord": {
+      "lat": 33.583328,
+      "lon": 2.66667
+    },
+    "name": "Wilaya de Laghouat"
+  },
+  {
+    "country": "DZ",
+    "id": 2498071,
+    "coord": {
+      "lat": 33.646671,
+      "lon": 2.44905
+    },
+    "name": "El Haouita"
+  },
+  {
+    "country": "DZ",
+    "id": 2500013,
+    "coord": {
+      "lat": 34.333328,
+      "lon": 3.66667
+    },
+    "name": "Wilaya de Djelfa"
+  },
+  {
+    "country": "DZ",
+    "id": 2491340,
+    "coord": {
+      "lat": 34.370159,
+      "lon": 3.14012
+    },
+    "name": "Ksar Ahmera"
+  },
+  {
+    "country": "DZ",
+    "id": 2481001,
+    "coord": {
+      "lat": 34.833328,
+      "lon": -0.5
+    },
+    "name": "Wilaya de Sidi Bel Abbès"
+  },
+  {
+    "country": "DZ",
+    "id": 2490138,
+    "coord": {
+      "lat": 34.446751,
+      "lon": -0.19465
+    },
+    "name": "Marhoum"
+  },
+  {
+    "country": "DZ",
+    "id": 2490095,
+    "coord": {
+      "lat": 35.416672,
+      "lon": 0.16667
+    },
+    "name": "Wilaya de Mascara"
+  },
+  {
+    "country": "DZ",
+    "id": 2499248,
+    "coord": {
+      "lat": 35.259411,
+      "lon": -0.07908
+    },
+    "name": "Douar Ouled Sidi Yoûssef"
+  },
+  {
+    "country": "DZ",
+    "id": 2501296,
+    "coord": {
+      "lat": 36.25,
+      "lon": 1.25
+    },
+    "name": "Wilaya de Chlef"
+  },
+  {
+    "country": "DZ",
+    "id": 2484907,
+    "coord": {
+      "lat": 36.109261,
+      "lon": 1.16904
+    },
+    "name": "Ouled el Hadj Abbed"
+  },
+  {
+    "country": "DZ",
+    "id": 2491191,
+    "coord": {
+      "lat": 33.799999,
+      "lon": 2.86514
+    },
+    "name": "Laghouat"
+  },
+  {
+    "country": "DZ",
+    "id": 2475741,
+    "coord": {
+      "lat": 36.75,
+      "lon": 4.25
+    },
+    "name": "Wilaya de Tizi Ouzou"
+  },
+  {
+    "country": "DZ",
+    "id": 2475744,
+    "coord": {
+      "lat": 36.711819,
+      "lon": 4.04591
+    },
+    "name": "Tizi Ouzou"
+  },
+  {
+    "country": "DZ",
+    "id": 2498611,
+    "coord": {
+      "lat": 36.165249,
+      "lon": 1.33452
+    },
+    "name": "Chlef"
+  },
+  {
+    "country": "DZ",
+    "id": 2503765,
+    "coord": {
+      "lat": 36.583328,
+      "lon": 3
+    },
+    "name": "Wilaya de Blida"
+  },
+  {
+    "country": "DZ",
+    "id": 2503769,
+    "coord": {
+      "lat": 36.470039,
+      "lon": 2.8277
+    },
+    "name": "Blida"
+  },
+  {
+    "country": "DZ",
+    "id": 2485920,
+    "coord": {
+      "lat": 35.666672,
+      "lon": -0.5
+    },
+    "name": "Wilaya d’ Oran"
+  },
+  {
+    "country": "DZ",
+    "id": 2485926,
+    "coord": {
+      "lat": 35.691109,
+      "lon": -0.64167
+    },
+    "name": "Oran"
+  },
+  {
+    "country": "DZ",
+    "id": 2475683,
+    "coord": {
+      "lat": 34.666672,
+      "lon": -1.41667
+    },
+    "name": "Wilaya de Tlemcen"
+  },
+  {
+    "country": "DZ",
+    "id": 2475687,
+    "coord": {
+      "lat": 34.87833,
+      "lon": -1.315
+    },
+    "name": "Tlemcen"
+  },
+  {
+    "country": "DZ",
+    "id": 2490098,
+    "coord": {
+      "lat": 35.396641,
+      "lon": 0.14027
+    },
+    "name": "Mascara"
+  },
+  {
+    "country": "DZ",
+    "id": 2482557,
+    "coord": {
+      "lat": 34.666672,
+      "lon": 0.33333
+    },
+    "name": "Wilaya de Saïda"
+  },
+  {
+    "country": "DZ",
+    "id": 2482572,
+    "coord": {
+      "lat": 34.830341,
+      "lon": 0.15171
+    },
+    "name": "Saida"
+  },
+  {
+    "country": "DZ",
+    "id": 2483666,
+    "coord": {
+      "lat": 35.75,
+      "lon": 0.91667
+    },
+    "name": "Wilaya de Relizane"
+  },
+  {
+    "country": "DZ",
+    "id": 2483668,
+    "coord": {
+      "lat": 35.737339,
+      "lon": 0.55599
+    },
+    "name": "Relizane"
+  },
+  {
+    "country": "DZ",
+    "id": 2580216,
+    "coord": {
+      "lat": 35.737782,
+      "lon": 0.55917
+    },
+    "name": "Village Negre"
+  },
+  {
+    "country": "DZ",
+    "id": 2476302,
+    "coord": {
+      "lat": 27.41667,
+      "lon": -5.83333
+    },
+    "name": "Wilaya de Tindouf"
+  },
+  {
+    "country": "DZ",
+    "id": 2476301,
+    "coord": {
+      "lat": 27.67111,
+      "lon": -8.14744
+    },
+    "name": "Tindouf"
+  },
+  {
+    "country": "DZ",
+    "id": 2501147,
+    "coord": {
+      "lat": 36.333328,
+      "lon": 6.66667
+    },
+    "name": "Wilaya de Constantine"
+  },
+  {
+    "country": "DZ",
+    "id": 2501152,
+    "coord": {
+      "lat": 36.365002,
+      "lon": 6.61472
+    },
+    "name": "Constantine"
+  },
+  {
+    "country": "DZ",
+    "id": 2506994,
+    "coord": {
+      "lat": 36.833328,
+      "lon": 7.58333
+    },
+    "name": "Wilaya d’ Annaba"
+  },
+  {
+    "country": "DZ",
+    "id": 2506999,
+    "coord": {
+      "lat": 36.900002,
+      "lon": 7.76667
+    },
+    "name": "Annaba"
+  },
+  {
+    "country": "DZ",
+    "id": 2505569,
+    "coord": {
+      "lat": 35.5,
+      "lon": 5.91667
+    },
+    "name": "Wilaya de Batna"
+  },
+  {
+    "country": "DZ",
+    "id": 2505572,
+    "coord": {
+      "lat": 35.555969,
+      "lon": 6.17414
+    },
+    "name": "Batna"
+  },
+  {
+    "country": "DZ",
+    "id": 2479532,
+    "coord": {
+      "lat": 36.75,
+      "lon": 6.83333
+    },
+    "name": "Wilaya de Skikda"
+  },
+  {
+    "country": "DZ",
+    "id": 2479536,
+    "coord": {
+      "lat": 36.876171,
+      "lon": 6.90921
+    },
+    "name": "Skikda"
+  },
+  {
+    "country": "DZ",
+    "id": 2485794,
+    "coord": {
+      "lat": 30.5,
+      "lon": 6.16667
+    },
+    "name": "Wilaya de Ouargla"
+  },
+  {
+    "country": "DZ",
+    "id": 2504552,
+    "coord": {
+      "lat": 31.963091,
+      "lon": 5.32814
+    },
+    "name": "Beni Thour"
+  },
+  {
+    "country": "DZ",
+    "id": 2488831,
+    "coord": {
+      "lat": 36.083328,
+      "lon": 3
+    },
+    "name": "Wilaya de Médéa"
+  },
+  {
+    "country": "DZ",
+    "id": 2488835,
+    "coord": {
+      "lat": 36.264172,
+      "lon": 2.75393
+    },
+    "name": "Medea"
+  },
+  {
+    "country": "DZ",
+    "id": 2500017,
+    "coord": {
+      "lat": 34.672791,
+      "lon": 3.263
+    },
+    "name": "Djelfa"
+  },
+  {
+    "country": "DZ",
+    "id": 2505525,
+    "coord": {
+      "lat": 30.25,
+      "lon": -3.08333
+    },
+    "name": "Wilaya de Béchar"
+  },
+  {
+    "country": "DZ",
+    "id": 2505530,
+    "coord": {
+      "lat": 31.616671,
+      "lon": -2.21667
+    },
+    "name": "Bechar"
+  },
+  {
+    "country": "DZ",
+    "id": 2481696,
+    "coord": {
+      "lat": 36.166672,
+      "lon": 5.5
+    },
+    "name": "Wilaya de Sétif"
+  },
+  {
+    "country": "DZ",
+    "id": 2481700,
+    "coord": {
+      "lat": 36.19112,
+      "lon": 5.41373
+    },
+    "name": "Setif"
+  },
+  {
+    "country": "DZ",
+    "id": 2503822,
+    "coord": {
+      "lat": 34.666672,
+      "lon": 5.41667
+    },
+    "name": "Wilaya de Biskra"
+  },
+  {
+    "country": "DZ",
+    "id": 2503826,
+    "coord": {
+      "lat": 34.85038,
+      "lon": 5.72805
+    },
+    "name": "Biskra"
+  },
+  {
+    "country": "DZ",
+    "id": 2487130,
+    "coord": {
+      "lat": 36,
+      "lon": 0.33333
+    },
+    "name": "Wilaya de Mostaganem"
+  },
+  {
+    "country": "DZ",
+    "id": 2487134,
+    "coord": {
+      "lat": 35.931149,
+      "lon": 0.08918
+    },
+    "name": "Mostaganem"
+  },
+  {
+    "country": "DZ",
+    "id": 2476893,
+    "coord": {
+      "lat": 34.916672,
+      "lon": 1.58333
+    },
+    "name": "Wilaya de Tiaret"
+  },
+  {
+    "country": "DZ",
+    "id": 2476897,
+    "coord": {
+      "lat": 35.371029,
+      "lon": 1.31699
+    },
+    "name": "Tiaret"
+  },
+  {
+    "country": "DZ",
+    "id": 2502951,
+    "coord": {
+      "lat": 36.25,
+      "lon": 3.91667
+    },
+    "name": "Wilaya de Bouira"
+  },
+  {
+    "country": "DZ",
+    "id": 2502958,
+    "coord": {
+      "lat": 36.374889,
+      "lon": 3.902
+    },
+    "name": "Bouira"
+  },
+  {
+    "country": "DZ",
+    "id": 2487293,
+    "coord": {
+      "lat": 35.588612,
+      "lon": 0.06861
+    },
+    "name": "Mohammadia"
+  },
+  {
+    "country": "DZ",
+    "id": 2501365,
+    "coord": {
+      "lat": 34.84568,
+      "lon": 5.80839
+    },
+    "name": "Chetma"
+  },
+  {
+    "country": "DZ",
+    "id": 2477457,
+    "coord": {
+      "lat": 35,
+      "lon": 7.83333
+    },
+    "name": "Wilaya de Tébessa"
+  },
+  {
+    "country": "DZ",
+    "id": 2477461,
+    "coord": {
+      "lat": 35.404171,
+      "lon": 8.12417
+    },
+    "name": "Tebessa"
+  },
+  {
+    "country": "DZ",
+    "id": 2503181,
+    "coord": {
+      "lat": 36.57412,
+      "lon": 2.91214
+    },
+    "name": "Boufarik"
+  },
+  {
+    "country": "DZ",
+    "id": 2492910,
+    "coord": {
+      "lat": 36.75,
+      "lon": 6
+    },
+    "name": "Wilaya de Jijel"
+  },
+  {
+    "country": "DZ",
+    "id": 2492738,
+    "coord": {
+      "lat": 36.771751,
+      "lon": 5.81285
+    },
+    "name": "Kaous"
+  },
+  {
+    "country": "DZ",
+    "id": 2485582,
+    "coord": {
+      "lat": 35.961239,
+      "lon": 0.91896
+    },
+    "name": "Oued Rhiou"
+  },
+  {
+    "country": "DZ",
+    "id": 2508226,
+    "coord": {
+      "lat": 36.166672,
+      "lon": 2.16667
+    },
+    "name": "Wilaya de Aïn Defla"
+  },
+  {
+    "country": "DZ",
+    "id": 2491911,
+    "coord": {
+      "lat": 36.26104,
+      "lon": 2.22015
+    },
+    "name": "Khemis Miliana"
+  },
+  {
+    "country": "DZ",
+    "id": 2479213,
+    "coord": {
+      "lat": 36.166672,
+      "lon": 7.91667
+    },
+    "name": "Wilaya de Souk Ahras"
+  },
+  {
+    "country": "DZ",
+    "id": 2479215,
+    "coord": {
+      "lat": 36.286388,
+      "lon": 7.95111
+    },
+    "name": "Souk Ahras"
+  },
+  {
+    "country": "DZ",
+    "id": 2498392,
+    "coord": {
+      "lat": 36.152809,
+      "lon": 5.69016
+    },
+    "name": "El Eulma"
+  },
+  {
+    "country": "DZ",
+    "id": 2476027,
+    "coord": {
+      "lat": 36.583328,
+      "lon": 2.41667
+    },
+    "name": "Wilaya de Tipaza"
+  },
+  {
+    "country": "DZ",
+    "id": 2491578,
+    "coord": {
+      "lat": 36.638882,
+      "lon": 2.76845
+    },
+    "name": "Kolea"
+  },
+  {
+    "country": "DZ",
+    "id": 2481007,
+    "coord": {
+      "lat": 35.189941,
+      "lon": -0.63085
+    },
+    "name": "Sidi Bel Abbes"
+  },
+  {
+    "country": "DZ",
+    "id": 2496740,
+    "coord": {
+      "lat": 35.191471,
+      "lon": -0.64851
+    },
+    "name": "Faubourg Marceau"
+  },
+  {
+    "country": "DZ",
+    "id": 2492913,
+    "coord": {
+      "lat": 36.820549,
+      "lon": 5.76671
+    },
+    "name": "Jijel"
+  },
+  {
+    "country": "DZ",
+    "id": 2495659,
+    "coord": {
+      "lat": 36.416672,
+      "lon": 7.41667
+    },
+    "name": "Wilaya de Guelma"
+  },
+  {
+    "country": "DZ",
+    "id": 2495662,
+    "coord": {
+      "lat": 36.462139,
+      "lon": 7.42608
+    },
+    "name": "Guelma"
+  },
+  {
+    "country": "DZ",
+    "id": 2477148,
+    "coord": {
+      "lat": 36.510761,
+      "lon": 1.30809
+    },
+    "name": "Ténès"
+  },
+  {
+    "country": "DZ",
+    "id": 2506385,
+    "coord": {
+      "lat": 35.847729,
+      "lon": -0.31468
+    },
+    "name": "Arzew"
+  },
+  {
+    "country": "DZ",
+    "id": 2482908,
+    "coord": {
+      "lat": 36.738289,
+      "lon": 3.28079
+    },
+    "name": "Rouiba"
+  },
+  {
+    "country": "DZ",
+    "id": 2505865,
+    "coord": {
+      "lat": 36.69556,
+      "lon": 2.9725
+    },
+    "name": "Baba Hassen"
+  },
+  {
+    "country": "DZ",
+    "id": 2490584,
+    "coord": {
+      "lat": 34.849689,
+      "lon": -1.72753
+    },
+    "name": "Maghnia"
+  },
+  {
+    "country": "DZ",
+    "id": 2476700,
+    "coord": {
+      "lat": 35.417221,
+      "lon": 0.32982
+    },
+    "name": "Tighenif"
+  },
+  {
+    "country": "DZ",
+    "id": 2486177,
+    "coord": {
+      "lat": 35.555,
+      "lon": 5.61056
+    },
+    "name": "N’Gaous"
+  },
+  {
+    "country": "DZ",
+    "id": 2491887,
+    "coord": {
+      "lat": 35,
+      "lon": 7
+    },
+    "name": "Wilaya de Khenchela"
+  },
+  {
+    "country": "DZ",
+    "id": 2491889,
+    "coord": {
+      "lat": 35.435829,
+      "lon": 7.14333
+    },
+    "name": "Khenchela"
+  },
+  {
+    "country": "DZ",
+    "id": 2501404,
+    "coord": {
+      "lat": 35.27306,
+      "lon": 7.75194
+    },
+    "name": "Cheria"
+  },
+  {
+    "country": "DZ",
+    "id": 2505325,
+    "coord": {
+      "lat": 36.666672,
+      "lon": 4.91667
+    },
+    "name": "Wilaya de Bejaïa"
+  },
+  {
+    "country": "DZ",
+    "id": 2506939,
+    "coord": {
+      "lat": 36.633331,
+      "lon": 5.25
+    },
+    "name": "Aokas"
+  },
+  {
+    "country": "DZ",
+    "id": 2502638,
+    "coord": {
+      "lat": 36.75,
+      "lon": 3.66667
+    },
+    "name": "Wilaya de Boumerdes"
+  },
+  {
+    "country": "DZ",
+    "id": 2476917,
+    "coord": {
+      "lat": 36.725441,
+      "lon": 3.55665
+    },
+    "name": "Thenia"
+  },
+  {
+    "country": "DZ",
+    "id": 2497693,
+    "coord": {
+      "lat": 35.732361,
+      "lon": 0.46159
+    },
+    "name": "El Matmar"
+  },
+  {
+    "country": "DZ",
+    "id": 2476660,
+    "coord": {
+      "lat": 36.888561,
+      "lon": 4.11984
+    },
+    "name": "Tigzirt"
+  },
+  {
+    "country": "DZ",
+    "id": 2486825,
+    "coord": {
+      "lat": 36.466949,
+      "lon": 2.68991
+    },
+    "name": "Mouzaia"
+  },
+  {
+    "country": "DZ",
+    "id": 2486682,
+    "coord": {
+      "lat": 35.333328,
+      "lon": 4.33333
+    },
+    "name": "Wilaya de M’Sila"
+  },
+  {
+    "country": "DZ",
+    "id": 2481246,
+    "coord": {
+      "lat": 35.885479,
+      "lon": 3.77236
+    },
+    "name": "Sidi Aissa"
+  },
+  {
+    "country": "DZ",
+    "id": 2490827,
+    "coord": {
+      "lat": 36.31073,
+      "lon": 2.16254
+    },
+    "name": "Levacher"
+  },
+  {
+    "country": "DZ",
+    "id": 2494073,
+    "coord": {
+      "lat": 35.071091,
+      "lon": 3.0299
+    },
+    "name": "Hassi Bahbah"
+  },
+  {
+    "country": "DZ",
+    "id": 2487882,
+    "coord": {
+      "lat": 35.631062,
+      "lon": 5.91186
+    },
+    "name": "Merouana"
+  },
+  {
+    "country": "DZ",
+    "id": 2503699,
+    "coord": {
+      "lat": 36.083328,
+      "lon": 4.75
+    },
+    "name": "Wilaya de Bordj Bou Arréridj"
+  },
+  {
+    "country": "DZ",
+    "id": 2488202,
+    "coord": {
+      "lat": 35.979988,
+      "lon": 4.18665
+    },
+    "name": "Melouza"
+  },
+  {
+    "country": "DZ",
+    "id": 2503829,
+    "coord": {
+      "lat": 36.645149,
+      "lon": 3
+    },
+    "name": "Birtouta"
+  },
+  {
+    "country": "DZ",
+    "id": 2484078,
+    "coord": {
+      "lat": 35.53014,
+      "lon": 1.02165
+    },
+    "name": "Rahouia"
+  },
+  {
+    "country": "DZ",
+    "id": 2503156,
+    "coord": {
+      "lat": 36.332932,
+      "lon": 5.08843
+    },
+    "name": "Bougaa"
+  },
+  {
+    "country": "DZ",
+    "id": 2503147,
+    "coord": {
+      "lat": 36.541779,
+      "lon": 3.081
+    },
+    "name": "Bougara"
+  },
+  {
+    "country": "DZ",
+    "id": 2474583,
+    "coord": {
+      "lat": 36.711689,
+      "lon": 2.84244
+    },
+    "name": "Zeralda"
+  },
+  {
+    "country": "DZ",
+    "id": 2491134,
+    "coord": {
+      "lat": 36.564629,
+      "lon": 3.5933
+    },
+    "name": "Lakhdaria"
+  },
+  {
+    "country": "DZ",
+    "id": 2486690,
+    "coord": {
+      "lat": 35.70583,
+      "lon": 4.54194
+    },
+    "name": "MSila"
+  },
+  {
+    "country": "DZ",
+    "id": 2503229,
+    "coord": {
+      "lat": 36.727348,
+      "lon": 3.40995
+    },
+    "name": "Boudouaou"
+  },
+  {
+    "country": "DZ",
+    "id": 2503641,
+    "coord": {
+      "lat": 36.743279,
+      "lon": 3.7173
+    },
+    "name": "Bordj Menaïel"
+  },
+  {
+    "country": "DZ",
+    "id": 2484618,
+    "coord": {
+      "lat": 35.833328,
+      "lon": 7.08333
+    },
+    "name": "Wilaya d’ Oum el Bouaghi"
+  },
+  {
+    "country": "DZ",
+    "id": 2498667,
+    "coord": {
+      "lat": 35.866909,
+      "lon": 7.88672
+    },
+    "name": "El Aouinet"
+  },
+  {
+    "country": "DZ",
+    "id": 2486512,
+    "coord": {
+      "lat": 33.5,
+      "lon": -0.83333
+    },
+    "name": "Wilaya de Naama"
+  },
+  {
+    "country": "DZ",
+    "id": 2489865,
+    "coord": {
+      "lat": 33.544529,
+      "lon": -0.28117
+    },
+    "name": "Mecheria"
+  },
+  {
+    "country": "DZ",
+    "id": 2503701,
+    "coord": {
+      "lat": 36.073219,
+      "lon": 4.76108
+    },
+    "name": "Bordj Bou Arreridj"
+  },
+  {
+    "country": "DZ",
+    "id": 2491323,
+    "coord": {
+      "lat": 35.888889,
+      "lon": 2.74905
+    },
+    "name": "Ksar el Boukhari"
+  },
+  {
+    "country": "DZ",
+    "id": 2477537,
+    "coord": {
+      "lat": 36.386822,
+      "lon": 4.39886
+    },
+    "name": "Tazmalt"
+  },
+  {
+    "country": "DZ",
+    "id": 2496392,
+    "coord": {
+      "lat": 36.353901,
+      "lon": 1.37403
+    },
+    "name": "Benairia"
+  },
+  {
+    "country": "DZ",
+    "id": 2495159,
+    "coord": {
+      "lat": 35.459049,
+      "lon": -0.00567
+    },
+    "name": "Hacine"
+  },
+  {
+    "country": "DZ",
+    "id": 2506404,
+    "coord": {
+      "lat": 35.258808,
+      "lon": 6.34706
+    },
+    "name": "Arris"
+  },
+  {
+    "country": "DZ",
+    "id": 2487449,
+    "coord": {
+      "lat": 36.416672,
+      "lon": 6.16667
+    },
+    "name": "Wilaya de Mila"
+  },
+  {
+    "country": "DZ",
+    "id": 2478876,
+    "coord": {
+      "lat": 36.121288,
+      "lon": 5.9867
+    },
+    "name": "Tadjenanet"
+  },
+  {
+    "country": "DZ",
+    "id": 2477528,
+    "coord": {
+      "lat": 35.481709,
+      "lon": 6.26074
+    },
+    "name": "Tazoult-Lambese"
+  },
+  {
+    "country": "DZ",
+    "id": 2479161,
+    "coord": {
+      "lat": 36.147659,
+      "lon": 3.69123
+    },
+    "name": "Sour el Ghozlane"
+  },
+  {
+    "country": "DZ",
+    "id": 2504099,
+    "coord": {
+      "lat": 36.135159,
+      "lon": 2.91085
+    },
+    "name": "Berrouaghia"
+  },
+  {
+    "country": "DZ",
+    "id": 2507899,
+    "coord": {
+      "lat": 35.333328,
+      "lon": -1.08333
+    },
+    "name": "Wilaya de Aïn Temouchent"
+  },
+  {
+    "country": "DZ",
+    "id": 2497714,
+    "coord": {
+      "lat": 35.39138,
+      "lon": -1.09238
+    },
+    "name": "El Malah"
+  },
+  {
+    "country": "DZ",
+    "id": 2479247,
+    "coord": {
+      "lat": 35.18568,
+      "lon": 1.49612
+    },
+    "name": "Sougueur"
+  },
+  {
+    "country": "DZ",
+    "id": 2492873,
+    "coord": {
+      "lat": 36.534439,
+      "lon": 3.68278
+    },
+    "name": "Kadiria"
+  },
+  {
+    "country": "DZ",
+    "id": 2478554,
+    "coord": {
+      "lat": 36.763039,
+      "lon": 5.89788
+    },
+    "name": "Taher"
+  },
+  {
+    "country": "DZ",
+    "id": 2500401,
+    "coord": {
+      "lat": 36.452499,
+      "lon": 6.63639
+    },
+    "name": "Didouche Mourad"
+  },
+  {
+    "country": "DZ",
+    "id": 2497972,
+    "coord": {
+      "lat": 36.113049,
+      "lon": 1.55342
+    },
+    "name": "El Karimia"
+  },
+  {
+    "country": "DZ",
+    "id": 2504739,
+    "coord": {
+      "lat": 36.66774,
+      "lon": 3.59115
+    },
+    "name": "Beni Amrane"
+  },
+  {
+    "country": "DZ",
+    "id": 2501440,
+    "coord": {
+      "lat": 36.605,
+      "lon": 2.19083
+    },
+    "name": "Cherchell"
+  },
+  {
+    "country": "DZ",
+    "id": 2504110,
+    "coord": {
+      "lat": 32.826481,
+      "lon": 3.7669
+    },
+    "name": "Berriane"
+  },
+  {
+    "country": "DZ",
+    "id": 2475785,
+    "coord": {
+      "lat": 35.316029,
+      "lon": 0.07236
+    },
+    "name": "Tizi"
+  },
+  {
+    "country": "DZ",
+    "id": 2500592,
+    "coord": {
+      "lat": 36.751011,
+      "lon": 2.98339
+    },
+    "name": "Deli Ibrahim"
+  },
+  {
+    "country": "DZ",
+    "id": 2484620,
+    "coord": {
+      "lat": 35.875408,
+      "lon": 7.11353
+    },
+    "name": "Oum el Bouaghi"
+  },
+  {
+    "country": "DZ",
+    "id": 2491653,
+    "coord": {
+      "lat": 36.6772,
+      "lon": 2.98213
+    },
+    "name": "Khraicia"
+  },
+  {
+    "country": "DZ",
+    "id": 2480169,
+    "coord": {
+      "lat": 36.74453,
+      "lon": 3.05268
+    },
+    "name": "Belcourt"
+  },
+  {
+    "country": "DZ",
+    "id": 2501323,
+    "coord": {
+      "lat": 36.462929,
+      "lon": 2.73873
+    },
+    "name": "Chiffa"
+  },
+  {
+    "country": "DZ",
+    "id": 2484894,
+    "coord": {
+      "lat": 36.736549,
+      "lon": 2.94981
+    },
+    "name": "Ouled Fayet"
+  },
+  {
+    "country": "DZ",
+    "id": 2499193,
+    "coord": {
+      "lat": 36.669998,
+      "lon": 2.94444
+    },
+    "name": "Douera"
+  },
+  {
+    "country": "DZ",
+    "id": 2479099,
+    "coord": {
+      "lat": 36.753189,
+      "lon": 2.88783
+    },
+    "name": "Staoueli"
+  },
+  {
+    "country": "DZ",
+    "id": 2481639,
+    "coord": {
+      "lat": 35.234638,
+      "lon": -0.24435
+    },
+    "name": "Sfizef"
+  },
+  {
+    "country": "DZ",
+    "id": 2474399,
+    "coord": {
+      "lat": 36.53307,
+      "lon": 6.71238
+    },
+    "name": "Zighout Youcef"
+  },
+  {
+    "country": "DZ",
+    "id": 2485559,
+    "coord": {
+      "lat": 35.551201,
+      "lon": -0.45141
+    },
+    "name": "Oued Tlélat"
+  },
+  {
+    "country": "DZ",
+    "id": 2485571,
+    "coord": {
+      "lat": 36.653439,
+      "lon": 3.14726
+    },
+    "name": "Oued Smar"
+  },
+  {
+    "country": "DZ",
+    "id": 2488058,
+    "coord": {
+      "lat": 36.47477,
+      "lon": 2.42624
+    },
+    "name": "Merad"
+  },
+  {
+    "country": "DZ",
+    "id": 2505629,
+    "coord": {
+      "lat": 35.389011,
+      "lon": 5.36584
+    },
+    "name": "Barika"
+  },
+  {
+    "country": "DZ",
+    "id": 2498590,
+    "coord": {
+      "lat": 36.22393,
+      "lon": 1.67187
+    },
+    "name": "El Attaf"
+  },
+  {
+    "country": "DZ",
+    "id": 2481836,
+    "coord": {
+      "lat": 36.069649,
+      "lon": 1.39393
+    },
+    "name": "Sendjas"
+  },
+  {
+    "country": "DZ",
+    "id": 2494029,
+    "coord": {
+      "lat": 31.68041,
+      "lon": 6.07286
+    },
+    "name": "Hassi Messaoud"
+  },
+  {
+    "country": "DZ",
+    "id": 2496232,
+    "coord": {
+      "lat": 35.065441,
+      "lon": 1.04945
+    },
+    "name": "Frenda"
+  },
+  {
+    "country": "DZ",
+    "id": 2475858,
+    "coord": {
+      "lat": 35.75,
+      "lon": 1.75
+    },
+    "name": "Wilaya de Tissemsilt"
+  },
+  {
+    "country": "DZ",
+    "id": 2475860,
+    "coord": {
+      "lat": 35.60722,
+      "lon": 1.81081
+    },
+    "name": "Tissemsilt"
+  },
+  {
+    "country": "DZ",
+    "id": 2497406,
+    "coord": {
+      "lat": 33.166672,
+      "lon": 7.25
+    },
+    "name": "Wilaya d’ El Oued"
+  },
+  {
+    "country": "DZ",
+    "id": 2498277,
+    "coord": {
+      "lat": 33.400002,
+      "lon": 6.83333
+    },
+    "name": "El Gourarir Zaouiet"
+  },
+  {
+    "country": "DZ",
+    "id": 2475475,
+    "coord": {
+      "lat": 33.10527,
+      "lon": 6.05796
+    },
+    "name": "Touggourt"
+  },
+  {
+    "country": "DZ",
+    "id": 2501089,
+    "coord": {
+      "lat": 35.41687,
+      "lon": 1.47541
+    },
+    "name": "Dahmouni"
+  },
+  {
+    "country": "DZ",
+    "id": 2496241,
+    "coord": {
+      "lat": 36.752338,
+      "lon": 4.3155
+    },
+    "name": "Freha"
+  },
+  {
+    "country": "DZ",
+    "id": 2502686,
+    "coord": {
+      "lat": 36.458328,
+      "lon": 7.51389
+    },
+    "name": "Boumahra Ahmed"
+  },
+  {
+    "country": "DZ",
+    "id": 2504581,
+    "coord": {
+      "lat": 35.300991,
+      "lon": -1.38226
+    },
+    "name": "Beni Saf"
+  },
+  {
+    "country": "DZ",
+    "id": 2484836,
+    "coord": {
+      "lat": 36.31868,
+      "lon": 3.27163
+    },
+    "name": "Ouled Moussa"
+  },
+  {
+    "country": "DZ",
+    "id": 2498765,
+    "coord": {
+      "lat": 36.731941,
+      "lon": 2.99056
+    },
+    "name": "El Achour"
+  },
+  {
+    "country": "DZ",
+    "id": 2481096,
+    "coord": {
+      "lat": 35.097752,
+      "lon": -1.84813
+    },
+    "name": "Sidi Amar"
+  },
+  {
+    "country": "DZ",
+    "id": 2488722,
+    "coord": {
+      "lat": 36.620399,
+      "lon": 3.22248
+    },
+    "name": "Meftah"
+  },
+  {
+    "country": "DZ",
+    "id": 2485618,
+    "coord": {
+      "lat": 36.185032,
+      "lon": 1.53299
+    },
+    "name": "Oued Fodda"
+  },
+  {
+    "country": "DZ",
+    "id": 2485551,
+    "coord": {
+      "lat": 36.316109,
+      "lon": 7.16364
+    },
+    "name": "Oued Zenati"
+  },
+  {
+    "country": "DZ",
+    "id": 2497849,
+    "coord": {
+      "lat": 36.263329,
+      "lon": 6.69361
+    },
+    "name": "El Khroub"
+  },
+  {
+    "country": "DZ",
+    "id": 2475612,
+    "coord": {
+      "lat": 34.72224,
+      "lon": 5.37845
+    },
+    "name": "Tolga"
+  },
+  {
+    "country": "DZ",
+    "id": 2488742,
+    "coord": {
+      "lat": 34.895889,
+      "lon": 1.24065
+    },
+    "name": "Medrissa"
+  },
+  {
+    "country": "DZ",
+    "id": 2502924,
+    "coord": {
+      "lat": 36.066292,
+      "lon": 1.12602
+    },
+    "name": "Boukadir"
+  },
+  {
+    "country": "DZ",
+    "id": 2505915,
+    "coord": {
+      "lat": 36.739441,
+      "lon": 7.10528
+    },
+    "name": "Azzaba"
+  },
+  {
+    "country": "DZ",
+    "id": 2483746,
+    "coord": {
+      "lat": 33.563911,
+      "lon": 6.70326
+    },
+    "name": "Reguiba"
+  },
+  {
+    "country": "DZ",
+    "id": 2476403,
+    "coord": {
+      "lat": 29.26388,
+      "lon": 0.23098
+    },
+    "name": "Timimoun"
+  },
+  {
+    "country": "DZ",
+    "id": 2475764,
+    "coord": {
+      "lat": 36.58839,
+      "lon": 3.77445
+    },
+    "name": "Tizi Gheniff"
+  },
+  {
+    "country": "DZ",
+    "id": 2474141,
+    "coord": {
+      "lat": 36.766392,
+      "lon": 3.47717
+    },
+    "name": "Boumerdas"
+  },
+  {
+    "country": "DZ",
+    "id": 2501541,
+    "coord": {
+      "lat": 36.162861,
+      "lon": 6.16651
+    },
+    "name": "Chelghoum el Aid"
+  },
+  {
+    "country": "DZ",
+    "id": 2499055,
+    "coord": {
+      "lat": 36.684818,
+      "lon": 7.75111
+    },
+    "name": "Drean"
+  },
+  {
+    "country": "DZ",
+    "id": 2502385,
+    "coord": {
+      "lat": 35.208549,
+      "lon": 4.17402
+    },
+    "name": "Bou Saâda"
+  },
+  {
+    "country": "DZ",
+    "id": 2505015,
+    "coord": {
+      "lat": 36.76667,
+      "lon": 3.01667
+    },
+    "name": "Ben ’Aknoûn"
+  },
+  {
+    "country": "DZ",
+    "id": 2502174,
+    "coord": {
+      "lat": 36.789879,
+      "lon": 3.01772
+    },
+    "name": "Bouzarea"
+  },
+  {
+    "country": "DZ",
+    "id": 2482893,
+    "coord": {
+      "lat": 36.244629,
+      "lon": 1.80662
+    },
+    "name": "Rouina"
+  },
+  {
+    "country": "DZ",
+    "id": 2573220,
+    "coord": {
+      "lat": 36.35778,
+      "lon": 1.73306
+    },
+    "name": "Aïn Achache"
+  },
+  {
+    "country": "DZ",
+    "id": 2507323,
+    "coord": {
+      "lat": 36.48333,
+      "lon": 4.65
+    },
+    "name": "Amalou"
+  },
+  {
+    "country": "DZ",
+    "id": 2497978,
+    "coord": {
+      "lat": 36.369888,
+      "lon": 6.63735
+    },
+    "name": "El Kantara"
+  },
+  {
+    "country": "DZ",
+    "id": 2486284,
+    "coord": {
+      "lat": 35.013611,
+      "lon": -1.74799
+    },
+    "name": "Nedroma"
+  },
+  {
+    "country": "DZ",
+    "id": 2497764,
+    "coord": {
+      "lat": 36.75,
+      "lon": 3.06667
+    },
+    "name": "El Madania"
+  },
+  {
+    "country": "DZ",
+    "id": 2500282,
+    "coord": {
+      "lat": 33.533878,
+      "lon": 5.99306
+    },
+    "name": "Djamaa"
+  },
+  {
+    "country": "DZ",
+    "id": 2491776,
+    "coord": {
+      "lat": 36.493488,
+      "lon": 5.27802
+    },
+    "name": "Kherrata"
+  },
+  {
+    "country": "DZ",
+    "id": 2496368,
+    "coord": {
+      "lat": 35.75243,
+      "lon": -0.01565
+    },
+    "name": "Fornaka"
+  },
+  {
+    "country": "DZ",
+    "id": 2495601,
+    "coord": {
+      "lat": 33.480572,
+      "lon": 6.8071
+    },
+    "name": "Guemar"
+  },
+  {
+    "country": "DZ",
+    "id": 2498680,
+    "coord": {
+      "lat": 36.775131,
+      "lon": 5.59993
+    },
+    "name": "El Aouana"
+  },
+  {
+    "country": "DZ",
+    "id": 2479238,
+    "coord": {
+      "lat": 36.708279,
+      "lon": 2.91258
+    },
+    "name": "Souidania"
+  },
+  {
+    "country": "DZ",
+    "id": 2489566,
+    "coord": {
+      "lat": 35.669739,
+      "lon": 5.52266
+    },
+    "name": "Mechta Gosbat"
+  },
+  {
+    "country": "DZ",
+    "id": 2491300,
+    "coord": {
+      "lat": 36.083061,
+      "lon": 7.25806
+    },
+    "name": "Ksar Sbahi"
+  },
+  {
+    "country": "DZ",
+    "id": 2497322,
+    "coord": {
+      "lat": 36.75,
+      "lon": 8.16667
+    },
+    "name": "Wilaya d’ El Tarf"
+  },
+  {
+    "country": "DZ",
+    "id": 2504072,
+    "coord": {
+      "lat": 36.702221,
+      "lon": 7.84722
+    },
+    "name": "Besbes"
+  },
+  {
+    "country": "DZ",
+    "id": 2495846,
+    "coord": {
+      "lat": 36.516109,
+      "lon": 6.32722
+    },
+    "name": "Grarem"
+  },
+  {
+    "country": "DZ",
+    "id": 2482390,
+    "coord": {
+      "lat": 36.704559,
+      "lon": 3.02462
+    },
+    "name": "Saoula"
+  },
+  {
+    "country": "DZ",
+    "id": 2507901,
+    "coord": {
+      "lat": 35.297489,
+      "lon": -1.14037
+    },
+    "name": "Ain Temouchent"
+  },
+  {
+    "country": "DZ",
+    "id": 2503880,
+    "coord": {
+      "lat": 36.13084,
+      "lon": 5.83904
+    },
+    "name": "Bir el Arche"
+  },
+  {
+    "country": "DZ",
+    "id": 2497988,
+    "coord": {
+      "lat": 36.895561,
+      "lon": 8.44333
+    },
+    "name": "El Kala"
+  },
+  {
+    "country": "DZ",
+    "id": 2493569,
+    "coord": {
+      "lat": 36.64336,
+      "lon": 4.92984
+    },
+    "name": "Ihaïonnene"
+  },
+  {
+    "country": "DZ",
+    "id": 2498782,
+    "coord": {
+      "lat": 36.269508,
+      "lon": 1.68609
+    },
+    "name": "El Abadia"
+  },
+  {
+    "country": "DZ",
+    "id": 2505346,
+    "coord": {
+      "lat": 35.89444,
+      "lon": 5.66528
+    },
+    "name": "Beïda Bordj"
+  },
+  {
+    "country": "DZ",
+    "id": 2508059,
+    "coord": {
+      "lat": 35.924721,
+      "lon": 6.69528
+    },
+    "name": "Ain Kercha"
+  },
+  {
+    "country": "DZ",
+    "id": 2502317,
+    "coord": {
+      "lat": 36.190491,
+      "lon": 3.22865
+    },
+    "name": "Bouskene"
+  },
+  {
+    "country": "DZ",
+    "id": 2487709,
+    "coord": {
+      "lat": 36.56382,
+      "lon": 1.99938
+    },
+    "name": "Messelmoun"
+  },
+  {
+    "country": "DZ",
+    "id": 2505812,
+    "coord": {
+      "lat": 36.81694,
+      "lon": 3.85722
+    },
+    "name": "Baghlia"
+  },
+  {
+    "country": "DZ",
+    "id": 2480672,
+    "coord": {
+      "lat": 36.855831,
+      "lon": 3.85667
+    },
+    "name": "Sidi Daoud"
+  },
+  {
+    "country": "DZ",
+    "id": 2482159,
+    "coord": {
+      "lat": 36.547218,
+      "lon": 4.68611
+    },
+    "name": "Seddouk"
+  },
+  {
+    "country": "DZ",
+    "id": 2478831,
+    "coord": {
+      "lat": 36.744129,
+      "lon": 3.90045
+    },
+    "name": "Tadmait"
+  },
+  {
+    "country": "DZ",
+    "id": 2504674,
+    "coord": {
+      "lat": 36.531101,
+      "lon": 1.56891
+    },
+    "name": "Beni Haoua"
+  },
+  {
+    "country": "DZ",
+    "id": 2479101,
+    "coord": {
+      "lat": 36.771301,
+      "lon": 3.22958
+    },
+    "name": "Stamboul"
+  },
+  {
+    "country": "DZ",
+    "id": 2499104,
+    "coord": {
+      "lat": 36.536282,
+      "lon": 3.8334
+    },
+    "name": "Draa el Mizan"
+  },
+  {
+    "country": "DZ",
+    "id": 2494037,
+    "coord": {
+      "lat": 35.860489,
+      "lon": 0.07329
+    },
+    "name": "Hassi Maameche"
+  },
+  {
+    "country": "DZ",
+    "id": 2487772,
+    "coord": {
+      "lat": 34.154289,
+      "lon": 3.50309
+    },
+    "name": "Messaad"
+  },
+  {
+    "country": "DZ",
+    "id": 2492809,
+    "coord": {
+      "lat": 35.49474,
+      "lon": 6.92492
+    },
+    "name": "Kaïs"
+  },
+  {
+    "country": "DZ",
+    "id": 2474800,
+    "coord": {
+      "lat": 36.174381,
+      "lon": 1.48974
+    },
+    "name": "Zebabdja"
+  },
+  {
+    "country": "DZ",
+    "id": 2498113,
+    "coord": {
+      "lat": 35.979221,
+      "lon": 4.74742
+    },
+    "name": "El Hammadia"
+  },
+  {
+    "country": "DZ",
+    "id": 2482736,
+    "coord": {
+      "lat": 34.827381,
+      "lon": -1.52826
+    },
+    "name": "Sabra"
+  },
+  {
+    "country": "DZ",
+    "id": 2496036,
+    "coord": {
+      "lat": 35.247971,
+      "lon": 0.16043
+    },
+    "name": "Ghriss"
+  },
+  {
+    "country": "DZ",
+    "id": 2490456,
+    "coord": {
+      "lat": 36.438679,
+      "lon": 4.65414
+    },
+    "name": "Mahfouda"
+  },
+  {
+    "country": "DZ",
+    "id": 2504107,
+    "coord": {
+      "lat": 35.91444,
+      "lon": 7.37667
+    },
+    "name": "Berriche"
+  },
+  {
+    "country": "DZ",
+    "id": 2475039,
+    "coord": {
+      "lat": 36.730541,
+      "lon": 4.43646
+    },
+    "name": "Yakouren"
+  },
+  {
+    "country": "DZ",
+    "id": 2477715,
+    "coord": {
+      "lat": 35.820831,
+      "lon": 4.2875
+    },
+    "name": "Tarmount"
+  },
+  {
+    "country": "DZ",
+    "id": 2483827,
+    "coord": {
+      "lat": 35.406811,
+      "lon": 1.97386
+    },
+    "name": "Rechaïga"
+  },
+  {
+    "country": "DZ",
+    "id": 2481784,
+    "coord": {
+      "lat": 36.911289,
+      "lon": 7.67718
+    },
+    "name": "Seraidi"
+  },
+  {
+    "country": "DZ",
+    "id": 2504175,
+    "coord": {
+      "lat": 35.654549,
+      "lon": 5.03386
+    },
+    "name": "Berhoum"
+  },
+  {
+    "country": "DZ",
+    "id": 2498000,
+    "coord": {
+      "lat": 34.445419,
+      "lon": 2.52749
+    },
+    "name": "El Idrissia"
+  },
+  {
+    "country": "DZ",
+    "id": 2480395,
+    "coord": {
+      "lat": 35.4702,
+      "lon": 1.51988
+    },
+    "name": "Sidi Hosni"
+  },
+  {
+    "country": "DZ",
+    "id": 2480368,
+    "coord": {
+      "lat": 34.387001,
+      "lon": 4.98785
+    },
+    "name": "Sidi Khaled"
+  },
+  {
+    "country": "DZ",
+    "id": 2484202,
+    "coord": {
+      "lat": 36.548279,
+      "lon": 3.89416
+    },
+    "name": "Aïn Zaouïa"
+  },
+  {
+    "country": "DZ",
+    "id": 2508186,
+    "coord": {
+      "lat": 31.9377,
+      "lon": 5.39954
+    },
+    "name": "’Aïn el Beïda"
+  },
+  {
+    "country": "DZ",
+    "id": 2499593,
+    "coord": {
+      "lat": 33.5219,
+      "lon": 6.7853
+    },
+    "name": "Dmita"
+  },
+  {
+    "country": "DZ",
+    "id": 2504659,
+    "coord": {
+      "lat": 33.099998,
+      "lon": 6.08333
+    },
+    "name": "Beni Isouid"
+  },
+  {
+    "country": "DZ",
+    "id": 2478217,
+    "coord": {
+      "lat": 23.75,
+      "lon": 4.66667
+    },
+    "name": "Wilaya de Tamanghasset"
+  },
+  {
+    "country": "DZ",
+    "id": 2482605,
+    "coord": {
+      "lat": 27.27202,
+      "lon": 2.53806
+    },
+    "name": "Sahela Foukania"
+  },
+  {
+    "country": "DZ",
+    "id": 2498305,
+    "coord": {
+      "lat": 30.566669,
+      "lon": 2.88333
+    },
+    "name": "El Golea"
+  },
+  {
+    "country": "DZ",
+    "id": 2491532,
+    "coord": {
+      "lat": 34.805351,
+      "lon": 5.73408
+    },
+    "name": "Korra"
+  },
+  {
+    "country": "DZ",
+    "id": 2474871,
+    "coord": {
+      "lat": 27.792459,
+      "lon": -0.24679
+    },
+    "name": "Zaouia Sidi Bekri"
+  },
+  {
+    "country": "DZ",
+    "id": 2596771,
+    "coord": {
+      "lat": 21.331591,
+      "lon": 0.94671
+    },
+    "name": "Bordj Mokhtar"
+  },
+  {
+    "country": "DZ",
+    "id": 2578252,
+    "coord": {
+      "lat": 35.221531,
+      "lon": 0.16562
+    },
+    "name": "Ouled Bou Medienne"
+  },
+  {
+    "country": "DZ",
+    "id": 2498552,
+    "coord": {
+      "lat": 31.617781,
+      "lon": -2.24733
+    },
+    "name": "El Barga"
+  },
+  {
+    "country": "DZ",
+    "id": 2497060,
+    "coord": {
+      "lat": 35.647789,
+      "lon": -0.62397
+    },
+    "name": "Es Senia"
+  },
+  {
+    "country": "DZ",
+    "id": 2496919,
+    "coord": {
+      "lat": 34.990421,
+      "lon": -1.46374
+    },
+    "name": "Ez Zenâta"
+  },
+  {
+    "country": "DZ",
+    "id": 2499235,
+    "coord": {
+      "lat": 35.547508,
+      "lon": -0.54332
+    },
+    "name": "Douar Rouached"
+  },
+  {
+    "country": "DZ",
+    "id": 2509176,
+    "coord": {
+      "lat": 35.289631,
+      "lon": 1.43957
+    },
+    "name": "Abdelmoumen"
+  },
+  {
+    "country": "DZ",
+    "id": 2489694,
+    "coord": {
+      "lat": 35.770569,
+      "lon": 6.37394
+    },
+    "name": "Mechta Bou Assida"
+  },
+  {
+    "country": "DZ",
+    "id": 2575967,
+    "coord": {
+      "lat": 36.349171,
+      "lon": 6.62278
+    },
+    "name": "La Pépinière"
+  },
+  {
+    "country": "DZ",
+    "id": 2498183,
+    "coord": {
+      "lat": 36.803768,
+      "lon": 7.73684
+    },
+    "name": "El Hadjar"
+  },
+  {
+    "country": "DZ",
+    "id": 2475680,
+    "coord": {
+      "lat": 36.792839,
+      "lon": 5.88507
+    },
+    "name": "Tleta"
+  },
+  {
+    "country": "DZ",
+    "id": 2478216,
+    "coord": {
+      "lat": 22.785,
+      "lon": 5.52278
+    },
+    "name": "Tamanrasset"
+  },
+  {
+    "country": "DZ",
+    "id": 2508044,
+    "coord": {
+      "lat": 36.176102,
+      "lon": 5.33836
+    },
+    "name": "’Aïn Khalfoun"
+  },
+  {
+    "country": "DZ",
+    "id": 2493456,
+    "coord": {
+      "lat": 26.48333,
+      "lon": 8.46667
+    },
+    "name": "Illizi"
+  },
+  {
+    "country": "DZ",
+    "id": 2500889,
+    "coord": {
+      "lat": 36.713329,
+      "lon": 3.2125
+    },
+    "name": "Dar el Beida"
+  },
+  {
+    "country": "DZ",
+    "id": 2505973,
+    "coord": {
+      "lat": 36.70068,
+      "lon": 5.05647
+    },
+    "name": "Azib Aboudaou"
+  },
+  {
+    "country": "DZ",
+    "id": 2480991,
+    "coord": {
+      "lat": 35.361511,
+      "lon": 4.17835
+    },
+    "name": "Sidi Belkassem"
+  },
+  {
+    "country": "DZ",
+    "id": 2476028,
+    "coord": {
+      "lat": 36.589722,
+      "lon": 2.4475
+    },
+    "name": "Tipasa"
+  },
+  {
+    "country": "DZ",
+    "id": 2484835,
+    "coord": {
+      "lat": 36.683941,
+      "lon": 3.36661
+    },
+    "name": "Ouled Moussa"
+  },
+  {
+    "country": "DZ",
+    "id": 2497323,
+    "coord": {
+      "lat": 36.7672,
+      "lon": 8.31377
+    },
+    "name": "El Tarf"
+  },
+  {
+    "country": "DZ",
+    "id": 2497411,
+    "coord": {
+      "lat": 33.356079,
+      "lon": 6.86319
+    },
+    "name": "El Oued"
+  },
+  {
+    "country": "DZ",
+    "id": 2498543,
+    "coord": {
+      "lat": 33.683182,
+      "lon": 1.01927
+    },
+    "name": "El Bayadh"
+  },
+  {
+    "country": "DZ",
+    "id": 2508228,
+    "coord": {
+      "lat": 36.264061,
+      "lon": 1.9679
+    },
+    "name": "Ain Defla"
+  },
+  {
+    "country": "DZ",
+    "id": 7115828,
+    "coord": {
+      "lat": 35.716518,
+      "lon": 0.75437
+    },
+    "name": "Smala"
+  },
+  {
+    "country": "DZ",
+    "id": 7838650,
+    "coord": {
+      "lat": 34.86375,
+      "lon": 0.83496
+    },
+    "name": "Djebilet Rosfa"
+  },
+  {
+    "country": "DZ",
+    "id": 2497460,
+    "coord": {
+      "lat": 36.7458,
+      "lon": 3.03916
+    },
+    "name": "Bir Mourad Raïs"
+  }
+
+]

@@ -1,0 +1,328 @@
+[
+
+  {
+    "country": "GF",
+    "id": 3381303,
+    "coord": {
+      "lat": 5.15518,
+      "lon": -52.647789
+    },
+    "name": "Kourou"
+  },
+  {
+    "country": "GF",
+    "id": 3381212,
+    "coord": {
+      "lat": 5.15,
+      "lon": -52.650002
+    },
+    "name": "Le Bourg"
+  },
+  {
+    "country": "GF",
+    "id": 3380386,
+    "coord": {
+      "lat": 4,
+      "lon": -53.75
+    },
+    "name": "Arrondissement de Saint-Laurent-du-Maroni"
+  },
+  {
+    "country": "GF",
+    "id": 6690694,
+    "coord": {
+      "lat": 5.6672,
+      "lon": -53.776901
+    },
+    "name": "Mana"
+  },
+  {
+    "country": "GF",
+    "id": 3381041,
+    "coord": {
+      "lat": 5.65919,
+      "lon": -53.776661
+    },
+    "name": "Mana"
+  },
+  {
+    "country": "GF",
+    "id": 6690702,
+    "coord": {
+      "lat": 4.7283,
+      "lon": -52.3242
+    },
+    "name": "Roura"
+  },
+  {
+    "country": "GF",
+    "id": 3380450,
+    "coord": {
+      "lat": 4.72629,
+      "lon": -52.327419
+    },
+    "name": "Roura"
+  },
+  {
+    "country": "GF",
+    "id": 3380993,
+    "coord": {
+      "lat": 3.63333,
+      "lon": -54.049999
+    },
+    "name": "Maripa-Village"
+  },
+  {
+    "country": "GF",
+    "id": 3382261,
+    "coord": {
+      "lat": 4.57779,
+      "lon": -52.47224
+    },
+    "name": "Cacao"
+  },
+  {
+    "country": "GF",
+    "id": 3381270,
+    "coord": {
+      "lat": 4.85,
+      "lon": -52.333328
+    },
+    "name": "La Désirée"
+  },
+  {
+    "country": "GF",
+    "id": 6690605,
+    "coord": {
+      "lat": 3.99929,
+      "lon": -52.998562
+    },
+    "name": "Guyane"
+  },
+  {
+    "country": "GF",
+    "id": 6690606,
+    "coord": {
+      "lat": 3.99886,
+      "lon": -52.999939
+    },
+    "name": "Guyane"
+  },
+  {
+    "country": "GF",
+    "id": 3382159,
+    "coord": {
+      "lat": 4,
+      "lon": -52.5
+    },
+    "name": "Arrondissement de Cayenne"
+  },
+  {
+    "country": "GF",
+    "id": 6690689,
+    "coord": {
+      "lat": 4.9386,
+      "lon": -52.334999
+    },
+    "name": "Cayenne"
+  },
+  {
+    "country": "GF",
+    "id": 3382160,
+    "coord": {
+      "lat": 4.93333,
+      "lon": -52.333328
+    },
+    "name": "Cayenne"
+  },
+  {
+    "country": "GF",
+    "id": 3381117,
+    "coord": {
+      "lat": 4.91667,
+      "lon": -52.366669
+    },
+    "name": "Macouria"
+  },
+  {
+    "country": "GF",
+    "id": 6690705,
+    "coord": {
+      "lat": 5.5039,
+      "lon": -54.0289
+    },
+    "name": "Saint-Laurent-du-Maroni"
+  },
+  {
+    "country": "GF",
+    "id": 3380387,
+    "coord": {
+      "lat": 5.5,
+      "lon": -54.033329
+    },
+    "name": "Saint-Laurent-du-Maroni"
+  },
+  {
+    "country": "GF",
+    "id": 6690701,
+    "coord": {
+      "lat": 4.905,
+      "lon": -52.276699
+    },
+    "name": "Rémire-Montjoly"
+  },
+  {
+    "country": "GF",
+    "id": 3380892,
+    "coord": {
+      "lat": 4.91667,
+      "lon": -52.26667
+    },
+    "name": "Remire-Montjoly"
+  },
+  {
+    "country": "GF",
+    "id": 6690696,
+    "coord": {
+      "lat": 4.8506,
+      "lon": -52.3311
+    },
+    "name": "Matoury"
+  },
+  {
+    "country": "GF",
+    "id": 3380965,
+    "coord": {
+      "lat": 4.84827,
+      "lon": -52.331718
+    },
+    "name": "Matoury"
+  },
+  {
+    "country": "GF",
+    "id": 3381670,
+    "coord": {
+      "lat": 4,
+      "lon": -53
+    },
+    "name": "Guyane"
+  },
+  {
+    "country": "GF",
+    "id": 3380167,
+    "coord": {
+      "lat": 4.83038,
+      "lon": -52.444431
+    },
+    "name": "Tonnégrande"
+  },
+  {
+    "country": "GF",
+    "id": 6690686,
+    "coord": {
+      "lat": 5.1567,
+      "lon": -54.343102
+    },
+    "name": "Apatou"
+  },
+  {
+    "country": "GF",
+    "id": 3382527,
+    "coord": {
+      "lat": 5.155,
+      "lon": -54.347221
+    },
+    "name": "Apatou"
+  },
+  {
+    "country": "GF",
+    "id": 6690707,
+    "coord": {
+      "lat": 5.3775,
+      "lon": -52.958599
+    },
+    "name": "Sinnamary"
+  },
+  {
+    "country": "GF",
+    "id": 3380290,
+    "coord": {
+      "lat": 5.38333,
+      "lon": -52.950001
+    },
+    "name": "Sinnamary"
+  },
+  {
+    "country": "GF",
+    "id": 3380394,
+    "coord": {
+      "lat": 3.13832,
+      "lon": -52.353199
+    },
+    "name": "Saint-Joseph"
+  },
+  {
+    "country": "GF",
+    "id": 6690691,
+    "coord": {
+      "lat": 5.48,
+      "lon": -53.205601
+    },
+    "name": "Iracoubo"
+  },
+  {
+    "country": "GF",
+    "id": 3381428,
+    "coord": {
+      "lat": 5.48024,
+      "lon": -53.201092
+    },
+    "name": "Iracoubo"
+  },
+  {
+    "country": "GF",
+    "id": 3380383,
+    "coord": {
+      "lat": 5.47574,
+      "lon": -54.046398
+    },
+    "name": "Saint-Louis"
+  },
+  {
+    "country": "GF",
+    "id": 3381207,
+    "coord": {
+      "lat": 4.83333,
+      "lon": -52.349998
+    },
+    "name": "Le Dix-Septième"
+  },
+  {
+    "country": "GF",
+    "id": 3380402,
+    "coord": {
+      "lat": 3.9,
+      "lon": -51.799999
+    },
+    "name": "Saint-Georges-de-lOyapock"
+  },
+  {
+    "country": "GF",
+    "id": 3381538,
+    "coord": {
+      "lat": 4.25,
+      "lon": -54.383331
+    },
+    "name": "Grand-Santi"
+  },
+  {
+    "country": "GF",
+    "id": 3382226,
+    "coord": {
+      "lat": 3.16548,
+      "lon": -52.31575
+    },
+    "name": "Camopi"
+  }
+
+]

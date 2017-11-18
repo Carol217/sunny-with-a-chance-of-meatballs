@@ -1,0 +1,76 @@
+[
+
+  {
+    "country": "CW",
+    "id": 3513132,
+    "coord": {
+      "lat": 12.1,
+      "lon": -68.916672
+    },
+    "name": "Vianen"
+  },
+  {
+    "country": "CW",
+    "id": 3513405,
+    "coord": {
+      "lat": 12.1,
+      "lon": -68.916672
+    },
+    "name": "Parera"
+  },
+  {
+    "country": "CW",
+    "id": 7626836,
+    "coord": {
+      "lat": 12.16667,
+      "lon": -69
+    },
+    "name": "Land Curaçao"
+  },
+  {
+    "country": "CW",
+    "id": 3513090,
+    "coord": {
+      "lat": 12.1084,
+      "lon": -68.93354
+    },
+    "name": "Willemstad"
+  },
+  {
+    "country": "CW",
+    "id": 3513221,
+    "coord": {
+      "lat": 12.15,
+      "lon": -68.98333
+    },
+    "name": "Sint Michiel Liber"
+  },
+  {
+    "country": "CW",
+    "id": 3513445,
+    "coord": {
+      "lat": 12.05,
+      "lon": -68.816673
+    },
+    "name": "Newport"
+  },
+  {
+    "country": "CW",
+    "id": 3513761,
+    "coord": {
+      "lat": 12.26667,
+      "lon": -69.099998
+    },
+    "name": "Dorp Soto"
+  },
+  {
+    "country": "CW",
+    "id": 3513936,
+    "coord": {
+      "lat": 12.28333,
+      "lon": -69.066673
+    },
+    "name": "Barber"
+  }
+
+]

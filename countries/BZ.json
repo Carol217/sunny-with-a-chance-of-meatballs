@@ -1,0 +1,238 @@
+[
+
+  {
+    "country": "BZ",
+    "id": 3582324,
+    "coord": {
+      "lat": 18.450001,
+      "lon": -88.283333
+    },
+    "name": "Consejo"
+  },
+  {
+    "country": "BZ",
+    "id": 3582429,
+    "coord": {
+      "lat": 16.83333,
+      "lon": -88.916672
+    },
+    "name": "Cayo District"
+  },
+  {
+    "country": "BZ",
+    "id": 3581418,
+    "coord": {
+      "lat": 17.033331,
+      "lon": -88.949997
+    },
+    "name": "Privassion Camp"
+  },
+  {
+    "country": "BZ",
+    "id": 3582302,
+    "coord": {
+      "lat": 18.25,
+      "lon": -88.333328
+    },
+    "name": "Corozal District"
+  },
+  {
+    "country": "BZ",
+    "id": 3582678,
+    "coord": {
+      "lat": 17.25,
+      "lon": -88.75
+    },
+    "name": "Belize"
+  },
+  {
+    "country": "BZ",
+    "id": 3582672,
+    "coord": {
+      "lat": 17.25,
+      "lon": -88.76667
+    },
+    "name": "Belmopan"
+  },
+  {
+    "country": "BZ",
+    "id": 3581367,
+    "coord": {
+      "lat": 18.366671,
+      "lon": -88.400002
+    },
+    "name": "Ranchito"
+  },
+  {
+    "country": "BZ",
+    "id": 3582662,
+    "coord": {
+      "lat": 17.075001,
+      "lon": -89.139168
+    },
+    "name": "Benque Viejo del Carmen"
+  },
+  {
+    "country": "BZ",
+    "id": 3580985,
+    "coord": {
+      "lat": 17.216669,
+      "lon": -88.98333
+    },
+    "name": "Spanish Lookout"
+  },
+  {
+    "country": "BZ",
+    "id": 3580975,
+    "coord": {
+      "lat": 16.83333,
+      "lon": -88.5
+    },
+    "name": "Stann Creek District"
+  },
+  {
+    "country": "BZ",
+    "id": 3581922,
+    "coord": {
+      "lat": 16.866671,
+      "lon": -88.283333
+    },
+    "name": "Hopkins"
+  },
+  {
+    "country": "BZ",
+    "id": 3581672,
+    "coord": {
+      "lat": 17.01667,
+      "lon": -88.5
+    },
+    "name": "Middlesex"
+  },
+  {
+    "country": "BZ",
+    "id": 3582487,
+    "coord": {
+      "lat": 18.216669,
+      "lon": -88.466667
+    },
+    "name": "Caledonia"
+  },
+  {
+    "country": "BZ",
+    "id": 3582676,
+    "coord": {
+      "lat": 17.25,
+      "lon": -88.166672
+    },
+    "name": "Belize District"
+  },
+  {
+    "country": "BZ",
+    "id": 3582383,
+    "coord": {
+      "lat": 17.799999,
+      "lon": -88.300003
+    },
+    "name": "Chicago"
+  },
+  {
+    "country": "BZ",
+    "id": 3581851,
+    "coord": {
+      "lat": 17.55427,
+      "lon": -88.290001
+    },
+    "name": "Ladyville"
+  },
+  {
+    "country": "BZ",
+    "id": 3581194,
+    "coord": {
+      "lat": 17.156111,
+      "lon": -89.071388
+    },
+    "name": "San Ignacio"
+  },
+  {
+    "country": "BZ",
+    "id": 3581511,
+    "coord": {
+      "lat": 17.83333,
+      "lon": -88.833328
+    },
+    "name": "Orange Walk District"
+  },
+  {
+    "country": "BZ",
+    "id": 3581514,
+    "coord": {
+      "lat": 18.08124,
+      "lon": -88.563278
+    },
+    "name": "Orange Walk"
+  },
+  {
+    "country": "BZ",
+    "id": 3582677,
+    "coord": {
+      "lat": 17.499519,
+      "lon": -88.197563
+    },
+    "name": "Belize City"
+  },
+  {
+    "country": "BZ",
+    "id": 3581164,
+    "coord": {
+      "lat": 17.915979,
+      "lon": -87.965897
+    },
+    "name": "San Pedro"
+  },
+  {
+    "country": "BZ",
+    "id": 3580913,
+    "coord": {
+      "lat": 16.33333,
+      "lon": -88.75
+    },
+    "name": "Toledo District"
+  },
+  {
+    "country": "BZ",
+    "id": 3581398,
+    "coord": {
+      "lat": 16.098351,
+      "lon": -88.8097
+    },
+    "name": "Punta Gorda"
+  },
+  {
+    "country": "BZ",
+    "id": 3582228,
+    "coord": {
+      "lat": 16.96921,
+      "lon": -88.232063
+    },
+    "name": "Dangriga"
+  },
+  {
+    "country": "BZ",
+    "id": 3582305,
+    "coord": {
+      "lat": 18.39794,
+      "lon": -88.394188
+    },
+    "name": "Corozal"
+  },
+  {
+    "country": "BZ",
+    "id": 3830322,
+    "coord": {
+      "lat": 17.334721,
+      "lon": -88.834717
+    },
+    "name": "Valley of Peace"
+  }
+
+]

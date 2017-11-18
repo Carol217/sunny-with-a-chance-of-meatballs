@@ -1,0 +1,1840 @@
+[
+
+  {
+    "country": "AZ",
+    "id": 148251,
+    "coord": {
+      "lat": 38.955799,
+      "lon": 45.630798
+    },
+    "name": "Culfa"
+  },
+  {
+    "country": "AZ",
+    "id": 147059,
+    "coord": {
+      "lat": 39.87867,
+      "lon": 48.399021
+    },
+    "name": "Telmankend"
+  },
+  {
+    "country": "AZ",
+    "id": 147425,
+    "coord": {
+      "lat": 39.374168,
+      "lon": 49.247219
+    },
+    "name": "Neftcala"
+  },
+  {
+    "country": "AZ",
+    "id": 148340,
+    "coord": {
+      "lat": 39.458328,
+      "lon": 48.544998
+    },
+    "name": "Pushkino"
+  },
+  {
+    "country": "AZ",
+    "id": 586925,
+    "coord": {
+      "lat": 40.517891,
+      "lon": 50.113899
+    },
+    "name": "Buzovna"
+  },
+  {
+    "country": "AZ",
+    "id": 587261,
+    "coord": {
+      "lat": 40.426392,
+      "lon": 49.983608
+    },
+    "name": "Amirdzhan"
+  },
+  {
+    "country": "AZ",
+    "id": 587342,
+    "coord": {
+      "lat": 40.5,
+      "lon": 48.333328
+    },
+    "name": "Aghsu Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 584716,
+    "coord": {
+      "lat": 40.586941,
+      "lon": 46.31583
+    },
+    "name": "Xanlar"
+  },
+  {
+    "country": "AZ",
+    "id": 409420,
+    "coord": {
+      "lat": 40.33054,
+      "lon": 46.94289
+    },
+    "name": "Tartar Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 584871,
+    "coord": {
+      "lat": 40.345001,
+      "lon": 46.92889
+    },
+    "name": "Terter"
+  },
+  {
+    "country": "AZ",
+    "id": 585103,
+    "coord": {
+      "lat": 40.396671,
+      "lon": 49.97361
+    },
+    "name": "Qaracuxur"
+  },
+  {
+    "country": "AZ",
+    "id": 585059,
+    "coord": {
+      "lat": 40.833328,
+      "lon": 46.083328
+    },
+    "name": "Shamkir Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 585152,
+    "coord": {
+      "lat": 40.82972,
+      "lon": 46.01889
+    },
+    "name": "Shamkhor"
+  },
+  {
+    "country": "AZ",
+    "id": 585030,
+    "coord": {
+      "lat": 40.583328,
+      "lon": 48.666672
+    },
+    "name": "Shamakhi Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 585156,
+    "coord": {
+      "lat": 40.631409,
+      "lon": 48.641369
+    },
+    "name": "Shamakhi"
+  },
+  {
+    "country": "AZ",
+    "id": 585184,
+    "coord": {
+      "lat": 40.442501,
+      "lon": 49.948059
+    },
+    "name": "Sabuncu"
+  },
+  {
+    "country": "AZ",
+    "id": 828315,
+    "coord": {
+      "lat": 40.083328,
+      "lon": 48.916672
+    },
+    "name": "Hajigabul Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 585225,
+    "coord": {
+      "lat": 40.04084,
+      "lon": 48.944511
+    },
+    "name": "Haciqabul"
+  },
+  {
+    "country": "AZ",
+    "id": 586087,
+    "coord": {
+      "lat": 41.166672,
+      "lon": 45.166672
+    },
+    "name": "Qazakh Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 585226,
+    "coord": {
+      "lat": 41.09333,
+      "lon": 45.366112
+    },
+    "name": "Qazax"
+  },
+  {
+    "country": "AZ",
+    "id": 585379,
+    "coord": {
+      "lat": 40.623329,
+      "lon": 49.558609
+    },
+    "name": "Haci Zeynalabdin"
+  },
+  {
+    "country": "AZ",
+    "id": 585557,
+    "coord": {
+      "lat": 40.53278,
+      "lon": 50.003891
+    },
+    "name": "Mastaga"
+  },
+  {
+    "country": "AZ",
+    "id": 585568,
+    "coord": {
+      "lat": 40.492222,
+      "lon": 50.138889
+    },
+    "name": "Mardakyany"
+  },
+  {
+    "country": "AZ",
+    "id": 585630,
+    "coord": {
+      "lat": 40.323719,
+      "lon": 49.728039
+    },
+    "name": "Lokbatan"
+  },
+  {
+    "country": "AZ",
+    "id": 586429,
+    "coord": {
+      "lat": 40.374439,
+      "lon": 50.085281
+    },
+    "name": "Hovsan"
+  },
+  {
+    "country": "AZ",
+    "id": 587078,
+    "coord": {
+      "lat": 40.444401,
+      "lon": 49.80566
+    },
+    "name": "Bilajari"
+  },
+  {
+    "country": "AZ",
+    "id": 587361,
+    "coord": {
+      "lat": 40.570278,
+      "lon": 48.400871
+    },
+    "name": "Aghsu"
+  },
+  {
+    "country": "AZ",
+    "id": 148615,
+    "coord": {
+      "lat": 40,
+      "lon": 47.416672
+    },
+    "name": "Aghjabadi Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 587384,
+    "coord": {
+      "lat": 40.05278,
+      "lon": 47.461391
+    },
+    "name": "Agdzhabedy"
+  },
+  {
+    "country": "AZ",
+    "id": 824003,
+    "coord": {
+      "lat": 40.421669,
+      "lon": 49.964439
+    },
+    "name": "Bakixanov"
+  },
+  {
+    "country": "AZ",
+    "id": 146961,
+    "coord": {
+      "lat": 38.920559,
+      "lon": 48.237221
+    },
+    "name": "Yardimli"
+  },
+  {
+    "country": "AZ",
+    "id": 409423,
+    "coord": {
+      "lat": 39.666672,
+      "lon": 47
+    },
+    "name": "Xocavənd Rayonu"
+  },
+  {
+    "country": "AZ",
+    "id": 147364,
+    "coord": {
+      "lat": 39.632221,
+      "lon": 47.690762
+    },
+    "name": "Orconikidze"
+  },
+  {
+    "country": "AZ",
+    "id": 148323,
+    "coord": {
+      "lat": 38.933891,
+      "lon": 48.703751
+    },
+    "name": "Boradigah"
+  },
+  {
+    "country": "AZ",
+    "id": 147435,
+    "coord": {
+      "lat": 39.209911,
+      "lon": 45.418171
+    },
+    "name": "Nakhchivan Autonomous Republic"
+  },
+  {
+    "country": "AZ",
+    "id": 147287,
+    "coord": {
+      "lat": 39.833328,
+      "lon": 48.416672
+    },
+    "name": "Saatly Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 409419,
+    "coord": {
+      "lat": 39.75,
+      "lon": 46.75
+    },
+    "name": "Şuşa Şəhəri"
+  },
+  {
+    "country": "AZ",
+    "id": 147105,
+    "coord": {
+      "lat": 39.75893,
+      "lon": 46.749191
+    },
+    "name": "Shushi"
+  },
+  {
+    "country": "AZ",
+    "id": 147422,
+    "coord": {
+      "lat": 39.333328,
+      "lon": 49
+    },
+    "name": "Neftchala Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 147310,
+    "coord": {
+      "lat": 39.5,
+      "lon": 48.416672
+    },
+    "name": "Bilasuvar Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 148442,
+    "coord": {
+      "lat": 38.5,
+      "lon": 48.666672
+    },
+    "name": "Astara Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 148445,
+    "coord": {
+      "lat": 38.455978,
+      "lon": 48.874981
+    },
+    "name": "Astara"
+  },
+  {
+    "country": "AZ",
+    "id": 148617,
+    "coord": {
+      "lat": 40,
+      "lon": 47
+    },
+    "name": "Aghdam Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 148619,
+    "coord": {
+      "lat": 39.990959,
+      "lon": 46.927361
+    },
+    "name": "Agdam"
+  },
+  {
+    "country": "AZ",
+    "id": 584614,
+    "coord": {
+      "lat": 40.476101,
+      "lon": 49.941582
+    },
+    "name": "Zabrat"
+  },
+  {
+    "country": "AZ",
+    "id": 584783,
+    "coord": {
+      "lat": 40.416672,
+      "lon": 47.75
+    },
+    "name": "Ujar Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 584791,
+    "coord": {
+      "lat": 40.51902,
+      "lon": 47.654228
+    },
+    "name": "Ujar"
+  },
+  {
+    "country": "AZ",
+    "id": 584938,
+    "coord": {
+      "lat": 40.429722,
+      "lon": 49.958889
+    },
+    "name": "Stepan Razin"
+  },
+  {
+    "country": "AZ",
+    "id": 147282,
+    "coord": {
+      "lat": 39.711441,
+      "lon": 44.88805
+    },
+    "name": "Sedarak"
+  },
+  {
+    "country": "AZ",
+    "id": 147551,
+    "coord": {
+      "lat": 39,
+      "lon": 48.666672
+    },
+    "name": "Masally Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 147611,
+    "coord": {
+      "lat": 38.772629,
+      "lon": 48.412788
+    },
+    "name": "Lerik"
+  },
+  {
+    "country": "AZ",
+    "id": 147784,
+    "coord": {
+      "lat": 39.430119,
+      "lon": 49.101662
+    },
+    "name": "Xilli"
+  },
+  {
+    "country": "AZ",
+    "id": 148140,
+    "coord": {
+      "lat": 39.333328,
+      "lon": 47
+    },
+    "name": "Cəbrayıl Rayonu"
+  },
+  {
+    "country": "AZ",
+    "id": 587116,
+    "coord": {
+      "lat": 40.5,
+      "lon": 47.5
+    },
+    "name": "Republic of Azerbaijan"
+  },
+  {
+    "country": "AZ",
+    "id": 587081,
+    "coord": {
+      "lat": 40.395279,
+      "lon": 49.882221
+    },
+    "name": "Baku City"
+  },
+  {
+    "country": "AZ",
+    "id": 587084,
+    "coord": {
+      "lat": 40.37767,
+      "lon": 49.89201
+    },
+    "name": "Baku"
+  },
+  {
+    "country": "AZ",
+    "id": 586854,
+    "coord": {
+      "lat": 40.383331,
+      "lon": 49.883331
+    },
+    "name": "Chërnyy Gorod"
+  },
+  {
+    "country": "AZ",
+    "id": 147269,
+    "coord": {
+      "lat": 39.666672,
+      "lon": 49
+    },
+    "name": "Salyan Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 147271,
+    "coord": {
+      "lat": 39.59362,
+      "lon": 48.980549
+    },
+    "name": "Salyan"
+  },
+  {
+    "country": "AZ",
+    "id": 147368,
+    "coord": {
+      "lat": 38.905949,
+      "lon": 46.023411
+    },
+    "name": "Ordubad"
+  },
+  {
+    "country": "AZ",
+    "id": 584604,
+    "coord": {
+      "lat": 41.583328,
+      "lon": 46.666672
+    },
+    "name": "Zaqatala Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 584596,
+    "coord": {
+      "lat": 41.63361,
+      "lon": 46.64333
+    },
+    "name": "Zaqatala"
+  },
+  {
+    "country": "AZ",
+    "id": 828303,
+    "coord": {
+      "lat": 41.183331,
+      "lon": 47.166672
+    },
+    "name": "Şəki Şəhəri"
+  },
+  {
+    "country": "AZ",
+    "id": 585170,
+    "coord": {
+      "lat": 41.19194,
+      "lon": 47.170559
+    },
+    "name": "Sheki"
+  },
+  {
+    "country": "AZ",
+    "id": 828297,
+    "coord": {
+      "lat": 41.25,
+      "lon": 45.5
+    },
+    "name": "Aghstafa Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 587362,
+    "coord": {
+      "lat": 41.118889,
+      "lon": 45.453892
+    },
+    "name": "Aghstafa"
+  },
+  {
+    "country": "AZ",
+    "id": 586001,
+    "coord": {
+      "lat": 41.583328,
+      "lon": 48.75
+    },
+    "name": "Khachmaz Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 584717,
+    "coord": {
+      "lat": 41.46349,
+      "lon": 48.806049
+    },
+    "name": "Xacmaz"
+  },
+  {
+    "country": "AZ",
+    "id": 147429,
+    "coord": {
+      "lat": 39.208889,
+      "lon": 45.41222
+    },
+    "name": "Nakhchivan"
+  },
+  {
+    "country": "AZ",
+    "id": 586290,
+    "coord": {
+      "lat": 41.333328,
+      "lon": 46.75
+    },
+    "name": "Qakh Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 585227,
+    "coord": {
+      "lat": 41.422501,
+      "lon": 46.924171
+    },
+    "name": "Qax"
+  },
+  {
+    "country": "AZ",
+    "id": 586482,
+    "coord": {
+      "lat": 40.583328,
+      "lon": 47.833328
+    },
+    "name": "Goychay Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 586427,
+    "coord": {
+      "lat": 40.653061,
+      "lon": 47.740559
+    },
+    "name": "Geoktschai"
+  },
+  {
+    "country": "AZ",
+    "id": 147284,
+    "coord": {
+      "lat": 39.916672,
+      "lon": 48.666672
+    },
+    "name": "Sabirabad Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 585187,
+    "coord": {
+      "lat": 40.00946,
+      "lon": 48.475151
+    },
+    "name": "Sabirabad"
+  },
+  {
+    "country": "AZ",
+    "id": 585786,
+    "coord": {
+      "lat": 41.166672,
+      "lon": 48.416672
+    },
+    "name": "Quba Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 585221,
+    "coord": {
+      "lat": 41.362591,
+      "lon": 48.51519
+    },
+    "name": "Quba"
+  },
+  {
+    "country": "AZ",
+    "id": 828299,
+    "coord": {
+      "lat": 40.76667,
+      "lon": 47
+    },
+    "name": "Mingacevir City"
+  },
+  {
+    "country": "AZ",
+    "id": 585514,
+    "coord": {
+      "lat": 40.76395,
+      "lon": 47.059528
+    },
+    "name": "Mingelchaur"
+  },
+  {
+    "country": "AZ",
+    "id": 409417,
+    "coord": {
+      "lat": 39.950932,
+      "lon": 48.89938
+    },
+    "name": "Ali Bajramly"
+  },
+  {
+    "country": "AZ",
+    "id": 148565,
+    "coord": {
+      "lat": 39.937881,
+      "lon": 48.928551
+    },
+    "name": "Sirvan"
+  },
+  {
+    "country": "AZ",
+    "id": 409418,
+    "coord": {
+      "lat": 38.73333,
+      "lon": 48.833328
+    },
+    "name": "Lənkəran Şəhəri"
+  },
+  {
+    "country": "AZ",
+    "id": 147622,
+    "coord": {
+      "lat": 38.75428,
+      "lon": 48.85062
+    },
+    "name": ""
+  },
+  {
+    "country": "AZ",
+    "id": 584742,
+    "coord": {
+      "lat": 41.083328,
+      "lon": 47.5
+    },
+    "name": "Oghuz Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 585333,
+    "coord": {
+      "lat": 41.070831,
+      "lon": 47.458328
+    },
+    "name": "Oguz"
+  },
+  {
+    "country": "AZ",
+    "id": 409421,
+    "coord": {
+      "lat": 39.816669,
+      "lon": 46.799999
+    },
+    "name": "Xankəndi Şəhəri"
+  },
+  {
+    "country": "AZ",
+    "id": 146970,
+    "coord": {
+      "lat": 39.817699,
+      "lon": 46.7528
+    },
+    "name": ""
+  },
+  {
+    "country": "AZ",
+    "id": 587056,
+    "coord": {
+      "lat": 40.333328,
+      "lon": 47.166672
+    },
+    "name": "Barda Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 587057,
+    "coord": {
+      "lat": 40.374439,
+      "lon": 47.126671
+    },
+    "name": "Barda"
+  },
+  {
+    "country": "AZ",
+    "id": 828298,
+    "coord": {
+      "lat": 40.650002,
+      "lon": 46.349998
+    },
+    "name": "Ganja City"
+  },
+  {
+    "country": "AZ",
+    "id": 586523,
+    "coord": {
+      "lat": 40.682781,
+      "lon": 46.360561
+    },
+    "name": "Ganja"
+  },
+  {
+    "country": "AZ",
+    "id": 148155,
+    "coord": {
+      "lat": 39.25,
+      "lon": 48.5
+    },
+    "name": "Jalilabad Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 148290,
+    "coord": {
+      "lat": 39.209629,
+      "lon": 48.491859
+    },
+    "name": "Dzhalilabad"
+  },
+  {
+    "country": "AZ",
+    "id": 587376,
+    "coord": {
+      "lat": 40.583328,
+      "lon": 47.416672
+    },
+    "name": "Aghdash Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 587378,
+    "coord": {
+      "lat": 40.650002,
+      "lon": 47.476109
+    },
+    "name": "Agdas"
+  },
+  {
+    "country": "AZ",
+    "id": 828307,
+    "coord": {
+      "lat": 40.583328,
+      "lon": 47.166672
+    },
+    "name": "Yevlakh City"
+  },
+  {
+    "country": "AZ",
+    "id": 584649,
+    "coord": {
+      "lat": 40.61832,
+      "lon": 47.150139
+    },
+    "name": "Yevlakh"
+  },
+  {
+    "country": "AZ",
+    "id": 585749,
+    "coord": {
+      "lat": 41.416672,
+      "lon": 48.25
+    },
+    "name": "Qusar Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 585220,
+    "coord": {
+      "lat": 41.42728,
+      "lon": 48.428928
+    },
+    "name": "Qusar"
+  },
+  {
+    "country": "AZ",
+    "id": 147983,
+    "coord": {
+      "lat": 39.833328,
+      "lon": 48.083328
+    },
+    "name": "Imishli Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 147982,
+    "coord": {
+      "lat": 39.870949,
+      "lon": 48.059952
+    },
+    "name": "Imishli"
+  },
+  {
+    "country": "AZ",
+    "id": 828305,
+    "coord": {
+      "lat": 40.583328,
+      "lon": 49.666672
+    },
+    "name": "Sumqayit City"
+  },
+  {
+    "country": "AZ",
+    "id": 584923,
+    "coord": {
+      "lat": 40.589722,
+      "lon": 49.66861
+    },
+    "name": "Sumqayit"
+  },
+  {
+    "country": "AZ",
+    "id": 147192,
+    "coord": {
+      "lat": 39.19228,
+      "lon": 45.43676
+    },
+    "name": "Shekyarabad"
+  },
+  {
+    "country": "AZ",
+    "id": 585967,
+    "coord": {
+      "lat": 40.5,
+      "lon": 46.333328
+    },
+    "name": "Goygol Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 585407,
+    "coord": {
+      "lat": 40.74139,
+      "lon": 46.288891
+    },
+    "name": "Nadil"
+  },
+  {
+    "country": "AZ",
+    "id": 586968,
+    "coord": {
+      "lat": 40.451931,
+      "lon": 50.08564
+    },
+    "name": "Biny Selo"
+  },
+  {
+    "country": "AZ",
+    "id": 146862,
+    "coord": {
+      "lat": 39.119579,
+      "lon": 48.593609
+    },
+    "name": "Prishibinskoye"
+  },
+  {
+    "country": "AZ",
+    "id": 146900,
+    "coord": {
+      "lat": 39.083328,
+      "lon": 46.666672
+    },
+    "name": "Zangilan Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 146901,
+    "coord": {
+      "lat": 39.088341,
+      "lon": 46.651192
+    },
+    "name": "Zangilan"
+  },
+  {
+    "country": "AZ",
+    "id": 146962,
+    "coord": {
+      "lat": 38.916672,
+      "lon": 48.25
+    },
+    "name": "Yardymli Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 146969,
+    "coord": {
+      "lat": 39.79546,
+      "lon": 47.10989
+    },
+    "name": "Novyy Karanlug"
+  },
+  {
+    "country": "AZ",
+    "id": 147278,
+    "coord": {
+      "lat": 39.407219,
+      "lon": 45.573891
+    },
+    "name": "Sahbuz"
+  },
+  {
+    "country": "AZ",
+    "id": 147694,
+    "coord": {
+      "lat": 39.333328,
+      "lon": 46.583328
+    },
+    "name": "Qubadli Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 147305,
+    "coord": {
+      "lat": 39.34396,
+      "lon": 46.581959
+    },
+    "name": "Qubadli"
+  },
+  {
+    "country": "AZ",
+    "id": 147307,
+    "coord": {
+      "lat": 39.813179,
+      "lon": 48.952301
+    },
+    "name": "Qaracala"
+  },
+  {
+    "country": "AZ",
+    "id": 146879,
+    "coord": {
+      "lat": 39.75,
+      "lon": 47.666672
+    },
+    "name": "Beylagan Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 147504,
+    "coord": {
+      "lat": 39.02935,
+      "lon": 46.718472
+    },
+    "name": "Mincivan"
+  },
+  {
+    "country": "AZ",
+    "id": 147552,
+    "coord": {
+      "lat": 39.03532,
+      "lon": 48.665401
+    },
+    "name": "Masally"
+  },
+  {
+    "country": "AZ",
+    "id": 147610,
+    "coord": {
+      "lat": 38.75,
+      "lon": 48.416672
+    },
+    "name": "Lerik Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 147626,
+    "coord": {
+      "lat": 39.666672,
+      "lon": 46.416672
+    },
+    "name": "Laçın Rayonu"
+  },
+  {
+    "country": "AZ",
+    "id": 147625,
+    "coord": {
+      "lat": 39.598808,
+      "lon": 46.550449
+    },
+    "name": "Lacin"
+  },
+  {
+    "country": "AZ",
+    "id": 147695,
+    "coord": {
+      "lat": 39.678329,
+      "lon": 46.948841
+    },
+    "name": "Qirmizi Bazar"
+  },
+  {
+    "country": "AZ",
+    "id": 147727,
+    "coord": {
+      "lat": 38.53278,
+      "lon": 48.816669
+    },
+    "name": "Kijoba"
+  },
+  {
+    "country": "AZ",
+    "id": 148449,
+    "coord": {
+      "lat": 39.833328,
+      "lon": 46.75
+    },
+    "name": "Xocalı Rayonu"
+  },
+  {
+    "country": "AZ",
+    "id": 147774,
+    "coord": {
+      "lat": 39.912971,
+      "lon": 46.790279
+    },
+    "name": "Xocali"
+  },
+  {
+    "country": "AZ",
+    "id": 148107,
+    "coord": {
+      "lat": 39.583328,
+      "lon": 47.333328
+    },
+    "name": "Fizuli Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 148003,
+    "coord": {
+      "lat": 39.448769,
+      "lon": 47.335312
+    },
+    "name": "Horadiz"
+  },
+  {
+    "country": "AZ",
+    "id": 147613,
+    "coord": {
+      "lat": 38.70071,
+      "lon": 48.755508
+    },
+    "name": "Lankaran Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 148088,
+    "coord": {
+      "lat": 38.763248,
+      "lon": 48.76223
+    },
+    "name": "Haftoni"
+  },
+  {
+    "country": "AZ",
+    "id": 148105,
+    "coord": {
+      "lat": 39.52002,
+      "lon": 47.031799
+    },
+    "name": "Hadrut"
+  },
+  {
+    "country": "AZ",
+    "id": 148141,
+    "coord": {
+      "lat": 39.39917,
+      "lon": 47.028339
+    },
+    "name": "Jebrail"
+  },
+  {
+    "country": "AZ",
+    "id": 148375,
+    "coord": {
+      "lat": 39.411171,
+      "lon": 49.247921
+    },
+    "name": "Severo-Vostotchnyi Bank"
+  },
+  {
+    "country": "AZ",
+    "id": 148450,
+    "coord": {
+      "lat": 39.936668,
+      "lon": 46.832779
+    },
+    "name": "Askyaran"
+  },
+  {
+    "country": "AZ",
+    "id": 393443,
+    "coord": {
+      "lat": 39.33667,
+      "lon": 49.214142
+    },
+    "name": "Sovetabad"
+  },
+  {
+    "country": "AZ",
+    "id": 584562,
+    "coord": {
+      "lat": 40.3661,
+      "lon": 50.291698
+    },
+    "name": "Zyrya"
+  },
+  {
+    "country": "AZ",
+    "id": 584583,
+    "coord": {
+      "lat": 40.25,
+      "lon": 47.75
+    },
+    "name": "Zardab Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 584586,
+    "coord": {
+      "lat": 40.21833,
+      "lon": 47.708328
+    },
+    "name": "Zardob"
+  },
+  {
+    "country": "AZ",
+    "id": 584715,
+    "coord": {
+      "lat": 41.630959,
+      "lon": 48.681
+    },
+    "name": "Xudat"
+  },
+  {
+    "country": "AZ",
+    "id": 586771,
+    "coord": {
+      "lat": 40.416672,
+      "lon": 46
+    },
+    "name": "Dashkasan Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 584724,
+    "coord": {
+      "lat": 40.492279,
+      "lon": 46.071369
+    },
+    "name": "Verkhniy Dashkesan"
+  },
+  {
+    "country": "AZ",
+    "id": 584792,
+    "coord": {
+      "lat": 40.363892,
+      "lon": 50.215
+    },
+    "name": "Turkan"
+  },
+  {
+    "country": "AZ",
+    "id": 584861,
+    "coord": {
+      "lat": 41,
+      "lon": 45.75
+    },
+    "name": "Tovuz Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 584821,
+    "coord": {
+      "lat": 40.992222,
+      "lon": 45.628891
+    },
+    "name": "Tovuz"
+  },
+  {
+    "country": "AZ",
+    "id": 828306,
+    "coord": {
+      "lat": 40.75,
+      "lon": 49.166672
+    },
+    "name": "Khizi Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 584991,
+    "coord": {
+      "lat": 40.819241,
+      "lon": 49.468739
+    },
+    "name": "Suraabad"
+  },
+  {
+    "country": "AZ",
+    "id": 587245,
+    "coord": {
+      "lat": 40.416672,
+      "lon": 49.333328
+    },
+    "name": "Absheron Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 585145,
+    "coord": {
+      "lat": 40.532219,
+      "lon": 49.716389
+    },
+    "name": "Saray"
+  },
+  {
+    "country": "AZ",
+    "id": 585150,
+    "coord": {
+      "lat": 41.632542,
+      "lon": 48.430248
+    },
+    "name": "Samur"
+  },
+  {
+    "country": "AZ",
+    "id": 585223,
+    "coord": {
+      "lat": 40.082378,
+      "lon": 49.412048
+    },
+    "name": "Qobustan"
+  },
+  {
+    "country": "AZ",
+    "id": 585738,
+    "coord": {
+      "lat": 40.916672,
+      "lon": 47.833328
+    },
+    "name": "Qabala Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 585231,
+    "coord": {
+      "lat": 40.981392,
+      "lon": 47.845829
+    },
+    "name": "Qutqashen"
+  },
+  {
+    "country": "AZ",
+    "id": 585236,
+    "coord": {
+      "lat": 40.296669,
+      "lon": 49.660278
+    },
+    "name": "Puta"
+  },
+  {
+    "country": "AZ",
+    "id": 585388,
+    "coord": {
+      "lat": 40.55611,
+      "lon": 50.005562
+    },
+    "name": "Nardaran"
+  },
+  {
+    "country": "AZ",
+    "id": 828300,
+    "coord": {
+      "lat": 40.48333,
+      "lon": 46.716671
+    },
+    "name": "Naftalan City"
+  },
+  {
+    "country": "AZ",
+    "id": 585400,
+    "coord": {
+      "lat": 40.506672,
+      "lon": 46.825001
+    },
+    "name": "Naftalan"
+  },
+  {
+    "country": "AZ",
+    "id": 828301,
+    "coord": {
+      "lat": 40.5,
+      "lon": 49
+    },
+    "name": "Gobustan Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 585570,
+    "coord": {
+      "lat": 40.53371,
+      "lon": 48.927261
+    },
+    "name": "Marazy"
+  },
+  {
+    "country": "AZ",
+    "id": 586112,
+    "coord": {
+      "lat": 40.583328,
+      "lon": 46.666672
+    },
+    "name": "Goranboy Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 585666,
+    "coord": {
+      "lat": 40.574558,
+      "lon": 46.840981
+    },
+    "name": "Qizilhacili"
+  },
+  {
+    "country": "AZ",
+    "id": 585838,
+    "coord": {
+      "lat": 40.40472,
+      "lon": 49.713058
+    },
+    "name": "Qobu"
+  },
+  {
+    "country": "AZ",
+    "id": 585892,
+    "coord": {
+      "lat": 40.870979,
+      "lon": 49.342331
+    },
+    "name": "Kilyazi"
+  },
+  {
+    "country": "AZ",
+    "id": 585909,
+    "coord": {
+      "lat": 40.905762,
+      "lon": 49.081268
+    },
+    "name": "Khyzy"
+  },
+  {
+    "country": "AZ",
+    "id": 585915,
+    "coord": {
+      "lat": 40.448078,
+      "lon": 49.75502
+    },
+    "name": "Khirdalan"
+  },
+  {
+    "country": "AZ",
+    "id": 585940,
+    "coord": {
+      "lat": 40.413479,
+      "lon": 49.772091
+    },
+    "name": "Khodzhi-Gasan"
+  },
+  {
+    "country": "AZ",
+    "id": 586031,
+    "coord": {
+      "lat": 40.303059,
+      "lon": 49.619999
+    },
+    "name": "Korgoz"
+  },
+  {
+    "country": "AZ",
+    "id": 828302,
+    "coord": {
+      "lat": 40.916672,
+      "lon": 46.416672
+    },
+    "name": "Samukh Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 586135,
+    "coord": {
+      "lat": 40.78862,
+      "lon": 46.306591
+    },
+    "name": "Qarayeri"
+  },
+  {
+    "country": "AZ",
+    "id": 586265,
+    "coord": {
+      "lat": 41.094231,
+      "lon": 45.471619
+    },
+    "name": "Vurgun"
+  },
+  {
+    "country": "AZ",
+    "id": 586047,
+    "coord": {
+      "lat": 40.083328,
+      "lon": 46.166672
+    },
+    "name": "Kəlbəcər Rayonu"
+  },
+  {
+    "country": "AZ",
+    "id": 586268,
+    "coord": {
+      "lat": 40.10667,
+      "lon": 46.03833
+    },
+    "name": "Kerbakhiar"
+  },
+  {
+    "country": "AZ",
+    "id": 586289,
+    "coord": {
+      "lat": 40.441818,
+      "lon": 50.168121
+    },
+    "name": "Qala"
+  },
+  {
+    "country": "AZ",
+    "id": 586320,
+    "coord": {
+      "lat": 40.833328,
+      "lon": 48.166672
+    },
+    "name": "Ismayilli Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 586318,
+    "coord": {
+      "lat": 40.778969,
+      "lon": 48.16375
+    },
+    "name": "Ismayilli"
+  },
+  {
+    "country": "AZ",
+    "id": 586368,
+    "coord": {
+      "lat": 40.374439,
+      "lon": 49.681938
+    },
+    "name": "Gyuzdek"
+  },
+  {
+    "country": "AZ",
+    "id": 586430,
+    "coord": {
+      "lat": 40.610279,
+      "lon": 46.789719
+    },
+    "name": "Goranboy"
+  },
+  {
+    "country": "AZ",
+    "id": 627535,
+    "coord": {
+      "lat": 40.5,
+      "lon": 45.666672
+    },
+    "name": "Gadabay Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 586573,
+    "coord": {
+      "lat": 40.565559,
+      "lon": 45.816109
+    },
+    "name": "Kyadabek"
+  },
+  {
+    "country": "AZ",
+    "id": 586631,
+    "coord": {
+      "lat": 40.572498,
+      "lon": 49.70639
+    },
+    "name": "Corat"
+  },
+  {
+    "country": "AZ",
+    "id": 586652,
+    "coord": {
+      "lat": 40.540829,
+      "lon": 49.659721
+    },
+    "name": "Ceyranbatan"
+  },
+  {
+    "country": "AZ",
+    "id": 586692,
+    "coord": {
+      "lat": 40.903301,
+      "lon": 45.885639
+    },
+    "name": "Dzagam"
+  },
+  {
+    "country": "AZ",
+    "id": 586736,
+    "coord": {
+      "lat": 40.492569,
+      "lon": 49.874779
+    },
+    "name": "Digah"
+  },
+  {
+    "country": "AZ",
+    "id": 586765,
+    "coord": {
+      "lat": 40.49472,
+      "lon": 46.077221
+    },
+    "name": "Yukhary-Dashkesan"
+  },
+  {
+    "country": "AZ",
+    "id": 586792,
+    "coord": {
+      "lat": 40.862782,
+      "lon": 46.034931
+    },
+    "name": "Dolyar"
+  },
+  {
+    "country": "AZ",
+    "id": 586845,
+    "coord": {
+      "lat": 41.472301,
+      "lon": 46.9156
+    },
+    "name": "Cinarli"
+  },
+  {
+    "country": "AZ",
+    "id": 586967,
+    "coord": {
+      "lat": 40.466019,
+      "lon": 49.827831
+    },
+    "name": "Binagadi"
+  },
+  {
+    "country": "AZ",
+    "id": 586971,
+    "coord": {
+      "lat": 40.568062,
+      "lon": 50.037781
+    },
+    "name": "Bilajer"
+  },
+  {
+    "country": "AZ",
+    "id": 587033,
+    "coord": {
+      "lat": 40.755199,
+      "lon": 48.391041
+    },
+    "name": "Basqal"
+  },
+  {
+    "country": "AZ",
+    "id": 585031,
+    "coord": {
+      "lat": 41.083328,
+      "lon": 47.166672
+    },
+    "name": "Shaki Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 587045,
+    "coord": {
+      "lat": 41.322781,
+      "lon": 47.113331
+    },
+    "name": "Bas Goynuk"
+  },
+  {
+    "country": "AZ",
+    "id": 587010,
+    "coord": {
+      "lat": 41.75,
+      "lon": 46.416672
+    },
+    "name": "Balakan Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 587070,
+    "coord": {
+      "lat": 41.72583,
+      "lon": 46.408329
+    },
+    "name": "Belokany"
+  },
+  {
+    "country": "AZ",
+    "id": 587071,
+    "coord": {
+      "lat": 40.46344,
+      "lon": 49.91893
+    },
+    "name": "Balakhani"
+  },
+  {
+    "country": "AZ",
+    "id": 587207,
+    "coord": {
+      "lat": 40.47226,
+      "lon": 50.333038
+    },
+    "name": "Artyom"
+  },
+  {
+    "country": "AZ",
+    "id": 587272,
+    "coord": {
+      "lat": 40.859268,
+      "lon": 48.934769
+    },
+    "name": "Altiagac"
+  },
+  {
+    "country": "AZ",
+    "id": 587319,
+    "coord": {
+      "lat": 41.482239,
+      "lon": 46.635281
+    },
+    "name": "Aliabad"
+  },
+  {
+    "country": "AZ",
+    "id": 587379,
+    "coord": {
+      "lat": 40.2104,
+      "lon": 46.820969
+    },
+    "name": "Martakert"
+  },
+  {
+    "country": "AZ",
+    "id": 807231,
+    "coord": {
+      "lat": 40.099018,
+      "lon": 48.818859
+    },
+    "name": "Mughan"
+  },
+  {
+    "country": "AZ",
+    "id": 823981,
+    "coord": {
+      "lat": 41.720001,
+      "lon": 46.264721
+    },
+    "name": "Qabaqcol"
+  },
+  {
+    "country": "AZ",
+    "id": 584650,
+    "coord": {
+      "lat": 40.666672,
+      "lon": 47
+    },
+    "name": "Yevlakh Rayon"
+  },
+  {
+    "country": "AZ",
+    "id": 824050,
+    "coord": {
+      "lat": 40.625278,
+      "lon": 46.975559
+    },
+    "name": "Aran"
+  },
+  {
+    "country": "AZ",
+    "id": 863732,
+    "coord": {
+      "lat": 40.442219,
+      "lon": 49.98056
+    },
+    "name": "Ramana"
+  },
+  {
+    "country": "AZ",
+    "id": 863771,
+    "coord": {
+      "lat": 40.338612,
+      "lon": 49.77528
+    },
+    "name": "Eibat"
+  },
+  {
+    "country": "AZ",
+    "id": 863761,
+    "coord": {
+      "lat": 40.339439,
+      "lon": 49.80389
+    },
+    "name": "Badamdar"
+  }
+
+]

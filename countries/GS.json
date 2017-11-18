@@ -1,0 +1,22 @@
+[
+
+  {
+    "country": "GS",
+    "id": 3426466,
+    "coord": {
+      "lat": -54.281109,
+      "lon": -36.509201
+    },
+    "name": "Grytviken"
+  },
+  {
+    "country": "GS",
+    "id": 3474415,
+    "coord": {
+      "lat": -56,
+      "lon": -33
+    },
+    "name": "South Georgia and the South Sandwich Islands"
+  }
+
+]

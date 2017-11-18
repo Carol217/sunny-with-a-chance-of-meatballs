@@ -1,0 +1,274 @@
+[
+
+  {
+    "country": "DM",
+    "id": 3575624,
+    "coord": {
+      "lat": 15.4,
+      "lon": -61.433331
+    },
+    "name": "Saint Joseph"
+  },
+  {
+    "country": "DM",
+    "id": 3575626,
+    "coord": {
+      "lat": 15.58333,
+      "lon": -61.450001
+    },
+    "name": "Saint John"
+  },
+  {
+    "country": "DM",
+    "id": 3575863,
+    "coord": {
+      "lat": 15.58333,
+      "lon": -61.466671
+    },
+    "name": "Clifton"
+  },
+  {
+    "country": "DM",
+    "id": 3575602,
+    "coord": {
+      "lat": 15.23333,
+      "lon": -61.366669
+    },
+    "name": "Soufriere"
+  },
+  {
+    "country": "DM",
+    "id": 3575830,
+    "coord": {
+      "lat": 15.5,
+      "lon": -61.333328
+    },
+    "name": "Dominica"
+  },
+  {
+    "country": "DM",
+    "id": 3575625,
+    "coord": {
+      "lat": 15.43333,
+      "lon": -61.433331
+    },
+    "name": "Saint Joseph"
+  },
+  {
+    "country": "DM",
+    "id": 3575612,
+    "coord": {
+      "lat": 15.43333,
+      "lon": -61.450001
+    },
+    "name": "Salisbury"
+  },
+  {
+    "country": "DM",
+    "id": 3575630,
+    "coord": {
+      "lat": 15.46667,
+      "lon": -61.283329
+    },
+    "name": "Saint David"
+  },
+  {
+    "country": "DM",
+    "id": 3575870,
+    "coord": {
+      "lat": 15.43333,
+      "lon": -61.26667
+    },
+    "name": "Castle Bruce"
+  },
+  {
+    "country": "DM",
+    "id": 3575761,
+    "coord": {
+      "lat": 15.58333,
+      "lon": -61.466671
+    },
+    "name": "Lagon"
+  },
+  {
+    "country": "DM",
+    "id": 3575639,
+    "coord": {
+      "lat": 15.36667,
+      "lon": -61.26667
+    },
+    "name": "Rosalie"
+  },
+  {
+    "country": "DM",
+    "id": 3575632,
+    "coord": {
+      "lat": 15.56667,
+      "lon": -61.366669
+    },
+    "name": "Saint Andrew"
+  },
+  {
+    "country": "DM",
+    "id": 3575565,
+    "coord": {
+      "lat": 15.56667,
+      "lon": -61.333328
+    },
+    "name": "Woodford Hill"
+  },
+  {
+    "country": "DM",
+    "id": 3575628,
+    "coord": {
+      "lat": 15.3,
+      "lon": -61.366669
+    },
+    "name": "Saint George"
+  },
+  {
+    "country": "DM",
+    "id": 3575737,
+    "coord": {
+      "lat": 15.26667,
+      "lon": -61.383331
+    },
+    "name": "Loubiere"
+  },
+  {
+    "country": "DM",
+    "id": 3575578,
+    "coord": {
+      "lat": 15.31667,
+      "lon": -61.349998
+    },
+    "name": "Trafalgar"
+  },
+  {
+    "country": "DM",
+    "id": 3575721,
+    "coord": {
+      "lat": 15.53333,
+      "lon": -61.299999
+    },
+    "name": "Marigot"
+  },
+  {
+    "country": "DM",
+    "id": 3575619,
+    "coord": {
+      "lat": 15.35,
+      "lon": -61.383331
+    },
+    "name": "Saint Paul"
+  },
+  {
+    "country": "DM",
+    "id": 3575641,
+    "coord": {
+      "lat": 15.33333,
+      "lon": -61.400002
+    },
+    "name": "Roger"
+  },
+  {
+    "country": "DM",
+    "id": 3575635,
+    "coord": {
+      "lat": 15.30174,
+      "lon": -61.388081
+    },
+    "name": "Roseau"
+  },
+  {
+    "country": "DM",
+    "id": 3575568,
+    "coord": {
+      "lat": 15.56667,
+      "lon": -61.316669
+    },
+    "name": "Wesley"
+  },
+  {
+    "country": "DM",
+    "id": 3575621,
+    "coord": {
+      "lat": 15.21667,
+      "lon": -61.366669
+    },
+    "name": "Saint Mark"
+  },
+  {
+    "country": "DM",
+    "id": 3575654,
+    "coord": {
+      "lat": 15.58333,
+      "lon": -61.466671
+    },
+    "name": "Portsmouth"
+  },
+  {
+    "country": "DM",
+    "id": 3575622,
+    "coord": {
+      "lat": 15.26667,
+      "lon": -61.383331
+    },
+    "name": "Saint Luke"
+  },
+  {
+    "country": "DM",
+    "id": 3575660,
+    "coord": {
+      "lat": 15.25,
+      "lon": -61.383331
+    },
+    "name": "Pointe Michel"
+  },
+  {
+    "country": "DM",
+    "id": 3575733,
+    "coord": {
+      "lat": 15.35,
+      "lon": -61.400002
+    },
+    "name": "Mahaut"
+  },
+  {
+    "country": "DM",
+    "id": 3575620,
+    "coord": {
+      "lat": 15.28333,
+      "lon": -61.299999
+    },
+    "name": "Saint Patrick"
+  },
+  {
+    "country": "DM",
+    "id": 3575755,
+    "coord": {
+      "lat": 15.33333,
+      "lon": -61.25
+    },
+    "name": "La Plaine"
+  },
+  {
+    "country": "DM",
+    "id": 3575882,
+    "coord": {
+      "lat": 15.58333,
+      "lon": -61.349998
+    },
+    "name": "Calibishie"
+  },
+  {
+    "country": "DM",
+    "id": 3575899,
+    "coord": {
+      "lat": 15.23333,
+      "lon": -61.316669
+    },
+    "name": "Berekua"
+  }
+
+]

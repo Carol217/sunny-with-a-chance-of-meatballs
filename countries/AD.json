@@ -1,0 +1,166 @@
+[
+
+  {
+    "country": "AD",
+    "id": 3039162,
+    "coord": {
+      "lat": 42.462471,
+      "lon": 1.48247
+    },
+    "name": "Parròquia de Sant Julià de Lòria"
+  },
+  {
+    "country": "AD",
+    "id": 3039604,
+    "coord": {
+      "lat": 42.54277,
+      "lon": 1.73361
+    },
+    "name": "Pas de la Casa"
+  },
+  {
+    "country": "AD",
+    "id": 3039676,
+    "coord": {
+      "lat": 42.59758,
+      "lon": 1.52573
+    },
+    "name": "Parròquia d'Ordino"
+  },
+  {
+    "country": "AD",
+    "id": 3040131,
+    "coord": {
+      "lat": 42.566669,
+      "lon": 1.48333
+    },
+    "name": "Parròquia de la Massana"
+  },
+  {
+    "country": "AD",
+    "id": 3041203,
+    "coord": {
+      "lat": 42.583328,
+      "lon": 1.66667
+    },
+    "name": "Parròquia de Canillo"
+  },
+  {
+    "country": "AD",
+    "id": 3039819,
+    "coord": {
+      "lat": 42.551029,
+      "lon": 1.58958
+    },
+    "name": "Molleres"
+  },
+  {
+    "country": "AD",
+    "id": 3041566,
+    "coord": {
+      "lat": 42.504501,
+      "lon": 1.49414
+    },
+    "name": "Parròquia d'Andorra la Vella"
+  },
+  {
+    "country": "AD",
+    "id": 3040684,
+    "coord": {
+      "lat": 42.533329,
+      "lon": 1.63333
+    },
+    "name": "Parròquia d'Encamp"
+  },
+  {
+    "country": "AD",
+    "id": 3041519,
+    "coord": {
+      "lat": 42.572048,
+      "lon": 1.48453
+    },
+    "name": "Arinsal"
+  },
+  {
+    "country": "AD",
+    "id": 3338529,
+    "coord": {
+      "lat": 42.5,
+      "lon": 1.56667
+    },
+    "name": "Parròquia d'Escaldes-Engordany"
+  },
+  {
+    "country": "AD",
+    "id": 3041565,
+    "coord": {
+      "lat": 42.5,
+      "lon": 1.5
+    },
+    "name": "Principality of Andorra"
+  },
+  {
+    "country": "AD",
+    "id": 3040051,
+    "coord": {
+      "lat": 42.50729,
+      "lon": 1.53414
+    },
+    "name": "les Escaldes"
+  },
+  {
+    "country": "AD",
+    "id": 3041563,
+    "coord": {
+      "lat": 42.50779,
+      "lon": 1.52109
+    },
+    "name": "Andorra la Vella"
+  },
+  {
+    "country": "AD",
+    "id": 3039163,
+    "coord": {
+      "lat": 42.463718,
+      "lon": 1.49129
+    },
+    "name": "Sant Julia de Loria"
+  },
+  {
+    "country": "AD",
+    "id": 3039678,
+    "coord": {
+      "lat": 42.556229,
+      "lon": 1.53319
+    },
+    "name": "Ordino"
+  },
+  {
+    "country": "AD",
+    "id": 3040132,
+    "coord": {
+      "lat": 42.544991,
+      "lon": 1.51483
+    },
+    "name": "la Massana"
+  },
+  {
+    "country": "AD",
+    "id": 3040686,
+    "coord": {
+      "lat": 42.534512,
+      "lon": 1.5767
+    },
+    "name": "Encamp"
+  },
+  {
+    "country": "AD",
+    "id": 3041204,
+    "coord": {
+      "lat": 42.566898,
+      "lon": 1.59556
+    },
+    "name": "Canillo"
+  }
+
+]

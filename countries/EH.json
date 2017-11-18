@@ -1,0 +1,58 @@
+[
+
+  {
+    "country": "EH",
+    "id": 2462900,
+    "coord": {
+      "lat": 27.02611,
+      "lon": -13.05194
+    },
+    "name": "Ad Dchira"
+  },
+  {
+    "country": "EH",
+    "id": 2461874,
+    "coord": {
+      "lat": 26.738411,
+      "lon": -11.67194
+    },
+    "name": "Smara"
+  },
+  {
+    "country": "EH",
+    "id": 2462879,
+    "coord": {
+      "lat": 23.577551,
+      "lon": -15.83472
+    },
+    "name": "El Aargub"
+  },
+  {
+    "country": "EH",
+    "id": 6547304,
+    "coord": {
+      "lat": 22.84713,
+      "lon": -14.71303
+    },
+    "name": "Oued Ed-Dahab-Lagouira"
+  },
+  {
+    "country": "EH",
+    "id": 2463447,
+    "coord": {
+      "lat": 23.684771,
+      "lon": -15.95798
+    },
+    "name": "Ad Dakhla"
+  },
+  {
+    "country": "EH",
+    "id": 2462881,
+    "coord": {
+      "lat": 27.162239,
+      "lon": -13.20315
+    },
+    "name": "Laayoune / El Aaiun"
+  }
+
+]

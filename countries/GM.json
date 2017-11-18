@@ -1,0 +1,715 @@
+[
+
+  {
+    "country": "GM",
+    "id": 2413875,
+    "coord": {
+      "lat": 13.45,
+      "lon": -16.58333
+    },
+    "name": "City of Banjul"
+  },
+  {
+    "country": "GM",
+    "id": 2413239,
+    "coord": {
+      "lat": 13.4425,
+      "lon": -16.681391
+    },
+    "name": "Serekunda"
+  },
+  {
+    "country": "GM",
+    "id": 2411989,
+    "coord": {
+      "lat": 13.43833,
+      "lon": -16.678061
+    },
+    "name": "Sere Kunda"
+  },
+  {
+    "country": "GM",
+    "id": 2413106,
+    "coord": {
+      "lat": 13.44639,
+      "lon": -16.67444
+    },
+    "name": "Kanifing"
+  },
+  {
+    "country": "GM",
+    "id": 2411683,
+    "coord": {
+      "lat": 13.25,
+      "lon": -16.33333
+    },
+    "name": "Western Division"
+  },
+  {
+    "country": "GM",
+    "id": 2413874,
+    "coord": {
+      "lat": 13.37333,
+      "lon": -16.657221
+    },
+    "name": "Banjul NDing"
+  },
+  {
+    "country": "GM",
+    "id": 2411880,
+    "coord": {
+      "lat": 13.41033,
+      "lon": -16.708151
+    },
+    "name": "Sukuta"
+  },
+  {
+    "country": "GM",
+    "id": 2412353,
+    "coord": {
+      "lat": 13.5,
+      "lon": -16
+    },
+    "name": "North Bank Division"
+  },
+  {
+    "country": "GM",
+    "id": 2412749,
+    "coord": {
+      "lat": 13.35222,
+      "lon": -16.433889
+    },
+    "name": "Lamin"
+  },
+  {
+    "country": "GM",
+    "id": 2413515,
+    "coord": {
+      "lat": 13.56667,
+      "lon": -15.6
+    },
+    "name": "Farafenni"
+  },
+  {
+    "country": "GM",
+    "id": 2413753,
+    "coord": {
+      "lat": 13.27136,
+      "lon": -16.649441
+    },
+    "name": "Brikama"
+  },
+  {
+    "country": "GM",
+    "id": 2413920,
+    "coord": {
+      "lat": 13.47806,
+      "lon": -16.68194
+    },
+    "name": "Bakau"
+  },
+  {
+    "country": "GM",
+    "id": 2413451,
+    "coord": {
+      "lat": 13.5,
+      "lon": -15.5
+    },
+    "name": "Gambia"
+  },
+  {
+    "country": "GM",
+    "id": 2413697,
+    "coord": {
+      "lat": 13.33306,
+      "lon": -16.67083
+    },
+    "name": "Busumbala"
+  },
+  {
+    "country": "GM",
+    "id": 2413876,
+    "coord": {
+      "lat": 13.45274,
+      "lon": -16.57803
+    },
+    "name": "Banjul"
+  },
+  {
+    "country": "GM",
+    "id": 2411692,
+    "coord": {
+      "lat": 13.41667,
+      "lon": -15.4
+    },
+    "name": "Wellingara Ba"
+  },
+  {
+    "country": "GM",
+    "id": 2411703,
+    "coord": {
+      "lat": 13.69094,
+      "lon": -14.87884
+    },
+    "name": "Wassu"
+  },
+  {
+    "country": "GM",
+    "id": 2411765,
+    "coord": {
+      "lat": 13.43333,
+      "lon": -15.58333
+    },
+    "name": "Toniataba"
+  },
+  {
+    "country": "GM",
+    "id": 2411862,
+    "coord": {
+      "lat": 13.46667,
+      "lon": -15.26667
+    },
+    "name": "Sutukung"
+  },
+  {
+    "country": "GM",
+    "id": 2411863,
+    "coord": {
+      "lat": 13.5,
+      "lon": -14.01667
+    },
+    "name": "Sutukoba"
+  },
+  {
+    "country": "GM",
+    "id": 2411866,
+    "coord": {
+      "lat": 13.38333,
+      "lon": -13.85
+    },
+    "name": "Sun Kunda"
+  },
+  {
+    "country": "GM",
+    "id": 2411877,
+    "coord": {
+      "lat": 13.61667,
+      "lon": -14.91667
+    },
+    "name": "Sukuta"
+  },
+  {
+    "country": "GM",
+    "id": 2411885,
+    "coord": {
+      "lat": 13.36667,
+      "lon": -13.96667
+    },
+    "name": "Sudowol"
+  },
+  {
+    "country": "GM",
+    "id": 2411903,
+    "coord": {
+      "lat": 13.20583,
+      "lon": -16.305559
+    },
+    "name": "Somita"
+  },
+  {
+    "country": "GM",
+    "id": 2411905,
+    "coord": {
+      "lat": 13.43333,
+      "lon": -15.53333
+    },
+    "name": "Soma"
+  },
+  {
+    "country": "GM",
+    "id": 2411970,
+    "coord": {
+      "lat": 13.43333,
+      "lon": -15.56667
+    },
+    "name": "Si Kunda"
+  },
+  {
+    "country": "GM",
+    "id": 2411999,
+    "coord": {
+      "lat": 13.55,
+      "lon": -14.91667
+    },
+    "name": "Saruja"
+  },
+  {
+    "country": "GM",
+    "id": 2412135,
+    "coord": {
+      "lat": 13.53333,
+      "lon": -15.41667
+    },
+    "name": "Sara Kunda"
+  },
+  {
+    "country": "GM",
+    "id": 2412158,
+    "coord": {
+      "lat": 13.46667,
+      "lon": -15.51667
+    },
+    "name": "Sankwia"
+  },
+  {
+    "country": "GM",
+    "id": 2412199,
+    "coord": {
+      "lat": 13.58333,
+      "lon": -15.2
+    },
+    "name": "Sami"
+  },
+  {
+    "country": "GM",
+    "id": 2412248,
+    "coord": {
+      "lat": 13.23333,
+      "lon": -14.2
+    },
+    "name": "Sabi"
+  },
+  {
+    "country": "GM",
+    "id": 2412252,
+    "coord": {
+      "lat": 13.51639,
+      "lon": -16.04917
+    },
+    "name": "Saba"
+  },
+  {
+    "country": "GM",
+    "id": 2412272,
+    "coord": {
+      "lat": 13.38333,
+      "lon": -14.03333
+    },
+    "name": "Perai"
+  },
+  {
+    "country": "GM",
+    "id": 2412279,
+    "coord": {
+      "lat": 13.61667,
+      "lon": -15.06667
+    },
+    "name": "Pateh Sam"
+  },
+  {
+    "country": "GM",
+    "id": 2412344,
+    "coord": {
+      "lat": 13.33333,
+      "lon": -13.86667
+    },
+    "name": "Nyamanari"
+  },
+  {
+    "country": "GM",
+    "id": 2412355,
+    "coord": {
+      "lat": 13.56667,
+      "lon": -15.83333
+    },
+    "name": "No Kunda"
+  },
+  {
+    "country": "GM",
+    "id": 2412408,
+    "coord": {
+      "lat": 13.35,
+      "lon": -15.75
+    },
+    "name": "Nioro"
+  },
+  {
+    "country": "GM",
+    "id": 2412605,
+    "coord": {
+      "lat": 13.46667,
+      "lon": -15.55
+    },
+    "name": "Mansa Konko"
+  },
+  {
+    "country": "GM",
+    "id": 2412775,
+    "coord": {
+      "lat": 13.53333,
+      "lon": -14.66667
+    },
+    "name": "Kunting"
+  },
+  {
+    "country": "GM",
+    "id": 2412778,
+    "coord": {
+      "lat": 13.66667,
+      "lon": -14.88333
+    },
+    "name": "Kuntaur"
+  },
+  {
+    "country": "GM",
+    "id": 2412807,
+    "coord": {
+      "lat": 13.26667,
+      "lon": -14.18333
+    },
+    "name": "Kumbija"
+  },
+  {
+    "country": "GM",
+    "id": 2412868,
+    "coord": {
+      "lat": 13.48333,
+      "lon": -13.86667
+    },
+    "name": "Koina"
+  },
+  {
+    "country": "GM",
+    "id": 2412992,
+    "coord": {
+      "lat": 13.4898,
+      "lon": -16.088791
+    },
+    "name": "Kerewan"
+  },
+  {
+    "country": "GM",
+    "id": 2413023,
+    "coord": {
+      "lat": 13.32889,
+      "lon": -16.014999
+    },
+    "name": "Keneba"
+  },
+  {
+    "country": "GM",
+    "id": 2413041,
+    "coord": {
+      "lat": 13.5,
+      "lon": -15.75
+    },
+    "name": "Katchang"
+  },
+  {
+    "country": "GM",
+    "id": 2413052,
+    "coord": {
+      "lat": 13.78333,
+      "lon": -14.93333
+    },
+    "name": "Kass Wollof"
+  },
+  {
+    "country": "GM",
+    "id": 2413070,
+    "coord": {
+      "lat": 13.66667,
+      "lon": -15.03333
+    },
+    "name": "Karantaba"
+  },
+  {
+    "country": "GM",
+    "id": 2413073,
+    "coord": {
+      "lat": 13.43333,
+      "lon": -15.51667
+    },
+    "name": "Karantaba"
+  },
+  {
+    "country": "GM",
+    "id": 2413160,
+    "coord": {
+      "lat": 13.4,
+      "lon": -15.61667
+    },
+    "name": "Kaiaf"
+  },
+  {
+    "country": "GM",
+    "id": 2413235,
+    "coord": {
+      "lat": 13.3,
+      "lon": -15.86667
+    },
+    "name": "Jifarong"
+  },
+  {
+    "country": "GM",
+    "id": 2413246,
+    "coord": {
+      "lat": 13.48333,
+      "lon": -15.56667
+    },
+    "name": "Jenoi"
+  },
+  {
+    "country": "GM",
+    "id": 2413265,
+    "coord": {
+      "lat": 13.61667,
+      "lon": -15.18333
+    },
+    "name": "Jarreng"
+  },
+  {
+    "country": "GM",
+    "id": 2413344,
+    "coord": {
+      "lat": 13.35,
+      "lon": -15.96667
+    },
+    "name": "Jali"
+  },
+  {
+    "country": "GM",
+    "id": 2413365,
+    "coord": {
+      "lat": 13.55,
+      "lon": -14.96667
+    },
+    "name": "Jakhaly"
+  },
+  {
+    "country": "GM",
+    "id": 2413417,
+    "coord": {
+      "lat": 13.53333,
+      "lon": -14.11667
+    },
+    "name": "Gunjur Kuta"
+  },
+  {
+    "country": "GM",
+    "id": 2413418,
+    "coord": {
+      "lat": 13.52278,
+      "lon": -16.027781
+    },
+    "name": "Gunjur"
+  },
+  {
+    "country": "GM",
+    "id": 2413419,
+    "coord": {
+      "lat": 13.20194,
+      "lon": -16.733891
+    },
+    "name": "Gunjur"
+  },
+  {
+    "country": "GM",
+    "id": 2413437,
+    "coord": {
+      "lat": 13.53333,
+      "lon": -14.76667
+    },
+    "name": "Georgetown"
+  },
+  {
+    "country": "GM",
+    "id": 2413456,
+    "coord": {
+      "lat": 13.43333,
+      "lon": -14.78333
+    },
+    "name": "Galleh Manda"
+  },
+  {
+    "country": "GM",
+    "id": 2413533,
+    "coord": {
+      "lat": 13.48389,
+      "lon": -16.534719
+    },
+    "name": "Essau"
+  },
+  {
+    "country": "GM",
+    "id": 2413579,
+    "coord": {
+      "lat": 13.33333,
+      "lon": -13.95
+    },
+    "name": "Diabugu Basilla"
+  },
+  {
+    "country": "GM",
+    "id": 2413580,
+    "coord": {
+      "lat": 13.38333,
+      "lon": -14.4
+    },
+    "name": "Diabugu"
+  },
+  {
+    "country": "GM",
+    "id": 2413588,
+    "coord": {
+      "lat": 13.5,
+      "lon": -14.93333
+    },
+    "name": "Denton"
+  },
+  {
+    "country": "GM",
+    "id": 2413598,
+    "coord": {
+      "lat": 13.25,
+      "lon": -14.26667
+    },
+    "name": "Demba Kunda"
+  },
+  {
+    "country": "GM",
+    "id": 2413623,
+    "coord": {
+      "lat": 13.55,
+      "lon": -15.98333
+    },
+    "name": "Daru Rilwan"
+  },
+  {
+    "country": "GM",
+    "id": 2413645,
+    "coord": {
+      "lat": 13.56667,
+      "lon": -15.31667
+    },
+    "name": "Dankunku"
+  },
+  {
+    "country": "GM",
+    "id": 2413653,
+    "coord": {
+      "lat": 13.31667,
+      "lon": -14.3
+    },
+    "name": "Daba Kunda"
+  },
+  {
+    "country": "GM",
+    "id": 2413660,
+    "coord": {
+      "lat": 13.55,
+      "lon": -16.283331
+    },
+    "name": "Chilla"
+  },
+  {
+    "country": "GM",
+    "id": 2413703,
+    "coord": {
+      "lat": 13.41667,
+      "lon": -15.28333
+    },
+    "name": "Bureng"
+  },
+  {
+    "country": "GM",
+    "id": 2413746,
+    "coord": {
+      "lat": 13.53333,
+      "lon": -14.93333
+    },
+    "name": "Brikama Nding"
+  },
+  {
+    "country": "GM",
+    "id": 2413755,
+    "coord": {
+      "lat": 13.5,
+      "lon": -13.93333
+    },
+    "name": "Brifu"
+  },
+  {
+    "country": "GM",
+    "id": 2413818,
+    "coord": {
+      "lat": 13.30995,
+      "lon": -14.21373
+    },
+    "name": "Basse Santa Su"
+  },
+  {
+    "country": "GM",
+    "id": 2413827,
+    "coord": {
+      "lat": 13.48278,
+      "lon": -16.545561
+    },
+    "name": "Barra"
+  },
+  {
+    "country": "GM",
+    "id": 2413830,
+    "coord": {
+      "lat": 13.48333,
+      "lon": -15.26667
+    },
+    "name": "Baro Kunda"
+  },
+  {
+    "country": "GM",
+    "id": 2413856,
+    "coord": {
+      "lat": 13.41667,
+      "lon": -14.65
+    },
+    "name": "Bantanto"
+  },
+  {
+    "country": "GM",
+    "id": 2413866,
+    "coord": {
+      "lat": 13.43333,
+      "lon": -14.65
+    },
+    "name": "Bansang"
+  },
+  {
+    "country": "GM",
+    "id": 2413895,
+    "coord": {
+      "lat": 13.48333,
+      "lon": -15.33333
+    },
+    "name": "Bambali"
+  },
+  {
+    "country": "GM",
+    "id": 2413926,
+    "coord": {
+      "lat": 13.3,
+      "lon": -14.38333
+    },
+    "name": "Bakadagy"
+  },
+  {
+    "country": "GM",
+    "id": 2413990,
+    "coord": {
+      "lat": 13.40417,
+      "lon": -16.65583
+    },
+    "name": "Abuko"
+  }
+
+]

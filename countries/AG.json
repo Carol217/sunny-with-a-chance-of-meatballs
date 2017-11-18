@@ -1,0 +1,148 @@
+[
+
+  {
+    "country": "AG",
+    "id": 3576361,
+    "coord": {
+      "lat": 17.065651,
+      "lon": -61.87466
+    },
+    "name": "Bolands"
+  },
+  {
+    "country": "AG",
+    "id": 3576024,
+    "coord": {
+      "lat": 17.116671,
+      "lon": -61.799999
+    },
+    "name": "Parish of Saint George"
+  },
+  {
+    "country": "AG",
+    "id": 3576057,
+    "coord": {
+      "lat": 17.116671,
+      "lon": -61.799999
+    },
+    "name": "Piggotts"
+  },
+  {
+    "country": "AG",
+    "id": 3576144,
+    "coord": {
+      "lat": 17.033331,
+      "lon": -61.783329
+    },
+    "name": "Liberta"
+  },
+  {
+    "country": "AG",
+    "id": 3576260,
+    "coord": {
+      "lat": 17.027411,
+      "lon": -61.781361
+    },
+    "name": "Falmouth"
+  },
+  {
+    "country": "AG",
+    "id": 3576397,
+    "coord": {
+      "lat": 17.06671,
+      "lon": -61.79303
+    },
+    "name": "All Saints"
+  },
+  {
+    "country": "AG",
+    "id": 3576016,
+    "coord": {
+      "lat": 17.1,
+      "lon": -61.76667
+    },
+    "name": "Parish of Saint Peter"
+  },
+  {
+    "country": "AG",
+    "id": 3576074,
+    "coord": {
+      "lat": 17.096821,
+      "lon": -61.770458
+    },
+    "name": "Parham"
+  },
+  {
+    "country": "AG",
+    "id": 3576023,
+    "coord": {
+      "lat": 17.1,
+      "lon": -61.849998
+    },
+    "name": "Parish of Saint John"
+  },
+  {
+    "country": "AG",
+    "id": 3576022,
+    "coord": {
+      "lat": 17.116671,
+      "lon": -61.849998
+    },
+    "name": "Saint Johns"
+  },
+  {
+    "country": "AG",
+    "id": 3576017,
+    "coord": {
+      "lat": 17.033331,
+      "lon": -61.76667
+    },
+    "name": "Parish of Saint Paul"
+  },
+  {
+    "country": "AG",
+    "id": 3575975,
+    "coord": {
+      "lat": 17.049999,
+      "lon": -61.799999
+    },
+    "name": "Swetes"
+  },
+  {
+    "country": "AG",
+    "id": 3576018,
+    "coord": {
+      "lat": 17.049999,
+      "lon": -61.849998
+    },
+    "name": "Parish of Saint Mary"
+  },
+  {
+    "country": "AG",
+    "id": 3575930,
+    "coord": {
+      "lat": 17.08333,
+      "lon": -61.866669
+    },
+    "name": "Yorks"
+  },
+  {
+    "country": "AG",
+    "id": 3576050,
+    "coord": {
+      "lat": 17.08333,
+      "lon": -61.816669
+    },
+    "name": "Potters Village"
+  },
+  {
+    "country": "AG",
+    "id": 3576396,
+    "coord": {
+      "lat": 17.049999,
+      "lon": -61.799999
+    },
+    "name": "Antigua and Barbuda"
+  }
+
+]

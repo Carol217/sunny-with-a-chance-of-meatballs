@@ -1,0 +1,463 @@
+[
+
+  {
+    "country": "BJ",
+    "id": 2391377,
+    "coord": {
+      "lat": 8.88649,
+      "lon": 2.59752
+    },
+    "name": "Tchaourou"
+  },
+  {
+    "country": "BJ",
+    "id": 2395261,
+    "coord": {
+      "lat": 9.00814,
+      "lon": 1.6654
+    },
+    "name": "Bassila"
+  },
+  {
+    "country": "BJ",
+    "id": 2391455,
+    "coord": {
+      "lat": 10.62118,
+      "lon": 1.26651
+    },
+    "name": "Tanguieta"
+  },
+  {
+    "country": "BJ",
+    "id": 2597272,
+    "coord": {
+      "lat": 8,
+      "lon": 2.16667
+    },
+    "name": "Département du Collines"
+  },
+  {
+    "country": "BJ",
+    "id": 2391895,
+    "coord": {
+      "lat": 7.92807,
+      "lon": 1.97558
+    },
+    "name": "Savalou"
+  },
+  {
+    "country": "BJ",
+    "id": 2597277,
+    "coord": {
+      "lat": 7.16667,
+      "lon": 2.58333
+    },
+    "name": "Département du Plateau"
+  },
+  {
+    "country": "BJ",
+    "id": 2392009,
+    "coord": {
+      "lat": 6.73618,
+      "lon": 2.65866
+    },
+    "name": "Sakete"
+  },
+  {
+    "country": "BJ",
+    "id": 2392108,
+    "coord": {
+      "lat": 6.98008,
+      "lon": 2.6649
+    },
+    "name": "Pobe"
+  },
+  {
+    "country": "BJ",
+    "id": 2392505,
+    "coord": {
+      "lat": 9.94009,
+      "lon": 3.21075
+    },
+    "name": "Nikki"
+  },
+  {
+    "country": "BJ",
+    "id": 2392837,
+    "coord": {
+      "lat": 11.86846,
+      "lon": 3.38989
+    },
+    "name": "Malanville"
+  },
+  {
+    "country": "BJ",
+    "id": 2597271,
+    "coord": {
+      "lat": 11.33333,
+      "lon": 2.91667
+    },
+    "name": "Département de l’ Alibori"
+  },
+  {
+    "country": "BJ",
+    "id": 2393693,
+    "coord": {
+      "lat": 11.13417,
+      "lon": 2.93861
+    },
+    "name": "Kandi"
+  },
+  {
+    "country": "BJ",
+    "id": 2597273,
+    "coord": {
+      "lat": 7.08333,
+      "lon": 1.83333
+    },
+    "name": "Département du Kouffo"
+  },
+  {
+    "country": "BJ",
+    "id": 2394545,
+    "coord": {
+      "lat": 6.81667,
+      "lon": 1.78333
+    },
+    "name": "Dogbo"
+  },
+  {
+    "country": "BJ",
+    "id": 2597274,
+    "coord": {
+      "lat": 9.16667,
+      "lon": 1.83333
+    },
+    "name": "Département de la Donga"
+  },
+  {
+    "country": "BJ",
+    "id": 2394560,
+    "coord": {
+      "lat": 9.70853,
+      "lon": 1.66598
+    },
+    "name": "Djougou"
+  },
+  {
+    "country": "BJ",
+    "id": 2394711,
+    "coord": {
+      "lat": 7.75,
+      "lon": 2.18333
+    },
+    "name": "Dassa-Zoume"
+  },
+  {
+    "country": "BJ",
+    "id": 2394814,
+    "coord": {
+      "lat": 7.22097,
+      "lon": 2.34017
+    },
+    "name": "Cove"
+  },
+  {
+    "country": "BJ",
+    "id": 2394824,
+    "coord": {
+      "lat": 6.40764,
+      "lon": 1.88198
+    },
+    "name": "Come"
+  },
+  {
+    "country": "BJ",
+    "id": 2395182,
+    "coord": {
+      "lat": 10.22827,
+      "lon": 2.66335
+    },
+    "name": "Bembereke"
+  },
+  {
+    "country": "BJ",
+    "id": 2395317,
+    "coord": {
+      "lat": 11.29845,
+      "lon": 2.43856
+    },
+    "name": "Banikoara"
+  },
+  {
+    "country": "BJ",
+    "id": 2395568,
+    "coord": {
+      "lat": 6.93333,
+      "lon": 1.68333
+    },
+    "name": "Aplahoue"
+  },
+  {
+    "country": "BJ",
+    "id": 2395914,
+    "coord": {
+      "lat": 6.44852,
+      "lon": 2.35566
+    },
+    "name": "Abomey-Calavi"
+  },
+  {
+    "country": "BJ",
+    "id": 2390719,
+    "coord": {
+      "lat": 7.25,
+      "lon": 2.16667
+    },
+    "name": "Département du Zou"
+  },
+  {
+    "country": "BJ",
+    "id": 2395915,
+    "coord": {
+      "lat": 7.18286,
+      "lon": 1.99119
+    },
+    "name": "Abomey"
+  },
+  {
+    "country": "BJ",
+    "id": 2393508,
+    "coord": {
+      "lat": 7.08943,
+      "lon": 2.05173
+    },
+    "name": "Kinta"
+  },
+  {
+    "country": "BJ",
+    "id": 2395524,
+    "coord": {
+      "lat": 10.75,
+      "lon": 1.66667
+    },
+    "name": "Département de l’ Atakora"
+  },
+  {
+    "country": "BJ",
+    "id": 2395597,
+    "coord": {
+      "lat": 11.57608,
+      "lon": 3.33585
+    },
+    "name": "Ambéri Goumbi"
+  },
+  {
+    "country": "BJ",
+    "id": 2393551,
+    "coord": {
+      "lat": 7.36332,
+      "lon": 2.59978
+    },
+    "name": "Ketou"
+  },
+  {
+    "country": "BJ",
+    "id": 2395170,
+    "coord": {
+      "lat": 9.5,
+      "lon": 2.25
+    },
+    "name": "Republic of Benin"
+  },
+  {
+    "country": "BJ",
+    "id": 2597275,
+    "coord": {
+      "lat": 6.36667,
+      "lon": 2.41667
+    },
+    "name": "Département du Littoral"
+  },
+  {
+    "country": "BJ",
+    "id": 2394819,
+    "coord": {
+      "lat": 6.36536,
+      "lon": 2.41833
+    },
+    "name": "Cotonou"
+  },
+  {
+    "country": "BJ",
+    "id": 2394992,
+    "coord": {
+      "lat": 9.75,
+      "lon": 2.75
+    },
+    "name": "Département du Borgou"
+  },
+  {
+    "country": "BJ",
+    "id": 2392204,
+    "coord": {
+      "lat": 9.33716,
+      "lon": 2.63031
+    },
+    "name": "Parakou"
+  },
+  {
+    "country": "BJ",
+    "id": 2392325,
+    "coord": {
+      "lat": 6.66667,
+      "lon": 2.5
+    },
+    "name": "Département de l’ Ouémé"
+  },
+  {
+    "country": "BJ",
+    "id": 2392087,
+    "coord": {
+      "lat": 6.49646,
+      "lon": 2.60359
+    },
+    "name": "Porto-Novo"
+  },
+  {
+    "country": "BJ",
+    "id": 2394092,
+    "coord": {
+      "lat": 6.38333,
+      "lon": 2.35
+    },
+    "name": "Godomè"
+  },
+  {
+    "country": "BJ",
+    "id": 2395049,
+    "coord": {
+      "lat": 7.17826,
+      "lon": 2.0667
+    },
+    "name": "Bohicon"
+  },
+  {
+    "country": "BJ",
+    "id": 2392897,
+    "coord": {
+      "lat": 6.63869,
+      "lon": 1.71674
+    },
+    "name": "Lokossa"
+  },
+  {
+    "country": "BJ",
+    "id": 2392895,
+    "coord": {
+      "lat": 6.63333,
+      "lon": 1.71667
+    },
+    "name": "Lokossa-Tchikomé"
+  },
+  {
+    "country": "BJ",
+    "id": 2392601,
+    "coord": {
+      "lat": 10.30416,
+      "lon": 1.37962
+    },
+    "name": "Natitingou"
+  },
+  {
+    "country": "BJ",
+    "id": 2395504,
+    "coord": {
+      "lat": 6.66667,
+      "lon": 2.25
+    },
+    "name": "Département de l’ Atlantique"
+  },
+  {
+    "country": "BJ",
+    "id": 2392308,
+    "coord": {
+      "lat": 6.36307,
+      "lon": 2.08506
+    },
+    "name": "Ouidah"
+  },
+  {
+    "country": "BJ",
+    "id": 2395635,
+    "coord": {
+      "lat": 6.66547,
+      "lon": 2.15138
+    },
+    "name": "Allada"
+  },
+  {
+    "country": "BJ",
+    "id": 2391893,
+    "coord": {
+      "lat": 8.04253,
+      "lon": 2.48599
+    },
+    "name": "Save"
+  },
+  {
+    "country": "BJ",
+    "id": 2390973,
+    "coord": {
+      "lat": 9.36592,
+      "lon": 2.60672
+    },
+    "name": "Wansirou"
+  },
+  {
+    "country": "BJ",
+    "id": 2394893,
+    "coord": {
+      "lat": 10.38968,
+      "lon": 1.36171
+    },
+    "name": "Boundétingou"
+  },
+  {
+    "country": "BJ",
+    "id": 2393923,
+    "coord": {
+      "lat": 11.1515,
+      "lon": 2.93354
+    },
+    "name": "Guida"
+  },
+  {
+    "country": "BJ",
+    "id": 7874124,
+    "coord": {
+      "lat": 6.36106,
+      "lon": 2.36781
+    },
+    "name": "Fidjrosse-Kpota"
+  },
+  {
+    "country": "BJ",
+    "id": 2393947,
+    "coord": {
+      "lat": 6.28036,
+      "lon": 1.82251
+    },
+    "name": "Grand-Popo"
+  },
+  {
+    "country": "BJ",
+    "id": 2395127,
+    "coord": {
+      "lat": 9.19916,
+      "lon": 2.25855
+    },
+    "name": "Beterou"
+  }
+
+]

@@ -1,0 +1,67 @@
+[
+
+  {
+    "country": "AI",
+    "id": 3573380,
+    "coord": {
+      "lat": 18.216669,
+      "lon": -63.033329
+    },
+    "name": "Stoney Ground"
+  },
+  {
+    "country": "AI",
+    "id": 3573420,
+    "coord": {
+      "lat": 18.200001,
+      "lon": -63.066669
+    },
+    "name": "North Hill Village"
+  },
+  {
+    "country": "AI",
+    "id": 3573418,
+    "coord": {
+      "lat": 18.216669,
+      "lon": -63.049999
+    },
+    "name": "North Side"
+  },
+  {
+    "country": "AI",
+    "id": 3573432,
+    "coord": {
+      "lat": 18.183331,
+      "lon": -63.099998
+    },
+    "name": "Lower South Hill"
+  },
+  {
+    "country": "AI",
+    "id": 3573374,
+    "coord": {
+      "lat": 18.217039,
+      "lon": -63.057831
+    },
+    "name": "The Valley"
+  },
+  {
+    "country": "AI",
+    "id": 3573511,
+    "coord": {
+      "lat": 18.216669,
+      "lon": -63.049999
+    },
+    "name": "Anguilla"
+  },
+  {
+    "country": "AI",
+    "id": 3573439,
+    "coord": {
+      "lat": 18.200001,
+      "lon": -63.049999
+    },
+    "name": "Long Ground"
+  }
+
+]

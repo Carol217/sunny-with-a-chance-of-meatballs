@@ -1,0 +1,9985 @@
+[
+
+  {
+    "country": "HU",
+    "id": 3053876,
+    "coord": {
+      "lat": 47.5,
+      "lon": 19.316669
+    },
+    "name": "Csukásitanyák"
+  },
+  {
+    "country": "HU",
+    "id": 719819,
+    "coord": {
+      "lat": 47,
+      "lon": 20
+    },
+    "name": "Hungary"
+  },
+  {
+    "country": "HU",
+    "id": 3052717,
+    "coord": {
+      "lat": 46.561211,
+      "lon": 19.47806
+    },
+    "name": "Felsőtelep"
+  },
+  {
+    "country": "HU",
+    "id": 3043124,
+    "coord": {
+      "lat": 47.200001,
+      "lon": 18.41667
+    },
+    "name": "Varjúdűlő"
+  },
+  {
+    "country": "HU",
+    "id": 3053483,
+    "coord": {
+      "lat": 47.349998,
+      "lon": 19.049999
+    },
+    "name": "Dunaharaszti Rév"
+  },
+  {
+    "country": "HU",
+    "id": 3056211,
+    "coord": {
+      "lat": 47.572449,
+      "lon": 18.41646
+    },
+    "name": "Alsógalla"
+  },
+  {
+    "country": "HU",
+    "id": 8063076,
+    "coord": {
+      "lat": 47.678249,
+      "lon": 16.602619
+    },
+    "name": "Kuruc-domb"
+  },
+  {
+    "country": "HU",
+    "id": 720687,
+    "coord": {
+      "lat": 47.75,
+      "lon": 20.41667
+    },
+    "name": "Fuzesabony"
+  },
+  {
+    "country": "HU",
+    "id": 714552,
+    "coord": {
+      "lat": 47.75,
+      "lon": 20.41667
+    },
+    "name": "Tóthtanya"
+  },
+  {
+    "country": "HU",
+    "id": 715839,
+    "coord": {
+      "lat": 48.400002,
+      "lon": 21.66667
+    },
+    "name": "Satoraljaujhely"
+  },
+  {
+    "country": "HU",
+    "id": 3045406,
+    "coord": {
+      "lat": 45.872471,
+      "lon": 17.847111
+    },
+    "name": "Sellye"
+  },
+  {
+    "country": "HU",
+    "id": 3053085,
+    "coord": {
+      "lat": 47.783329,
+      "lon": 19.933331
+    },
+    "name": "Farkasmály"
+  },
+  {
+    "country": "HU",
+    "id": 3049380,
+    "coord": {
+      "lat": 47.166672,
+      "lon": 19.799999
+    },
+    "name": "Kosárhegy"
+  },
+  {
+    "country": "HU",
+    "id": 715466,
+    "coord": {
+      "lat": 46.866669,
+      "lon": 20.549999
+    },
+    "name": "Szarvas"
+  },
+  {
+    "country": "HU",
+    "id": 720334,
+    "coord": {
+      "lat": 46.650002,
+      "lon": 21.283331
+    },
+    "name": "Gyula"
+  },
+  {
+    "country": "HU",
+    "id": 720364,
+    "coord": {
+      "lat": 46.933331,
+      "lon": 20.83333
+    },
+    "name": "Gyomaendrod"
+  },
+  {
+    "country": "HU",
+    "id": 3043293,
+    "coord": {
+      "lat": 47.775909,
+      "lon": 19.13612
+    },
+    "name": "Vac"
+  },
+  {
+    "country": "HU",
+    "id": 3044083,
+    "coord": {
+      "lat": 47.652889,
+      "lon": 18.31838
+    },
+    "name": "Tata"
+  },
+  {
+    "country": "HU",
+    "id": 3044475,
+    "coord": {
+      "lat": 47.343819,
+      "lon": 19.04335
+    },
+    "name": "Szigetszentmiklos"
+  },
+  {
+    "country": "HU",
+    "id": 3046768,
+    "coord": {
+      "lat": 46.62648,
+      "lon": 18.859619
+    },
+    "name": "Paks"
+  },
+  {
+    "country": "HU",
+    "id": 3047651,
+    "coord": {
+      "lat": 47.034191,
+      "lon": 19.77857
+    },
+    "name": "Nagykoros"
+  },
+  {
+    "country": "HU",
+    "id": 3052236,
+    "coord": {
+      "lat": 47.596569,
+      "lon": 19.35515
+    },
+    "name": "Godollo"
+  },
+  {
+    "country": "HU",
+    "id": 3052241,
+    "coord": {
+      "lat": 47.683239,
+      "lon": 19.134171
+    },
+    "name": "God"
+  },
+  {
+    "country": "HU",
+    "id": 3053836,
+    "coord": {
+      "lat": 47.18594,
+      "lon": 19.310909
+    },
+    "name": "Dabas"
+  },
+  {
+    "country": "HU",
+    "id": 3055685,
+    "coord": {
+      "lat": 46.174961,
+      "lon": 18.95639
+    },
+    "name": "Baja"
+  },
+  {
+    "country": "HU",
+    "id": 3056357,
+    "coord": {
+      "lat": 47.101959,
+      "lon": 17.55892
+    },
+    "name": "Ajka"
+  },
+  {
+    "country": "HU",
+    "id": 7284824,
+    "coord": {
+      "lat": 47.476028,
+      "lon": 19.036051
+    },
+    "name": "Budapest XI. keruelet"
+  },
+  {
+    "country": "HU",
+    "id": 7284825,
+    "coord": {
+      "lat": 47.48299,
+      "lon": 19.06591
+    },
+    "name": "Budapest IX. keruelet"
+  },
+  {
+    "country": "HU",
+    "id": 7284826,
+    "coord": {
+      "lat": 47.489189,
+      "lon": 19.07012
+    },
+    "name": "Budapest VIII. keruelet"
+  },
+  {
+    "country": "HU",
+    "id": 7284827,
+    "coord": {
+      "lat": 47.50045,
+      "lon": 19.06875
+    },
+    "name": "Budapest VII. keruelet"
+  },
+  {
+    "country": "HU",
+    "id": 7284828,
+    "coord": {
+      "lat": 47.503689,
+      "lon": 19.06583
+    },
+    "name": "Budapest VI. keruelet"
+  },
+  {
+    "country": "HU",
+    "id": 7284829,
+    "coord": {
+      "lat": 47.518299,
+      "lon": 19.107889
+    },
+    "name": "Budapest XIV. keruelet"
+  },
+  {
+    "country": "HU",
+    "id": 7284830,
+    "coord": {
+      "lat": 47.529781,
+      "lon": 19.080681
+    },
+    "name": "Budapest XIII. keruelet"
+  },
+  {
+    "country": "HU",
+    "id": 7284831,
+    "coord": {
+      "lat": 47.561821,
+      "lon": 19.08909
+    },
+    "name": "Budapest IV. keruelet"
+  },
+  {
+    "country": "HU",
+    "id": 7284832,
+    "coord": {
+      "lat": 47.56263,
+      "lon": 19.11681
+    },
+    "name": "Budapest XV. keruelet"
+  },
+  {
+    "country": "HU",
+    "id": 7284833,
+    "coord": {
+      "lat": 47.51482,
+      "lon": 19.17028
+    },
+    "name": "Budapest XVI. keruelet"
+  },
+  {
+    "country": "HU",
+    "id": 7284834,
+    "coord": {
+      "lat": 47.479099,
+      "lon": 19.15835
+    },
+    "name": "Budapest X. keruelet"
+  },
+  {
+    "country": "HU",
+    "id": 7284835,
+    "coord": {
+      "lat": 47.45293,
+      "lon": 19.149429
+    },
+    "name": "Budapest XIX. keruelet"
+  },
+  {
+    "country": "HU",
+    "id": 7284836,
+    "coord": {
+      "lat": 47.444172,
+      "lon": 19.175949
+    },
+    "name": "Budapest XVIII. keruelet"
+  },
+  {
+    "country": "HU",
+    "id": 7284837,
+    "coord": {
+      "lat": 47.397881,
+      "lon": 19.11492
+    },
+    "name": "Budapest XXIII. keruelet"
+  },
+  {
+    "country": "HU",
+    "id": 7284838,
+    "coord": {
+      "lat": 47.426979,
+      "lon": 19.040159
+    },
+    "name": "Budapest XXII. keruelet"
+  },
+  {
+    "country": "HU",
+    "id": 7284839,
+    "coord": {
+      "lat": 47.43047,
+      "lon": 19.07098
+    },
+    "name": "Budapest XXI. keruelet"
+  },
+  {
+    "country": "HU",
+    "id": 7284840,
+    "coord": {
+      "lat": 47.436741,
+      "lon": 19.100929
+    },
+    "name": "Budapest XX. keruelet"
+  },
+  {
+    "country": "HU",
+    "id": 7284841,
+    "coord": {
+      "lat": 47.479969,
+      "lon": 19.25388
+    },
+    "name": "Budapest XVII. keruelet"
+  },
+  {
+    "country": "HU",
+    "id": 7284842,
+    "coord": {
+      "lat": 47.541569,
+      "lon": 19.04501
+    },
+    "name": "Budapest III. keruelet"
+  },
+  {
+    "country": "HU",
+    "id": 7284843,
+    "coord": {
+      "lat": 47.512909,
+      "lon": 19.031839
+    },
+    "name": "Budapest II. keruelet"
+  },
+  {
+    "country": "HU",
+    "id": 7284844,
+    "coord": {
+      "lat": 47.497051,
+      "lon": 19.03961
+    },
+    "name": "Budapest I. keruelet"
+  },
+  {
+    "country": "HU",
+    "id": 3044062,
+    "coord": {
+      "lat": 46.548241,
+      "lon": 19.51436
+    },
+    "name": "Tazlar"
+  },
+  {
+    "country": "HU",
+    "id": 720174,
+    "coord": {
+      "lat": 47.083328,
+      "lon": 20.133329
+    },
+    "name": "Harkányidűlő"
+  },
+  {
+    "country": "HU",
+    "id": 3046284,
+    "coord": {
+      "lat": 47.200001,
+      "lon": 18.41667
+    },
+    "name": "Pityerdűlő"
+  },
+  {
+    "country": "HU",
+    "id": 721472,
+    "coord": {
+      "lat": 47.533329,
+      "lon": 21.633329
+    },
+    "name": "Debrecen"
+  },
+  {
+    "country": "HU",
+    "id": 3044082,
+    "coord": {
+      "lat": 47.584942,
+      "lon": 18.39325
+    },
+    "name": "Tatabanya"
+  },
+  {
+    "country": "HU",
+    "id": 3052009,
+    "coord": {
+      "lat": 47.683331,
+      "lon": 17.63512
+    },
+    "name": "Gyor"
+  },
+  {
+    "country": "HU",
+    "id": 3042638,
+    "coord": {
+      "lat": 46.84,
+      "lon": 16.843889
+    },
+    "name": "Zalaegerszeg"
+  },
+  {
+    "country": "HU",
+    "id": 714581,
+    "coord": {
+      "lat": 47.183331,
+      "lon": 20.41667
+    },
+    "name": "Torokszentmiklos"
+  },
+  {
+    "country": "HU",
+    "id": 716301,
+    "coord": {
+      "lat": 47.316669,
+      "lon": 21.116671
+    },
+    "name": "Puspokladany"
+  },
+  {
+    "country": "HU",
+    "id": 716935,
+    "coord": {
+      "lat": 47.955391,
+      "lon": 21.716709
+    },
+    "name": "Nyiregyhaza"
+  },
+  {
+    "country": "HU",
+    "id": 717635,
+    "coord": {
+      "lat": 47,
+      "lon": 20.633329
+    },
+    "name": "Mezotur"
+  },
+  {
+    "country": "HU",
+    "id": 719404,
+    "coord": {
+      "lat": 47.316669,
+      "lon": 20.933331
+    },
+    "name": "Karcag"
+  },
+  {
+    "country": "HU",
+    "id": 720276,
+    "coord": {
+      "lat": 47.450001,
+      "lon": 21.4
+    },
+    "name": "Hajduszoboszlo"
+  },
+  {
+    "country": "HU",
+    "id": 720284,
+    "coord": {
+      "lat": 47.849998,
+      "lon": 21.433331
+    },
+    "name": "Hajdunanas"
+  },
+  {
+    "country": "HU",
+    "id": 720292,
+    "coord": {
+      "lat": 47.666672,
+      "lon": 21.51667
+    },
+    "name": "Hajduboszormeny"
+  },
+  {
+    "country": "HU",
+    "id": 722636,
+    "coord": {
+      "lat": 47.616669,
+      "lon": 21.35
+    },
+    "name": "Balmazujvaros"
+  },
+  {
+    "country": "HU",
+    "id": 3045643,
+    "coord": {
+      "lat": 48.098721,
+      "lon": 19.80303
+    },
+    "name": "Salgotarjan"
+  },
+  {
+    "country": "HU",
+    "id": 3046619,
+    "coord": {
+      "lat": 47.912601,
+      "lon": 19.977091
+    },
+    "name": "Paradsasvar"
+  },
+  {
+    "country": "HU",
+    "id": 3046686,
+    "coord": {
+      "lat": 47.33004,
+      "lon": 17.4674
+    },
+    "name": "Papa"
+  },
+  {
+    "country": "HU",
+    "id": 3047942,
+    "coord": {
+      "lat": 47.35133,
+      "lon": 19.44734
+    },
+    "name": "Monor"
+  },
+  {
+    "country": "HU",
+    "id": 3052101,
+    "coord": {
+      "lat": 47.384491,
+      "lon": 19.221399
+    },
+    "name": "Gyal"
+  },
+  {
+    "country": "HU",
+    "id": 3052542,
+    "coord": {
+      "lat": 47.617699,
+      "lon": 19.1887
+    },
+    "name": "Fot"
+  },
+  {
+    "country": "HU",
+    "id": 3054543,
+    "coord": {
+      "lat": 47.172661,
+      "lon": 19.79952
+    },
+    "name": "Cegled"
+  },
+  {
+    "country": "HU",
+    "id": 7284823,
+    "coord": {
+      "lat": 47.49192,
+      "lon": 19.014931
+    },
+    "name": "Budapest XII. keruelet"
+  },
+  {
+    "country": "HU",
+    "id": 3045226,
+    "coord": {
+      "lat": 46.416672,
+      "lon": 17.58333
+    },
+    "name": "Somogy megye"
+  },
+  {
+    "country": "HU",
+    "id": 3054211,
+    "coord": {
+      "lat": 46.257179,
+      "lon": 17.49654
+    },
+    "name": "Cserhátpuszta"
+  },
+  {
+    "country": "HU",
+    "id": 3046397,
+    "coord": {
+      "lat": 46.22855,
+      "lon": 17.50338
+    },
+    "name": "Petesmalom"
+  },
+  {
+    "country": "HU",
+    "id": 3047144,
+    "coord": {
+      "lat": 46.23333,
+      "lon": 17.533331
+    },
+    "name": "Oncsatelep"
+  },
+  {
+    "country": "HU",
+    "id": 3048068,
+    "coord": {
+      "lat": 46.23333,
+      "lon": 17.533331
+    },
+    "name": "Miketelep"
+  },
+  {
+    "country": "HU",
+    "id": 722433,
+    "coord": {
+      "lat": 46.75,
+      "lon": 21
+    },
+    "name": "Békés megye"
+  },
+  {
+    "country": "HU",
+    "id": 721312,
+    "coord": {
+      "lat": 46.416672,
+      "lon": 21.116671
+    },
+    "name": "Dombiratos"
+  },
+  {
+    "country": "HU",
+    "id": 3055744,
+    "coord": {
+      "lat": 46.5,
+      "lon": 19.41667
+    },
+    "name": "Bács-Kiskun megye"
+  },
+  {
+    "country": "HU",
+    "id": 721589,
+    "coord": {
+      "lat": 46.416672,
+      "lon": 20.25
+    },
+    "name": "Csongrád megye"
+  },
+  {
+    "country": "HU",
+    "id": 722906,
+    "coord": {
+      "lat": 46.66568,
+      "lon": 20.24782
+    },
+    "name": "Alsórét"
+  },
+  {
+    "country": "HU",
+    "id": 3049885,
+    "coord": {
+      "lat": 46.712132,
+      "lon": 19.84458
+    },
+    "name": "Kiskunfelegyhaza"
+  },
+  {
+    "country": "HU",
+    "id": 719637,
+    "coord": {
+      "lat": 47.25,
+      "lon": 20.5
+    },
+    "name": "Jász-Nagykun-Szolnok megye"
+  },
+  {
+    "country": "HU",
+    "id": 3042925,
+    "coord": {
+      "lat": 47.166672,
+      "lon": 17.66667
+    },
+    "name": "Veszprém megye"
+  },
+  {
+    "country": "HU",
+    "id": 3050053,
+    "coord": {
+      "lat": 47.195641,
+      "lon": 17.28006
+    },
+    "name": "Kiscsősz"
+  },
+  {
+    "country": "HU",
+    "id": 3050052,
+    "coord": {
+      "lat": 47.200001,
+      "lon": 17.283331
+    },
+    "name": "Kiscsőszi Tanya"
+  },
+  {
+    "country": "HU",
+    "id": 3045581,
+    "coord": {
+      "lat": 47.383331,
+      "lon": 17.533331
+    },
+    "name": "Sándortanya"
+  },
+  {
+    "country": "HU",
+    "id": 3046110,
+    "coord": {
+      "lat": 47.366669,
+      "lon": 17.51667
+    },
+    "name": "Pusztagyimót Felső"
+  },
+  {
+    "country": "HU",
+    "id": 3046431,
+    "coord": {
+      "lat": 47.416672,
+      "lon": 19.33333
+    },
+    "name": "Pest megye"
+  },
+  {
+    "country": "HU",
+    "id": 3043803,
+    "coord": {
+      "lat": 47.466671,
+      "lon": 18.816669
+    },
+    "name": "Torbágyi Tanyák"
+  },
+  {
+    "country": "HU",
+    "id": 3049041,
+    "coord": {
+      "lat": 47.466671,
+      "lon": 18.816669
+    },
+    "name": "Kutyahegy"
+  },
+  {
+    "country": "HU",
+    "id": 6690440,
+    "coord": {
+      "lat": 47.667759,
+      "lon": 17.663441
+    },
+    "name": "Győr-Szabadhegy"
+  },
+  {
+    "country": "HU",
+    "id": 722064,
+    "coord": {
+      "lat": 48.25,
+      "lon": 21
+    },
+    "name": "Borsod-Abaúj-Zemplén megye"
+  },
+  {
+    "country": "HU",
+    "id": 720604,
+    "coord": {
+      "lat": 48.416672,
+      "lon": 21.183331
+    },
+    "name": "Garadna"
+  },
+  {
+    "country": "HU",
+    "id": 3051774,
+    "coord": {
+      "lat": 46.366669,
+      "lon": 17.799999
+    },
+    "name": "Hangyásmál"
+  },
+  {
+    "country": "HU",
+    "id": 722437,
+    "coord": {
+      "lat": 46.683331,
+      "lon": 21.1
+    },
+    "name": "Bekescsaba"
+  },
+  {
+    "country": "HU",
+    "id": 721592,
+    "coord": {
+      "lat": 46.713322,
+      "lon": 20.14242
+    },
+    "name": "Csongrad"
+  },
+  {
+    "country": "HU",
+    "id": 3046039,
+    "coord": {
+      "lat": 47.099998,
+      "lon": 17.91667
+    },
+    "name": "Rabkertészet"
+  },
+  {
+    "country": "HU",
+    "id": 3053281,
+    "coord": {
+      "lat": 47.39489,
+      "lon": 18.913601
+    },
+    "name": "Erd"
+  },
+  {
+    "country": "HU",
+    "id": 3043845,
+    "coord": {
+      "lat": 46.5,
+      "lon": 18.58333
+    },
+    "name": "Tolna megye"
+  },
+  {
+    "country": "HU",
+    "id": 3044760,
+    "coord": {
+      "lat": 46.35014,
+      "lon": 18.709049
+    },
+    "name": "Szekszard"
+  },
+  {
+    "country": "HU",
+    "id": 3053228,
+    "coord": {
+      "lat": 47.410431,
+      "lon": 18.90391
+    },
+    "name": "Érd-Parkváros"
+  },
+  {
+    "country": "HU",
+    "id": 720002,
+    "coord": {
+      "lat": 47.833328,
+      "lon": 20.25
+    },
+    "name": "Heves megye"
+  },
+  {
+    "country": "HU",
+    "id": 3051516,
+    "coord": {
+      "lat": 47.706379,
+      "lon": 19.633141
+    },
+    "name": "Hered"
+  },
+  {
+    "country": "HU",
+    "id": 3054638,
+    "coord": {
+      "lat": 47.5,
+      "lon": 19.08333
+    },
+    "name": "Budapest főváros"
+  },
+  {
+    "country": "HU",
+    "id": 3054643,
+    "coord": {
+      "lat": 47.498009,
+      "lon": 19.039909
+    },
+    "name": "Budapest"
+  },
+  {
+    "country": "HU",
+    "id": 3046446,
+    "coord": {
+      "lat": 47.5,
+      "lon": 19.08333
+    },
+    "name": "Pest"
+  },
+  {
+    "country": "HU",
+    "id": 3054646,
+    "coord": {
+      "lat": 47.461811,
+      "lon": 18.95845
+    },
+    "name": "Budaors"
+  },
+  {
+    "country": "HU",
+    "id": 3052526,
+    "coord": {
+      "lat": 47.446201,
+      "lon": 18.961969
+    },
+    "name": "Franktanya"
+  },
+  {
+    "country": "HU",
+    "id": 3053028,
+    "coord": {
+      "lat": 47.166672,
+      "lon": 18.58333
+    },
+    "name": "Fejér megye"
+  },
+  {
+    "country": "HU",
+    "id": 715429,
+    "coord": {
+      "lat": 46.252998,
+      "lon": 20.148239
+    },
+    "name": "Szeged"
+  },
+  {
+    "country": "HU",
+    "id": 714419,
+    "coord": {
+      "lat": 46.24754,
+      "lon": 20.16571
+    },
+    "name": "Újszeged"
+  },
+  {
+    "country": "HU",
+    "id": 720293,
+    "coord": {
+      "lat": 47.416672,
+      "lon": 21.5
+    },
+    "name": "Hajdú-Bihar megye"
+  },
+  {
+    "country": "HU",
+    "id": 3052729,
+    "coord": {
+      "lat": 47.349998,
+      "lon": 19.049999
+    },
+    "name": "Felsőtag"
+  },
+  {
+    "country": "HU",
+    "id": 3055399,
+    "coord": {
+      "lat": 46.083328,
+      "lon": 18.25
+    },
+    "name": "Baranya megye"
+  },
+  {
+    "country": "HU",
+    "id": 3046526,
+    "coord": {
+      "lat": 46.083328,
+      "lon": 18.23333
+    },
+    "name": "Pecs"
+  },
+  {
+    "country": "HU",
+    "id": 3049518,
+    "coord": {
+      "lat": 47.583328,
+      "lon": 18.33333
+    },
+    "name": "Komárom-Esztergom megye"
+  },
+  {
+    "country": "HU",
+    "id": 3051977,
+    "coord": {
+      "lat": 47.666672,
+      "lon": 17.25
+    },
+    "name": "Győr-Moson-Sopron megye"
+  },
+  {
+    "country": "HU",
+    "id": 3046646,
+    "coord": {
+      "lat": 46.633331,
+      "lon": 18.866671
+    },
+    "name": "Pappuszta"
+  },
+  {
+    "country": "HU",
+    "id": 717582,
+    "coord": {
+      "lat": 48.099998,
+      "lon": 20.783331
+    },
+    "name": "Miskolc"
+  },
+  {
+    "country": "HU",
+    "id": 714697,
+    "coord": {
+      "lat": 47.933331,
+      "lon": 21.08333
+    },
+    "name": "Tiszaujvaros"
+  },
+  {
+    "country": "HU",
+    "id": 3044821,
+    "coord": {
+      "lat": 47.32579,
+      "lon": 18.921419
+    },
+    "name": "Szazhalombatta"
+  },
+  {
+    "country": "HU",
+    "id": 714816,
+    "coord": {
+      "lat": 47.900002,
+      "lon": 20.383329
+    },
+    "name": "Tibrik"
+  },
+  {
+    "country": "HU",
+    "id": 3050907,
+    "coord": {
+      "lat": 47.5,
+      "lon": 19.91667
+    },
+    "name": "Jaszbereny"
+  },
+  {
+    "country": "HU",
+    "id": 3043685,
+    "coord": {
+      "lat": 47.5,
+      "lon": 19.91667
+    },
+    "name": "Túlatarna"
+  },
+  {
+    "country": "HU",
+    "id": 3043096,
+    "coord": {
+      "lat": 46.98333,
+      "lon": 18.933331
+    },
+    "name": "Városrétidűlő"
+  },
+  {
+    "country": "HU",
+    "id": 3047141,
+    "coord": {
+      "lat": 46.633331,
+      "lon": 18.283331
+    },
+    "name": "Oncsatelep"
+  },
+  {
+    "country": "HU",
+    "id": 715593,
+    "coord": {
+      "lat": 48,
+      "lon": 22.16667
+    },
+    "name": "Szabolcs-Szatmár-Bereg megye"
+  },
+  {
+    "country": "HU",
+    "id": 717779,
+    "coord": {
+      "lat": 47.950001,
+      "lon": 21.716669
+    },
+    "name": "Második Rozsréti Bokor"
+  },
+  {
+    "country": "HU",
+    "id": 3047669,
+    "coord": {
+      "lat": 47.415138,
+      "lon": 19.744101
+    },
+    "name": "Nagykata"
+  },
+  {
+    "country": "HU",
+    "id": 3042974,
+    "coord": {
+      "lat": 47.416672,
+      "lon": 19.75
+    },
+    "name": "Verdungos"
+  },
+  {
+    "country": "HU",
+    "id": 3046450,
+    "coord": {
+      "lat": 47.599998,
+      "lon": 19.366671
+    },
+    "name": "Perőcsitanya"
+  },
+  {
+    "country": "HU",
+    "id": 3049201,
+    "coord": {
+      "lat": 47.599998,
+      "lon": 19.366671
+    },
+    "name": "Központimajor"
+  },
+  {
+    "country": "HU",
+    "id": 3053485,
+    "coord": {
+      "lat": 47.3545,
+      "lon": 19.098221
+    },
+    "name": "Dunaharaszti"
+  },
+  {
+    "country": "HU",
+    "id": 714478,
+    "coord": {
+      "lat": 47.183331,
+      "lon": 20.200001
+    },
+    "name": "Ugari Tanyák"
+  },
+  {
+    "country": "HU",
+    "id": 3042613,
+    "coord": {
+      "lat": 46.666672,
+      "lon": 16.83333
+    },
+    "name": "Zala megye"
+  },
+  {
+    "country": "HU",
+    "id": 714119,
+    "coord": {
+      "lat": 48.400002,
+      "lon": 21.66667
+    },
+    "name": "Veresföld"
+  },
+  {
+    "country": "HU",
+    "id": 3047348,
+    "coord": {
+      "lat": 48,
+      "lon": 19.58333
+    },
+    "name": "Nógrád megye"
+  },
+  {
+    "country": "HU",
+    "id": 3053502,
+    "coord": {
+      "lat": 48.116001,
+      "lon": 19.776581
+    },
+    "name": "Dugdelpuszta"
+  },
+  {
+    "country": "HU",
+    "id": 3050550,
+    "coord": {
+      "lat": 48.116669,
+      "lon": 19.799999
+    },
+    "name": "Károlyakna"
+  },
+  {
+    "country": "HU",
+    "id": 717844,
+    "coord": {
+      "lat": 46.866669,
+      "lon": 20.549999
+    },
+    "name": "Maradékdűlő"
+  },
+  {
+    "country": "HU",
+    "id": 3043634,
+    "coord": {
+      "lat": 47.333328,
+      "lon": 17.466669
+    },
+    "name": "Tüzérlaktanya"
+  },
+  {
+    "country": "HU",
+    "id": 713929,
+    "coord": {
+      "lat": 48.409061,
+      "lon": 22.17614
+    },
+    "name": "Zahony"
+  },
+  {
+    "country": "HU",
+    "id": 3055601,
+    "coord": {
+      "lat": 48.07296,
+      "lon": 19.296141
+    },
+    "name": "Balassagyarmat"
+  },
+  {
+    "country": "HU",
+    "id": 3051839,
+    "coord": {
+      "lat": 48.083328,
+      "lon": 19.299999
+    },
+    "name": "Halastó"
+  },
+  {
+    "country": "HU",
+    "id": 3050212,
+    "coord": {
+      "lat": 46.76812,
+      "lon": 17.24317
+    },
+    "name": "Keszthely"
+  },
+  {
+    "country": "HU",
+    "id": 3043306,
+    "coord": {
+      "lat": 46.76667,
+      "lon": 17.25
+    },
+    "name": "Úsztatómajor"
+  },
+  {
+    "country": "HU",
+    "id": 3043047,
+    "coord": {
+      "lat": 47.166672,
+      "lon": 16.75
+    },
+    "name": "Vas megye"
+  },
+  {
+    "country": "HU",
+    "id": 3044310,
+    "coord": {
+      "lat": 47.230881,
+      "lon": 16.62155
+    },
+    "name": "Szombathely"
+  },
+  {
+    "country": "HU",
+    "id": 714188,
+    "coord": {
+      "lat": 48.133331,
+      "lon": 22.316669
+    },
+    "name": "Vasarosnameny"
+  },
+  {
+    "country": "HU",
+    "id": 716736,
+    "coord": {
+      "lat": 46.566669,
+      "lon": 20.66667
+    },
+    "name": "Oroshaza"
+  },
+  {
+    "country": "HU",
+    "id": 3044575,
+    "coord": {
+      "lat": 46.040161,
+      "lon": 17.98719
+    },
+    "name": "Szentlorinc"
+  },
+  {
+    "country": "HU",
+    "id": 3044001,
+    "coord": {
+      "lat": 46.049999,
+      "lon": 17.799999
+    },
+    "name": "Temetődűlő"
+  },
+  {
+    "country": "HU",
+    "id": 3049882,
+    "coord": {
+      "lat": 46.716671,
+      "lon": 19.85
+    },
+    "name": "Kiskunfélegyházi Tanyák"
+  },
+  {
+    "country": "HU",
+    "id": 723036,
+    "coord": {
+      "lat": 48.283329,
+      "lon": 21.200001
+    },
+    "name": "Abaujszanto"
+  },
+  {
+    "country": "HU",
+    "id": 719311,
+    "coord": {
+      "lat": 48.25,
+      "lon": 20.633329
+    },
+    "name": "Kazincbarcika"
+  },
+  {
+    "country": "HU",
+    "id": 717357,
+    "coord": {
+      "lat": 47.816669,
+      "lon": 20.91667
+    },
+    "name": "Nagygajla"
+  },
+  {
+    "country": "HU",
+    "id": 716247,
+    "coord": {
+      "lat": 48.299999,
+      "lon": 20.433331
+    },
+    "name": "Putnok"
+  },
+  {
+    "country": "HU",
+    "id": 717833,
+    "coord": {
+      "lat": 48.299999,
+      "lon": 20.433331
+    },
+    "name": "Máriafürdő"
+  },
+  {
+    "country": "HU",
+    "id": 722214,
+    "coord": {
+      "lat": 47.666672,
+      "lon": 21.51667
+    },
+    "name": "Bodahegyes"
+  },
+  {
+    "country": "HU",
+    "id": 718045,
+    "coord": {
+      "lat": 47.666672,
+      "lon": 21.51667
+    },
+    "name": "Lórántffykert"
+  },
+  {
+    "country": "HU",
+    "id": 718318,
+    "coord": {
+      "lat": 47.316669,
+      "lon": 21.116671
+    },
+    "name": "Kunlapos"
+  },
+  {
+    "country": "HU",
+    "id": 3048725,
+    "coord": {
+      "lat": 47.732948,
+      "lon": 19.678671
+    },
+    "name": "Lorinci"
+  },
+  {
+    "country": "HU",
+    "id": 3050088,
+    "coord": {
+      "lat": 47.502892,
+      "lon": 18.03665
+    },
+    "name": "Kisber"
+  },
+  {
+    "country": "HU",
+    "id": 3042520,
+    "coord": {
+      "lat": 47.5,
+      "lon": 18.033331
+    },
+    "name": "Zöldmalom"
+  },
+  {
+    "country": "HU",
+    "id": 3046888,
+    "coord": {
+      "lat": 47.48671,
+      "lon": 18.31225
+    },
+    "name": "Oroszlany"
+  },
+  {
+    "country": "HU",
+    "id": 3052963,
+    "coord": {
+      "lat": 47.48333,
+      "lon": 18.316669
+    },
+    "name": "Felsőbányatelep"
+  },
+  {
+    "country": "HU",
+    "id": 3052366,
+    "coord": {
+      "lat": 47.033329,
+      "lon": 19.783331
+    },
+    "name": "Gátér"
+  },
+  {
+    "country": "HU",
+    "id": 3050922,
+    "coord": {
+      "lat": 47.616669,
+      "lon": 18.91667
+    },
+    "name": "Jansentanya"
+  },
+  {
+    "country": "HU",
+    "id": 3053595,
+    "coord": {
+      "lat": 47.666672,
+      "lon": 19.08333
+    },
+    "name": "Dombhátdűlő"
+  },
+  {
+    "country": "HU",
+    "id": 3043627,
+    "coord": {
+      "lat": 47.666672,
+      "lon": 19.08333
+    },
+    "name": "Tyúkosdűlő"
+  },
+  {
+    "country": "HU",
+    "id": 716963,
+    "coord": {
+      "lat": 48,
+      "lon": 22.08333
+    },
+    "name": "Nyerjesszőllő"
+  },
+  {
+    "country": "HU",
+    "id": 718180,
+    "coord": {
+      "lat": 48.116669,
+      "lon": 21.91667
+    },
+    "name": "Lászlótanya"
+  },
+  {
+    "country": "HU",
+    "id": 715177,
+    "coord": {
+      "lat": 47.98333,
+      "lon": 22.51667
+    },
+    "name": "Szoboszlaitanya"
+  },
+  {
+    "country": "HU",
+    "id": 719806,
+    "coord": {
+      "lat": 48.133331,
+      "lon": 21.716669
+    },
+    "name": "Ibrany"
+  },
+  {
+    "country": "HU",
+    "id": 718780,
+    "coord": {
+      "lat": 47.883331,
+      "lon": 21.85
+    },
+    "name": "Kistanya"
+  },
+  {
+    "country": "HU",
+    "id": 3056235,
+    "coord": {
+      "lat": 46.183331,
+      "lon": 18.73333
+    },
+    "name": "Alsódolina"
+  },
+  {
+    "country": "HU",
+    "id": 3053590,
+    "coord": {
+      "lat": 46.376572,
+      "lon": 18.136959
+    },
+    "name": "Dombovar"
+  },
+  {
+    "country": "HU",
+    "id": 3054828,
+    "coord": {
+      "lat": 45.96722,
+      "lon": 18.51833
+    },
+    "name": "Boly"
+  },
+  {
+    "country": "HU",
+    "id": 3043345,
+    "coord": {
+      "lat": 47.650002,
+      "lon": 18.316669
+    },
+    "name": "Uradalmi Szőllőtelep"
+  },
+  {
+    "country": "HU",
+    "id": 3048456,
+    "coord": {
+      "lat": 46.58498,
+      "lon": 17.411961
+    },
+    "name": "Marcali"
+  },
+  {
+    "country": "HU",
+    "id": 3047819,
+    "coord": {
+      "lat": 46.22961,
+      "lon": 17.35788
+    },
+    "name": "Nagyatad"
+  },
+  {
+    "country": "HU",
+    "id": 721418,
+    "coord": {
+      "lat": 47.833328,
+      "lon": 22.133329
+    },
+    "name": "Derzsicsere"
+  },
+  {
+    "country": "HU",
+    "id": 714258,
+    "coord": {
+      "lat": 47.833328,
+      "lon": 22.133329
+    },
+    "name": "Váraditag"
+  },
+  {
+    "country": "HU",
+    "id": 722471,
+    "coord": {
+      "lat": 48.066669,
+      "lon": 22.200001
+    },
+    "name": "Baytanya"
+  },
+  {
+    "country": "HU",
+    "id": 713949,
+    "coord": {
+      "lat": 48.066669,
+      "lon": 22.200001
+    },
+    "name": "Weinstocktanya"
+  },
+  {
+    "country": "HU",
+    "id": 3042871,
+    "coord": {
+      "lat": 45.868889,
+      "lon": 18.45389
+    },
+    "name": "Villany"
+  },
+  {
+    "country": "HU",
+    "id": 719965,
+    "coord": {
+      "lat": 46.416672,
+      "lon": 20.33333
+    },
+    "name": "Hodmezovasarhely"
+  },
+  {
+    "country": "HU",
+    "id": 3043095,
+    "coord": {
+      "lat": 47.19936,
+      "lon": 18.13954
+    },
+    "name": "Varpalota"
+  },
+  {
+    "country": "HU",
+    "id": 719655,
+    "coord": {
+      "lat": 47.51667,
+      "lon": 20.15
+    },
+    "name": "Jaszapati"
+  },
+  {
+    "country": "HU",
+    "id": 3044380,
+    "coord": {
+      "lat": 47.81921,
+      "lon": 18.870199
+    },
+    "name": "Szob"
+  },
+  {
+    "country": "HU",
+    "id": 3044615,
+    "coord": {
+      "lat": 47.799999,
+      "lon": 18.75
+    },
+    "name": "Szentjánoskúti Dűlő"
+  },
+  {
+    "country": "HU",
+    "id": 3050710,
+    "coord": {
+      "lat": 47.716671,
+      "lon": 18.73333
+    },
+    "name": "Kálvária Dűlő"
+  },
+  {
+    "country": "HU",
+    "id": 3054240,
+    "coord": {
+      "lat": 46.183331,
+      "lon": 18.966669
+    },
+    "name": "Cserepes"
+  },
+  {
+    "country": "HU",
+    "id": 3049880,
+    "coord": {
+      "lat": 46.434021,
+      "lon": 19.4848
+    },
+    "name": "Kiskunhalas"
+  },
+  {
+    "country": "HU",
+    "id": 3049875,
+    "coord": {
+      "lat": 46.49028,
+      "lon": 19.74
+    },
+    "name": "Kiskunmajsa"
+  },
+  {
+    "country": "HU",
+    "id": 3052267,
+    "coord": {
+      "lat": 47.916672,
+      "lon": 19.700001
+    },
+    "name": "Gindeletanya"
+  },
+  {
+    "country": "HU",
+    "id": 3044809,
+    "coord": {
+      "lat": 48.08057,
+      "lon": 19.520189
+    },
+    "name": "Szecseny"
+  },
+  {
+    "country": "HU",
+    "id": 3054533,
+    "coord": {
+      "lat": 47.257118,
+      "lon": 17.15027
+    },
+    "name": "Celldomolk"
+  },
+  {
+    "country": "HU",
+    "id": 3045926,
+    "coord": {
+      "lat": 47.25,
+      "lon": 17.15
+    },
+    "name": "Rédeymajor"
+  },
+  {
+    "country": "HU",
+    "id": 3045487,
+    "coord": {
+      "lat": 47.253948,
+      "lon": 16.935249
+    },
+    "name": "Sarvar"
+  },
+  {
+    "country": "HU",
+    "id": 3043889,
+    "coord": {
+      "lat": 47.25,
+      "lon": 16.933331
+    },
+    "name": "Tizenháromváros"
+  },
+  {
+    "country": "HU",
+    "id": 722477,
+    "coord": {
+      "lat": 46.283329,
+      "lon": 21.01667
+    },
+    "name": "Battonya"
+  },
+  {
+    "country": "HU",
+    "id": 717936,
+    "coord": {
+      "lat": 46.283329,
+      "lon": 21.01667
+    },
+    "name": "Magyardombegyházi Dűlő"
+  },
+  {
+    "country": "HU",
+    "id": 716480,
+    "coord": {
+      "lat": 46.316669,
+      "lon": 20.816669
+    },
+    "name": "Peregpuszta"
+  },
+  {
+    "country": "HU",
+    "id": 716603,
+    "coord": {
+      "lat": 46.400002,
+      "lon": 20.91667
+    },
+    "name": "Pap Elek-tanya"
+  },
+  {
+    "country": "HU",
+    "id": 714548,
+    "coord": {
+      "lat": 46.416672,
+      "lon": 20.73333
+    },
+    "name": "Totkomlos"
+  },
+  {
+    "country": "HU",
+    "id": 714546,
+    "coord": {
+      "lat": 46.416672,
+      "lon": 20.73333
+    },
+    "name": "Tótkomlósi Tanyák"
+  },
+  {
+    "country": "HU",
+    "id": 718026,
+    "coord": {
+      "lat": 46.76667,
+      "lon": 21.133329
+    },
+    "name": "Ludaddűlő"
+  },
+  {
+    "country": "HU",
+    "id": 714060,
+    "coord": {
+      "lat": 46.933331,
+      "lon": 20.83333
+    },
+    "name": "Vidólapos"
+  },
+  {
+    "country": "HU",
+    "id": 722832,
+    "coord": {
+      "lat": 46.650002,
+      "lon": 21.283331
+    },
+    "name": "Aranyág"
+  },
+  {
+    "country": "HU",
+    "id": 719482,
+    "coord": {
+      "lat": 46.650002,
+      "lon": 21.283331
+    },
+    "name": "Kálvária"
+  },
+  {
+    "country": "HU",
+    "id": 715888,
+    "coord": {
+      "lat": 46.75,
+      "lon": 21.383329
+    },
+    "name": "Sarkad"
+  },
+  {
+    "country": "HU",
+    "id": 715422,
+    "coord": {
+      "lat": 47.033329,
+      "lon": 21.16667
+    },
+    "name": "Szeghalom"
+  },
+  {
+    "country": "HU",
+    "id": 722057,
+    "coord": {
+      "lat": 48.116669,
+      "lon": 20.25
+    },
+    "name": "Borsodnadasd"
+  },
+  {
+    "country": "HU",
+    "id": 3054940,
+    "coord": {
+      "lat": 47.033329,
+      "lon": 19.133329
+    },
+    "name": "Bodakút"
+  },
+  {
+    "country": "HU",
+    "id": 3051294,
+    "coord": {
+      "lat": 47.033329,
+      "lon": 19.133329
+    },
+    "name": "Hosszúhát"
+  },
+  {
+    "country": "HU",
+    "id": 3049647,
+    "coord": {
+      "lat": 47.466671,
+      "lon": 18.816669
+    },
+    "name": "Kőbánya"
+  },
+  {
+    "country": "HU",
+    "id": 715423,
+    "coord": {
+      "lat": 47.450001,
+      "lon": 21.4
+    },
+    "name": "Szegfűdűlő"
+  },
+  {
+    "country": "HU",
+    "id": 715195,
+    "coord": {
+      "lat": 48.133331,
+      "lon": 21.76667
+    },
+    "name": "Szirtó"
+  },
+  {
+    "country": "HU",
+    "id": 719830,
+    "coord": {
+      "lat": 48.133331,
+      "lon": 21.76667
+    },
+    "name": "Hosztán"
+  },
+  {
+    "country": "HU",
+    "id": 715536,
+    "coord": {
+      "lat": 47.099998,
+      "lon": 21.216669
+    },
+    "name": "Szalmaré"
+  },
+  {
+    "country": "HU",
+    "id": 721404,
+    "coord": {
+      "lat": 47.033329,
+      "lon": 20.966669
+    },
+    "name": "Devavanya"
+  },
+  {
+    "country": "HU",
+    "id": 3048847,
+    "coord": {
+      "lat": 46.624031,
+      "lon": 16.53863
+    },
+    "name": "Lenti"
+  },
+  {
+    "country": "HU",
+    "id": 3046922,
+    "coord": {
+      "lat": 46.840832,
+      "lon": 16.42944
+    },
+    "name": "Őriszentpéter"
+  },
+  {
+    "country": "HU",
+    "id": 3045883,
+    "coord": {
+      "lat": 47.416672,
+      "lon": 17.01667
+    },
+    "name": "Répcelaki Tanya"
+  },
+  {
+    "country": "HU",
+    "id": 718882,
+    "coord": {
+      "lat": 48.466671,
+      "lon": 21.51667
+    },
+    "name": "Kismező"
+  },
+  {
+    "country": "HU",
+    "id": 716893,
+    "coord": {
+      "lat": 48.01667,
+      "lon": 21.633329
+    },
+    "name": "Nyirtelek"
+  },
+  {
+    "country": "HU",
+    "id": 718653,
+    "coord": {
+      "lat": 48.049999,
+      "lon": 22.716669
+    },
+    "name": "Kölcsei Kendergyár"
+  },
+  {
+    "country": "HU",
+    "id": 715185,
+    "coord": {
+      "lat": 48.133331,
+      "lon": 21.466669
+    },
+    "name": "Szlobodatanya"
+  },
+  {
+    "country": "HU",
+    "id": 722491,
+    "coord": {
+      "lat": 47.799999,
+      "lon": 22.066669
+    },
+    "name": "Báthoritanya"
+  },
+  {
+    "country": "HU",
+    "id": 716949,
+    "coord": {
+      "lat": 47.833328,
+      "lon": 22.683331
+    },
+    "name": "Nyirántanya"
+  },
+  {
+    "country": "HU",
+    "id": 714397,
+    "coord": {
+      "lat": 47.966671,
+      "lon": 22
+    },
+    "name": "Újtanya"
+  },
+  {
+    "country": "HU",
+    "id": 715867,
+    "coord": {
+      "lat": 48.316669,
+      "lon": 21.58333
+    },
+    "name": "Sarospatak"
+  },
+  {
+    "country": "HU",
+    "id": 720417,
+    "coord": {
+      "lat": 48.316669,
+      "lon": 21.58333
+    },
+    "name": "Gulyalegelő"
+  },
+  {
+    "country": "HU",
+    "id": 3046505,
+    "coord": {
+      "lat": 46.160332,
+      "lon": 18.42321
+    },
+    "name": "Pecsvarad"
+  },
+  {
+    "country": "HU",
+    "id": 3054800,
+    "coord": {
+      "lat": 46.936562,
+      "lon": 19.804779
+    },
+    "name": "Borbás"
+  },
+  {
+    "country": "HU",
+    "id": 3050022,
+    "coord": {
+      "lat": 46.89156,
+      "lon": 19.79775
+    },
+    "name": "Kisfái"
+  },
+  {
+    "country": "HU",
+    "id": 719700,
+    "coord": {
+      "lat": 48.200001,
+      "lon": 20.933331
+    },
+    "name": "Jakabtanya"
+  },
+  {
+    "country": "HU",
+    "id": 717642,
+    "coord": {
+      "lat": 47.799999,
+      "lon": 21.683331
+    },
+    "name": "Mezőssytag"
+  },
+  {
+    "country": "HU",
+    "id": 3043674,
+    "coord": {
+      "lat": 47.400002,
+      "lon": 16.716669
+    },
+    "name": "Turbina"
+  },
+  {
+    "country": "HU",
+    "id": 3055730,
+    "coord": {
+      "lat": 46.80711,
+      "lon": 17.513849
+    },
+    "name": "Badacsonytomaj"
+  },
+  {
+    "country": "HU",
+    "id": 3052854,
+    "coord": {
+      "lat": 46.799999,
+      "lon": 17.51667
+    },
+    "name": "Felsőkolónia"
+  },
+  {
+    "country": "HU",
+    "id": 3046663,
+    "coord": {
+      "lat": 46.98333,
+      "lon": 17.283331
+    },
+    "name": "Paphegy"
+  },
+  {
+    "country": "HU",
+    "id": 3043542,
+    "coord": {
+      "lat": 46.98333,
+      "lon": 17.283331
+    },
+    "name": "Újhegy"
+  },
+  {
+    "country": "HU",
+    "id": 3045428,
+    "coord": {
+      "lat": 47.433331,
+      "lon": 18.91667
+    },
+    "name": "Scherctanya"
+  },
+  {
+    "country": "HU",
+    "id": 717771,
+    "coord": {
+      "lat": 47.95528,
+      "lon": 22.323481
+    },
+    "name": "Mateszalka"
+  },
+  {
+    "country": "HU",
+    "id": 3055287,
+    "coord": {
+      "lat": 47.96962,
+      "lon": 19.840759
+    },
+    "name": "Batonyterenye"
+  },
+  {
+    "country": "HU",
+    "id": 3054823,
+    "coord": {
+      "lat": 47.966671,
+      "lon": 19.83333
+    },
+    "name": "Bolyok"
+  },
+  {
+    "country": "HU",
+    "id": 3050719,
+    "coord": {
+      "lat": 46.52639,
+      "lon": 18.98583
+    },
+    "name": "Kalocsa"
+  },
+  {
+    "country": "HU",
+    "id": 721161,
+    "coord": {
+      "lat": 47.933331,
+      "lon": 20.816669
+    },
+    "name": "Emod"
+  },
+  {
+    "country": "HU",
+    "id": 718058,
+    "coord": {
+      "lat": 46.533329,
+      "lon": 21.25
+    },
+    "name": "Lökösihatár"
+  },
+  {
+    "country": "HU",
+    "id": 717902,
+    "coord": {
+      "lat": 46.216671,
+      "lon": 20.48333
+    },
+    "name": "Mako"
+  },
+  {
+    "country": "HU",
+    "id": 3046693,
+    "coord": {
+      "lat": 47.549461,
+      "lon": 17.75535
+    },
+    "name": "Pannonhalma"
+  },
+  {
+    "country": "HU",
+    "id": 3042872,
+    "coord": {
+      "lat": 47.48333,
+      "lon": 18.633329
+    },
+    "name": "Villa"
+  },
+  {
+    "country": "HU",
+    "id": 3055566,
+    "coord": {
+      "lat": 46.96188,
+      "lon": 17.87187
+    },
+    "name": "Balatonfured"
+  },
+  {
+    "country": "HU",
+    "id": 3049002,
+    "coord": {
+      "lat": 47.021332,
+      "lon": 19.56171
+    },
+    "name": "Lajosmizse"
+  },
+  {
+    "country": "HU",
+    "id": 713872,
+    "coord": {
+      "lat": 46.816669,
+      "lon": 21.033331
+    },
+    "name": "Zsellérföldek"
+  },
+  {
+    "country": "HU",
+    "id": 714477,
+    "coord": {
+      "lat": 46.816669,
+      "lon": 21.033331
+    },
+    "name": "Ugaritanyák"
+  },
+  {
+    "country": "HU",
+    "id": 3055584,
+    "coord": {
+      "lat": 46.775249,
+      "lon": 17.64414
+    },
+    "name": "Balatonboglar"
+  },
+  {
+    "country": "HU",
+    "id": 3049570,
+    "coord": {
+      "lat": 46.76667,
+      "lon": 17.66667
+    },
+    "name": "Kokashegy"
+  },
+  {
+    "country": "HU",
+    "id": 3046156,
+    "coord": {
+      "lat": 47.866669,
+      "lon": 17.283331
+    },
+    "name": "Priglitanya"
+  },
+  {
+    "country": "HU",
+    "id": 722095,
+    "coord": {
+      "lat": 48.01667,
+      "lon": 21.383329
+    },
+    "name": "Borbélytanya"
+  },
+  {
+    "country": "HU",
+    "id": 714367,
+    "coord": {
+      "lat": 48.01667,
+      "lon": 21.383329
+    },
+    "name": "Újtelep"
+  },
+  {
+    "country": "HU",
+    "id": 3054809,
+    "coord": {
+      "lat": 46.29921,
+      "lon": 18.530239
+    },
+    "name": "Bonyhad"
+  },
+  {
+    "country": "HU",
+    "id": 3048444,
+    "coord": {
+      "lat": 46.299999,
+      "lon": 18.533331
+    },
+    "name": "Marczpuszta"
+  },
+  {
+    "country": "HU",
+    "id": 3051477,
+    "coord": {
+      "lat": 46.79031,
+      "lon": 17.18408
+    },
+    "name": "Heviz"
+  },
+  {
+    "country": "HU",
+    "id": 3052040,
+    "coord": {
+      "lat": 47.78257,
+      "lon": 19.927999
+    },
+    "name": "Gyongyos"
+  },
+  {
+    "country": "HU",
+    "id": 3046230,
+    "coord": {
+      "lat": 47.642269,
+      "lon": 19.02784
+    },
+    "name": "Pomaz"
+  },
+  {
+    "country": "HU",
+    "id": 3044141,
+    "coord": {
+      "lat": 46.881519,
+      "lon": 17.44117
+    },
+    "name": "Tapolca"
+  },
+  {
+    "country": "HU",
+    "id": 715338,
+    "coord": {
+      "lat": 46.650002,
+      "lon": 20.26667
+    },
+    "name": "Szentes"
+  },
+  {
+    "country": "HU",
+    "id": 718214,
+    "coord": {
+      "lat": 46.650002,
+      "lon": 20.26667
+    },
+    "name": "Lapistó"
+  },
+  {
+    "country": "HU",
+    "id": 3045332,
+    "coord": {
+      "lat": 46.904121,
+      "lon": 18.058001
+    },
+    "name": "Siofok"
+  },
+  {
+    "country": "HU",
+    "id": 3047967,
+    "coord": {
+      "lat": 45.993061,
+      "lon": 18.68306
+    },
+    "name": "Mohacs"
+  },
+  {
+    "country": "HU",
+    "id": 722324,
+    "coord": {
+      "lat": 47.216671,
+      "lon": 21.549999
+    },
+    "name": "Berettyoujfalu"
+  },
+  {
+    "country": "HU",
+    "id": 3049896,
+    "coord": {
+      "lat": 46.621391,
+      "lon": 19.28528
+    },
+    "name": "Kiskoros"
+  },
+  {
+    "country": "HU",
+    "id": 718739,
+    "coord": {
+      "lat": 48.216671,
+      "lon": 22.08333
+    },
+    "name": "Kisvarda"
+  },
+  {
+    "country": "HU",
+    "id": 3045364,
+    "coord": {
+      "lat": 45.854988,
+      "lon": 18.29752
+    },
+    "name": "Siklos"
+  },
+  {
+    "country": "HU",
+    "id": 3049430,
+    "coord": {
+      "lat": 47.01096,
+      "lon": 16.605961
+    },
+    "name": "Kormend"
+  },
+  {
+    "country": "HU",
+    "id": 3053476,
+    "coord": {
+      "lat": 47.636398,
+      "lon": 19.138639
+    },
+    "name": "Dunakeszi"
+  },
+  {
+    "country": "HU",
+    "id": 3047835,
+    "coord": {
+      "lat": 47.633331,
+      "lon": 19.133329
+    },
+    "name": "Nádormajor"
+  },
+  {
+    "country": "HU",
+    "id": 3054648,
+    "coord": {
+      "lat": 47.51083,
+      "lon": 18.92717
+    },
+    "name": "Budakeszi"
+  },
+  {
+    "country": "HU",
+    "id": 3046577,
+    "coord": {
+      "lat": 47.616669,
+      "lon": 17.25
+    },
+    "name": "Pásztorúti Dűlő"
+  },
+  {
+    "country": "HU",
+    "id": 714692,
+    "coord": {
+      "lat": 47.966671,
+      "lon": 21.35
+    },
+    "name": "Tiszavasvari"
+  },
+  {
+    "country": "HU",
+    "id": 715296,
+    "coord": {
+      "lat": 46.933331,
+      "lon": 20.1
+    },
+    "name": "Szeszgyárdűlő"
+  },
+  {
+    "country": "HU",
+    "id": 3051018,
+    "coord": {
+      "lat": 46.433331,
+      "lon": 18.783331
+    },
+    "name": "Izguntanya"
+  },
+  {
+    "country": "HU",
+    "id": 3044495,
+    "coord": {
+      "lat": 46.433331,
+      "lon": 18.783331
+    },
+    "name": "Sziget"
+  },
+  {
+    "country": "HU",
+    "id": 3053971,
+    "coord": {
+      "lat": 47.549999,
+      "lon": 19.23333
+    },
+    "name": "Csomor"
+  },
+  {
+    "country": "HU",
+    "id": 3050466,
+    "coord": {
+      "lat": 47.400002,
+      "lon": 19.283331
+    },
+    "name": "Kavicsbánya"
+  },
+  {
+    "country": "HU",
+    "id": 3053489,
+    "coord": {
+      "lat": 46.807999,
+      "lon": 18.92638
+    },
+    "name": "Dunafoldvar"
+  },
+  {
+    "country": "HU",
+    "id": 3045846,
+    "coord": {
+      "lat": 47.928162,
+      "lon": 19.137199
+    },
+    "name": "Retsag"
+  },
+  {
+    "country": "HU",
+    "id": 716877,
+    "coord": {
+      "lat": 47.599998,
+      "lon": 20.283331
+    },
+    "name": "Nyulasszőllő"
+  },
+  {
+    "country": "HU",
+    "id": 3056355,
+    "coord": {
+      "lat": 47.099998,
+      "lon": 17.566669
+    },
+    "name": "Ajkai Tanyák"
+  },
+  {
+    "country": "HU",
+    "id": 3051512,
+    "coord": {
+      "lat": 47.133331,
+      "lon": 17.75
+    },
+    "name": "Herend"
+  },
+  {
+    "country": "HU",
+    "id": 3043238,
+    "coord": {
+      "lat": 46.51667,
+      "lon": 16.966669
+    },
+    "name": "Vajdamajor"
+  },
+  {
+    "country": "HU",
+    "id": 3048591,
+    "coord": {
+      "lat": 46.951672,
+      "lon": 16.34766
+    },
+    "name": "Magyarlak"
+  },
+  {
+    "country": "HU",
+    "id": 3055969,
+    "coord": {
+      "lat": 47.166672,
+      "lon": 18.950001
+    },
+    "name": "Angyalisziget"
+  },
+  {
+    "country": "HU",
+    "id": 3044195,
+    "coord": {
+      "lat": 47.166672,
+      "lon": 18.950001
+    },
+    "name": "Tagosztály"
+  },
+  {
+    "country": "HU",
+    "id": 3050290,
+    "coord": {
+      "lat": 47.547569,
+      "lon": 19.26247
+    },
+    "name": "Kistarcsa"
+  },
+  {
+    "country": "HU",
+    "id": 3049519,
+    "coord": {
+      "lat": 47.743179,
+      "lon": 18.119129
+    },
+    "name": "Komarom"
+  },
+  {
+    "country": "HU",
+    "id": 3049512,
+    "coord": {
+      "lat": 46.19278,
+      "lon": 18.26494
+    },
+    "name": "Komlo"
+  },
+  {
+    "country": "HU",
+    "id": 3051621,
+    "coord": {
+      "lat": 47.666672,
+      "lon": 19.683331
+    },
+    "name": "Hatvan"
+  },
+  {
+    "country": "HU",
+    "id": 3043117,
+    "coord": {
+      "lat": 46.916672,
+      "lon": 18.98333
+    },
+    "name": "Várkonyitanya"
+  },
+  {
+    "country": "HU",
+    "id": 3055590,
+    "coord": {
+      "lat": 47.035259,
+      "lon": 18.02076
+    },
+    "name": "Balatonalmadi"
+  },
+  {
+    "country": "HU",
+    "id": 3043895,
+    "coord": {
+      "lat": 47.033329,
+      "lon": 18.01667
+    },
+    "name": "Tisztviselőtelep"
+  },
+  {
+    "country": "HU",
+    "id": 3054693,
+    "coord": {
+      "lat": 47.651741,
+      "lon": 19.4785
+    },
+    "name": "Aszod"
+  },
+  {
+    "country": "HU",
+    "id": 3045404,
+    "coord": {
+      "lat": 47.76667,
+      "lon": 18.549999
+    },
+    "name": "Selyemgyártelep"
+  },
+  {
+    "country": "HU",
+    "id": 3055603,
+    "coord": {
+      "lat": 47.099998,
+      "lon": 17.433331
+    },
+    "name": "Baláczaidűlő"
+  },
+  {
+    "country": "HU",
+    "id": 3045838,
+    "coord": {
+      "lat": 47.650002,
+      "lon": 19.283331
+    },
+    "name": "Revetekdűlő"
+  },
+  {
+    "country": "HU",
+    "id": 721575,
+    "coord": {
+      "lat": 47.816669,
+      "lon": 21.5
+    },
+    "name": "Csontoskert"
+  },
+  {
+    "country": "HU",
+    "id": 3051788,
+    "coord": {
+      "lat": 47.75,
+      "lon": 18.5
+    },
+    "name": "Hamvasbánya"
+  },
+  {
+    "country": "HU",
+    "id": 3051016,
+    "coord": {
+      "lat": 46.804539,
+      "lon": 19.351721
+    },
+    "name": "Izsak"
+  },
+  {
+    "country": "HU",
+    "id": 3046545,
+    "coord": {
+      "lat": 47.599998,
+      "lon": 17.033331
+    },
+    "name": "Patyiház"
+  },
+  {
+    "country": "HU",
+    "id": 3055151,
+    "coord": {
+      "lat": 46.216671,
+      "lon": 19.549999
+    },
+    "name": "Belső Új Sor"
+  },
+  {
+    "country": "HU",
+    "id": 3052045,
+    "coord": {
+      "lat": 47.42733,
+      "lon": 19.401331
+    },
+    "name": "Gyomro"
+  },
+  {
+    "country": "HU",
+    "id": 3055772,
+    "coord": {
+      "lat": 47.643608,
+      "lon": 17.97798
+    },
+    "name": "Babolna"
+  },
+  {
+    "country": "HU",
+    "id": 717652,
+    "coord": {
+      "lat": 47.816669,
+      "lon": 20.58333
+    },
+    "name": "Mezokovesd"
+  },
+  {
+    "country": "HU",
+    "id": 720907,
+    "coord": {
+      "lat": 48.216671,
+      "lon": 20.716669
+    },
+    "name": "Felsőbánya"
+  },
+  {
+    "country": "HU",
+    "id": 717883,
+    "coord": {
+      "lat": 48.299999,
+      "lon": 20.73333
+    },
+    "name": "Malombirtokosság"
+  },
+  {
+    "country": "HU",
+    "id": 721159,
+    "coord": {
+      "lat": 48.333328,
+      "lon": 21.133329
+    },
+    "name": "Encs"
+  },
+  {
+    "country": "HU",
+    "id": 715975,
+    "coord": {
+      "lat": 48.166672,
+      "lon": 21.200001
+    },
+    "name": "Ruzsiczkytanya"
+  },
+  {
+    "country": "HU",
+    "id": 715189,
+    "coord": {
+      "lat": 48.166672,
+      "lon": 21.200001
+    },
+    "name": "Szivattyútelep"
+  },
+  {
+    "country": "HU",
+    "id": 722280,
+    "coord": {
+      "lat": 47.133331,
+      "lon": 21.716669
+    },
+    "name": "Biharkeresztesi Tanyák"
+  },
+  {
+    "country": "HU",
+    "id": 717397,
+    "coord": {
+      "lat": 47.865471,
+      "lon": 22.3916
+    },
+    "name": "Nagyecsed"
+  },
+  {
+    "country": "HU",
+    "id": 714779,
+    "coord": {
+      "lat": 48.01667,
+      "lon": 21.16667
+    },
+    "name": "Tiszadob"
+  },
+  {
+    "country": "HU",
+    "id": 3050311,
+    "coord": {
+      "lat": 46.937222,
+      "lon": 19.47806
+    },
+    "name": "Kerekegyhaza"
+  },
+  {
+    "country": "HU",
+    "id": 3045017,
+    "coord": {
+      "lat": 46.875751,
+      "lon": 19.22324
+    },
+    "name": "Szabadszallas"
+  },
+  {
+    "country": "HU",
+    "id": 3045298,
+    "coord": {
+      "lat": 46.578892,
+      "lon": 19.39389
+    },
+    "name": "Soltvadkert"
+  },
+  {
+    "country": "HU",
+    "id": 3050454,
+    "coord": {
+      "lat": 46.52528,
+      "lon": 19.25194
+    },
+    "name": "Kecel"
+  },
+  {
+    "country": "HU",
+    "id": 3055760,
+    "coord": {
+      "lat": 46.12648,
+      "lon": 19.3326
+    },
+    "name": "Bacsalmas"
+  },
+  {
+    "country": "HU",
+    "id": 3050967,
+    "coord": {
+      "lat": 46.298611,
+      "lon": 19.32583
+    },
+    "name": "Janoshalma"
+  },
+  {
+    "country": "HU",
+    "id": 3042840,
+    "coord": {
+      "lat": 47.48333,
+      "lon": 19.35
+    },
+    "name": "Virághegy"
+  },
+  {
+    "country": "HU",
+    "id": 3056361,
+    "coord": {
+      "lat": 47.349998,
+      "lon": 19.450001
+    },
+    "name": "Agyagbánya"
+  },
+  {
+    "country": "HU",
+    "id": 3043736,
+    "coord": {
+      "lat": 47.383331,
+      "lon": 19.35
+    },
+    "name": "Tóthtanya"
+  },
+  {
+    "country": "HU",
+    "id": 3053611,
+    "coord": {
+      "lat": 47.450001,
+      "lon": 19.366671
+    },
+    "name": "Dognyai Tanya"
+  },
+  {
+    "country": "HU",
+    "id": 3046434,
+    "coord": {
+      "lat": 47.316669,
+      "lon": 18.966669
+    },
+    "name": "Pestiúti Kültelek"
+  },
+  {
+    "country": "HU",
+    "id": 3042685,
+    "coord": {
+      "lat": 47.383331,
+      "lon": 19.23333
+    },
+    "name": "Webertanya"
+  },
+  {
+    "country": "HU",
+    "id": 3048096,
+    "coord": {
+      "lat": 47.383331,
+      "lon": 19.23333
+    },
+    "name": "Mezőssytanya"
+  },
+  {
+    "country": "HU",
+    "id": 3055878,
+    "coord": {
+      "lat": 47.299999,
+      "lon": 19.23333
+    },
+    "name": "Aranyhegy"
+  },
+  {
+    "country": "HU",
+    "id": 3048447,
+    "coord": {
+      "lat": 47.183331,
+      "lon": 19.316669
+    },
+    "name": "Marceltanya"
+  },
+  {
+    "country": "HU",
+    "id": 3046916,
+    "coord": {
+      "lat": 47.12991,
+      "lon": 19.433241
+    },
+    "name": "Orkeny"
+  },
+  {
+    "country": "HU",
+    "id": 3042824,
+    "coord": {
+      "lat": 47.785259,
+      "lon": 18.9709
+    },
+    "name": "Visegrad"
+  },
+  {
+    "country": "HU",
+    "id": 3051597,
+    "coord": {
+      "lat": 47.25,
+      "lon": 19.616671
+    },
+    "name": "Hegy"
+  },
+  {
+    "country": "HU",
+    "id": 723030,
+    "coord": {
+      "lat": 47.189899,
+      "lon": 20.004761
+    },
+    "name": "Abony"
+  },
+  {
+    "country": "HU",
+    "id": 3056159,
+    "coord": {
+      "lat": 46.883331,
+      "lon": 18.633329
+    },
+    "name": "Alsókörtvélyes"
+  },
+  {
+    "country": "HU",
+    "id": 3055563,
+    "coord": {
+      "lat": 47.066669,
+      "lon": 18.049999
+    },
+    "name": "Balatonfűzfő"
+  },
+  {
+    "country": "HU",
+    "id": 3042536,
+    "coord": {
+      "lat": 47.263618,
+      "lon": 17.87373
+    },
+    "name": "Zirc"
+  },
+  {
+    "country": "HU",
+    "id": 3043417,
+    "coord": {
+      "lat": 46.950001,
+      "lon": 17.08333
+    },
+    "name": "Újtelep"
+  },
+  {
+    "country": "HU",
+    "id": 3047872,
+    "coord": {
+      "lat": 46.433331,
+      "lon": 16.73333
+    },
+    "name": "Murahid"
+  },
+  {
+    "country": "HU",
+    "id": 3043034,
+    "coord": {
+      "lat": 47.383331,
+      "lon": 16.549999
+    },
+    "name": "Vasúti Újlaktanya"
+  },
+  {
+    "country": "HU",
+    "id": 3045744,
+    "coord": {
+      "lat": 47.383331,
+      "lon": 16.549999
+    },
+    "name": "Rőtivölgy"
+  },
+  {
+    "country": "HU",
+    "id": 3043033,
+    "coord": {
+      "lat": 47.049278,
+      "lon": 16.79954
+    },
+    "name": "Vasvar"
+  },
+  {
+    "country": "HU",
+    "id": 3045479,
+    "coord": {
+      "lat": 46.255199,
+      "lon": 18.107759
+    },
+    "name": "Sasd"
+  },
+  {
+    "country": "HU",
+    "id": 3055368,
+    "coord": {
+      "lat": 45.959999,
+      "lon": 17.458611
+    },
+    "name": "Barcs"
+  },
+  {
+    "country": "HU",
+    "id": 3051718,
+    "coord": {
+      "lat": 45.850021,
+      "lon": 18.236679
+    },
+    "name": "Harkany"
+  },
+  {
+    "country": "HU",
+    "id": 3042617,
+    "coord": {
+      "lat": 46.848019,
+      "lon": 16.5875
+    },
+    "name": "Zalalovo"
+  },
+  {
+    "country": "HU",
+    "id": 3055757,
+    "coord": {
+      "lat": 46.125,
+      "lon": 19.15621
+    },
+    "name": "Bacsbokod"
+  },
+  {
+    "country": "HU",
+    "id": 3054839,
+    "coord": {
+      "lat": 47.616669,
+      "lon": 19.200001
+    },
+    "name": "Bolgártelep"
+  },
+  {
+    "country": "HU",
+    "id": 3048438,
+    "coord": {
+      "lat": 47.683331,
+      "lon": 19.133329
+    },
+    "name": "Margitmajor"
+  },
+  {
+    "country": "HU",
+    "id": 719317,
+    "coord": {
+      "lat": 48.066669,
+      "lon": 20.883329
+    },
+    "name": "Kavics-banya"
+  },
+  {
+    "country": "HU",
+    "id": 3053402,
+    "coord": {
+      "lat": 47.44389,
+      "lon": 19.324499
+    },
+    "name": "Ecser"
+  },
+  {
+    "country": "HU",
+    "id": 721660,
+    "coord": {
+      "lat": 47.866669,
+      "lon": 21.933331
+    },
+    "name": "Csikóslapostanya"
+  },
+  {
+    "country": "HU",
+    "id": 716686,
+    "coord": {
+      "lat": 47.866669,
+      "lon": 21.933331
+    },
+    "name": "Ószőlőskert"
+  },
+  {
+    "country": "HU",
+    "id": 3054597,
+    "coord": {
+      "lat": 47.384861,
+      "lon": 16.75065
+    },
+    "name": "Buk"
+  },
+  {
+    "country": "HU",
+    "id": 716968,
+    "coord": {
+      "lat": 47.98333,
+      "lon": 20.83333
+    },
+    "name": "Nyekladhaza"
+  },
+  {
+    "country": "HU",
+    "id": 717570,
+    "coord": {
+      "lat": 47.883331,
+      "lon": 22.033331
+    },
+    "name": "Mocsolya"
+  },
+  {
+    "country": "HU",
+    "id": 720547,
+    "coord": {
+      "lat": 47.883331,
+      "lon": 22.033331
+    },
+    "name": "Gergelyffinagytanya"
+  },
+  {
+    "country": "HU",
+    "id": 3056347,
+    "coord": {
+      "lat": 46.691669,
+      "lon": 19.204229
+    },
+    "name": "Akaszto"
+  },
+  {
+    "country": "HU",
+    "id": 3045409,
+    "coord": {
+      "lat": 47.783329,
+      "lon": 19.133329
+    },
+    "name": "Sejce"
+  },
+  {
+    "country": "HU",
+    "id": 717694,
+    "coord": {
+      "lat": 46.966671,
+      "lon": 21.08333
+    },
+    "name": "Mérgeszug"
+  },
+  {
+    "country": "HU",
+    "id": 721559,
+    "coord": {
+      "lat": 46.633331,
+      "lon": 20.83333
+    },
+    "name": "Csorvas"
+  },
+  {
+    "country": "HU",
+    "id": 720857,
+    "coord": {
+      "lat": 48.099998,
+      "lon": 20.866671
+    },
+    "name": "Felsozsolca"
+  },
+  {
+    "country": "HU",
+    "id": 3056391,
+    "coord": {
+      "lat": 46.84026,
+      "lon": 19.45208
+    },
+    "name": "Agasegyhaza"
+  },
+  {
+    "country": "HU",
+    "id": 3052614,
+    "coord": {
+      "lat": 47.116669,
+      "lon": 18.133329
+    },
+    "name": "Flinkmalom"
+  },
+  {
+    "country": "HU",
+    "id": 3047005,
+    "coord": {
+      "lat": 47.116669,
+      "lon": 18.133329
+    },
+    "name": "Öreghegy"
+  },
+  {
+    "country": "HU",
+    "id": 3050828,
+    "coord": {
+      "lat": 47.383331,
+      "lon": 18.200001
+    },
+    "name": "Józsefpuszta"
+  },
+  {
+    "country": "HU",
+    "id": 3044487,
+    "coord": {
+      "lat": 47.322281,
+      "lon": 19.002621
+    },
+    "name": "Szigethalom"
+  },
+  {
+    "country": "HU",
+    "id": 3053434,
+    "coord": {
+      "lat": 47.278591,
+      "lon": 19.06617
+    },
+    "name": "Dunavarsany"
+  },
+  {
+    "country": "HU",
+    "id": 3042841,
+    "coord": {
+      "lat": 47.51667,
+      "lon": 17.51667
+    },
+    "name": "Violatag"
+  },
+  {
+    "country": "HU",
+    "id": 722494,
+    "coord": {
+      "lat": 47.466671,
+      "lon": 20.6
+    },
+    "name": "Bata"
+  },
+  {
+    "country": "HU",
+    "id": 3042622,
+    "coord": {
+      "lat": 46.566669,
+      "lon": 17.133329
+    },
+    "name": "Zalakarosi Puszta"
+  },
+  {
+    "country": "HU",
+    "id": 3055895,
+    "coord": {
+      "lat": 46.883331,
+      "lon": 18.950001
+    },
+    "name": "Apostagi Tanyák"
+  },
+  {
+    "country": "HU",
+    "id": 714144,
+    "coord": {
+      "lat": 47.883331,
+      "lon": 22.566669
+    },
+    "name": "Véghtanya"
+  },
+  {
+    "country": "HU",
+    "id": 717118,
+    "coord": {
+      "lat": 48.183331,
+      "lon": 22.066669
+    },
+    "name": "Nagyszőllő"
+  },
+  {
+    "country": "HU",
+    "id": 721024,
+    "coord": {
+      "lat": 48.066669,
+      "lon": 21.799999
+    },
+    "name": "Farkashegyi Szőlő"
+  },
+  {
+    "country": "HU",
+    "id": 716671,
+    "coord": {
+      "lat": 48.216671,
+      "lon": 20.299999
+    },
+    "name": "Ozd"
+  },
+  {
+    "country": "HU",
+    "id": 721315,
+    "coord": {
+      "lat": 48.23333,
+      "lon": 21.933331
+    },
+    "name": "Dombár"
+  },
+  {
+    "country": "HU",
+    "id": 715976,
+    "coord": {
+      "lat": 48,
+      "lon": 22.16667
+    },
+    "name": "Ruzsatanya"
+  },
+  {
+    "country": "HU",
+    "id": 714487,
+    "coord": {
+      "lat": 47.849998,
+      "lon": 22.549999
+    },
+    "name": "Tyukodi Újtelep"
+  },
+  {
+    "country": "HU",
+    "id": 716946,
+    "coord": {
+      "lat": 47.700001,
+      "lon": 22.133329
+    },
+    "name": "Nyirbeltek"
+  },
+  {
+    "country": "HU",
+    "id": 3047894,
+    "coord": {
+      "lat": 47.783329,
+      "lon": 17.133329
+    },
+    "name": "Mosonszentjánosi Tanyák"
+  },
+  {
+    "country": "HU",
+    "id": 717612,
+    "coord": {
+      "lat": 48.166672,
+      "lon": 21.6
+    },
+    "name": "Mikitatanya"
+  },
+  {
+    "country": "HU",
+    "id": 722650,
+    "coord": {
+      "lat": 47.77066,
+      "lon": 21.86314
+    },
+    "name": "Balkany"
+  },
+  {
+    "country": "HU",
+    "id": 714938,
+    "coord": {
+      "lat": 48.104801,
+      "lon": 22.537439
+    },
+    "name": "Tarpa"
+  },
+  {
+    "country": "HU",
+    "id": 717853,
+    "coord": {
+      "lat": 48.321491,
+      "lon": 22.191071
+    },
+    "name": "Mandok"
+  },
+  {
+    "country": "HU",
+    "id": 716717,
+    "coord": {
+      "lat": 48.25,
+      "lon": 21.9
+    },
+    "name": "Orsószög"
+  },
+  {
+    "country": "HU",
+    "id": 3042610,
+    "coord": {
+      "lat": 46.494331,
+      "lon": 17.08053
+    },
+    "name": "Zalasárszeg"
+  },
+  {
+    "country": "HU",
+    "id": 714490,
+    "coord": {
+      "lat": 48.34407,
+      "lon": 22.11762
+    },
+    "name": "Tuzser"
+  },
+  {
+    "country": "HU",
+    "id": 714073,
+    "coord": {
+      "lat": 46.916672,
+      "lon": 21.26667
+    },
+    "name": "Veszto"
+  },
+  {
+    "country": "HU",
+    "id": 717016,
+    "coord": {
+      "lat": 46.916672,
+      "lon": 21.26667
+    },
+    "name": "Németi"
+  },
+  {
+    "country": "HU",
+    "id": 716611,
+    "coord": {
+      "lat": 47.916672,
+      "lon": 22.26667
+    },
+    "name": "Pankotaitanya"
+  },
+  {
+    "country": "HU",
+    "id": 720494,
+    "coord": {
+      "lat": 48.466671,
+      "lon": 21.283331
+    },
+    "name": "Gonc"
+  },
+  {
+    "country": "HU",
+    "id": 721305,
+    "coord": {
+      "lat": 48.099998,
+      "lon": 21.65
+    },
+    "name": "Domonicstanya"
+  },
+  {
+    "country": "HU",
+    "id": 717693,
+    "coord": {
+      "lat": 47.788239,
+      "lon": 22.380381
+    },
+    "name": "Merk"
+  },
+  {
+    "country": "HU",
+    "id": 716909,
+    "coord": {
+      "lat": 47.69315,
+      "lon": 22.04476
+    },
+    "name": "Nyirlugos"
+  },
+  {
+    "country": "HU",
+    "id": 713991,
+    "coord": {
+      "lat": 47.700001,
+      "lon": 22.049999
+    },
+    "name": "Vitéztelek"
+  },
+  {
+    "country": "HU",
+    "id": 720064,
+    "coord": {
+      "lat": 48.433331,
+      "lon": 21.283331
+    },
+    "name": "Hejce"
+  },
+  {
+    "country": "HU",
+    "id": 715283,
+    "coord": {
+      "lat": 47.916672,
+      "lon": 22.51667
+    },
+    "name": "Sziget"
+  },
+  {
+    "country": "HU",
+    "id": 3055753,
+    "coord": {
+      "lat": 46.098701,
+      "lon": 19.15806
+    },
+    "name": "Bácsborsód"
+  },
+  {
+    "country": "HU",
+    "id": 3054380,
+    "coord": {
+      "lat": 47.083328,
+      "lon": 17.48333
+    },
+    "name": "Csárda"
+  },
+  {
+    "country": "HU",
+    "id": 722866,
+    "coord": {
+      "lat": 48.400002,
+      "lon": 20.73333
+    },
+    "name": "Andrástanya"
+  },
+  {
+    "country": "HU",
+    "id": 719717,
+    "coord": {
+      "lat": 48.400002,
+      "lon": 20.73333
+    },
+    "name": "Ivánkapuszta"
+  },
+  {
+    "country": "HU",
+    "id": 715053,
+    "coord": {
+      "lat": 47.916672,
+      "lon": 22.216669
+    },
+    "name": "Szucsányitanya"
+  },
+  {
+    "country": "HU",
+    "id": 3053163,
+    "coord": {
+      "lat": 47.792801,
+      "lon": 18.74148
+    },
+    "name": "Esztergom"
+  },
+  {
+    "country": "HU",
+    "id": 3044254,
+    "coord": {
+      "lat": 47.933331,
+      "lon": 19.91667
+    },
+    "name": "Szuhahuta"
+  },
+  {
+    "country": "HU",
+    "id": 3042657,
+    "coord": {
+      "lat": 46.485699,
+      "lon": 16.71871
+    },
+    "name": "Zajk"
+  },
+  {
+    "country": "HU",
+    "id": 722884,
+    "coord": {
+      "lat": 46.23333,
+      "lon": 20.133329
+    },
+    "name": "Alsóváros"
+  },
+  {
+    "country": "HU",
+    "id": 3042583,
+    "coord": {
+      "lat": 46.6684,
+      "lon": 17.156019
+    },
+    "name": "Zalavár"
+  },
+  {
+    "country": "HU",
+    "id": 3046269,
+    "coord": {
+      "lat": 45.98,
+      "lon": 18.26
+    },
+    "name": "Pogány"
+  },
+  {
+    "country": "HU",
+    "id": 3047460,
+    "coord": {
+      "lat": 45.98056,
+      "lon": 18.236389
+    },
+    "name": "Nándorliget"
+  },
+  {
+    "country": "HU",
+    "id": 3054713,
+    "coord": {
+      "lat": 47.650002,
+      "lon": 17.83333
+    },
+    "name": "Bothmerpuszta"
+  },
+  {
+    "country": "HU",
+    "id": 3044786,
+    "coord": {
+      "lat": 46.900002,
+      "lon": 19.700001
+    },
+    "name": "Székelytelep"
+  },
+  {
+    "country": "HU",
+    "id": 3044330,
+    "coord": {
+      "lat": 46.898079,
+      "lon": 19.72751
+    },
+    "name": "Szolnokihegy"
+  },
+  {
+    "country": "HU",
+    "id": 717616,
+    "coord": {
+      "lat": 47.450001,
+      "lon": 21.633329
+    },
+    "name": "Mikepercs"
+  },
+  {
+    "country": "HU",
+    "id": 722406,
+    "coord": {
+      "lat": 47.48333,
+      "lon": 21.633329
+    },
+    "name": "Bellegelő"
+  },
+  {
+    "country": "HU",
+    "id": 3043019,
+    "coord": {
+      "lat": 47.407051,
+      "lon": 19.28648
+    },
+    "name": "Vecses"
+  },
+  {
+    "country": "HU",
+    "id": 721812,
+    "coord": {
+      "lat": 47.133331,
+      "lon": 20.23333
+    },
+    "name": "Cseberér"
+  },
+  {
+    "country": "HU",
+    "id": 3047428,
+    "coord": {
+      "lat": 47.337379,
+      "lon": 19.22139
+    },
+    "name": "Némediszőlő"
+  },
+  {
+    "country": "HU",
+    "id": 3052894,
+    "coord": {
+      "lat": 47.416672,
+      "lon": 19.23333
+    },
+    "name": "Felsőhalom"
+  },
+  {
+    "country": "HU",
+    "id": 715126,
+    "coord": {
+      "lat": 47.183331,
+      "lon": 20.200001
+    },
+    "name": "Szolnok"
+  },
+  {
+    "country": "HU",
+    "id": 721239,
+    "coord": {
+      "lat": 47.902649,
+      "lon": 20.373289
+    },
+    "name": "Eger"
+  },
+  {
+    "country": "HU",
+    "id": 722439,
+    "coord": {
+      "lat": 46.76667,
+      "lon": 21.133329
+    },
+    "name": "Bekes"
+  },
+  {
+    "country": "HU",
+    "id": 3042929,
+    "coord": {
+      "lat": 47.093269,
+      "lon": 17.911489
+    },
+    "name": "Veszprem"
+  },
+  {
+    "country": "HU",
+    "id": 3044681,
+    "coord": {
+      "lat": 47.66943,
+      "lon": 19.075609
+    },
+    "name": "Szentendre"
+  },
+  {
+    "country": "HU",
+    "id": 3044774,
+    "coord": {
+      "lat": 47.189949,
+      "lon": 18.410339
+    },
+    "name": "Szekesfehervar"
+  },
+  {
+    "country": "HU",
+    "id": 3045190,
+    "coord": {
+      "lat": 47.685009,
+      "lon": 16.59049
+    },
+    "name": "Sopron"
+  },
+  {
+    "country": "HU",
+    "id": 3047679,
+    "coord": {
+      "lat": 46.453468,
+      "lon": 16.991039
+    },
+    "name": "Nagykanizsa"
+  },
+  {
+    "country": "HU",
+    "id": 3047896,
+    "coord": {
+      "lat": 47.867882,
+      "lon": 17.269939
+    },
+    "name": "Mosonmagyarovar"
+  },
+  {
+    "country": "HU",
+    "id": 3050434,
+    "coord": {
+      "lat": 46.906181,
+      "lon": 19.69128
+    },
+    "name": "Kecskemet"
+  },
+  {
+    "country": "HU",
+    "id": 3050616,
+    "coord": {
+      "lat": 46.366669,
+      "lon": 17.799999
+    },
+    "name": "Kaposvar"
+  },
+  {
+    "country": "HU",
+    "id": 3053438,
+    "coord": {
+      "lat": 46.98333,
+      "lon": 18.933331
+    },
+    "name": "Dunaujvaros"
+  },
+  {
+    "country": "HU",
+    "id": 713932,
+    "coord": {
+      "lat": 47.26667,
+      "lon": 20.133329
+    },
+    "name": "Zagyvarekas"
+  },
+  {
+    "country": "HU",
+    "id": 714081,
+    "coord": {
+      "lat": 47.849998,
+      "lon": 20.23333
+    },
+    "name": "Verpelet"
+  },
+  {
+    "country": "HU",
+    "id": 714265,
+    "coord": {
+      "lat": 47.533329,
+      "lon": 21.9
+    },
+    "name": "Vamospercs"
+  },
+  {
+    "country": "HU",
+    "id": 714296,
+    "coord": {
+      "lat": 48.005741,
+      "lon": 22.16761
+    },
+    "name": "Vaja"
+  },
+  {
+    "country": "HU",
+    "id": 714421,
+    "coord": {
+      "lat": 47.299999,
+      "lon": 20.08333
+    },
+    "name": "Ujszasz"
+  },
+  {
+    "country": "HU",
+    "id": 714449,
+    "coord": {
+      "lat": 46.583328,
+      "lon": 21.033331
+    },
+    "name": "Ujkigyos"
+  },
+  {
+    "country": "HU",
+    "id": 714464,
+    "coord": {
+      "lat": 47.799999,
+      "lon": 21.683331
+    },
+    "name": "Ujfeherto"
+  },
+  {
+    "country": "HU",
+    "id": 714488,
+    "coord": {
+      "lat": 47.853779,
+      "lon": 22.563299
+    },
+    "name": "Tyukod"
+  },
+  {
+    "country": "HU",
+    "id": 714504,
+    "coord": {
+      "lat": 47.099998,
+      "lon": 20.75
+    },
+    "name": "Turkeve"
+  },
+  {
+    "country": "HU",
+    "id": 714518,
+    "coord": {
+      "lat": 47.966671,
+      "lon": 22.466669
+    },
+    "name": "Tunyogmatolcs"
+  },
+  {
+    "country": "HU",
+    "id": 714570,
+    "coord": {
+      "lat": 47.099998,
+      "lon": 20.15
+    },
+    "name": "Toszeg"
+  },
+  {
+    "country": "HU",
+    "id": 714593,
+    "coord": {
+      "lat": 48.26667,
+      "lon": 22.183331
+    },
+    "name": "Tornyospalca"
+  },
+  {
+    "country": "HU",
+    "id": 714623,
+    "coord": {
+      "lat": 46.617161,
+      "lon": 20.04357
+    },
+    "name": "Tomorkeny"
+  },
+  {
+    "country": "HU",
+    "id": 714642,
+    "coord": {
+      "lat": 48.283329,
+      "lon": 21.450001
+    },
+    "name": "Tolcsva"
+  },
+  {
+    "country": "HU",
+    "id": 714659,
+    "coord": {
+      "lat": 48.116669,
+      "lon": 21.41667
+    },
+    "name": "Tokaj"
+  },
+  {
+    "country": "HU",
+    "id": 714714,
+    "coord": {
+      "lat": 47.48333,
+      "lon": 20.73333
+    },
+    "name": "Tiszaszentimre"
+  },
+  {
+    "country": "HU",
+    "id": 714718,
+    "coord": {
+      "lat": 47.383331,
+      "lon": 20.4
+    },
+    "name": "Tiszasuly"
+  },
+  {
+    "country": "HU",
+    "id": 714721,
+    "coord": {
+      "lat": 47.400002,
+      "lon": 20.450001
+    },
+    "name": "Tiszaroff"
+  },
+  {
+    "country": "HU",
+    "id": 714724,
+    "coord": {
+      "lat": 47.216671,
+      "lon": 20.316669
+    },
+    "name": "Tiszapuspoki"
+  },
+  {
+    "country": "HU",
+    "id": 714734,
+    "coord": {
+      "lat": 47.566669,
+      "lon": 20.533331
+    },
+    "name": "Tiszanana"
+  },
+  {
+    "country": "HU",
+    "id": 714736,
+    "coord": {
+      "lat": 48.099998,
+      "lon": 21.48333
+    },
+    "name": "Tiszanagyfalu"
+  },
+  {
+    "country": "HU",
+    "id": 714739,
+    "coord": {
+      "lat": 48.033329,
+      "lon": 21.08333
+    },
+    "name": "Tiszaluc"
+  },
+  {
+    "country": "HU",
+    "id": 714742,
+    "coord": {
+      "lat": 48.01667,
+      "lon": 21.383329
+    },
+    "name": "Tiszalok"
+  },
+  {
+    "country": "HU",
+    "id": 714751,
+    "coord": {
+      "lat": 47.783329,
+      "lon": 21
+    },
+    "name": "Tiszakeszi"
+  },
+  {
+    "country": "HU",
+    "id": 714754,
+    "coord": {
+      "lat": 46.932621,
+      "lon": 20.103491
+    },
+    "name": "Tiszakecske"
+  },
+  {
+    "country": "HU",
+    "id": 714756,
+    "coord": {
+      "lat": 48.200001,
+      "lon": 21.716669
+    },
+    "name": "Tiszakarad"
+  },
+  {
+    "country": "HU",
+    "id": 714772,
+    "coord": {
+      "lat": 47.616669,
+      "lon": 20.76667
+    },
+    "name": "Tiszafured"
+  },
+  {
+    "country": "HU",
+    "id": 714774,
+    "coord": {
+      "lat": 46.98333,
+      "lon": 20.25
+    },
+    "name": "Tiszafoldvar"
+  },
+  {
+    "country": "HU",
+    "id": 714776,
+    "coord": {
+      "lat": 48.049999,
+      "lon": 21.466669
+    },
+    "name": "Tiszaeszlar"
+  },
+  {
+    "country": "HU",
+    "id": 714782,
+    "coord": {
+      "lat": 48.033329,
+      "lon": 21.25
+    },
+    "name": "Tiszadada"
+  },
+  {
+    "country": "HU",
+    "id": 714785,
+    "coord": {
+      "lat": 47.700001,
+      "lon": 21
+    },
+    "name": "Tiszacsege"
+  },
+  {
+    "country": "HU",
+    "id": 714787,
+    "coord": {
+      "lat": 47.450001,
+      "lon": 20.466669
+    },
+    "name": "Tiszabura"
+  },
+  {
+    "country": "HU",
+    "id": 714789,
+    "coord": {
+      "lat": 47.299999,
+      "lon": 20.48333
+    },
+    "name": "Tiszabo"
+  },
+  {
+    "country": "HU",
+    "id": 714791,
+    "coord": {
+      "lat": 48.366669,
+      "lon": 22.15
+    },
+    "name": "Tiszabezded"
+  },
+  {
+    "country": "HU",
+    "id": 714793,
+    "coord": {
+      "lat": 48.150002,
+      "lon": 21.65
+    },
+    "name": "Tiszabercel"
+  },
+  {
+    "country": "HU",
+    "id": 714914,
+    "coord": {
+      "lat": 47.716671,
+      "lon": 21.683331
+    },
+    "name": "Teglas"
+  },
+  {
+    "country": "HU",
+    "id": 714948,
+    "coord": {
+      "lat": 47.59499,
+      "lon": 20.05254
+    },
+    "name": "Tarnaoers"
+  },
+  {
+    "country": "HU",
+    "id": 714951,
+    "coord": {
+      "lat": 48.049999,
+      "lon": 20.183331
+    },
+    "name": "Tarnalelesz"
+  },
+  {
+    "country": "HU",
+    "id": 714973,
+    "coord": {
+      "lat": 48.133331,
+      "lon": 21.35
+    },
+    "name": "Tarcal"
+  },
+  {
+    "country": "HU",
+    "id": 715001,
+    "coord": {
+      "lat": 48.23333,
+      "lon": 21.23333
+    },
+    "name": "Tallya"
+  },
+  {
+    "country": "HU",
+    "id": 715005,
+    "coord": {
+      "lat": 48.116669,
+      "lon": 21.183331
+    },
+    "name": "Taktaszada"
+  },
+  {
+    "country": "HU",
+    "id": 715009,
+    "coord": {
+      "lat": 48.083328,
+      "lon": 21.133329
+    },
+    "name": "Taktaharkany"
+  },
+  {
+    "country": "HU",
+    "id": 715199,
+    "coord": {
+      "lat": 48.150002,
+      "lon": 20.799999
+    },
+    "name": "Szirmabesenyo"
+  },
+  {
+    "country": "HU",
+    "id": 715217,
+    "coord": {
+      "lat": 48.099998,
+      "lon": 20.4
+    },
+    "name": "Szilvasvarad"
+  },
+  {
+    "country": "HU",
+    "id": 715259,
+    "coord": {
+      "lat": 48.200001,
+      "lon": 20.933331
+    },
+    "name": "Szikszo"
+  },
+  {
+    "country": "HU",
+    "id": 715272,
+    "coord": {
+      "lat": 47.76667,
+      "lon": 20.48333
+    },
+    "name": "Szihalom"
+  },
+  {
+    "country": "HU",
+    "id": 715302,
+    "coord": {
+      "lat": 48.166672,
+      "lon": 21.200001
+    },
+    "name": "Szerencs"
+  },
+  {
+    "country": "HU",
+    "id": 715332,
+    "coord": {
+      "lat": 47.76667,
+      "lon": 20.66667
+    },
+    "name": "Szentistvan"
+  },
+  {
+    "country": "HU",
+    "id": 715355,
+    "coord": {
+      "lat": 48.400002,
+      "lon": 20.73333
+    },
+    "name": "Szendro"
+  },
+  {
+    "country": "HU",
+    "id": 715393,
+    "coord": {
+      "lat": 46.5,
+      "lon": 20.533331
+    },
+    "name": "Szekkutas"
+  },
+  {
+    "country": "HU",
+    "id": 715415,
+    "coord": {
+      "lat": 46.587399,
+      "lon": 20.224079
+    },
+    "name": "Szegvar"
+  },
+  {
+    "country": "HU",
+    "id": 715449,
+    "coord": {
+      "lat": 46.34306,
+      "lon": 20.040199
+    },
+    "name": "Szatymaz"
+  },
+  {
+    "country": "HU",
+    "id": 715518,
+    "coord": {
+      "lat": 48.045609,
+      "lon": 22.36582
+    },
+    "name": "Szamosszeg"
+  },
+  {
+    "country": "HU",
+    "id": 715558,
+    "coord": {
+      "lat": 47.76667,
+      "lon": 21.91667
+    },
+    "name": "Szakoly"
+  },
+  {
+    "country": "HU",
+    "id": 715570,
+    "coord": {
+      "lat": 47.183331,
+      "lon": 20.299999
+    },
+    "name": "Szajol"
+  },
+  {
+    "country": "HU",
+    "id": 715614,
+    "coord": {
+      "lat": 46.616669,
+      "lon": 21.1
+    },
+    "name": "Szabadkigyos"
+  },
+  {
+    "country": "HU",
+    "id": 715763,
+    "coord": {
+      "lat": 47.933331,
+      "lon": 20.200001
+    },
+    "name": "Sirok"
+  },
+  {
+    "country": "HU",
+    "id": 715862,
+    "coord": {
+      "lat": 47.23333,
+      "lon": 21.200001
+    },
+    "name": "Sarretudvari"
+  },
+  {
+    "country": "HU",
+    "id": 715904,
+    "coord": {
+      "lat": 47.400002,
+      "lon": 21.633329
+    },
+    "name": "Sarand"
+  },
+  {
+    "country": "HU",
+    "id": 715924,
+    "coord": {
+      "lat": 46.36087,
+      "lon": 20.09889
+    },
+    "name": "Sandorfalva"
+  },
+  {
+    "country": "HU",
+    "id": 715930,
+    "coord": {
+      "lat": 47.950001,
+      "lon": 20.66667
+    },
+    "name": "Saly"
+  },
+  {
+    "country": "HU",
+    "id": 715939,
+    "coord": {
+      "lat": 48.183331,
+      "lon": 20.85
+    },
+    "name": "Sajovamos"
+  },
+  {
+    "country": "HU",
+    "id": 715941,
+    "coord": {
+      "lat": 47.950001,
+      "lon": 21
+    },
+    "name": "Sajoszoged"
+  },
+  {
+    "country": "HU",
+    "id": 715945,
+    "coord": {
+      "lat": 48.216671,
+      "lon": 20.716669
+    },
+    "name": "Sajoszentpeter"
+  },
+  {
+    "country": "HU",
+    "id": 715951,
+    "coord": {
+      "lat": 47.950001,
+      "lon": 21.033331
+    },
+    "name": "Sajooeroes"
+  },
+  {
+    "country": "HU",
+    "id": 715958,
+    "coord": {
+      "lat": 48.049999,
+      "lon": 20.9
+    },
+    "name": "Sajolad"
+  },
+  {
+    "country": "HU",
+    "id": 715962,
+    "coord": {
+      "lat": 48.283329,
+      "lon": 20.58333
+    },
+    "name": "Sajokaza"
+  },
+  {
+    "country": "HU",
+    "id": 715970,
+    "coord": {
+      "lat": 48.166672,
+      "lon": 20.73333
+    },
+    "name": "Sajobabony"
+  },
+  {
+    "country": "HU",
+    "id": 715989,
+    "coord": {
+      "lat": 48.383331,
+      "lon": 20.633329
+    },
+    "name": "Rudabanya"
+  },
+  {
+    "country": "HU",
+    "id": 716028,
+    "coord": {
+      "lat": 46.187962,
+      "lon": 20.03372
+    },
+    "name": "Roszke"
+  },
+  {
+    "country": "HU",
+    "id": 716081,
+    "coord": {
+      "lat": 48.325642,
+      "lon": 21.97069
+    },
+    "name": "Ricse"
+  },
+  {
+    "country": "HU",
+    "id": 716151,
+    "coord": {
+      "lat": 47.933331,
+      "lon": 20.116671
+    },
+    "name": "Recsk"
+  },
+  {
+    "country": "HU",
+    "id": 716186,
+    "coord": {
+      "lat": 47.066669,
+      "lon": 20.26667
+    },
+    "name": "Rakocziujfalu"
+  },
+  {
+    "country": "HU",
+    "id": 716197,
+    "coord": {
+      "lat": 47.083328,
+      "lon": 20.23333
+    },
+    "name": "Rakoczifalva"
+  },
+  {
+    "country": "HU",
+    "id": 716204,
+    "coord": {
+      "lat": 48.133331,
+      "lon": 21.466669
+    },
+    "name": "Rakamaz"
+  },
+  {
+    "country": "HU",
+    "id": 716282,
+    "coord": {
+      "lat": 46.533329,
+      "lon": 20.799999
+    },
+    "name": "Pusztafoldvar"
+  },
+  {
+    "country": "HU",
+    "id": 716317,
+    "coord": {
+      "lat": 48.083328,
+      "lon": 21.25
+    },
+    "name": "Prugy"
+  },
+  {
+    "country": "HU",
+    "id": 716339,
+    "coord": {
+      "lat": 47.650002,
+      "lon": 20.66667
+    },
+    "name": "Poroszlo"
+  },
+  {
+    "country": "HU",
+    "id": 716343,
+    "coord": {
+      "lat": 47.883331,
+      "lon": 22.566669
+    },
+    "name": "Porcsalma"
+  },
+  {
+    "country": "HU",
+    "id": 716356,
+    "coord": {
+      "lat": 47.866669,
+      "lon": 21.116671
+    },
+    "name": "Polgar"
+  },
+  {
+    "country": "HU",
+    "id": 716372,
+    "coord": {
+      "lat": 47.283329,
+      "lon": 21.816669
+    },
+    "name": "Pocsaj"
+  },
+  {
+    "country": "HU",
+    "id": 716437,
+    "coord": {
+      "lat": 48.060841,
+      "lon": 22.07485
+    },
+    "name": "Petnehaza"
+  },
+  {
+    "country": "HU",
+    "id": 716439,
+    "coord": {
+      "lat": 48.01667,
+      "lon": 20.1
+    },
+    "name": "Petervasara"
+  },
+  {
+    "country": "HU",
+    "id": 716526,
+    "coord": {
+      "lat": 48.166672,
+      "lon": 22
+    },
+    "name": "Patroha"
+  },
+  {
+    "country": "HU",
+    "id": 716559,
+    "coord": {
+      "lat": 47.923241,
+      "lon": 20.02972
+    },
+    "name": "Parad"
+  },
+  {
+    "country": "HU",
+    "id": 716706,
+    "coord": {
+      "lat": 47.866669,
+      "lon": 20.433331
+    },
+    "name": "Ostoros"
+  },
+  {
+    "country": "HU",
+    "id": 716791,
+    "coord": {
+      "lat": 46.48592,
+      "lon": 20.087219
+    },
+    "name": "Opusztaszer"
+  },
+  {
+    "country": "HU",
+    "id": 716793,
+    "coord": {
+      "lat": 47.997711,
+      "lon": 22.32617
+    },
+    "name": "Opalyi"
+  },
+  {
+    "country": "HU",
+    "id": 716796,
+    "coord": {
+      "lat": 48,
+      "lon": 20.91667
+    },
+    "name": "Onod"
+  },
+  {
+    "country": "HU",
+    "id": 716799,
+    "coord": {
+      "lat": 48.116669,
+      "lon": 20.91667
+    },
+    "name": "Onga"
+  },
+  {
+    "country": "HU",
+    "id": 716828,
+    "coord": {
+      "lat": 48.25,
+      "lon": 21.433331
+    },
+    "name": "Olaszliszka"
+  },
+  {
+    "country": "HU",
+    "id": 716844,
+    "coord": {
+      "lat": 47.918621,
+      "lon": 22.508101
+    },
+    "name": "Okoritofulpos"
+  },
+  {
+    "country": "HU",
+    "id": 716853,
+    "coord": {
+      "lat": 46.900002,
+      "lon": 21.35
+    },
+    "name": "Okany"
+  },
+  {
+    "country": "HU",
+    "id": 716860,
+    "coord": {
+      "lat": 47.933331,
+      "lon": 22.049999
+    },
+    "name": "Ofeherto"
+  },
+  {
+    "country": "HU",
+    "id": 716864,
+    "coord": {
+      "lat": 46.900002,
+      "lon": 20.4
+    },
+    "name": "Ocsod"
+  },
+  {
+    "country": "HU",
+    "id": 716889,
+    "coord": {
+      "lat": 47.816669,
+      "lon": 22.186831
+    },
+    "name": "Nyirvasvari"
+  },
+  {
+    "country": "HU",
+    "id": 716894,
+    "coord": {
+      "lat": 48.116669,
+      "lon": 22.033331
+    },
+    "name": "Nyirtass"
+  },
+  {
+    "country": "HU",
+    "id": 716899,
+    "coord": {
+      "lat": 47.98333,
+      "lon": 21.799999
+    },
+    "name": "Nyirpazony"
+  },
+  {
+    "country": "HU",
+    "id": 716903,
+    "coord": {
+      "lat": 47.739761,
+      "lon": 21.964451
+    },
+    "name": "Nyirmihalydi"
+  },
+  {
+    "country": "HU",
+    "id": 716905,
+    "coord": {
+      "lat": 47.916672,
+      "lon": 22.26667
+    },
+    "name": "Nyirmeggyes"
+  },
+  {
+    "country": "HU",
+    "id": 716906,
+    "coord": {
+      "lat": 47.583328,
+      "lon": 21.9
+    },
+    "name": "Nyirmartonfalva"
+  },
+  {
+    "country": "HU",
+    "id": 716908,
+    "coord": {
+      "lat": 48.066669,
+      "lon": 22.200001
+    },
+    "name": "Nyirmada"
+  },
+  {
+    "country": "HU",
+    "id": 716913,
+    "coord": {
+      "lat": 48.101669,
+      "lon": 22.09794
+    },
+    "name": "Nyirkarasz"
+  },
+  {
+    "country": "HU",
+    "id": 716924,
+    "coord": {
+      "lat": 47.886219,
+      "lon": 22.097811
+    },
+    "name": "Nyirgyulaj"
+  },
+  {
+    "country": "HU",
+    "id": 716941,
+    "coord": {
+      "lat": 47.903831,
+      "lon": 22.3363
+    },
+    "name": "Nyircsaholy"
+  },
+  {
+    "country": "HU",
+    "id": 716943,
+    "coord": {
+      "lat": 48.057232,
+      "lon": 21.88242
+    },
+    "name": "Nyirbogdany"
+  },
+  {
+    "country": "HU",
+    "id": 716945,
+    "coord": {
+      "lat": 47.803398,
+      "lon": 22.065611
+    },
+    "name": "Nyirbogat"
+  },
+  {
+    "country": "HU",
+    "id": 716948,
+    "coord": {
+      "lat": 47.833328,
+      "lon": 22.133329
+    },
+    "name": "Nyirbator"
+  },
+  {
+    "country": "HU",
+    "id": 716951,
+    "coord": {
+      "lat": 47.69746,
+      "lon": 21.918779
+    },
+    "name": "Nyiradony"
+  },
+  {
+    "country": "HU",
+    "id": 716952,
+    "coord": {
+      "lat": 47.603298,
+      "lon": 21.97208
+    },
+    "name": "Nyiracsad"
+  },
+  {
+    "country": "HU",
+    "id": 716954,
+    "coord": {
+      "lat": 47.553108,
+      "lon": 22.02401
+    },
+    "name": "Nyirabrany"
+  },
+  {
+    "country": "HU",
+    "id": 717042,
+    "coord": {
+      "lat": 47.937969,
+      "lon": 21.86763
+    },
+    "name": "Napkor"
+  },
+  {
+    "country": "HU",
+    "id": 717130,
+    "coord": {
+      "lat": 46.683331,
+      "lon": 20.66667
+    },
+    "name": "Nagyszenas"
+  },
+  {
+    "country": "HU",
+    "id": 717172,
+    "coord": {
+      "lat": 47.200001,
+      "lon": 21.33333
+    },
+    "name": "Nagyrabe"
+  },
+  {
+    "country": "HU",
+    "id": 717281,
+    "coord": {
+      "lat": 47.874908,
+      "lon": 21.84082
+    },
+    "name": "Nagykallo"
+  },
+  {
+    "country": "HU",
+    "id": 717345,
+    "coord": {
+      "lat": 48.133331,
+      "lon": 21.76667
+    },
+    "name": "Nagyhalasz"
+  },
+  {
+    "country": "HU",
+    "id": 717400,
+    "coord": {
+      "lat": 48.05759,
+      "lon": 22.304239
+    },
+    "name": "Nagydobos"
+  },
+  {
+    "country": "HU",
+    "id": 717406,
+    "coord": {
+      "lat": 47.966671,
+      "lon": 21.533331
+    },
+    "name": "Nagycserkesz"
+  },
+  {
+    "country": "HU",
+    "id": 717449,
+    "coord": {
+      "lat": 47.416672,
+      "lon": 21.16667
+    },
+    "name": "Nadudvar"
+  },
+  {
+    "country": "HU",
+    "id": 717497,
+    "coord": {
+      "lat": 48.26667,
+      "lon": 20.683331
+    },
+    "name": "Mucsony"
+  },
+  {
+    "country": "HU",
+    "id": 717521,
+    "coord": {
+      "lat": 47.400002,
+      "lon": 21.783331
+    },
+    "name": "Monostorpalyi"
+  },
+  {
+    "country": "HU",
+    "id": 717530,
+    "coord": {
+      "lat": 48.216671,
+      "lon": 21.15
+    },
+    "name": "Monok"
+  },
+  {
+    "country": "HU",
+    "id": 717591,
+    "coord": {
+      "lat": 46.523621,
+      "lon": 20.19038
+    },
+    "name": "Mindszent"
+  },
+  {
+    "country": "HU",
+    "id": 717632,
+    "coord": {
+      "lat": 48.150002,
+      "lon": 21.26667
+    },
+    "name": "Mezozombor"
+  },
+  {
+    "country": "HU",
+    "id": 717656,
+    "coord": {
+      "lat": 46.400002,
+      "lon": 20.91667
+    },
+    "name": "Mezokovacshaza"
+  },
+  {
+    "country": "HU",
+    "id": 717658,
+    "coord": {
+      "lat": 47.833328,
+      "lon": 20.700001
+    },
+    "name": "Mezokeresztes"
+  },
+  {
+    "country": "HU",
+    "id": 717662,
+    "coord": {
+      "lat": 46.316669,
+      "lon": 20.816669
+    },
+    "name": "Mezohegyes"
+  },
+  {
+    "country": "HU",
+    "id": 717667,
+    "coord": {
+      "lat": 47.816669,
+      "lon": 20.91667
+    },
+    "name": "Mezocsat"
+  },
+  {
+    "country": "HU",
+    "id": 717669,
+    "coord": {
+      "lat": 46.816669,
+      "lon": 21.033331
+    },
+    "name": "Mezobereny"
+  },
+  {
+    "country": "HU",
+    "id": 717721,
+    "coord": {
+      "lat": 46.783329,
+      "lon": 21.450001
+    },
+    "name": "Mehkerek"
+  },
+  {
+    "country": "HU",
+    "id": 717726,
+    "coord": {
+      "lat": 48.183331,
+      "lon": 21.049999
+    },
+    "name": "Megyaszo"
+  },
+  {
+    "country": "HU",
+    "id": 717741,
+    "coord": {
+      "lat": 46.5,
+      "lon": 21.033331
+    },
+    "name": "Medgyesegyhaza"
+  },
+  {
+    "country": "HU",
+    "id": 717758,
+    "coord": {
+      "lat": 47.950001,
+      "lon": 20.08333
+    },
+    "name": "Matraderecske"
+  },
+  {
+    "country": "HU",
+    "id": 717805,
+    "coord": {
+      "lat": 46.26667,
+      "lon": 20.35
+    },
+    "name": "Maroslele"
+  },
+  {
+    "country": "HU",
+    "id": 717825,
+    "coord": {
+      "lat": 47.883018,
+      "lon": 22.025021
+    },
+    "name": "Mariapocs"
+  },
+  {
+    "country": "HU",
+    "id": 717861,
+    "coord": {
+      "lat": 48.01667,
+      "lon": 20.83333
+    },
+    "name": "Malyi"
+  },
+  {
+    "country": "HU",
+    "id": 717904,
+    "coord": {
+      "lat": 47.799999,
+      "lon": 20.41667
+    },
+    "name": "Maklar"
+  },
+  {
+    "country": "HU",
+    "id": 717943,
+    "coord": {
+      "lat": 46.450001,
+      "lon": 20.966669
+    },
+    "name": "Magyarbanhegyes"
+  },
+  {
+    "country": "HU",
+    "id": 717980,
+    "coord": {
+      "lat": 48.200001,
+      "lon": 21.283331
+    },
+    "name": "Mad"
+  },
+  {
+    "country": "HU",
+    "id": 718060,
+    "coord": {
+      "lat": 46.433331,
+      "lon": 21.23333
+    },
+    "name": "Lokoshaza"
+  },
+  {
+    "country": "HU",
+    "id": 718108,
+    "coord": {
+      "lat": 47.962818,
+      "lon": 21.985371
+    },
+    "name": "Levelek"
+  },
+  {
+    "country": "HU",
+    "id": 718113,
+    "coord": {
+      "lat": 47.383331,
+      "lon": 21.9
+    },
+    "name": "Letavertes"
+  },
+  {
+    "country": "HU",
+    "id": 718312,
+    "coord": {
+      "lat": 46.839161,
+      "lon": 20.28879
+    },
+    "name": "Kunszentmarton"
+  },
+  {
+    "country": "HU",
+    "id": 718315,
+    "coord": {
+      "lat": 47.433331,
+      "lon": 20.799999
+    },
+    "name": "Kunmadaras"
+  },
+  {
+    "country": "HU",
+    "id": 718321,
+    "coord": {
+      "lat": 47.366669,
+      "lon": 20.633329
+    },
+    "name": "Kunhegyes"
+  },
+  {
+    "country": "HU",
+    "id": 718334,
+    "coord": {
+      "lat": 46.433331,
+      "lon": 21.049999
+    },
+    "name": "Kunagota"
+  },
+  {
+    "country": "HU",
+    "id": 718480,
+    "coord": {
+      "lat": 48.049999,
+      "lon": 21.716669
+    },
+    "name": "Kotaj"
+  },
+  {
+    "country": "HU",
+    "id": 718516,
+    "coord": {
+      "lat": 46.883331,
+      "lon": 21.033331
+    },
+    "name": "Korostarcsa"
+  },
+  {
+    "country": "HU",
+    "id": 718528,
+    "coord": {
+      "lat": 46.966671,
+      "lon": 21.08333
+    },
+    "name": "Korosladany"
+  },
+  {
+    "country": "HU",
+    "id": 718602,
+    "coord": {
+      "lat": 47.316669,
+      "lon": 21.66667
+    },
+    "name": "Konyar"
+  },
+  {
+    "country": "HU",
+    "id": 718615,
+    "coord": {
+      "lat": 46.76667,
+      "lon": 20.799999
+    },
+    "name": "Kondoros"
+  },
+  {
+    "country": "HU",
+    "id": 718618,
+    "coord": {
+      "lat": 47.73333,
+      "lon": 20.25
+    },
+    "name": "Kompolt"
+  },
+  {
+    "country": "HU",
+    "id": 718637,
+    "coord": {
+      "lat": 47,
+      "lon": 21.5
+    },
+    "name": "Komadi"
+  },
+  {
+    "country": "HU",
+    "id": 718699,
+    "coord": {
+      "lat": 47.939121,
+      "lon": 22.383329
+    },
+    "name": "Kocsord"
+  },
+  {
+    "country": "HU",
+    "id": 718723,
+    "coord": {
+      "lat": 46.183331,
+      "lon": 20.433331
+    },
+    "name": "Kiszombor"
+  },
+  {
+    "country": "HU",
+    "id": 718744,
+    "coord": {
+      "lat": 47.216671,
+      "lon": 20.76667
+    },
+    "name": "Kisujszallas"
+  },
+  {
+    "country": "HU",
+    "id": 718897,
+    "coord": {
+      "lat": 47.842442,
+      "lon": 22.003929
+    },
+    "name": "Kisleta"
+  },
+  {
+    "country": "HU",
+    "id": 718911,
+    "coord": {
+      "lat": 47.5,
+      "lon": 20.5
+    },
+    "name": "Kiskore"
+  },
+  {
+    "country": "HU",
+    "id": 719093,
+    "coord": {
+      "lat": 46.416672,
+      "lon": 21.183331
+    },
+    "name": "Kevermes"
+  },
+  {
+    "country": "HU",
+    "id": 719126,
+    "coord": {
+      "lat": 46.533329,
+      "lon": 21.183331
+    },
+    "name": "Ketegyhaza"
+  },
+  {
+    "country": "HU",
+    "id": 719211,
+    "coord": {
+      "lat": 47.799999,
+      "lon": 20.35
+    },
+    "name": "Kerecsend"
+  },
+  {
+    "country": "HU",
+    "id": 719232,
+    "coord": {
+      "lat": 47.083328,
+      "lon": 20.33333
+    },
+    "name": "Kengyel"
+  },
+  {
+    "country": "HU",
+    "id": 719252,
+    "coord": {
+      "lat": 47.25,
+      "lon": 20.683331
+    },
+    "name": "Kenderes"
+  },
+  {
+    "country": "HU",
+    "id": 719260,
+    "coord": {
+      "lat": 48.075321,
+      "lon": 21.80625
+    },
+    "name": "Kemecse"
+  },
+  {
+    "country": "HU",
+    "id": 719280,
+    "coord": {
+      "lat": 48.116669,
+      "lon": 21.883329
+    },
+    "name": "Kek"
+  },
+  {
+    "country": "HU",
+    "id": 719346,
+    "coord": {
+      "lat": 46.466671,
+      "lon": 20.83333
+    },
+    "name": "Kaszaper"
+  },
+  {
+    "country": "HU",
+    "id": 719396,
+    "coord": {
+      "lat": 48.311298,
+      "lon": 21.80537
+    },
+    "name": "Karcsa"
+  },
+  {
+    "country": "HU",
+    "id": 719419,
+    "coord": {
+      "lat": 47.729622,
+      "lon": 20.03076
+    },
+    "name": "Karacsond"
+  },
+  {
+    "country": "HU",
+    "id": 719466,
+    "coord": {
+      "lat": 47.933331,
+      "lon": 22.15
+    },
+    "name": "Kantorjanosi"
+  },
+  {
+    "country": "HU",
+    "id": 719489,
+    "coord": {
+      "lat": 47.883331,
+      "lon": 21.58333
+    },
+    "name": "Kalmanhaza"
+  },
+  {
+    "country": "HU",
+    "id": 719493,
+    "coord": {
+      "lat": 47.860809,
+      "lon": 21.93928
+    },
+    "name": "Kallosemjen"
+  },
+  {
+    "country": "HU",
+    "id": 719511,
+    "coord": {
+      "lat": 47.73333,
+      "lon": 20.26667
+    },
+    "name": "Kal"
+  },
+  {
+    "country": "HU",
+    "id": 719555,
+    "coord": {
+      "lat": 47.349998,
+      "lon": 21.283331
+    },
+    "name": "Kaba"
+  },
+  {
+    "country": "HU",
+    "id": 719635,
+    "coord": {
+      "lat": 47.583328,
+      "lon": 20.183331
+    },
+    "name": "Jaszszentandras"
+  },
+  {
+    "country": "HU",
+    "id": 719640,
+    "coord": {
+      "lat": 47.366669,
+      "lon": 20.16667
+    },
+    "name": "Jaszladany"
+  },
+  {
+    "country": "HU",
+    "id": 719643,
+    "coord": {
+      "lat": 47.450001,
+      "lon": 20.216669
+    },
+    "name": "Jaszkiser"
+  },
+  {
+    "country": "HU",
+    "id": 719644,
+    "coord": {
+      "lat": 47.049999,
+      "lon": 20.066669
+    },
+    "name": "Jaszkarajeno"
+  },
+  {
+    "country": "HU",
+    "id": 719645,
+    "coord": {
+      "lat": 47.520378,
+      "lon": 19.99086
+    },
+    "name": "Jaszjakohalma"
+  },
+  {
+    "country": "HU",
+    "id": 719649,
+    "coord": {
+      "lat": 47.566101,
+      "lon": 20.015341
+    },
+    "name": "Jaszdozsa"
+  },
+  {
+    "country": "HU",
+    "id": 719656,
+    "coord": {
+      "lat": 47.366669,
+      "lon": 20.1
+    },
+    "name": "Jaszalsoszentgyorgy"
+  },
+  {
+    "country": "HU",
+    "id": 719668,
+    "coord": {
+      "lat": 48.150002,
+      "lon": 20.25
+    },
+    "name": "Jardanhaza"
+  },
+  {
+    "country": "HU",
+    "id": 719678,
+    "coord": {
+      "lat": 47.383331,
+      "lon": 20.066669
+    },
+    "name": "Janoshida"
+  },
+  {
+    "country": "HU",
+    "id": 719710,
+    "coord": {
+      "lat": 48.299999,
+      "lon": 20.66667
+    },
+    "name": "Izsofalva"
+  },
+  {
+    "country": "HU",
+    "id": 719843,
+    "coord": {
+      "lat": 47.393028,
+      "lon": 21.7328
+    },
+    "name": "Hosszupalyi"
+  },
+  {
+    "country": "HU",
+    "id": 719895,
+    "coord": {
+      "lat": 47.582779,
+      "lon": 21.151079
+    },
+    "name": "Hortobagy"
+  },
+  {
+    "country": "HU",
+    "id": 719967,
+    "coord": {
+      "lat": 47.918339,
+      "lon": 22.20153
+    },
+    "name": "Hodasz"
+  },
+  {
+    "country": "HU",
+    "id": 720006,
+    "coord": {
+      "lat": 47.599998,
+      "lon": 20.283331
+    },
+    "name": "Heves"
+  },
+  {
+    "country": "HU",
+    "id": 720026,
+    "coord": {
+      "lat": 48.066669,
+      "lon": 20.98333
+    },
+    "name": "Hernadnemeti"
+  },
+  {
+    "country": "HU",
+    "id": 720061,
+    "coord": {
+      "lat": 47.900002,
+      "lon": 20.950001
+    },
+    "name": "Hejobaba"
+  },
+  {
+    "country": "HU",
+    "id": 720149,
+    "coord": {
+      "lat": 47.966671,
+      "lon": 20.75
+    },
+    "name": "Harsany"
+  },
+  {
+    "country": "HU",
+    "id": 720228,
+    "coord": {
+      "lat": 48.25,
+      "lon": 21
+    },
+    "name": "Halmaj"
+  },
+  {
+    "country": "HU",
+    "id": 720274,
+    "coord": {
+      "lat": 47.383331,
+      "lon": 21.48333
+    },
+    "name": "Hajduszovat"
+  },
+  {
+    "country": "HU",
+    "id": 720280,
+    "coord": {
+      "lat": 47.599998,
+      "lon": 21.76667
+    },
+    "name": "Hajdusamson"
+  },
+  {
+    "country": "HU",
+    "id": 720287,
+    "coord": {
+      "lat": 47.683331,
+      "lon": 21.66667
+    },
+    "name": "Hajduhadhaz"
+  },
+  {
+    "country": "HU",
+    "id": 720290,
+    "coord": {
+      "lat": 47.816669,
+      "lon": 21.5
+    },
+    "name": "Hajdudorog"
+  },
+  {
+    "country": "HU",
+    "id": 720295,
+    "coord": {
+      "lat": 47.392948,
+      "lon": 21.66551
+    },
+    "name": "Hajdubagos"
+  },
+  {
+    "country": "HU",
+    "id": 720330,
+    "coord": {
+      "lat": 48.133331,
+      "lon": 22.116671
+    },
+    "name": "Gyulahaza"
+  },
+  {
+    "country": "HU",
+    "id": 720480,
+    "coord": {
+      "lat": 47.833328,
+      "lon": 21.23333
+    },
+    "name": "Gorbehaza"
+  },
+  {
+    "country": "HU",
+    "id": 720533,
+    "coord": {
+      "lat": 48.099998,
+      "lon": 20.966669
+    },
+    "name": "Gesztely"
+  },
+  {
+    "country": "HU",
+    "id": 720574,
+    "coord": {
+      "lat": 48.150002,
+      "lon": 21.950001
+    },
+    "name": "Gegeny"
+  },
+  {
+    "country": "HU",
+    "id": 720643,
+    "coord": {
+      "lat": 46.666672,
+      "lon": 20.6
+    },
+    "name": "Gadoros"
+  },
+  {
+    "country": "HU",
+    "id": 720679,
+    "coord": {
+      "lat": 47.099998,
+      "lon": 21.216669
+    },
+    "name": "Fuzesgyarmat"
+  },
+  {
+    "country": "HU",
+    "id": 720776,
+    "coord": {
+      "lat": 47.299999,
+      "lon": 21.366671
+    },
+    "name": "Foldes"
+  },
+  {
+    "country": "HU",
+    "id": 720780,
+    "coord": {
+      "lat": 46.316669,
+      "lon": 20.5
+    },
+    "name": "Foldeak"
+  },
+  {
+    "country": "HU",
+    "id": 720846,
+    "coord": {
+      "lat": 48.271332,
+      "lon": 22.10009
+    },
+    "name": "Fenyeslitke"
+  },
+  {
+    "country": "HU",
+    "id": 720862,
+    "coord": {
+      "lat": 47.966671,
+      "lon": 20.41667
+    },
+    "name": "Felsotarkany"
+  },
+  {
+    "country": "HU",
+    "id": 720988,
+    "coord": {
+      "lat": 47.98333,
+      "lon": 22.51667
+    },
+    "name": "Fehergyarmat"
+  },
+  {
+    "country": "HU",
+    "id": 720992,
+    "coord": {
+      "lat": 47.26667,
+      "lon": 20.533331
+    },
+    "name": "Fegyvernek"
+  },
+  {
+    "country": "HU",
+    "id": 721022,
+    "coord": {
+      "lat": 48.183331,
+      "lon": 20.316669
+    },
+    "name": "Farkaslyuk"
+  },
+  {
+    "country": "HU",
+    "id": 721068,
+    "coord": {
+      "lat": 46.683331,
+      "lon": 20.466669
+    },
+    "name": "Fabiansebestyen"
+  },
+  {
+    "country": "HU",
+    "id": 721119,
+    "coord": {
+      "lat": 47.683331,
+      "lon": 20.316669
+    },
+    "name": "Erdotelek"
+  },
+  {
+    "country": "HU",
+    "id": 721158,
+    "coord": {
+      "lat": 47.73333,
+      "lon": 22.116671
+    },
+    "name": "Encsencs"
+  },
+  {
+    "country": "HU",
+    "id": 721189,
+    "coord": {
+      "lat": 46.533329,
+      "lon": 21.25
+    },
+    "name": "Elek"
+  },
+  {
+    "country": "HU",
+    "id": 721208,
+    "coord": {
+      "lat": 47.633331,
+      "lon": 20.9
+    },
+    "name": "Egyek"
+  },
+  {
+    "country": "HU",
+    "id": 721225,
+    "coord": {
+      "lat": 47.866669,
+      "lon": 20.33333
+    },
+    "name": "Egerszalok"
+  },
+  {
+    "country": "HU",
+    "id": 721246,
+    "coord": {
+      "lat": 48.299999,
+      "lon": 20.73333
+    },
+    "name": "Edeleny"
+  },
+  {
+    "country": "HU",
+    "id": 721257,
+    "coord": {
+      "lat": 47.466671,
+      "lon": 21.5
+    },
+    "name": "Ebes"
+  },
+  {
+    "country": "HU",
+    "id": 721304,
+    "coord": {
+      "lat": 47.833328,
+      "lon": 20.116671
+    },
+    "name": "Domoszlo"
+  },
+  {
+    "country": "HU",
+    "id": 721309,
+    "coord": {
+      "lat": 48.23333,
+      "lon": 21.933331
+    },
+    "name": "Dombrad"
+  },
+  {
+    "country": "HU",
+    "id": 721314,
+    "coord": {
+      "lat": 46.333328,
+      "lon": 21.133329
+    },
+    "name": "Dombegyhaz"
+  },
+  {
+    "country": "HU",
+    "id": 721316,
+    "coord": {
+      "lat": 46.249168,
+      "lon": 20.01111
+    },
+    "name": "Domaszek"
+  },
+  {
+    "country": "HU",
+    "id": 721338,
+    "coord": {
+      "lat": 48.262459,
+      "lon": 22.063391
+    },
+    "name": "Doge"
+  },
+  {
+    "country": "HU",
+    "id": 721349,
+    "coord": {
+      "lat": 46.73333,
+      "lon": 21.25
+    },
+    "name": "Doboz"
+  },
+  {
+    "country": "HU",
+    "id": 721411,
+    "coord": {
+      "lat": 46.218021,
+      "lon": 20.243219
+    },
+    "name": "Deszk"
+  },
+  {
+    "country": "HU",
+    "id": 721428,
+    "coord": {
+      "lat": 47.349998,
+      "lon": 21.566669
+    },
+    "name": "Derecske"
+  },
+  {
+    "country": "HU",
+    "id": 721444,
+    "coord": {
+      "lat": 48.11108,
+      "lon": 21.91749
+    },
+    "name": "Demecser"
+  },
+  {
+    "country": "HU",
+    "id": 721611,
+    "coord": {
+      "lat": 47.033329,
+      "lon": 21.299999
+    },
+    "name": "Csokmo"
+  },
+  {
+    "country": "HU",
+    "id": 721712,
+    "coord": {
+      "lat": 46.863201,
+      "lon": 20.18701
+    },
+    "name": "Cserkeszolo"
+  },
+  {
+    "country": "HU",
+    "id": 721789,
+    "coord": {
+      "lat": 47.835819,
+      "lon": 22.68096
+    },
+    "name": "Csenger"
+  },
+  {
+    "country": "HU",
+    "id": 721856,
+    "coord": {
+      "lat": 46.595001,
+      "lon": 20.123421
+    },
+    "name": "Csanytelek"
+  },
+  {
+    "country": "HU",
+    "id": 721861,
+    "coord": {
+      "lat": 46.25,
+      "lon": 20.73333
+    },
+    "name": "Csanadpalota"
+  },
+  {
+    "country": "HU",
+    "id": 721864,
+    "coord": {
+      "lat": 46.549999,
+      "lon": 20.883329
+    },
+    "name": "Csanadapaca"
+  },
+  {
+    "country": "HU",
+    "id": 721913,
+    "coord": {
+      "lat": 48.255611,
+      "lon": 21.891951
+    },
+    "name": "Cigand"
+  },
+  {
+    "country": "HU",
+    "id": 721923,
+    "coord": {
+      "lat": 46.959759,
+      "lon": 20.197531
+    },
+    "name": "Cibakhaza"
+  },
+  {
+    "country": "HU",
+    "id": 721986,
+    "coord": {
+      "lat": 48.099998,
+      "lon": 21.65
+    },
+    "name": "Buj"
+  },
+  {
+    "country": "HU",
+    "id": 722011,
+    "coord": {
+      "lat": 47.200001,
+      "lon": 21
+    },
+    "name": "Bucsa"
+  },
+  {
+    "country": "HU",
+    "id": 722118,
+    "coord": {
+      "lat": 48.216671,
+      "lon": 20.799999
+    },
+    "name": "Boldva"
+  },
+  {
+    "country": "HU",
+    "id": 722133,
+    "coord": {
+      "lat": 47.73333,
+      "lon": 21.75
+    },
+    "name": "Bokony"
+  },
+  {
+    "country": "HU",
+    "id": 722171,
+    "coord": {
+      "lat": 47.900002,
+      "lon": 20.533331
+    },
+    "name": "Bogacs"
+  },
+  {
+    "country": "HU",
+    "id": 722223,
+    "coord": {
+      "lat": 48.049999,
+      "lon": 20.966669
+    },
+    "name": "Bocs"
+  },
+  {
+    "country": "HU",
+    "id": 722278,
+    "coord": {
+      "lat": 47.216671,
+      "lon": 21.23333
+    },
+    "name": "Biharnagybajom"
+  },
+  {
+    "country": "HU",
+    "id": 722281,
+    "coord": {
+      "lat": 47.133331,
+      "lon": 21.716669
+    },
+    "name": "Biharkeresztes"
+  },
+  {
+    "country": "HU",
+    "id": 722300,
+    "coord": {
+      "lat": 47.299999,
+      "lon": 20.26667
+    },
+    "name": "Besenyszog"
+  },
+  {
+    "country": "HU",
+    "id": 722301,
+    "coord": {
+      "lat": 47.700001,
+      "lon": 20.433331
+    },
+    "name": "Besenyotelek"
+  },
+  {
+    "country": "HU",
+    "id": 722424,
+    "coord": {
+      "lat": 48.049999,
+      "lon": 20.366671
+    },
+    "name": "Belapatfalva"
+  },
+  {
+    "country": "HU",
+    "id": 722431,
+    "coord": {
+      "lat": 46.866669,
+      "lon": 20.48333
+    },
+    "name": "Bekesszentandras"
+  },
+  {
+    "country": "HU",
+    "id": 722432,
+    "coord": {
+      "lat": 46.416672,
+      "lon": 20.633329
+    },
+    "name": "Bekessamson"
+  },
+  {
+    "country": "HU",
+    "id": 722448,
+    "coord": {
+      "lat": 48.150002,
+      "lon": 21.183331
+    },
+    "name": "Bekecs"
+  },
+  {
+    "country": "HU",
+    "id": 722555,
+    "coord": {
+      "lat": 47.299999,
+      "lon": 21.23333
+    },
+    "name": "Barand"
+  },
+  {
+    "country": "HU",
+    "id": 722676,
+    "coord": {
+      "lat": 46.422771,
+      "lon": 20.00816
+    },
+    "name": "Balastya"
+  },
+  {
+    "country": "HU",
+    "id": 722682,
+    "coord": {
+      "lat": 48,
+      "lon": 22.08333
+    },
+    "name": "Baktaloranthaza"
+  },
+  {
+    "country": "HU",
+    "id": 722691,
+    "coord": {
+      "lat": 46.542969,
+      "lon": 20.102131
+    },
+    "name": "Baks"
+  },
+  {
+    "country": "HU",
+    "id": 722738,
+    "coord": {
+      "lat": 47.448818,
+      "lon": 21.989
+    },
+    "name": "Bagamer"
+  },
+  {
+    "country": "HU",
+    "id": 722775,
+    "coord": {
+      "lat": 48.216671,
+      "lon": 20.966669
+    },
+    "name": "Aszalo"
+  },
+  {
+    "country": "HU",
+    "id": 722802,
+    "coord": {
+      "lat": 48.130581,
+      "lon": 20.85832
+    },
+    "name": "Arnot"
+  },
+  {
+    "country": "HU",
+    "id": 722803,
+    "coord": {
+      "lat": 48.183331,
+      "lon": 20.26667
+    },
+    "name": "Arlo"
+  },
+  {
+    "country": "HU",
+    "id": 722823,
+    "coord": {
+      "lat": 48.205952,
+      "lon": 22.259159
+    },
+    "name": "Aranyosapati"
+  },
+  {
+    "country": "HU",
+    "id": 722849,
+    "coord": {
+      "lat": 46.166672,
+      "lon": 20.58333
+    },
+    "name": "Apatfalva"
+  },
+  {
+    "country": "HU",
+    "id": 722852,
+    "coord": {
+      "lat": 47.964298,
+      "lon": 21.93539
+    },
+    "name": "Apagy"
+  },
+  {
+    "country": "HU",
+    "id": 722872,
+    "coord": {
+      "lat": 47.849998,
+      "lon": 20.41667
+    },
+    "name": "Andornaktalya"
+  },
+  {
+    "country": "HU",
+    "id": 722876,
+    "coord": {
+      "lat": 48.176418,
+      "lon": 22.11167
+    },
+    "name": "Anarcs"
+  },
+  {
+    "country": "HU",
+    "id": 722882,
+    "coord": {
+      "lat": 48.06982,
+      "lon": 20.880461
+    },
+    "name": "Alsozsolca"
+  },
+  {
+    "country": "HU",
+    "id": 722973,
+    "coord": {
+      "lat": 47.427052,
+      "lon": 20.0422
+    },
+    "name": "Alattyan"
+  },
+  {
+    "country": "HU",
+    "id": 722998,
+    "coord": {
+      "lat": 48.17664,
+      "lon": 22.062731
+    },
+    "name": "Ajak"
+  },
+  {
+    "country": "HU",
+    "id": 723041,
+    "coord": {
+      "lat": 47.79705,
+      "lon": 20.003241
+    },
+    "name": "Abasar"
+  },
+  {
+    "country": "HU",
+    "id": 723044,
+    "coord": {
+      "lat": 47.466671,
+      "lon": 20.6
+    },
+    "name": "Abadszalok"
+  },
+  {
+    "country": "HU",
+    "id": 3042441,
+    "coord": {
+      "lat": 46.325661,
+      "lon": 19.97464
+    },
+    "name": "Zsombo"
+  },
+  {
+    "country": "HU",
+    "id": 3042504,
+    "coord": {
+      "lat": 47.543812,
+      "lon": 19.610479
+    },
+    "name": "Zsambok"
+  },
+  {
+    "country": "HU",
+    "id": 3042507,
+    "coord": {
+      "lat": 47.548141,
+      "lon": 18.72011
+    },
+    "name": "Zsambek"
+  },
+  {
+    "country": "HU",
+    "id": 3042516,
+    "coord": {
+      "lat": 46.410839,
+      "lon": 18.565769
+    },
+    "name": "Zomba"
+  },
+  {
+    "country": "HU",
+    "id": 3042569,
+    "coord": {
+      "lat": 46.87146,
+      "lon": 17.684731
+    },
+    "name": "Zanka"
+  },
+  {
+    "country": "HU",
+    "id": 3042575,
+    "coord": {
+      "lat": 47.316669,
+      "lon": 18.4081
+    },
+    "name": "Zamoly"
+  },
+  {
+    "country": "HU",
+    "id": 3042580,
+    "coord": {
+      "lat": 46.88488,
+      "lon": 17.953659
+    },
+    "name": "Zamardi"
+  },
+  {
+    "country": "HU",
+    "id": 3042603,
+    "coord": {
+      "lat": 46.94474,
+      "lon": 17.07925
+    },
+    "name": "Zalaszentgrot"
+  },
+  {
+    "country": "HU",
+    "id": 3042621,
+    "coord": {
+      "lat": 46.53796,
+      "lon": 17.180941
+    },
+    "name": "Zalakomar"
+  },
+  {
+    "country": "HU",
+    "id": 3042652,
+    "coord": {
+      "lat": 46.274529,
+      "lon": 19.88975
+    },
+    "name": "Zakanyszek"
+  },
+  {
+    "country": "HU",
+    "id": 3042661,
+    "coord": {
+      "lat": 47.777031,
+      "lon": 19.670919
+    },
+    "name": "Zagyvaszanto"
+  },
+  {
+    "country": "HU",
+    "id": 3042746,
+    "coord": {
+      "lat": 46.75742,
+      "lon": 17.31172
+    },
+    "name": "Vonyarcvashegy"
+  },
+  {
+    "country": "HU",
+    "id": 3042941,
+    "coord": {
+      "lat": 47.621059,
+      "lon": 18.3813
+    },
+    "name": "Vertesszolos"
+  },
+  {
+    "country": "HU",
+    "id": 3042956,
+    "coord": {
+      "lat": 47.82468,
+      "lon": 19.03484
+    },
+    "name": "Veroce"
+  },
+  {
+    "country": "HU",
+    "id": 3042968,
+    "coord": {
+      "lat": 47.645901,
+      "lon": 19.295361
+    },
+    "name": "Veresegyhaz"
+  },
+  {
+    "country": "HU",
+    "id": 3042977,
+    "coord": {
+      "lat": 47.230412,
+      "lon": 16.722481
+    },
+    "name": "Vep"
+  },
+  {
+    "country": "HU",
+    "id": 3042998,
+    "coord": {
+      "lat": 47.238548,
+      "lon": 18.65484
+    },
+    "name": "Velence"
+  },
+  {
+    "country": "HU",
+    "id": 3043048,
+    "coord": {
+      "lat": 46.107819,
+      "lon": 18.98514
+    },
+    "name": "Vaskut"
+  },
+  {
+    "country": "HU",
+    "id": 3043111,
+    "coord": {
+      "lat": 46.816738,
+      "lon": 19.75668
+    },
+    "name": "Varosfoeld"
+  },
+  {
+    "country": "HU",
+    "id": 3043210,
+    "coord": {
+      "lat": 47.68428,
+      "lon": 19.929239
+    },
+    "name": "Vamosgyork"
+  },
+  {
+    "country": "HU",
+    "id": 3043217,
+    "coord": {
+      "lat": 47.563911,
+      "lon": 19.512671
+    },
+    "name": "Valko"
+  },
+  {
+    "country": "HU",
+    "id": 3043224,
+    "coord": {
+      "lat": 47.36264,
+      "lon": 18.67931
+    },
+    "name": "Val"
+  },
+  {
+    "country": "HU",
+    "id": 3043233,
+    "coord": {
+      "lat": 45.859581,
+      "lon": 17.98406
+    },
+    "name": "Vajszlo"
+  },
+  {
+    "country": "HU",
+    "id": 3043278,
+    "coord": {
+      "lat": 47.574001,
+      "lon": 19.53771
+    },
+    "name": "Vacszentlaszlo"
+  },
+  {
+    "country": "HU",
+    "id": 3043317,
+    "coord": {
+      "lat": 47.596741,
+      "lon": 19.015829
+    },
+    "name": "Urom"
+  },
+  {
+    "country": "HU",
+    "id": 3043318,
+    "coord": {
+      "lat": 47.085049,
+      "lon": 17.64393
+    },
+    "name": "Urkut"
+  },
+  {
+    "country": "HU",
+    "id": 3043321,
+    "coord": {
+      "lat": 47.414291,
+      "lon": 19.52762
+    },
+    "name": "Uri"
+  },
+  {
+    "country": "HU",
+    "id": 3043356,
+    "coord": {
+      "lat": 47.387711,
+      "lon": 19.35533
+    },
+    "name": "Ullo"
+  },
+  {
+    "country": "HU",
+    "id": 3043358,
+    "coord": {
+      "lat": 46.336109,
+      "lon": 19.84454
+    },
+    "name": "Ulles"
+  },
+  {
+    "country": "HU",
+    "id": 3043448,
+    "coord": {
+      "lat": 47.274769,
+      "lon": 19.92477
+    },
+    "name": "Ujszilvas"
+  },
+  {
+    "country": "HU",
+    "id": 3043581,
+    "coord": {
+      "lat": 47.21981,
+      "lon": 19.386379
+    },
+    "name": "Ujhartyan"
+  },
+  {
+    "country": "HU",
+    "id": 3043671,
+    "coord": {
+      "lat": 46.983662,
+      "lon": 17.10742
+    },
+    "name": "Turje"
+  },
+  {
+    "country": "HU",
+    "id": 3043678,
+    "coord": {
+      "lat": 47.609241,
+      "lon": 19.602791
+    },
+    "name": "Tura"
+  },
+  {
+    "country": "HU",
+    "id": 3043758,
+    "coord": {
+      "lat": 47.122089,
+      "lon": 19.93714
+    },
+    "name": "Tortel"
+  },
+  {
+    "country": "HU",
+    "id": 3043778,
+    "coord": {
+      "lat": 47.42931,
+      "lon": 18.913561
+    },
+    "name": "Toeroekbalint"
+  },
+  {
+    "country": "HU",
+    "id": 3043820,
+    "coord": {
+      "lat": 46.206051,
+      "lon": 19.539101
+    },
+    "name": "Tompa"
+  },
+  {
+    "country": "HU",
+    "id": 3043832,
+    "coord": {
+      "lat": 47.626091,
+      "lon": 17.733761
+    },
+    "name": "Toltestava"
+  },
+  {
+    "country": "HU",
+    "id": 3043849,
+    "coord": {
+      "lat": 46.426762,
+      "lon": 18.78248
+    },
+    "name": "Tolna"
+  },
+  {
+    "country": "HU",
+    "id": 3043860,
+    "coord": {
+      "lat": 47.321781,
+      "lon": 18.96249
+    },
+    "name": "Toekoel"
+  },
+  {
+    "country": "HU",
+    "id": 3043865,
+    "coord": {
+      "lat": 47.722771,
+      "lon": 18.65889
+    },
+    "name": "Tokod"
+  },
+  {
+    "country": "HU",
+    "id": 3043887,
+    "coord": {
+      "lat": 47.50782,
+      "lon": 19.666571
+    },
+    "name": "Toalmas"
+  },
+  {
+    "country": "HU",
+    "id": 3043927,
+    "coord": {
+      "lat": 46.913689,
+      "lon": 17.889179
+    },
+    "name": "Tihany"
+  },
+  {
+    "country": "HU",
+    "id": 3043946,
+    "coord": {
+      "lat": 47.519218,
+      "lon": 17.50802
+    },
+    "name": "Tet"
+  },
+  {
+    "country": "HU",
+    "id": 3043984,
+    "coord": {
+      "lat": 46.528782,
+      "lon": 18.71117
+    },
+    "name": "Tengelic"
+  },
+  {
+    "country": "HU",
+    "id": 3044004,
+    "coord": {
+      "lat": 47.547901,
+      "lon": 18.828159
+    },
+    "name": "Telki"
+  },
+  {
+    "country": "HU",
+    "id": 3044084,
+    "coord": {
+      "lat": 47.741482,
+      "lon": 18.64813
+    },
+    "name": "Tat"
+  },
+  {
+    "country": "HU",
+    "id": 3044088,
+    "coord": {
+      "lat": 46.374668,
+      "lon": 17.905939
+    },
+    "name": "Taszar"
+  },
+  {
+    "country": "HU",
+    "id": 3044093,
+    "coord": {
+      "lat": 47.02095,
+      "lon": 19.029881
+    },
+    "name": "Tass"
+  },
+  {
+    "country": "HU",
+    "id": 3044103,
+    "coord": {
+      "lat": 47.373268,
+      "lon": 18.845791
+    },
+    "name": "Tarnok"
+  },
+  {
+    "country": "HU",
+    "id": 3044119,
+    "coord": {
+      "lat": 47.61042,
+      "lon": 18.5107
+    },
+    "name": "Tarjan"
+  },
+  {
+    "country": "HU",
+    "id": 3044122,
+    "coord": {
+      "lat": 47.661919,
+      "lon": 18.44416
+    },
+    "name": "Tardos"
+  },
+  {
+    "country": "HU",
+    "id": 3044131,
+    "coord": {
+      "lat": 47.953709,
+      "lon": 19.746099
+    },
+    "name": "Tar"
+  },
+  {
+    "country": "HU",
+    "id": 3044144,
+    "coord": {
+      "lat": 47.194962,
+      "lon": 16.696131
+    },
+    "name": "Taplanszentkereszt"
+  },
+  {
+    "country": "HU",
+    "id": 3044147,
+    "coord": {
+      "lat": 47.302479,
+      "lon": 19.85133
+    },
+    "name": "Tapioszolos"
+  },
+  {
+    "country": "HU",
+    "id": 3044149,
+    "coord": {
+      "lat": 47.339901,
+      "lon": 19.746481
+    },
+    "name": "Tapioszentmarton"
+  },
+  {
+    "country": "HU",
+    "id": 3044151,
+    "coord": {
+      "lat": 47.33609,
+      "lon": 19.877239
+    },
+    "name": "Tapioszele"
+  },
+  {
+    "country": "HU",
+    "id": 3044153,
+    "coord": {
+      "lat": 47.450001,
+      "lon": 19.60923
+    },
+    "name": "Tapioszecso"
+  },
+  {
+    "country": "HU",
+    "id": 3044154,
+    "coord": {
+      "lat": 47.452061,
+      "lon": 19.533689
+    },
+    "name": "Suelysap"
+  },
+  {
+    "country": "HU",
+    "id": 3044156,
+    "coord": {
+      "lat": 47.402,
+      "lon": 19.63047
+    },
+    "name": "Tapiosag"
+  },
+  {
+    "country": "HU",
+    "id": 3044160,
+    "coord": {
+      "lat": 47.335049,
+      "lon": 19.952761
+    },
+    "name": "Tapiogyorgye"
+  },
+  {
+    "country": "HU",
+    "id": 3044161,
+    "coord": {
+      "lat": 47.360958,
+      "lon": 19.68609
+    },
+    "name": "Tapiobicske"
+  },
+  {
+    "country": "HU",
+    "id": 3044171,
+    "coord": {
+      "lat": 46.633331,
+      "lon": 18.283331
+    },
+    "name": "Tamasi"
+  },
+  {
+    "country": "HU",
+    "id": 3044181,
+    "coord": {
+      "lat": 47.329681,
+      "lon": 19.06694
+    },
+    "name": "Taksony"
+  },
+  {
+    "country": "HU",
+    "id": 3044191,
+    "coord": {
+      "lat": 47.75,
+      "lon": 19.1
+    },
+    "name": "Tahitotfalu"
+  },
+  {
+    "country": "HU",
+    "id": 3044211,
+    "coord": {
+      "lat": 47.099419,
+      "lon": 19.478371
+    },
+    "name": "Taborfalva"
+  },
+  {
+    "country": "HU",
+    "id": 3044221,
+    "coord": {
+      "lat": 46.73135,
+      "lon": 18.032009
+    },
+    "name": "Tab"
+  },
+  {
+    "country": "HU",
+    "id": 3044227,
+    "coord": {
+      "lat": 47.85923,
+      "lon": 19.692181
+    },
+    "name": "Szurdokpuspoki"
+  },
+  {
+    "country": "HU",
+    "id": 3044305,
+    "coord": {
+      "lat": 47.684921,
+      "lon": 18.340611
+    },
+    "name": "Szomod"
+  },
+  {
+    "country": "HU",
+    "id": 3044370,
+    "coord": {
+      "lat": 47.73259,
+      "lon": 19.14749
+    },
+    "name": "Szodliget"
+  },
+  {
+    "country": "HU",
+    "id": 3044371,
+    "coord": {
+      "lat": 47.724388,
+      "lon": 19.17046
+    },
+    "name": "Szod"
+  },
+  {
+    "country": "HU",
+    "id": 3044469,
+    "coord": {
+      "lat": 46.048649,
+      "lon": 17.80554
+    },
+    "name": "Szigetvar"
+  },
+  {
+    "country": "HU",
+    "id": 3044470,
+    "coord": {
+      "lat": 47.234169,
+      "lon": 18.92746
+    },
+    "name": "Szigetujfalu"
+  },
+  {
+    "country": "HU",
+    "id": 3044492,
+    "coord": {
+      "lat": 47.264919,
+      "lon": 18.97048
+    },
+    "name": "Szigetcsep"
+  },
+  {
+    "country": "HU",
+    "id": 3044567,
+    "coord": {
+      "lat": 47.454189,
+      "lon": 19.701429
+    },
+    "name": "Szentmartonkata"
+  },
+  {
+    "country": "HU",
+    "id": 3044574,
+    "coord": {
+      "lat": 47.51947,
+      "lon": 19.752859
+    },
+    "name": "Szentlorinckata"
+  },
+  {
+    "country": "HU",
+    "id": 3044600,
+    "coord": {
+      "lat": 47.057598,
+      "lon": 17.97052
+    },
+    "name": "Szentkiralyszabadja"
+  },
+  {
+    "country": "HU",
+    "id": 3044607,
+    "coord": {
+      "lat": 46.918919,
+      "lon": 19.918461
+    },
+    "name": "Szentkiraly"
+  },
+  {
+    "country": "HU",
+    "id": 3044669,
+    "coord": {
+      "lat": 46.95261,
+      "lon": 16.273581
+    },
+    "name": "Szentgotthard"
+  },
+  {
+    "country": "HU",
+    "id": 3044671,
+    "coord": {
+      "lat": 46.37479,
+      "lon": 18.626011
+    },
+    "name": "Szentgalpuszta"
+  },
+  {
+    "country": "HU",
+    "id": 3044800,
+    "coord": {
+      "lat": 46.47551,
+      "lon": 18.68305
+    },
+    "name": "Szedres"
+  },
+  {
+    "country": "HU",
+    "id": 3044835,
+    "coord": {
+      "lat": 46.27673,
+      "lon": 18.37566
+    },
+    "name": "Szaszvar"
+  },
+  {
+    "country": "HU",
+    "id": 3044861,
+    "coord": {
+      "lat": 47.515808,
+      "lon": 18.494801
+    },
+    "name": "Szarliget"
+  },
+  {
+    "country": "HU",
+    "id": 3044909,
+    "coord": {
+      "lat": 47.46423,
+      "lon": 17.30402
+    },
+    "name": "Szany"
+  },
+  {
+    "country": "HU",
+    "id": 3044916,
+    "coord": {
+      "lat": 46.557129,
+      "lon": 19.66103
+    },
+    "name": "Szank"
+  },
+  {
+    "country": "HU",
+    "id": 3044941,
+    "coord": {
+      "lat": 46.975651,
+      "lon": 19.01178
+    },
+    "name": "Szalkszentmarton"
+  },
+  {
+    "country": "HU",
+    "id": 3044990,
+    "coord": {
+      "lat": 47.633331,
+      "lon": 19.316669
+    },
+    "name": "Szada"
+  },
+  {
+    "country": "HU",
+    "id": 3045039,
+    "coord": {
+      "lat": 47.119019,
+      "lon": 18.36824
+    },
+    "name": "Szabadbattyan"
+  },
+  {
+    "country": "HU",
+    "id": 3045045,
+    "coord": {
+      "lat": 47.758862,
+      "lon": 18.44873
+    },
+    "name": "Sutto"
+  },
+  {
+    "country": "HU",
+    "id": 3045070,
+    "coord": {
+      "lat": 46.977032,
+      "lon": 17.282089
+    },
+    "name": "Sumeg"
+  },
+  {
+    "country": "HU",
+    "id": 3045076,
+    "coord": {
+      "lat": 46.281811,
+      "lon": 18.995239
+    },
+    "name": "Sukosd"
+  },
+  {
+    "country": "HU",
+    "id": 3045144,
+    "coord": {
+      "lat": 47.406651,
+      "lon": 18.82247
+    },
+    "name": "Soskut"
+  },
+  {
+    "country": "HU",
+    "id": 3045192,
+    "coord": {
+      "lat": 47.014851,
+      "lon": 18.45343
+    },
+    "name": "Soponya"
+  },
+  {
+    "country": "HU",
+    "id": 3045201,
+    "coord": {
+      "lat": 48.163738,
+      "lon": 19.82303
+    },
+    "name": "Somoskoujfalu"
+  },
+  {
+    "country": "HU",
+    "id": 3045212,
+    "coord": {
+      "lat": 46.581402,
+      "lon": 17.662889
+    },
+    "name": "Somogyvar"
+  },
+  {
+    "country": "HU",
+    "id": 3045294,
+    "coord": {
+      "lat": 47.592461,
+      "lon": 18.932119
+    },
+    "name": "Solymar"
+  },
+  {
+    "country": "HU",
+    "id": 3045303,
+    "coord": {
+      "lat": 46.800671,
+      "lon": 18.999929
+    },
+    "name": "Solt"
+  },
+  {
+    "country": "HU",
+    "id": 3045341,
+    "coord": {
+      "lat": 46.75462,
+      "lon": 18.554899
+    },
+    "name": "Simontornya"
+  },
+  {
+    "country": "HU",
+    "id": 3045386,
+    "coord": {
+      "lat": 47.1105,
+      "lon": 18.565001
+    },
+    "name": "Seregelyes"
+  },
+  {
+    "country": "HU",
+    "id": 3045411,
+    "coord": {
+      "lat": 46.341419,
+      "lon": 17.35132
+    },
+    "name": "Segesd"
+  },
+  {
+    "country": "HU",
+    "id": 3045493,
+    "coord": {
+      "lat": 47.15321,
+      "lon": 18.338791
+    },
+    "name": "Sarszentmihaly"
+  },
+  {
+    "country": "HU",
+    "id": 3045512,
+    "coord": {
+      "lat": 47.042728,
+      "lon": 18.64357
+    },
+    "name": "Sarosd"
+  },
+  {
+    "country": "HU",
+    "id": 3045520,
+    "coord": {
+      "lat": 46.712212,
+      "lon": 17.16865
+    },
+    "name": "Sarmellek"
+  },
+  {
+    "country": "HU",
+    "id": 3045530,
+    "coord": {
+      "lat": 47.005402,
+      "lon": 18.543909
+    },
+    "name": "Sarkeresztur"
+  },
+  {
+    "country": "HU",
+    "id": 3045542,
+    "coord": {
+      "lat": 47.676998,
+      "lon": 18.679331
+    },
+    "name": "Sarisap"
+  },
+  {
+    "country": "HU",
+    "id": 3045564,
+    "coord": {
+      "lat": 46.886921,
+      "lon": 18.620411
+    },
+    "name": "Sarbogard"
+  },
+  {
+    "country": "HU",
+    "id": 3045688,
+    "coord": {
+      "lat": 46.288059,
+      "lon": 19.747141
+    },
+    "name": "Ruzsa"
+  },
+  {
+    "country": "HU",
+    "id": 3045704,
+    "coord": {
+      "lat": 47.782001,
+      "lon": 19.7421
+    },
+    "name": "Rozsaszentmarton"
+  },
+  {
+    "country": "HU",
+    "id": 3045758,
+    "coord": {
+      "lat": 47.926182,
+      "lon": 19.257231
+    },
+    "name": "Romhany"
+  },
+  {
+    "country": "HU",
+    "id": 3045804,
+    "coord": {
+      "lat": 48.036949,
+      "lon": 19.5301
+    },
+    "name": "Rimoc"
+  },
+  {
+    "country": "HU",
+    "id": 3045836,
+    "coord": {
+      "lat": 46.825729,
+      "lon": 17.619671
+    },
+    "name": "Revfueloep"
+  },
+  {
+    "country": "HU",
+    "id": 3045884,
+    "coord": {
+      "lat": 47.421051,
+      "lon": 17.01795
+    },
+    "name": "Repcelak"
+  },
+  {
+    "country": "HU",
+    "id": 3045991,
+    "coord": {
+      "lat": 47.996429,
+      "lon": 17.19821
+    },
+    "name": "Rajka"
+  },
+  {
+    "country": "HU",
+    "id": 3046026,
+    "coord": {
+      "lat": 47.16095,
+      "lon": 18.94478
+    },
+    "name": "Rackeve"
+  },
+  {
+    "country": "HU",
+    "id": 3046027,
+    "coord": {
+      "lat": 47.273602,
+      "lon": 18.833429
+    },
+    "name": "Rackeresztur"
+  },
+  {
+    "country": "HU",
+    "id": 3046036,
+    "coord": {
+      "lat": 47.022629,
+      "lon": 18.940559
+    },
+    "name": "Racalmas"
+  },
+  {
+    "country": "HU",
+    "id": 3046056,
+    "coord": {
+      "lat": 47.63224,
+      "lon": 17.48004
+    },
+    "name": "Rabapatona"
+  },
+  {
+    "country": "HU",
+    "id": 3046073,
+    "coord": {
+      "lat": 47.429482,
+      "lon": 18.22648
+    },
+    "name": "Pusztavam"
+  },
+  {
+    "country": "HU",
+    "id": 3046076,
+    "coord": {
+      "lat": 46.550831,
+      "lon": 19.988239
+    },
+    "name": "Pusztaszer"
+  },
+  {
+    "country": "HU",
+    "id": 3046087,
+    "coord": {
+      "lat": 47.13718,
+      "lon": 18.76704
+    },
+    "name": "Pusztaszabolcs"
+  },
+  {
+    "country": "HU",
+    "id": 3046249,
+    "coord": {
+      "lat": 47.060989,
+      "lon": 18.302
+    },
+    "name": "Polgardi"
+  },
+  {
+    "country": "HU",
+    "id": 3046336,
+    "coord": {
+      "lat": 46.68095,
+      "lon": 18.43935
+    },
+    "name": "Pincehely"
+  },
+  {
+    "country": "HU",
+    "id": 3046340,
+    "coord": {
+      "lat": 47.613861,
+      "lon": 18.90893
+    },
+    "name": "Pilisvorosvar"
+  },
+  {
+    "country": "HU",
+    "id": 3046343,
+    "coord": {
+      "lat": 47.691429,
+      "lon": 18.905029
+    },
+    "name": "Pilisszentkereszt"
+  },
+  {
+    "country": "HU",
+    "id": 3046344,
+    "coord": {
+      "lat": 47.609638,
+      "lon": 18.899401
+    },
+    "name": "Pilisszentivan"
+  },
+  {
+    "country": "HU",
+    "id": 3046345,
+    "coord": {
+      "lat": 47.66909,
+      "lon": 18.887621
+    },
+    "name": "Pilisszanto"
+  },
+  {
+    "country": "HU",
+    "id": 3046346,
+    "coord": {
+      "lat": 47.784641,
+      "lon": 18.875389
+    },
+    "name": "Pilismarot"
+  },
+  {
+    "country": "HU",
+    "id": 3046349,
+    "coord": {
+      "lat": 47.679241,
+      "lon": 18.81872
+    },
+    "name": "Piliscsev"
+  },
+  {
+    "country": "HU",
+    "id": 3046353,
+    "coord": {
+      "lat": 47.634171,
+      "lon": 18.828859
+    },
+    "name": "Piliscsaba"
+  },
+  {
+    "country": "HU",
+    "id": 3046354,
+    "coord": {
+      "lat": 47.607441,
+      "lon": 18.993219
+    },
+    "name": "Pilisborosjeno"
+  },
+  {
+    "country": "HU",
+    "id": 3046355,
+    "coord": {
+      "lat": 47.28904,
+      "lon": 19.548479
+    },
+    "name": "Pilis"
+  },
+  {
+    "country": "HU",
+    "id": 3046387,
+    "coord": {
+      "lat": 47.779419,
+      "lon": 19.7055
+    },
+    "name": "Petofibanya"
+  },
+  {
+    "country": "HU",
+    "id": 3046396,
+    "coord": {
+      "lat": 47.166672,
+      "lon": 18.116671
+    },
+    "name": "Petfuerdo"
+  },
+  {
+    "country": "HU",
+    "id": 3046409,
+    "coord": {
+      "lat": 47.391041,
+      "lon": 19.409809
+    },
+    "name": "Peteri"
+  },
+  {
+    "country": "HU",
+    "id": 3046456,
+    "coord": {
+      "lat": 47.047009,
+      "lon": 18.78734
+    },
+    "name": "Perkata"
+  },
+  {
+    "country": "HU",
+    "id": 3046487,
+    "coord": {
+      "lat": 47.589569,
+      "lon": 18.76099
+    },
+    "name": "Perbal"
+  },
+  {
+    "country": "HU",
+    "id": 3046488,
+    "coord": {
+      "lat": 47.61153,
+      "lon": 17.80632
+    },
+    "name": "Per"
+  },
+  {
+    "country": "HU",
+    "id": 3046499,
+    "coord": {
+      "lat": 46.034382,
+      "lon": 18.15403
+    },
+    "name": "Pellerd"
+  },
+  {
+    "country": "HU",
+    "id": 3046531,
+    "coord": {
+      "lat": 47.48962,
+      "lon": 19.341619
+    },
+    "name": "Pecel"
+  },
+  {
+    "country": "HU",
+    "id": 3046537,
+    "coord": {
+      "lat": 47.287552,
+      "lon": 18.653561
+    },
+    "name": "Pazmand"
+  },
+  {
+    "country": "HU",
+    "id": 3046546,
+    "coord": {
+      "lat": 47.51709,
+      "lon": 18.82851
+    },
+    "name": "Paty"
+  },
+  {
+    "country": "HU",
+    "id": 3046580,
+    "coord": {
+      "lat": 47.920189,
+      "lon": 19.69829
+    },
+    "name": "Paszto"
+  },
+  {
+    "country": "HU",
+    "id": 3046700,
+    "coord": {
+      "lat": 47.353329,
+      "lon": 19.63571
+    },
+    "name": "Pand"
+  },
+  {
+    "country": "HU",
+    "id": 3046711,
+    "coord": {
+      "lat": 47.79528,
+      "lon": 19.59618
+    },
+    "name": "Palotas"
+  },
+  {
+    "country": "HU",
+    "id": 3046719,
+    "coord": {
+      "lat": 46.624168,
+      "lon": 19.951559
+    },
+    "name": "Palmonostora"
+  },
+  {
+    "country": "HU",
+    "id": 3046769,
+    "coord": {
+      "lat": 47.213692,
+      "lon": 18.53306
+    },
+    "name": "Pakozd"
+  },
+  {
+    "country": "HU",
+    "id": 3046800,
+    "coord": {
+      "lat": 46.71981,
+      "lon": 17.014009
+    },
+    "name": "Pacsa"
+  },
+  {
+    "country": "HU",
+    "id": 3046806,
+    "coord": {
+      "lat": 46.751331,
+      "lon": 18.400101
+    },
+    "name": "Ozora"
+  },
+  {
+    "country": "HU",
+    "id": 3046825,
+    "coord": {
+      "lat": 47.71946,
+      "lon": 17.484739
+    },
+    "name": "Otteveny"
+  },
+  {
+    "country": "HU",
+    "id": 3046856,
+    "coord": {
+      "lat": 47.147221,
+      "lon": 18.18833
+    },
+    "name": "Osi"
+  },
+  {
+    "country": "HU",
+    "id": 3046940,
+    "coord": {
+      "lat": 46.75087,
+      "lon": 19.472589
+    },
+    "name": "Orgovany"
+  },
+  {
+    "country": "HU",
+    "id": 3047127,
+    "coord": {
+      "lat": 47.687111,
+      "lon": 19.282391
+    },
+    "name": "Orbottyan"
+  },
+  {
+    "country": "HU",
+    "id": 3047201,
+    "coord": {
+      "lat": 46.313702,
+      "lon": 18.75749
+    },
+    "name": "Ocseny"
+  },
+  {
+    "country": "HU",
+    "id": 3047206,
+    "coord": {
+      "lat": 47.299858,
+      "lon": 19.23057
+    },
+    "name": "Ocsa"
+  },
+  {
+    "country": "HU",
+    "id": 3047229,
+    "coord": {
+      "lat": 47.590469,
+      "lon": 17.689039
+    },
+    "name": "Nyul"
+  },
+  {
+    "country": "HU",
+    "id": 3047282,
+    "coord": {
+      "lat": 47.760269,
+      "lon": 18.55694
+    },
+    "name": "Nyergesujfalu"
+  },
+  {
+    "country": "HU",
+    "id": 3047309,
+    "coord": {
+      "lat": 46.860168,
+      "lon": 19.878361
+    },
+    "name": "Nyarlorinc"
+  },
+  {
+    "country": "HU",
+    "id": 3047316,
+    "coord": {
+      "lat": 47.261749,
+      "lon": 19.501459
+    },
+    "name": "Nyaregyhaza"
+  },
+  {
+    "country": "HU",
+    "id": 3047364,
+    "coord": {
+      "lat": 47.735851,
+      "lon": 18.359659
+    },
+    "name": "Neszmely"
+  },
+  {
+    "country": "HU",
+    "id": 3047373,
+    "coord": {
+      "lat": 46.71637,
+      "lon": 18.763109
+    },
+    "name": "Nemetker"
+  },
+  {
+    "country": "HU",
+    "id": 3047386,
+    "coord": {
+      "lat": 47.055141,
+      "lon": 17.874769
+    },
+    "name": "Nemesvamos"
+  },
+  {
+    "country": "HU",
+    "id": 3047399,
+    "coord": {
+      "lat": 46.3405,
+      "lon": 19.051149
+    },
+    "name": "Nemesnadudvar"
+  },
+  {
+    "country": "HU",
+    "id": 3047443,
+    "coord": {
+      "lat": 47.703289,
+      "lon": 18.257509
+    },
+    "name": "Naszaly"
+  },
+  {
+    "country": "HU",
+    "id": 3047474,
+    "coord": {
+      "lat": 46.967369,
+      "lon": 18.93288
+    },
+    "name": "dunaujvaros"
+  },
+  {
+    "country": "HU",
+    "id": 3047509,
+    "coord": {
+      "lat": 47.531281,
+      "lon": 19.28343
+    },
+    "name": "Nagytarcsa"
+  },
+  {
+    "country": "HU",
+    "id": 3047574,
+    "coord": {
+      "lat": 47.76543,
+      "lon": 19.84819
+    },
+    "name": "Nagyrede"
+  },
+  {
+    "country": "HU",
+    "id": 3047606,
+    "coord": {
+      "lat": 48.005032,
+      "lon": 19.0905
+    },
+    "name": "Nagyoroszi"
+  },
+  {
+    "country": "HU",
+    "id": 3047619,
+    "coord": {
+      "lat": 47.792801,
+      "lon": 18.959841
+    },
+    "name": "Nagymaros"
+  },
+  {
+    "country": "HU",
+    "id": 3047622,
+    "coord": {
+      "lat": 46.27911,
+      "lon": 18.454889
+    },
+    "name": "Nagymanyok"
+  },
+  {
+    "country": "HU",
+    "id": 3047646,
+    "coord": {
+      "lat": 47.650002,
+      "lon": 19.01667
+    },
+    "name": "Nagykovacsi"
+  },
+  {
+    "country": "HU",
+    "id": 3047689,
+    "coord": {
+      "lat": 47.640942,
+      "lon": 18.081301
+    },
+    "name": "Nagyigmand"
+  },
+  {
+    "country": "HU",
+    "id": 3047765,
+    "coord": {
+      "lat": 46.627491,
+      "lon": 18.655649
+    },
+    "name": "Nagydorog"
+  },
+  {
+    "country": "HU",
+    "id": 3047781,
+    "coord": {
+      "lat": 47.604351,
+      "lon": 16.697321
+    },
+    "name": "Nagycenk"
+  },
+  {
+    "country": "HU",
+    "id": 3047804,
+    "coord": {
+      "lat": 46.04248,
+      "lon": 18.905899
+    },
+    "name": "Nagybaracska"
+  },
+  {
+    "country": "HU",
+    "id": 3047811,
+    "coord": {
+      "lat": 46.392319,
+      "lon": 17.511471
+    },
+    "name": "Nagybajom"
+  },
+  {
+    "country": "HU",
+    "id": 3047871,
+    "coord": {
+      "lat": 46.36422,
+      "lon": 16.881769
+    },
+    "name": "Murakeresztur"
+  },
+  {
+    "country": "HU",
+    "id": 3047922,
+    "coord": {
+      "lat": 46.21806,
+      "lon": 19.885099
+    },
+    "name": "Morahalom"
+  },
+  {
+    "country": "HU",
+    "id": 3047927,
+    "coord": {
+      "lat": 47.377869,
+      "lon": 18.203529
+    },
+    "name": "Mor"
+  },
+  {
+    "country": "HU",
+    "id": 3047986,
+    "coord": {
+      "lat": 47.597481,
+      "lon": 19.2407
+    },
+    "name": "Mogyorod"
+  },
+  {
+    "country": "HU",
+    "id": 3048005,
+    "coord": {
+      "lat": 47.669991,
+      "lon": 18.185049
+    },
+    "name": "Mocsa"
+  },
+  {
+    "country": "HU",
+    "id": 3048080,
+    "coord": {
+      "lat": 47.51384,
+      "lon": 17.09507
+    },
+    "name": "Mihalyi"
+  },
+  {
+    "country": "HU",
+    "id": 3048094,
+    "coord": {
+      "lat": 46.811089,
+      "lon": 18.47789
+    },
+    "name": "Mezoszilas"
+  },
+  {
+    "country": "HU",
+    "id": 3048107,
+    "coord": {
+      "lat": 46.931839,
+      "lon": 18.77177
+    },
+    "name": "Mezofalva"
+  },
+  {
+    "country": "HU",
+    "id": 3048186,
+    "coord": {
+      "lat": 47.43132,
+      "lon": 19.45628
+    },
+    "name": "Mende"
+  },
+  {
+    "country": "HU",
+    "id": 3048194,
+    "coord": {
+      "lat": 46.215092,
+      "lon": 19.38102
+    },
+    "name": "Melykut"
+  },
+  {
+    "country": "HU",
+    "id": 3048250,
+    "coord": {
+      "lat": 46.224682,
+      "lon": 18.47076
+    },
+    "name": "Mecseknadasd"
+  },
+  {
+    "country": "HU",
+    "id": 3048281,
+    "coord": {
+      "lat": 47.974209,
+      "lon": 19.780491
+    },
+    "name": "Matraverebely"
+  },
+  {
+    "country": "HU",
+    "id": 3048282,
+    "coord": {
+      "lat": 48.032669,
+      "lon": 19.94762
+    },
+    "name": "Matraterenye"
+  },
+  {
+    "country": "HU",
+    "id": 3048291,
+    "coord": {
+      "lat": 48.03809,
+      "lon": 19.982571
+    },
+    "name": "Matranovak"
+  },
+  {
+    "country": "HU",
+    "id": 3048326,
+    "coord": {
+      "lat": 47.31601,
+      "lon": 18.790449
+    },
+    "name": "Martonvasar"
+  },
+  {
+    "country": "HU",
+    "id": 3048464,
+    "coord": {
+      "lat": 47.53352,
+      "lon": 18.656269
+    },
+    "name": "Many"
+  },
+  {
+    "country": "HU",
+    "id": 3048627,
+    "coord": {
+      "lat": 46.349979,
+      "lon": 18.232401
+    },
+    "name": "Magocs"
+  },
+  {
+    "country": "HU",
+    "id": 3048630,
+    "coord": {
+      "lat": 47.442581,
+      "lon": 19.36438
+    },
+    "name": "Maglod"
+  },
+  {
+    "country": "HU",
+    "id": 3048647,
+    "coord": {
+      "lat": 46.687901,
+      "lon": 18.957911
+    },
+    "name": "Madocsa"
+  },
+  {
+    "country": "HU",
+    "id": 3048657,
+    "coord": {
+      "lat": 46.058701,
+      "lon": 19.261209
+    },
+    "name": "Madaras"
+  },
+  {
+    "country": "HU",
+    "id": 3048713,
+    "coord": {
+      "lat": 47.309971,
+      "lon": 18.551769
+    },
+    "name": "Lovasbereny"
+  },
+  {
+    "country": "HU",
+    "id": 3048762,
+    "coord": {
+      "lat": 47.10104,
+      "lon": 18.004539
+    },
+    "name": "Liter"
+  },
+  {
+    "country": "HU",
+    "id": 3048820,
+    "coord": {
+      "lat": 46.43301,
+      "lon": 16.72583
+    },
+    "name": "Letenye"
+  },
+  {
+    "country": "HU",
+    "id": 3048835,
+    "coord": {
+      "lat": 46.99036,
+      "lon": 18.24358
+    },
+    "name": "Lepseny"
+  },
+  {
+    "country": "HU",
+    "id": 3048852,
+    "coord": {
+      "lat": 46.670132,
+      "lon": 17.64398
+    },
+    "name": "Lengyeltoti"
+  },
+  {
+    "country": "HU",
+    "id": 3048888,
+    "coord": {
+      "lat": 47.735741,
+      "lon": 17.39076
+    },
+    "name": "Lebeny"
+  },
+  {
+    "country": "HU",
+    "id": 3048895,
+    "coord": {
+      "lat": 47.717781,
+      "lon": 19.08585
+    },
+    "name": "Leanyfalu"
+  },
+  {
+    "country": "HU",
+    "id": 3048963,
+    "coord": {
+      "lat": 46.005428,
+      "lon": 18.625259
+    },
+    "name": "Lanycsok"
+  },
+  {
+    "country": "HU",
+    "id": 3048984,
+    "coord": {
+      "lat": 46.876011,
+      "lon": 19.995041
+    },
+    "name": "Lakitelek"
+  },
+  {
+    "country": "HU",
+    "id": 3049013,
+    "coord": {
+      "lat": 46.841999,
+      "lon": 18.337629
+    },
+    "name": "Lajoskomarom"
+  },
+  {
+    "country": "HU",
+    "id": 3049033,
+    "coord": {
+      "lat": 46.205349,
+      "lon": 17.454189
+    },
+    "name": "Labod"
+  },
+  {
+    "country": "HU",
+    "id": 3049036,
+    "coord": {
+      "lat": 47.747349,
+      "lon": 18.496229
+    },
+    "name": "Labatlan"
+  },
+  {
+    "country": "HU",
+    "id": 3049100,
+    "coord": {
+      "lat": 47.027,
+      "lon": 19.12575
+    },
+    "name": "Kunszentmiklos"
+  },
+  {
+    "country": "HU",
+    "id": 3049111,
+    "coord": {
+      "lat": 46.360909,
+      "lon": 19.414539
+    },
+    "name": "Kunfeherto"
+  },
+  {
+    "country": "HU",
+    "id": 3049277,
+    "coord": {
+      "lat": 46.029671,
+      "lon": 18.292101
+    },
+    "name": "Kozarmisleny"
+  },
+  {
+    "country": "HU",
+    "id": 3049366,
+    "coord": {
+      "lat": 47.389221,
+      "lon": 16.541
+    },
+    "name": "Koszeg"
+  },
+  {
+    "country": "HU",
+    "id": 3049377,
+    "coord": {
+      "lat": 47.807911,
+      "lon": 19.178209
+    },
+    "name": "Kosd"
+  },
+  {
+    "country": "HU",
+    "id": 3049421,
+    "coord": {
+      "lat": 47.54668,
+      "lon": 18.320801
+    },
+    "name": "Kornye"
+  },
+  {
+    "country": "HU",
+    "id": 3049491,
+    "coord": {
+      "lat": 47.630531,
+      "lon": 17.35717
+    },
+    "name": "Kony"
+  },
+  {
+    "country": "HU",
+    "id": 3049574,
+    "coord": {
+      "lat": 47.485519,
+      "lon": 19.57876
+    },
+    "name": "Koka"
+  },
+  {
+    "country": "HU",
+    "id": 3049630,
+    "coord": {
+      "lat": 47.001652,
+      "lon": 19.92067
+    },
+    "name": "Kocser"
+  },
+  {
+    "country": "HU",
+    "id": 3049631,
+    "coord": {
+      "lat": 47.607498,
+      "lon": 18.21517
+    },
+    "name": "Kocs"
+  },
+  {
+    "country": "HU",
+    "id": 3049719,
+    "coord": {
+      "lat": 46.4725,
+      "lon": 19.979719
+    },
+    "name": "Kistelek"
+  },
+  {
+    "country": "HU",
+    "id": 3049751,
+    "coord": {
+      "lat": 46.28009,
+      "lon": 19.48954
+    },
+    "name": "Kisszallas"
+  },
+  {
+    "country": "HU",
+    "id": 3049860,
+    "coord": {
+      "lat": 46.957439,
+      "lon": 18.38813
+    },
+    "name": "Kislang"
+  },
+  {
+    "country": "HU",
+    "id": 3049878,
+    "coord": {
+      "lat": 47.188389,
+      "lon": 19.0093
+    },
+    "name": "Kiskunlachaza"
+  },
+  {
+    "country": "HU",
+    "id": 3050160,
+    "coord": {
+      "lat": 47.264439,
+      "lon": 18.277901
+    },
+    "name": "Kincsesbanya"
+  },
+  {
+    "country": "HU",
+    "id": 3050165,
+    "coord": {
+      "lat": 47.817261,
+      "lon": 17.366421
+    },
+    "name": "Kimle"
+  },
+  {
+    "country": "HU",
+    "id": 3050204,
+    "coord": {
+      "lat": 46.646049,
+      "lon": 17.39362
+    },
+    "name": "Kethely"
+  },
+  {
+    "country": "HU",
+    "id": 3050208,
+    "coord": {
+      "lat": 47.712662,
+      "lon": 18.801769
+    },
+    "name": "Kesztolc"
+  },
+  {
+    "country": "HU",
+    "id": 3050406,
+    "coord": {
+      "lat": 46.1968,
+      "lon": 19.61659
+    },
+    "name": "Kelebia"
+  },
+  {
+    "country": "HU",
+    "id": 3050447,
+    "coord": {
+      "lat": 47.52298,
+      "lon": 18.309389
+    },
+    "name": "Kecsked"
+  },
+  {
+    "country": "HU",
+    "id": 3050459,
+    "coord": {
+      "lat": 48.049519,
+      "lon": 19.861429
+    },
+    "name": "Kazar"
+  },
+  {
+    "country": "HU",
+    "id": 3050475,
+    "coord": {
+      "lat": 46.033981,
+      "lon": 19.209351
+    },
+    "name": "Katymar"
+  },
+  {
+    "country": "HU",
+    "id": 3050526,
+    "coord": {
+      "lat": 47.671329,
+      "lon": 19.542
+    },
+    "name": "Kartal"
+  },
+  {
+    "country": "HU",
+    "id": 3050572,
+    "coord": {
+      "lat": 48.150002,
+      "lon": 19.73333
+    },
+    "name": "Karancslapujto"
+  },
+  {
+    "country": "HU",
+    "id": 3050573,
+    "coord": {
+      "lat": 48.163528,
+      "lon": 19.696859
+    },
+    "name": "Karancskeszi"
+  },
+  {
+    "country": "HU",
+    "id": 3050588,
+    "coord": {
+      "lat": 46.690762,
+      "lon": 17.84136
+    },
+    "name": "Karad"
+  },
+  {
+    "country": "HU",
+    "id": 3050594,
+    "coord": {
+      "lat": 47.592239,
+      "lon": 17.02886
+    },
+    "name": "Kapuvar"
+  },
+  {
+    "country": "HU",
+    "id": 3050627,
+    "coord": {
+      "lat": 46.361671,
+      "lon": 17.704
+    },
+    "name": "Kaposmero"
+  },
+  {
+    "country": "HU",
+    "id": 3050647,
+    "coord": {
+      "lat": 47.24004,
+      "lon": 18.67564
+    },
+    "name": "Kapolnasnyek"
+  },
+  {
+    "country": "HU",
+    "id": 3050714,
+    "coord": {
+      "lat": 46.954639,
+      "lon": 18.48259
+    },
+    "name": "Kaloz"
+  },
+  {
+    "country": "HU",
+    "id": 3050750,
+    "coord": {
+      "lat": 47.242001,
+      "lon": 19.36467
+    },
+    "name": "Kakucs"
+  },
+  {
+    "country": "HU",
+    "id": 3050785,
+    "coord": {
+      "lat": 46.236229,
+      "lon": 17.62014
+    },
+    "name": "Kadarkut"
+  },
+  {
+    "country": "HU",
+    "id": 3050872,
+    "coord": {
+      "lat": 47.832378,
+      "lon": 19.67762
+    },
+    "name": "Jobbagyi"
+  },
+  {
+    "country": "HU",
+    "id": 3050901,
+    "coord": {
+      "lat": 46.566849,
+      "lon": 19.760651
+    },
+    "name": "Jaszszentlaszlo"
+  },
+  {
+    "country": "HU",
+    "id": 3050909,
+    "coord": {
+      "lat": 47.64238,
+      "lon": 19.980379
+    },
+    "name": "Jaszarokszallas"
+  },
+  {
+    "country": "HU",
+    "id": 3050927,
+    "coord": {
+      "lat": 47.786209,
+      "lon": 17.13603
+    },
+    "name": "Janossomorja"
+  },
+  {
+    "country": "HU",
+    "id": 3050964,
+    "coord": {
+      "lat": 47.11937,
+      "lon": 17.16503
+    },
+    "name": "Janoshaza"
+  },
+  {
+    "country": "HU",
+    "id": 3050997,
+    "coord": {
+      "lat": 46.74221,
+      "lon": 19.721319
+    },
+    "name": "Fueloepjakab"
+  },
+  {
+    "country": "HU",
+    "id": 3051001,
+    "coord": {
+      "lat": 47.142502,
+      "lon": 16.58148
+    },
+    "name": "Jak"
+  },
+  {
+    "country": "HU",
+    "id": 3051035,
+    "coord": {
+      "lat": 47.1567,
+      "lon": 18.820299
+    },
+    "name": "Ivancsa"
+  },
+  {
+    "country": "HU",
+    "id": 3051077,
+    "coord": {
+      "lat": 47.530109,
+      "lon": 19.40205
+    },
+    "name": "Isaszeg"
+  },
+  {
+    "country": "HU",
+    "id": 3051100,
+    "coord": {
+      "lat": 46.69286,
+      "lon": 18.18581
+    },
+    "name": "Iregszemcse"
+  },
+  {
+    "country": "HU",
+    "id": 3051133,
+    "coord": {
+      "lat": 47.262001,
+      "lon": 19.327
+    },
+    "name": "Inarcs"
+  },
+  {
+    "country": "HU",
+    "id": 3051187,
+    "coord": {
+      "lat": 47.66534,
+      "lon": 19.4361
+    },
+    "name": "Iklad"
+  },
+  {
+    "country": "HU",
+    "id": 3051280,
+    "coord": {
+      "lat": 46.164139,
+      "lon": 18.350771
+    },
+    "name": "Hosszuheteny"
+  },
+  {
+    "country": "HU",
+    "id": 3051324,
+    "coord": {
+      "lat": 47.690811,
+      "lon": 19.789301
+    },
+    "name": "Hort"
+  },
+  {
+    "country": "HU",
+    "id": 3051415,
+    "coord": {
+      "lat": 46.496971,
+      "lon": 18.418409
+    },
+    "name": "Hogyesz"
+  },
+  {
+    "country": "HU",
+    "id": 3051473,
+    "coord": {
+      "lat": 46.256802,
+      "lon": 18.495399
+    },
+    "name": "Hidas"
+  },
+  {
+    "country": "HU",
+    "id": 3051476,
+    "coord": {
+      "lat": 47.633331,
+      "lon": 19.51667
+    },
+    "name": "Hevizgyoerk"
+  },
+  {
+    "country": "HU",
+    "id": 3051499,
+    "coord": {
+      "lat": 47.16238,
+      "lon": 19.432949
+    },
+    "name": "Hernad"
+  },
+  {
+    "country": "HU",
+    "id": 3051520,
+    "coord": {
+      "lat": 45.950001,
+      "lon": 18.939171
+    },
+    "name": "Hercegszanto"
+  },
+  {
+    "country": "HU",
+    "id": 3051535,
+    "coord": {
+      "lat": 46.836609,
+      "lon": 19.622511
+    },
+    "name": "Helvecia"
+  },
+  {
+    "country": "HU",
+    "id": 3051657,
+    "coord": {
+      "lat": 46.69846,
+      "lon": 19.030531
+    },
+    "name": "Harta"
+  },
+  {
+    "country": "HU",
+    "id": 3051822,
+    "coord": {
+      "lat": 47.361729,
+      "lon": 18.98119
+    },
+    "name": "Halasztelek"
+  },
+  {
+    "country": "HU",
+    "id": 3051829,
+    "coord": {
+      "lat": 47.889301,
+      "lon": 17.326151
+    },
+    "name": "Halaszi"
+  },
+  {
+    "country": "HU",
+    "id": 3051873,
+    "coord": {
+      "lat": 46.398609,
+      "lon": 19.12056
+    },
+    "name": "Hajos"
+  },
+  {
+    "country": "HU",
+    "id": 3051881,
+    "coord": {
+      "lat": 47.14513,
+      "lon": 18.01964
+    },
+    "name": "Hajmasker"
+  },
+  {
+    "country": "HU",
+    "id": 3051965,
+    "coord": {
+      "lat": 47.606419,
+      "lon": 17.64875
+    },
+    "name": "Gyorujbarat"
+  },
+  {
+    "country": "HU",
+    "id": 3051969,
+    "coord": {
+      "lat": 47.552559,
+      "lon": 17.56356
+    },
+    "name": "Gyorszemere"
+  },
+  {
+    "country": "HU",
+    "id": 3052013,
+    "coord": {
+      "lat": 46.55603,
+      "lon": 18.47694
+    },
+    "name": "Gyonk"
+  },
+  {
+    "country": "HU",
+    "id": 3052021,
+    "coord": {
+      "lat": 47.81369,
+      "lon": 19.867241
+    },
+    "name": "Gyongyostarjan"
+  },
+  {
+    "country": "HU",
+    "id": 3052023,
+    "coord": {
+      "lat": 47.817242,
+      "lon": 19.93619
+    },
+    "name": "Gyongyossolymos"
+  },
+  {
+    "country": "HU",
+    "id": 3052026,
+    "coord": {
+      "lat": 47.815048,
+      "lon": 19.78924
+    },
+    "name": "Gyongyospata"
+  },
+  {
+    "country": "HU",
+    "id": 3052035,
+    "coord": {
+      "lat": 47.741611,
+      "lon": 19.928761
+    },
+    "name": "Gyongyoshalasz"
+  },
+  {
+    "country": "HU",
+    "id": 3052069,
+    "coord": {
+      "lat": 46.77058,
+      "lon": 17.2866
+    },
+    "name": "Gyenesdias"
+  },
+  {
+    "country": "HU",
+    "id": 3052208,
+    "coord": {
+      "lat": 47.370949,
+      "lon": 19.530569
+    },
+    "name": "Gomba"
+  },
+  {
+    "country": "HU",
+    "id": 3052330,
+    "coord": {
+      "lat": 47.284962,
+      "lon": 16.595751
+    },
+    "name": "Gencsapati"
+  },
+  {
+    "country": "HU",
+    "id": 3052381,
+    "coord": {
+      "lat": 47.209419,
+      "lon": 18.63607
+    },
+    "name": "Gardony"
+  },
+  {
+    "country": "HU",
+    "id": 3052391,
+    "coord": {
+      "lat": 46.03194,
+      "lon": 19.04278
+    },
+    "name": "Gara"
+  },
+  {
+    "country": "HU",
+    "id": 3052417,
+    "coord": {
+      "lat": 47.695621,
+      "lon": 19.387239
+    },
+    "name": "Galgamacsa"
+  },
+  {
+    "country": "HU",
+    "id": 3052419,
+    "coord": {
+      "lat": 47.616669,
+      "lon": 19.566669
+    },
+    "name": "Galgaheviz"
+  },
+  {
+    "country": "HU",
+    "id": 3052500,
+    "coord": {
+      "lat": 46.820751,
+      "lon": 19.23748
+    },
+    "name": "Fulopszallas"
+  },
+  {
+    "country": "HU",
+    "id": 3052545,
+    "coord": {
+      "lat": 47.45504,
+      "lon": 19.66
+    },
+    "name": "Forropuszta"
+  },
+  {
+    "country": "HU",
+    "id": 3052553,
+    "coord": {
+      "lat": 46.36528,
+      "lon": 19.909731
+    },
+    "name": "Forraskut"
+  },
+  {
+    "country": "HU",
+    "id": 3052574,
+    "coord": {
+      "lat": 46.75552,
+      "lon": 17.579451
+    },
+    "name": "Fonyod"
+  },
+  {
+    "country": "HU",
+    "id": 3052639,
+    "coord": {
+      "lat": 47.589958,
+      "lon": 16.87517
+    },
+    "name": "Fertoszentmiklos"
+  },
+  {
+    "country": "HU",
+    "id": 3052640,
+    "coord": {
+      "lat": 47.720169,
+      "lon": 16.6504
+    },
+    "name": "Fertorakos"
+  },
+  {
+    "country": "HU",
+    "id": 3052645,
+    "coord": {
+      "lat": 47.619469,
+      "lon": 16.886761
+    },
+    "name": "Fertod"
+  },
+  {
+    "country": "HU",
+    "id": 3052749,
+    "coord": {
+      "lat": 46.197128,
+      "lon": 19.186859
+    },
+    "name": "Felsoszentivan"
+  },
+  {
+    "country": "HU",
+    "id": 3052786,
+    "coord": {
+      "lat": 47.343281,
+      "lon": 19.23698
+    },
+    "name": "Felsopakony"
+  },
+  {
+    "country": "HU",
+    "id": 3053033,
+    "coord": {
+      "lat": 47.293491,
+      "lon": 18.264601
+    },
+    "name": "Fehervarcsurgo"
+  },
+  {
+    "country": "HU",
+    "id": 3053073,
+    "coord": {
+      "lat": 47.360668,
+      "lon": 19.846189
+    },
+    "name": "Farmos"
+  },
+  {
+    "country": "HU",
+    "id": 3053109,
+    "coord": {
+      "lat": 47.606331,
+      "lon": 17.200239
+    },
+    "name": "Farad"
+  },
+  {
+    "country": "HU",
+    "id": 3053132,
+    "coord": {
+      "lat": 46.46476,
+      "lon": 18.81925
+    },
+    "name": "Fadd"
+  },
+  {
+    "country": "HU",
+    "id": 3053147,
+    "coord": {
+      "lat": 47.447941,
+      "lon": 18.753281
+    },
+    "name": "Etyek"
+  },
+  {
+    "country": "HU",
+    "id": 3053199,
+    "coord": {
+      "lat": 47.996189,
+      "lon": 19.202311
+    },
+    "name": "Ersekvadkert"
+  },
+  {
+    "country": "HU",
+    "id": 3053203,
+    "coord": {
+      "lat": 46.253521,
+      "lon": 18.98457
+    },
+    "name": "Ersekcsanad"
+  },
+  {
+    "country": "HU",
+    "id": 3053253,
+    "coord": {
+      "lat": 47.672611,
+      "lon": 19.307859
+    },
+    "name": "Erdokertes"
+  },
+  {
+    "country": "HU",
+    "id": 3053283,
+    "coord": {
+      "lat": 47.251942,
+      "lon": 18.896231
+    },
+    "name": "Ercsi"
+  },
+  {
+    "country": "HU",
+    "id": 3053297,
+    "coord": {
+      "lat": 46.930462,
+      "lon": 18.24202
+    },
+    "name": "Enying"
+  },
+  {
+    "country": "HU",
+    "id": 3053321,
+    "coord": {
+      "lat": 46.83094,
+      "lon": 18.83481
+    },
+    "name": "Eloszallas"
+  },
+  {
+    "country": "HU",
+    "id": 3053406,
+    "coord": {
+      "lat": 47.73267,
+      "lon": 19.76696
+    },
+    "name": "Ecsed"
+  },
+  {
+    "country": "HU",
+    "id": 3053423,
+    "coord": {
+      "lat": 46.39085,
+      "lon": 18.962959
+    },
+    "name": "Dusnok"
+  },
+  {
+    "country": "HU",
+    "id": 3053432,
+    "coord": {
+      "lat": 46.91407,
+      "lon": 18.974331
+    },
+    "name": "Dunavecse"
+  },
+  {
+    "country": "HU",
+    "id": 3053450,
+    "coord": {
+      "lat": 46.528519,
+      "lon": 18.817711
+    },
+    "name": "Dunaszentgyorgy"
+  },
+  {
+    "country": "HU",
+    "id": 3053454,
+    "coord": {
+      "lat": 46.086632,
+      "lon": 18.75865
+    },
+    "name": "Dunaszekcso"
+  },
+  {
+    "country": "HU",
+    "id": 3053459,
+    "coord": {
+      "lat": 46.644001,
+      "lon": 18.996321
+    },
+    "name": "Dunapataj"
+  },
+  {
+    "country": "HU",
+    "id": 3053495,
+    "coord": {
+      "lat": 47.79052,
+      "lon": 19.04125
+    },
+    "name": "Dunabogdany"
+  },
+  {
+    "country": "HU",
+    "id": 3053497,
+    "coord": {
+      "lat": 47.72868,
+      "lon": 18.32235
+    },
+    "name": "Dunaalmas"
+  },
+  {
+    "country": "HU",
+    "id": 3053562,
+    "coord": {
+      "lat": 47.720951,
+      "lon": 18.736401
+    },
+    "name": "Dorog"
+  },
+  {
+    "country": "HU",
+    "id": 3053577,
+    "coord": {
+      "lat": 47.09005,
+      "lon": 19.011061
+    },
+    "name": "Domsod"
+  },
+  {
+    "country": "HU",
+    "id": 3053583,
+    "coord": {
+      "lat": 47.655521,
+      "lon": 19.432289
+    },
+    "name": "Domony"
+  },
+  {
+    "country": "HU",
+    "id": 3053623,
+    "coord": {
+      "lat": 46.42178,
+      "lon": 18.239519
+    },
+    "name": "Dobrokoz"
+  },
+  {
+    "country": "HU",
+    "id": 3053682,
+    "coord": {
+      "lat": 47.939678,
+      "lon": 19.043171
+    },
+    "name": "Diosjeno"
+  },
+  {
+    "country": "HU",
+    "id": 3053684,
+    "coord": {
+      "lat": 47.4095,
+      "lon": 18.94898
+    },
+    "name": "Diosd"
+  },
+  {
+    "country": "HU",
+    "id": 3053712,
+    "coord": {
+      "lat": 47.103161,
+      "lon": 17.438021
+    },
+    "name": "Devecser"
+  },
+  {
+    "country": "HU",
+    "id": 3053760,
+    "coord": {
+      "lat": 47.241348,
+      "lon": 19.090191
+    },
+    "name": "Delegyhaza"
+  },
+  {
+    "country": "HU",
+    "id": 3053764,
+    "coord": {
+      "lat": 46.868069,
+      "lon": 18.45042
+    },
+    "name": "Deg"
+  },
+  {
+    "country": "HU",
+    "id": 3053768,
+    "coord": {
+      "lat": 46.284279,
+      "lon": 18.76
+    },
+    "name": "Decs"
+  },
+  {
+    "country": "HU",
+    "id": 3053779,
+    "coord": {
+      "lat": 45.994999,
+      "lon": 18.917219
+    },
+    "name": "Davod"
+  },
+  {
+    "country": "HU",
+    "id": 3053809,
+    "coord": {
+      "lat": 47.52,
+      "lon": 19.544001
+    },
+    "name": "Dany"
+  },
+  {
+    "country": "HU",
+    "id": 3053810,
+    "coord": {
+      "lat": 47.214859,
+      "lon": 19.546949
+    },
+    "name": "Danszentmiklos"
+  },
+  {
+    "country": "HU",
+    "id": 3053863,
+    "coord": {
+      "lat": 46.253139,
+      "lon": 17.100599
+    },
+    "name": "Csurgo"
+  },
+  {
+    "country": "HU",
+    "id": 3053918,
+    "coord": {
+      "lat": 47.611549,
+      "lon": 17.25012
+    },
+    "name": "Csorna"
+  },
+  {
+    "country": "HU",
+    "id": 3053938,
+    "coord": {
+      "lat": 46.977089,
+      "lon": 17.91819
+    },
+    "name": "Csopak"
+  },
+  {
+    "country": "HU",
+    "id": 3053986,
+    "coord": {
+      "lat": 47.691158,
+      "lon": 18.71611
+    },
+    "name": "Csolnok"
+  },
+  {
+    "country": "HU",
+    "id": 3054027,
+    "coord": {
+      "lat": 47.64637,
+      "lon": 18.961889
+    },
+    "name": "Csobanka"
+  },
+  {
+    "country": "HU",
+    "id": 3054144,
+    "coord": {
+      "lat": 47.318062,
+      "lon": 17.992081
+    },
+    "name": "Cseteny"
+  },
+  {
+    "country": "HU",
+    "id": 3054164,
+    "coord": {
+      "lat": 46.801651,
+      "lon": 17.220961
+    },
+    "name": "Cserszegtomaj"
+  },
+  {
+    "country": "HU",
+    "id": 3054260,
+    "coord": {
+      "lat": 47.400982,
+      "lon": 16.708811
+    },
+    "name": "Csepreg"
+  },
+  {
+    "country": "HU",
+    "id": 3054280,
+    "coord": {
+      "lat": 46.715431,
+      "lon": 19.268021
+    },
+    "name": "Csengod"
+  },
+  {
+    "country": "HU",
+    "id": 3054287,
+    "coord": {
+      "lat": 46.542339,
+      "lon": 19.863581
+    },
+    "name": "Csengele"
+  },
+  {
+    "country": "HU",
+    "id": 3054296,
+    "coord": {
+      "lat": 47.117989,
+      "lon": 19.69092
+    },
+    "name": "Csemo"
+  },
+  {
+    "country": "HU",
+    "id": 3054328,
+    "coord": {
+      "lat": 46.189171,
+      "lon": 19.146669
+    },
+    "name": "Csavoly"
+  },
+  {
+    "country": "HU",
+    "id": 3054352,
+    "coord": {
+      "lat": 46.42194,
+      "lon": 19.183611
+    },
+    "name": "Csaszartoltes"
+  },
+  {
+    "country": "HU",
+    "id": 3054359,
+    "coord": {
+      "lat": 47.498001,
+      "lon": 18.142719
+    },
+    "name": "Csaszar"
+  },
+  {
+    "country": "HU",
+    "id": 3054400,
+    "coord": {
+      "lat": 47.648289,
+      "lon": 19.82972
+    },
+    "name": "Csany"
+  },
+  {
+    "country": "HU",
+    "id": 3054434,
+    "coord": {
+      "lat": 47.391842,
+      "lon": 18.46501
+    },
+    "name": "Csakvar"
+  },
+  {
+    "country": "HU",
+    "id": 3054456,
+    "coord": {
+      "lat": 47.013561,
+      "lon": 17.29108
+    },
+    "name": "Csabrendek"
+  },
+  {
+    "country": "HU",
+    "id": 3054542,
+    "coord": {
+      "lat": 47.223701,
+      "lon": 19.66828
+    },
+    "name": "Cegledbercel"
+  },
+  {
+    "country": "HU",
+    "id": 3054547,
+    "coord": {
+      "lat": 46.770561,
+      "lon": 18.62826
+    },
+    "name": "Cece"
+  },
+  {
+    "country": "HU",
+    "id": 3054586,
+    "coord": {
+      "lat": 46.10751,
+      "lon": 17.988199
+    },
+    "name": "Buekkoesd"
+  },
+  {
+    "country": "HU",
+    "id": 3054600,
+    "coord": {
+      "lat": 47.883518,
+      "lon": 19.54381
+    },
+    "name": "Bujak"
+  },
+  {
+    "country": "HU",
+    "id": 3054606,
+    "coord": {
+      "lat": 47.227482,
+      "lon": 19.146641
+    },
+    "name": "Bugyi"
+  },
+  {
+    "country": "HU",
+    "id": 3054612,
+    "coord": {
+      "lat": 46.687038,
+      "lon": 19.68074
+    },
+    "name": "Bugac"
+  },
+  {
+    "country": "HU",
+    "id": 3054651,
+    "coord": {
+      "lat": 47.616669,
+      "lon": 19.049999
+    },
+    "name": "Budakalasz"
+  },
+  {
+    "country": "HU",
+    "id": 3054726,
+    "coord": {
+      "lat": 47.688202,
+      "lon": 17.25
+    },
+    "name": "Bosarkany"
+  },
+  {
+    "country": "HU",
+    "id": 3054795,
+    "coord": {
+      "lat": 46.318432,
+      "lon": 19.923059
+    },
+    "name": "Bordany"
+  },
+  {
+    "country": "HU",
+    "id": 3054811,
+    "coord": {
+      "lat": 47.650002,
+      "lon": 17.86977
+    },
+    "name": "Bony"
+  },
+  {
+    "country": "HU",
+    "id": 3054850,
+    "coord": {
+      "lat": 47.602859,
+      "lon": 19.688391
+    },
+    "name": "Boldog"
+  },
+  {
+    "country": "HU",
+    "id": 3054853,
+    "coord": {
+      "lat": 46.74102,
+      "lon": 18.96736
+    },
+    "name": "Bolcske"
+  },
+  {
+    "country": "HU",
+    "id": 3054863,
+    "coord": {
+      "lat": 47.491859,
+      "lon": 18.247431
+    },
+    "name": "Bokod"
+  },
+  {
+    "country": "HU",
+    "id": 3054874,
+    "coord": {
+      "lat": 46.413448,
+      "lon": 17.38036
+    },
+    "name": "Bohonye"
+  },
+  {
+    "country": "HU",
+    "id": 3054878,
+    "coord": {
+      "lat": 46.386379,
+      "lon": 18.82962
+    },
+    "name": "Bogyiszlo"
+  },
+  {
+    "country": "HU",
+    "id": 3054945,
+    "coord": {
+      "lat": 47.323521,
+      "lon": 18.23312
+    },
+    "name": "Bodajk"
+  },
+  {
+    "country": "HU",
+    "id": 3055030,
+    "coord": {
+      "lat": 47.484192,
+      "lon": 18.644039
+    },
+    "name": "Bicske"
+  },
+  {
+    "country": "HU",
+    "id": 3055038,
+    "coord": {
+      "lat": 47.4706,
+      "lon": 18.81892
+    },
+    "name": "Biatorbagy"
+  },
+  {
+    "country": "HU",
+    "id": 3055069,
+    "coord": {
+      "lat": 46.20908,
+      "lon": 17.1481
+    },
+    "name": "Berzence"
+  },
+  {
+    "country": "HU",
+    "id": 3055091,
+    "coord": {
+      "lat": 47.111309,
+      "lon": 18.12948
+    },
+    "name": "Berhida"
+  },
+  {
+    "country": "HU",
+    "id": 3055108,
+    "coord": {
+      "lat": 45.79108,
+      "lon": 18.432631
+    },
+    "name": "Beremend"
+  },
+  {
+    "country": "HU",
+    "id": 3055130,
+    "coord": {
+      "lat": 47.870571,
+      "lon": 19.40715
+    },
+    "name": "Bercel"
+  },
+  {
+    "country": "HU",
+    "id": 3055196,
+    "coord": {
+      "lat": 47.465939,
+      "lon": 17.092939
+    },
+    "name": "Beled"
+  },
+  {
+    "country": "HU",
+    "id": 3055255,
+    "coord": {
+      "lat": 46.447552,
+      "lon": 16.7771
+    },
+    "name": "Becsehely"
+  },
+  {
+    "country": "HU",
+    "id": 3055281,
+    "coord": {
+      "lat": 46.487999,
+      "lon": 18.954189
+    },
+    "name": "Batya"
+  },
+  {
+    "country": "HU",
+    "id": 3055298,
+    "coord": {
+      "lat": 46.193729,
+      "lon": 18.72307
+    },
+    "name": "Bataszek"
+  },
+  {
+    "country": "HU",
+    "id": 3055302,
+    "coord": {
+      "lat": 46.128639,
+      "lon": 18.770269
+    },
+    "name": "Bata"
+  },
+  {
+    "country": "HU",
+    "id": 3055410,
+    "coord": {
+      "lat": 47.282249,
+      "lon": 18.758539
+    },
+    "name": "Baracska"
+  },
+  {
+    "country": "HU",
+    "id": 3055414,
+    "coord": {
+      "lat": 46.882019,
+      "lon": 18.90658
+    },
+    "name": "Baracs"
+  },
+  {
+    "country": "HU",
+    "id": 3055497,
+    "coord": {
+      "lat": 46.86216,
+      "lon": 19.570921
+    },
+    "name": "Balloszog"
+  },
+  {
+    "country": "HU",
+    "id": 3055535,
+    "coord": {
+      "lat": 46.82946,
+      "lon": 17.824261
+    },
+    "name": "Balatonszarszo"
+  },
+  {
+    "country": "HU",
+    "id": 3055539,
+    "coord": {
+      "lat": 46.893978,
+      "lon": 18.137381
+    },
+    "name": "Balatonszabadi"
+  },
+  {
+    "country": "HU",
+    "id": 3055551,
+    "coord": {
+      "lat": 46.78318,
+      "lon": 17.694981
+    },
+    "name": "Balatonlelle"
+  },
+  {
+    "country": "HU",
+    "id": 3055556,
+    "coord": {
+      "lat": 47.040192,
+      "lon": 18.10671
+    },
+    "name": "Balatonkenese"
+  },
+  {
+    "country": "HU",
+    "id": 3055568,
+    "coord": {
+      "lat": 46.852551,
+      "lon": 17.881229
+    },
+    "name": "Balatonfoldvar"
+  },
+  {
+    "country": "HU",
+    "id": 3055575,
+    "coord": {
+      "lat": 46.71542,
+      "lon": 17.492229
+    },
+    "name": "Balatonfenyves"
+  },
+  {
+    "country": "HU",
+    "id": 3055586,
+    "coord": {
+      "lat": 46.70702,
+      "lon": 17.320129
+    },
+    "name": "Balatonbereny"
+  },
+  {
+    "country": "HU",
+    "id": 3055623,
+    "coord": {
+      "lat": 47.389011,
+      "lon": 17.803209
+    },
+    "name": "Bakonyszentlaszlo"
+  },
+  {
+    "country": "HU",
+    "id": 3055644,
+    "coord": {
+      "lat": 47.323952,
+      "lon": 18.07509
+    },
+    "name": "Bakonycsernye"
+  },
+  {
+    "country": "HU",
+    "id": 3055674,
+    "coord": {
+      "lat": 47.653999,
+      "lon": 18.5972
+    },
+    "name": "Bajna"
+  },
+  {
+    "country": "HU",
+    "id": 3055686,
+    "coord": {
+      "lat": 47.645931,
+      "lon": 18.3641
+    },
+    "name": "Baj"
+  },
+  {
+    "country": "HU",
+    "id": 3055721,
+    "coord": {
+      "lat": 47.633331,
+      "lon": 19.48333
+    },
+    "name": "Bag"
+  },
+  {
+    "country": "HU",
+    "id": 3055776,
+    "coord": {
+      "lat": 46.04155,
+      "lon": 17.343321
+    },
+    "name": "Babocsa"
+  },
+  {
+    "country": "HU",
+    "id": 3055827,
+    "coord": {
+      "lat": 47.827332,
+      "lon": 17.494181
+    },
+    "name": "Asvanyraro"
+  },
+  {
+    "country": "HU",
+    "id": 3055835,
+    "coord": {
+      "lat": 46.19875,
+      "lon": 19.78334
+    },
+    "name": "Asotthalom"
+  },
+  {
+    "country": "HU",
+    "id": 3055896,
+    "coord": {
+      "lat": 46.88208,
+      "lon": 18.962099
+    },
+    "name": "Apostag"
+  },
+  {
+    "country": "HU",
+    "id": 3055901,
+    "coord": {
+      "lat": 47.794189,
+      "lon": 19.69429
+    },
+    "name": "Apc"
+  },
+  {
+    "country": "HU",
+    "id": 3056108,
+    "coord": {
+      "lat": 47.315239,
+      "lon": 19.15843
+    },
+    "name": "Alsonemedi"
+  },
+  {
+    "country": "HU",
+    "id": 3056290,
+    "coord": {
+      "lat": 47.72752,
+      "lon": 18.26153
+    },
+    "name": "Almasfuzito"
+  },
+  {
+    "country": "HU",
+    "id": 3056326,
+    "coord": {
+      "lat": 47.243149,
+      "lon": 19.616859
+    },
+    "name": "Albertirsa"
+  },
+  {
+    "country": "HU",
+    "id": 3056331,
+    "coord": {
+      "lat": 46.799141,
+      "lon": 18.689381
+    },
+    "name": "Alap"
+  },
+  {
+    "country": "HU",
+    "id": 3056380,
+    "coord": {
+      "lat": 47.689911,
+      "lon": 16.516581
+    },
+    "name": "Agfalva"
+  },
+  {
+    "country": "HU",
+    "id": 3056414,
+    "coord": {
+      "lat": 47.1194,
+      "lon": 18.864929
+    },
+    "name": "Adony"
+  },
+  {
+    "country": "HU",
+    "id": 3056418,
+    "coord": {
+      "lat": 46.85931,
+      "lon": 18.164419
+    },
+    "name": "Adand"
+  },
+  {
+    "country": "HU",
+    "id": 3056424,
+    "coord": {
+      "lat": 47.692101,
+      "lon": 19.976959
+    },
+    "name": "Adacs"
+  },
+  {
+    "country": "HU",
+    "id": 3056436,
+    "coord": {
+      "lat": 47.79425,
+      "lon": 19.387951
+    },
+    "name": "Acsa"
+  },
+  {
+    "country": "HU",
+    "id": 3056437,
+    "coord": {
+      "lat": 47.712311,
+      "lon": 18.011311
+    },
+    "name": "Acs"
+  },
+  {
+    "country": "HU",
+    "id": 3056445,
+    "coord": {
+      "lat": 47.694641,
+      "lon": 17.54488
+    },
+    "name": "Abda"
+  },
+  {
+    "country": "HU",
+    "id": 3056450,
+    "coord": {
+      "lat": 47.029072,
+      "lon": 18.521721
+    },
+    "name": "Aba"
+  },
+  {
+    "country": "HU",
+    "id": 3338787,
+    "coord": {
+      "lat": 46.81279,
+      "lon": 19.998409
+    },
+    "name": "Tiszaalpar"
+  },
+  {
+    "country": "HU",
+    "id": 7284899,
+    "coord": {
+      "lat": 46.334721,
+      "lon": 20.20849
+    },
+    "name": "Algyo"
+  },
+  {
+    "country": "HU",
+    "id": 7284900,
+    "coord": {
+      "lat": 46.802589,
+      "lon": 20.202829
+    },
+    "name": "Szeleveny"
+  },
+  {
+    "country": "HU",
+    "id": 7284903,
+    "coord": {
+      "lat": 47.837421,
+      "lon": 19.004629
+    },
+    "name": "Kismaros"
+  },
+  {
+    "country": "HU",
+    "id": 7284908,
+    "coord": {
+      "lat": 47.78017,
+      "lon": 19.58519
+    },
+    "name": "Hehalom"
+  },
+  {
+    "country": "HU",
+    "id": 7284910,
+    "coord": {
+      "lat": 47.727779,
+      "lon": 17.427839
+    },
+    "name": "Mosonszentmiklos"
+  },
+  {
+    "country": "HU",
+    "id": 7284912,
+    "coord": {
+      "lat": 47.560081,
+      "lon": 19.28289
+    },
+    "name": "Kerepes"
+  },
+  {
+    "country": "HU",
+    "id": 3043700,
+    "coord": {
+      "lat": 47.27306,
+      "lon": 16.949181
+    },
+    "name": "Trombitásmalom"
+  }
+
+]

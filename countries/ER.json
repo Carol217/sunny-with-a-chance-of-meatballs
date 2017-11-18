@@ -1,0 +1,211 @@
+[
+
+  {
+    "country": "ER",
+    "id": 448500,
+    "coord": {
+      "lat": 15.25,
+      "lon": 37.5
+    },
+    "name": "Zoba Gash-Barka"
+  },
+  {
+    "country": "ER",
+    "id": 331743,
+    "coord": {
+      "lat": 15.11667,
+      "lon": 38.5
+    },
+    "name": "Mai Albo"
+  },
+  {
+    "country": "ER",
+    "id": 330867,
+    "coord": {
+      "lat": 15.3,
+      "lon": 37.5
+    },
+    "name": "Mescul"
+  },
+  {
+    "country": "ER",
+    "id": 344674,
+    "coord": {
+      "lat": 15.33333,
+      "lon": 39.216671
+    },
+    "name": "Agametta"
+  },
+  {
+    "country": "ER",
+    "id": 448501,
+    "coord": {
+      "lat": 15.33333,
+      "lon": 38.916672
+    },
+    "name": "Zoba Ma’ākel"
+  },
+  {
+    "country": "ER",
+    "id": 448497,
+    "coord": {
+      "lat": 16.5,
+      "lon": 37.5
+    },
+    "name": "Zoba Ānseba"
+  },
+  {
+    "country": "ER",
+    "id": 333287,
+    "coord": {
+      "lat": 15.77778,
+      "lon": 38.458061
+    },
+    "name": "Keren"
+  },
+  {
+    "country": "ER",
+    "id": 342711,
+    "coord": {
+      "lat": 15.11389,
+      "lon": 37.592781
+    },
+    "name": "Barentu"
+  },
+  {
+    "country": "ER",
+    "id": 448499,
+    "coord": {
+      "lat": 13.75,
+      "lon": 41.5
+    },
+    "name": "Zoba Debubawī K’eyih Bahrī"
+  },
+  {
+    "country": "ER",
+    "id": 331697,
+    "coord": {
+      "lat": 13,
+      "lon": 42.216671
+    },
+    "name": "Mai-ti"
+  },
+  {
+    "country": "ER",
+    "id": 344211,
+    "coord": {
+      "lat": 15.11667,
+      "lon": 36.48333
+    },
+    "name": "Aligider"
+  },
+  {
+    "country": "ER",
+    "id": 338010,
+    "coord": {
+      "lat": 15,
+      "lon": 39
+    },
+    "name": "State of Eritrea"
+  },
+  {
+    "country": "ER",
+    "id": 343300,
+    "coord": {
+      "lat": 15.33333,
+      "lon": 38.933331
+    },
+    "name": "Asmera"
+  },
+  {
+    "country": "ER",
+    "id": 448502,
+    "coord": {
+      "lat": 16,
+      "lon": 39
+    },
+    "name": "Zoba Semēnawī K’eyih Bahrī"
+  },
+  {
+    "country": "ER",
+    "id": 330546,
+    "coord": {
+      "lat": 15.60972,
+      "lon": 39.450001
+    },
+    "name": "Massawa"
+  },
+  {
+    "country": "ER",
+    "id": 448498,
+    "coord": {
+      "lat": 14.83333,
+      "lon": 38.833328
+    },
+    "name": "Zoba Debub"
+  },
+  {
+    "country": "ER",
+    "id": 344901,
+    "coord": {
+      "lat": 14.88722,
+      "lon": 38.815281
+    },
+    "name": "Mendefera"
+  },
+  {
+    "country": "ER",
+    "id": 343386,
+    "coord": {
+      "lat": 13.00917,
+      "lon": 42.739441
+    },
+    "name": "Assab"
+  },
+  {
+    "country": "ER",
+    "id": 327651,
+    "coord": {
+      "lat": 15.11,
+      "lon": 36.657501
+    },
+    "name": "Teseney"
+  },
+  {
+    "country": "ER",
+    "id": 338345,
+    "coord": {
+      "lat": 13.92972,
+      "lon": 41.692501
+    },
+    "name": "Edd"
+  },
+  {
+    "country": "ER",
+    "id": 339537,
+    "coord": {
+      "lat": 15.07,
+      "lon": 39.047501
+    },
+    "name": "Dekemhare"
+  },
+  {
+    "country": "ER",
+    "id": 344426,
+    "coord": {
+      "lat": 15.54861,
+      "lon": 37.886669
+    },
+    "name": "Akordat"
+  },
+  {
+    "country": "ER",
+    "id": 345046,
+    "coord": {
+      "lat": 14.84444,
+      "lon": 39.37722
+    },
+    "name": "Adi Keyh"
+  }
+
+]

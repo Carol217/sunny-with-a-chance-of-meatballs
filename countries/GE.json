@@ -1,0 +1,1345 @@
+[
+
+  {
+    "country": "GE",
+    "id": 614371,
+    "coord": {
+      "lat": 43.026943,
+      "lon": 40.973888
+    },
+    "name": "Gumist’a"
+  },
+  {
+    "country": "GE",
+    "id": 874560,
+    "coord": {
+      "lat": 43.183613,
+      "lon": 40.290558
+    },
+    "name": "Ptitsefabrika"
+  },
+  {
+    "country": "GE",
+    "id": 874652,
+    "coord": {
+      "lat": 43.351391,
+      "lon": 40.146111
+    },
+    "name": "Orekhovo"
+  },
+  {
+    "country": "GE",
+    "id": 612366,
+    "coord": {
+      "lat": 42.14616,
+      "lon": 41.67197
+    },
+    "name": "Poti"
+  },
+  {
+    "country": "GE",
+    "id": 615994,
+    "coord": {
+      "lat": 43.02639,
+      "lon": 41.073612
+    },
+    "name": "Abzhaqva"
+  },
+  {
+    "country": "GE",
+    "id": 823854,
+    "coord": {
+      "lat": 43.231945,
+      "lon": 40.321667
+    },
+    "name": "Ip’nari"
+  },
+  {
+    "country": "GE",
+    "id": 613220,
+    "coord": {
+      "lat": 43.390556,
+      "lon": 40.013058
+    },
+    "name": "Leselidze"
+  },
+  {
+    "country": "GE",
+    "id": 611694,
+    "coord": {
+      "lat": 41.919781,
+      "lon": 45.473148
+    },
+    "name": "Telavi"
+  },
+  {
+    "country": "GE",
+    "id": 614455,
+    "coord": {
+      "lat": 41.984219,
+      "lon": 44.11578
+    },
+    "name": "Gori"
+  },
+  {
+    "country": "GE",
+    "id": 874502,
+    "coord": {
+      "lat": 43.47028,
+      "lon": 40.534443
+    },
+    "name": "Ritsa"
+  },
+  {
+    "country": "GE",
+    "id": 612348,
+    "coord": {
+      "lat": 43.393055,
+      "lon": 40.81472
+    },
+    "name": "P’skhu"
+  },
+  {
+    "country": "GE",
+    "id": 612451,
+    "coord": {
+      "lat": 41.293892,
+      "lon": 46.340832
+    },
+    "name": "Patara-Shiraki"
+  },
+  {
+    "country": "GE",
+    "id": 611583,
+    "coord": {
+      "lat": 42.840351,
+      "lon": 41.680069
+    },
+    "name": "Tqvarcheli"
+  },
+  {
+    "country": "GE",
+    "id": 7667581,
+    "coord": {
+      "lat": 41.916672,
+      "lon": 45.48333
+    },
+    "name": "Telavi"
+  },
+  {
+    "country": "GE",
+    "id": 611716,
+    "coord": {
+      "lat": 41.716671,
+      "lon": 44.833328
+    },
+    "name": "K'alak'i T'bilisi"
+  },
+  {
+    "country": "GE",
+    "id": 612287,
+    "coord": {
+      "lat": 41.549492,
+      "lon": 44.993229
+    },
+    "name": "Rustavi"
+  },
+  {
+    "country": "GE",
+    "id": 612652,
+    "coord": {
+      "lat": 42.712318,
+      "lon": 41.468632
+    },
+    "name": "Ochamchire"
+  },
+  {
+    "country": "GE",
+    "id": 613762,
+    "coord": {
+      "lat": 41.82,
+      "lon": 41.77528
+    },
+    "name": "Kobuleti"
+  },
+  {
+    "country": "GE",
+    "id": 615860,
+    "coord": {
+      "lat": 41.639011,
+      "lon": 42.98262
+    },
+    "name": "Akhaltsikhe"
+  },
+  {
+    "country": "GE",
+    "id": 824288,
+    "coord": {
+      "lat": 42.34129,
+      "lon": 42.597599
+    },
+    "name": "Tsqaltubo"
+  },
+  {
+    "country": "GE",
+    "id": 6324644,
+    "coord": {
+      "lat": 41.69278,
+      "lon": 44.80154
+    },
+    "name": "Meria"
+  },
+  {
+    "country": "GE",
+    "id": 614540,
+    "coord": {
+      "lat": 42,
+      "lon": 43.5
+    },
+    "name": "Georgia"
+  },
+  {
+    "country": "GE",
+    "id": 6643410,
+    "coord": {
+      "lat": 42.790833,
+      "lon": 41.159939
+    },
+    "name": "Abkhazia"
+  },
+  {
+    "country": "GE",
+    "id": 865376,
+    "coord": {
+      "lat": 42.965557,
+      "lon": 41.073891
+    },
+    "name": "Tkhubun"
+  },
+  {
+    "country": "GE",
+    "id": 613270,
+    "coord": {
+      "lat": 43.008331,
+      "lon": 40.955002
+    },
+    "name": "Lech’k’op’i"
+  },
+  {
+    "country": "GE",
+    "id": 611128,
+    "coord": {
+      "lat": 43.004166,
+      "lon": 41.053333
+    },
+    "name": "Volodarskoye"
+  },
+  {
+    "country": "GE",
+    "id": 611847,
+    "coord": {
+      "lat": 43.003334,
+      "lon": 41.015278
+    },
+    "name": "Sokhumi"
+  },
+  {
+    "country": "GE",
+    "id": 823912,
+    "coord": {
+      "lat": 43.057777,
+      "lon": 40.973888
+    },
+    "name": "Adzigezhi"
+  },
+  {
+    "country": "GE",
+    "id": 615912,
+    "coord": {
+      "lat": 43.080555,
+      "lon": 40.838333
+    },
+    "name": "Stantsiya Novyy Afon"
+  },
+  {
+    "country": "GE",
+    "id": 823895,
+    "coord": {
+      "lat": 43.084167,
+      "lon": 40.791943
+    },
+    "name": "Nizhneye Armyanskoye Ushchel’ye"
+  },
+  {
+    "country": "GE",
+    "id": 874552,
+    "coord": {
+      "lat": 43.099445,
+      "lon": 40.801666
+    },
+    "name": "-"
+  },
+  {
+    "country": "GE",
+    "id": 823894,
+    "coord": {
+      "lat": 43.090279,
+      "lon": 40.75222
+    },
+    "name": "Adzghap’sha"
+  },
+  {
+    "country": "GE",
+    "id": 874469,
+    "coord": {
+      "lat": 43.100834,
+      "lon": 40.829166
+    },
+    "name": "Akui"
+  },
+  {
+    "country": "GE",
+    "id": 823893,
+    "coord": {
+      "lat": 43.09639,
+      "lon": 40.760277
+    },
+    "name": "Tsvkvara"
+  },
+  {
+    "country": "GE",
+    "id": 615564,
+    "coord": {
+      "lat": 43.100555,
+      "lon": 40.599998
+    },
+    "name": "Bombora"
+  },
+  {
+    "country": "GE",
+    "id": 613159,
+    "coord": {
+      "lat": 43.145557,
+      "lon": 40.614723
+    },
+    "name": "Likhni"
+  },
+  {
+    "country": "GE",
+    "id": 615460,
+    "coord": {
+      "lat": 43.159168,
+      "lon": 40.337776
+    },
+    "name": "Bichvinta"
+  },
+  {
+    "country": "GE",
+    "id": 613195,
+    "coord": {
+      "lat": 43.178055,
+      "lon": 40.3675
+    },
+    "name": "Lidzava"
+  },
+  {
+    "country": "GE",
+    "id": 615448,
+    "coord": {
+      "lat": 43.227501,
+      "lon": 40.4575
+    },
+    "name": "Blaburkhva"
+  },
+  {
+    "country": "GE",
+    "id": 615321,
+    "coord": {
+      "lat": 43.232224,
+      "lon": 40.376667
+    },
+    "name": "Bzip’i"
+  },
+  {
+    "country": "GE",
+    "id": 874575,
+    "coord": {
+      "lat": 43.241669,
+      "lon": 40.320278
+    },
+    "name": "Zemo Khevi"
+  },
+  {
+    "country": "GE",
+    "id": 823850,
+    "coord": {
+      "lat": 43.267776,
+      "lon": 40.394444
+    },
+    "name": "Bzyb’"
+  },
+  {
+    "country": "GE",
+    "id": 823851,
+    "coord": {
+      "lat": 43.252777,
+      "lon": 40.360001
+    },
+    "name": "Dzikhch’a"
+  },
+  {
+    "country": "GE",
+    "id": 824135,
+    "coord": {
+      "lat": 43.272499,
+      "lon": 40.273609
+    },
+    "name": "Otradnoe"
+  },
+  {
+    "country": "GE",
+    "id": 615782,
+    "coord": {
+      "lat": 43.283611,
+      "lon": 40.279999
+    },
+    "name": "Alpiiskoe"
+  },
+  {
+    "country": "GE",
+    "id": 799968,
+    "coord": {
+      "lat": 43.28611,
+      "lon": 40.398888
+    },
+    "name": "Bzyb’"
+  },
+  {
+    "country": "GE",
+    "id": 615910,
+    "coord": {
+      "lat": 43.287777,
+      "lon": 40.268612
+    },
+    "name": "Akhali-Gagra"
+  },
+  {
+    "country": "GE",
+    "id": 823853,
+    "coord": {
+      "lat": 43.272778,
+      "lon": 40.299168
+    },
+    "name": "Gagrap’sta"
+  },
+  {
+    "country": "GE",
+    "id": 874627,
+    "coord": {
+      "lat": 43.290558,
+      "lon": 40.276943
+    },
+    "name": "Gruzinskoye Ushchel’ye"
+  },
+  {
+    "country": "GE",
+    "id": 614622,
+    "coord": {
+      "lat": 43.328335,
+      "lon": 40.223888
+    },
+    "name": "Gagra"
+  },
+  {
+    "country": "GE",
+    "id": 612974,
+    "coord": {
+      "lat": 41.40992,
+      "lon": 44.578491
+    },
+    "name": "Migirlo"
+  },
+  {
+    "country": "GE",
+    "id": 614778,
+    "coord": {
+      "lat": 41.549179,
+      "lon": 44.35107
+    },
+    "name": "Jigrasheni"
+  },
+  {
+    "country": "GE",
+    "id": 615504,
+    "coord": {
+      "lat": 41.988071,
+      "lon": 43.504608
+    },
+    "name": "Beghleti"
+  },
+  {
+    "country": "GE",
+    "id": 865397,
+    "coord": {
+      "lat": 43.01693,
+      "lon": 41.029179
+    },
+    "name": "K’vemo Iasht’khva"
+  },
+  {
+    "country": "GE",
+    "id": 874453,
+    "coord": {
+      "lat": 43.098671,
+      "lon": 40.803452
+    },
+    "name": "Abaakhuda"
+  },
+  {
+    "country": "GE",
+    "id": 615219,
+    "coord": {
+      "lat": 43.227081,
+      "lon": 40.456959
+    },
+    "name": "Ch’erk’ezikhu"
+  },
+  {
+    "country": "GE",
+    "id": 615203,
+    "coord": {
+      "lat": 43.34367,
+      "lon": 40.193081
+    },
+    "name": "Chigripsh"
+  },
+  {
+    "country": "GE",
+    "id": 611403,
+    "coord": {
+      "lat": 42.227638,
+      "lon": 43.968609
+    },
+    "name": "Tskhinvali"
+  },
+  {
+    "country": "GE",
+    "id": 612269,
+    "coord": {
+      "lat": 41.716671,
+      "lon": 44.75
+    },
+    "name": "Saburtalo"
+  },
+  {
+    "country": "GE",
+    "id": 614951,
+    "coord": {
+      "lat": 41.966671,
+      "lon": 44.099998
+    },
+    "name": "Didi-Goridzhvari"
+  },
+  {
+    "country": "GE",
+    "id": 865543,
+    "coord": {
+      "lat": 42.70076,
+      "lon": 42.214958
+    },
+    "name": "Samegrelo-Zemo Svanetis Mkhare"
+  },
+  {
+    "country": "GE",
+    "id": 610823,
+    "coord": {
+      "lat": 42.46743,
+      "lon": 41.798302
+    },
+    "name": "Zugdidis Raioni"
+  },
+  {
+    "country": "GE",
+    "id": 610824,
+    "coord": {
+      "lat": 42.508801,
+      "lon": 41.87088
+    },
+    "name": "Zugdidi"
+  },
+  {
+    "country": "GE",
+    "id": 865540,
+    "coord": {
+      "lat": 42.32,
+      "lon": 44.139999
+    },
+    "name": "Shida Kartli"
+  },
+  {
+    "country": "GE",
+    "id": 613987,
+    "coord": {
+      "lat": 42,
+      "lon": 43.633331
+    },
+    "name": "Khashuris Raioni"
+  },
+  {
+    "country": "GE",
+    "id": 613988,
+    "coord": {
+      "lat": 41.994141,
+      "lon": 43.599941
+    },
+    "name": "Khashuri"
+  },
+  {
+    "country": "GE",
+    "id": 865536,
+    "coord": {
+      "lat": 41.51667,
+      "lon": 44.51667
+    },
+    "name": "Kvemo Kartli"
+  },
+  {
+    "country": "GE",
+    "id": 7667578,
+    "coord": {
+      "lat": 41.463612,
+      "lon": 44.810829
+    },
+    "name": "Marneuli"
+  },
+  {
+    "country": "GE",
+    "id": 613074,
+    "coord": {
+      "lat": 41.47588,
+      "lon": 44.808941
+    },
+    "name": "Marneuli"
+  },
+  {
+    "country": "GE",
+    "id": 615419,
+    "coord": {
+      "lat": 41.447941,
+      "lon": 44.53838
+    },
+    "name": "Bolnisi"
+  },
+  {
+    "country": "GE",
+    "id": 612126,
+    "coord": {
+      "lat": 42.153702,
+      "lon": 42.335171
+    },
+    "name": "Samtredia"
+  },
+  {
+    "country": "GE",
+    "id": 614104,
+    "coord": {
+      "lat": 41.925201,
+      "lon": 44.425678
+    },
+    "name": "Kaspi"
+  },
+  {
+    "country": "GE",
+    "id": 865541,
+    "coord": {
+      "lat": 42.283329,
+      "lon": 44.75
+    },
+    "name": "Mtskheta-Mtianeti"
+  },
+  {
+    "country": "GE",
+    "id": 615914,
+    "coord": {
+      "lat": 42.125969,
+      "lon": 44.48333
+    },
+    "name": "Akhalgori"
+  },
+  {
+    "country": "GE",
+    "id": 615583,
+    "coord": {
+      "lat": 41.749722,
+      "lon": 43.532501
+    },
+    "name": "Bakuriani"
+  },
+  {
+    "country": "GE",
+    "id": 7667714,
+    "coord": {
+      "lat": 41.583328,
+      "lon": 44.083328
+    },
+    "name": "Tsalka"
+  },
+  {
+    "country": "GE",
+    "id": 611548,
+    "coord": {
+      "lat": 41.594601,
+      "lon": 44.089088
+    },
+    "name": "Tsalka"
+  },
+  {
+    "country": "GE",
+    "id": 865537,
+    "coord": {
+      "lat": 41.75,
+      "lon": 45.716671
+    },
+    "name": "Kakheti"
+  },
+  {
+    "country": "GE",
+    "id": 612338,
+    "coord": {
+      "lat": 41.954922,
+      "lon": 45.817162
+    },
+    "name": "Qvareli"
+  },
+  {
+    "country": "GE",
+    "id": 7667580,
+    "coord": {
+      "lat": 41.75,
+      "lon": 45.799999
+    },
+    "name": "Gurjaani"
+  },
+  {
+    "country": "GE",
+    "id": 614351,
+    "coord": {
+      "lat": 41.74292,
+      "lon": 45.801109
+    },
+    "name": "Gurjaani"
+  },
+  {
+    "country": "GE",
+    "id": 613342,
+    "coord": {
+      "lat": 41.826809,
+      "lon": 46.276669
+    },
+    "name": "Lagodekhi"
+  },
+  {
+    "country": "GE",
+    "id": 612230,
+    "coord": {
+      "lat": 41.733971,
+      "lon": 45.331478
+    },
+    "name": "Sagarejo"
+  },
+  {
+    "country": "GE",
+    "id": 611373,
+    "coord": {
+      "lat": 41.62088,
+      "lon": 45.969429
+    },
+    "name": "Tsnori"
+  },
+  {
+    "country": "GE",
+    "id": 615929,
+    "coord": {
+      "lat": 41.666672,
+      "lon": 42
+    },
+    "name": "Ajaria"
+  },
+  {
+    "country": "GE",
+    "id": 615532,
+    "coord": {
+      "lat": 41.64159,
+      "lon": 41.635929
+    },
+    "name": "Batumi"
+  },
+  {
+    "country": "GE",
+    "id": 865539,
+    "coord": {
+      "lat": 42.166672,
+      "lon": 42.98333
+    },
+    "name": "Imereti"
+  },
+  {
+    "country": "GE",
+    "id": 610864,
+    "coord": {
+      "lat": 42.110001,
+      "lon": 43.052502
+    },
+    "name": "Zestaponi"
+  },
+  {
+    "country": "GE",
+    "id": 612053,
+    "coord": {
+      "lat": 42.27042,
+      "lon": 42.067501
+    },
+    "name": "Senaki"
+  },
+  {
+    "country": "GE",
+    "id": 613607,
+    "coord": {
+      "lat": 42.249611,
+      "lon": 42.699741
+    },
+    "name": "Kutaisi"
+  },
+  {
+    "country": "GE",
+    "id": 616022,
+    "coord": {
+      "lat": 42.209591,
+      "lon": 42.221111
+    },
+    "name": "Abasha"
+  },
+  {
+    "country": "GE",
+    "id": 614890,
+    "coord": {
+      "lat": 41.525139,
+      "lon": 44.347198
+    },
+    "name": "Dmanisi"
+  },
+  {
+    "country": "GE",
+    "id": 611612,
+    "coord": {
+      "lat": 41.599998,
+      "lon": 41.599998
+    },
+    "name": "Tofaloglebi"
+  },
+  {
+    "country": "GE",
+    "id": 611062,
+    "coord": {
+      "lat": 42.166672,
+      "lon": 42.5
+    },
+    "name": "Zeda-Bashi"
+  },
+  {
+    "country": "GE",
+    "id": 865851,
+    "coord": {
+      "lat": 41.68095,
+      "lon": 44.9799
+    },
+    "name": "Lilo"
+  },
+  {
+    "country": "GE",
+    "id": 611717,
+    "coord": {
+      "lat": 41.694111,
+      "lon": 44.833679
+    },
+    "name": "Tbilisi"
+  },
+  {
+    "country": "GE",
+    "id": 584502,
+    "coord": {
+      "lat": 41.7075,
+      "lon": 42.845718
+    },
+    "name": "Abastumani"
+  },
+  {
+    "country": "GE",
+    "id": 610849,
+    "coord": {
+      "lat": 42.131809,
+      "lon": 44.77264
+    },
+    "name": "Zhinvali"
+  },
+  {
+    "country": "GE",
+    "id": 611093,
+    "coord": {
+      "lat": 41.824581,
+      "lon": 44.753609
+    },
+    "name": "Zahesi"
+  },
+  {
+    "country": "GE",
+    "id": 611219,
+    "coord": {
+      "lat": 42.083199,
+      "lon": 42.521629
+    },
+    "name": "Vani"
+  },
+  {
+    "country": "GE",
+    "id": 611230,
+    "coord": {
+      "lat": 41.615582,
+      "lon": 42.872238
+    },
+    "name": "Vale"
+  },
+  {
+    "country": "GE",
+    "id": 611274,
+    "coord": {
+      "lat": 41.99556,
+      "lon": 41.77861
+    },
+    "name": "Ureki"
+  },
+  {
+    "country": "GE",
+    "id": 611398,
+    "coord": {
+      "lat": 41.694721,
+      "lon": 44.698608
+    },
+    "name": "Tsqneti"
+  },
+  {
+    "country": "GE",
+    "id": 611492,
+    "coord": {
+      "lat": 41.89315,
+      "lon": 45.571289
+    },
+    "name": "Tsinandali"
+  },
+  {
+    "country": "GE",
+    "id": 611551,
+    "coord": {
+      "lat": 42.604439,
+      "lon": 42.068249
+    },
+    "name": "Tsalenjikha"
+  },
+  {
+    "country": "GE",
+    "id": 611564,
+    "coord": {
+      "lat": 41.80365,
+      "lon": 43.481941
+    },
+    "name": "Tsaghveri"
+  },
+  {
+    "country": "GE",
+    "id": 611584,
+    "coord": {
+      "lat": 42.351212,
+      "lon": 42.998741
+    },
+    "name": "Tqibuli"
+  },
+  {
+    "country": "GE",
+    "id": 611669,
+    "coord": {
+      "lat": 42.10833,
+      "lon": 44.96389
+    },
+    "name": "Tianeti"
+  },
+  {
+    "country": "GE",
+    "id": 611674,
+    "coord": {
+      "lat": 41.544479,
+      "lon": 44.461529
+    },
+    "name": "Tetri Tsqaro"
+  },
+  {
+    "country": "GE",
+    "id": 611809,
+    "coord": {
+      "lat": 42.024311,
+      "lon": 43.555561
+    },
+    "name": "Surami"
+  },
+  {
+    "country": "GE",
+    "id": 611902,
+    "coord": {
+      "lat": 41.620461,
+      "lon": 45.921982
+    },
+    "name": "Sighnaghi"
+  },
+  {
+    "country": "GE",
+    "id": 611964,
+    "coord": {
+      "lat": 42.089802,
+      "lon": 43.08662
+    },
+    "name": "Shorapani"
+  },
+  {
+    "country": "GE",
+    "id": 612012,
+    "coord": {
+      "lat": 41.352718,
+      "lon": 44.76178
+    },
+    "name": "Naghvarevi"
+  },
+  {
+    "country": "GE",
+    "id": 612502,
+    "coord": {
+      "lat": 42.350601,
+      "lon": 44.689121
+    },
+    "name": "Pasanauri"
+  },
+  {
+    "country": "GE",
+    "id": 612592,
+    "coord": {
+      "lat": 42.579441,
+      "lon": 43.442501
+    },
+    "name": "Oni"
+  },
+  {
+    "country": "GE",
+    "id": 612648,
+    "coord": {
+      "lat": 41.859749,
+      "lon": 41.853088
+    },
+    "name": "Ochkhamuri"
+  },
+  {
+    "country": "GE",
+    "id": 612691,
+    "coord": {
+      "lat": 41.26458,
+      "lon": 43.591599
+    },
+    "name": "Ninotsminda"
+  },
+  {
+    "country": "GE",
+    "id": 612890,
+    "coord": {
+      "lat": 41.845139,
+      "lon": 44.71875
+    },
+    "name": "Mtskheta"
+  },
+  {
+    "country": "GE",
+    "id": 612987,
+    "coord": {
+      "lat": 43.045811,
+      "lon": 42.727798
+    },
+    "name": "Mestia"
+  },
+  {
+    "country": "GE",
+    "id": 613065,
+    "coord": {
+      "lat": 42.41436,
+      "lon": 42.379238
+    },
+    "name": "Martvili"
+  },
+  {
+    "country": "GE",
+    "id": 613093,
+    "coord": {
+      "lat": 41.69698,
+      "lon": 44.38448
+    },
+    "name": "Manglisi"
+  },
+  {
+    "country": "GE",
+    "id": 613125,
+    "coord": {
+      "lat": 41.673851,
+      "lon": 41.694012
+    },
+    "name": "Makhinjauri"
+  },
+  {
+    "country": "GE",
+    "id": 613226,
+    "coord": {
+      "lat": 42.785561,
+      "lon": 42.726109
+    },
+    "name": "Lentekhi"
+  },
+  {
+    "country": "GE",
+    "id": 613559,
+    "coord": {
+      "lat": 42.48103,
+      "lon": 42.096611
+    },
+    "name": "Kveda Chkhorotsqu"
+  },
+  {
+    "country": "GE",
+    "id": 613641,
+    "coord": {
+      "lat": 42.204441,
+      "lon": 42.349442
+    },
+    "name": "Kulashi"
+  },
+  {
+    "country": "GE",
+    "id": 613902,
+    "coord": {
+      "lat": 42.322601,
+      "lon": 42.420609
+    },
+    "name": "Khoni"
+  },
+  {
+    "country": "GE",
+    "id": 613918,
+    "coord": {
+      "lat": 42.315578,
+      "lon": 41.898708
+    },
+    "name": "Khobi"
+  },
+  {
+    "country": "GE",
+    "id": 614087,
+    "coord": {
+      "lat": 42.65667,
+      "lon": 44.64333
+    },
+    "name": "Stepantsminda"
+  },
+  {
+    "country": "GE",
+    "id": 614217,
+    "coord": {
+      "lat": 42.399719,
+      "lon": 43.936668
+    },
+    "name": "Java"
+  },
+  {
+    "country": "GE",
+    "id": 614409,
+    "coord": {
+      "lat": 43.105469,
+      "lon": 40.62067
+    },
+    "name": "Gudauta"
+  },
+  {
+    "country": "GE",
+    "id": 614575,
+    "coord": {
+      "lat": 41.460541,
+      "lon": 45.092831
+    },
+    "name": "Gardabani"
+  },
+  {
+    "country": "GE",
+    "id": 614580,
+    "coord": {
+      "lat": 43.381111,
+      "lon": 40.079441
+    },
+    "name": "Gantiadi"
+  },
+  {
+    "country": "GE",
+    "id": 614613,
+    "coord": {
+      "lat": 42.626549,
+      "lon": 41.738079
+    },
+    "name": "Gali"
+  },
+  {
+    "country": "GE",
+    "id": 614740,
+    "coord": {
+      "lat": 42.716919,
+      "lon": 42.051998
+    },
+    "name": "Jvari"
+  },
+  {
+    "country": "GE",
+    "id": 614897,
+    "coord": {
+      "lat": 41.62933,
+      "lon": 42.391708
+    },
+    "name": "Dioknisi"
+  },
+  {
+    "country": "GE",
+    "id": 614934,
+    "coord": {
+      "lat": 41.736111,
+      "lon": 44.964722
+    },
+    "name": "Didi Lilo"
+  },
+  {
+    "country": "GE",
+    "id": 615403,
+    "coord": {
+      "lat": 41.852718,
+      "lon": 43.412842
+    },
+    "name": "Borjomi"
+  },
+  {
+    "country": "GE",
+    "id": 615611,
+    "coord": {
+      "lat": 41.816669,
+      "lon": 46.033329
+    },
+    "name": "Bagdadi"
+  },
+  {
+    "country": "GE",
+    "id": 615660,
+    "coord": {
+      "lat": 41.573891,
+      "lon": 43.24826
+    },
+    "name": "Aspindza"
+  },
+  {
+    "country": "GE",
+    "id": 615776,
+    "coord": {
+      "lat": 42.521111,
+      "lon": 43.16222
+    },
+    "name": "Ambrolauri"
+  },
+  {
+    "country": "GE",
+    "id": 615844,
+    "coord": {
+      "lat": 42.031109,
+      "lon": 45.2075
+    },
+    "name": "Akhmeta"
+  },
+  {
+    "country": "GE",
+    "id": 615893,
+    "coord": {
+      "lat": 41.40514,
+      "lon": 43.48629
+    },
+    "name": "Akhalkalaki"
+  },
+  {
+    "country": "GE",
+    "id": 615921,
+    "coord": {
+      "lat": 41.65395,
+      "lon": 42.15163
+    },
+    "name": "Akhaldaba"
+  },
+  {
+    "country": "GE",
+    "id": 615943,
+    "coord": {
+      "lat": 42.037609,
+      "lon": 43.823818
+    },
+    "name": "Agara"
+  },
+  {
+    "country": "GE",
+    "id": 615973,
+    "coord": {
+      "lat": 41.6819,
+      "lon": 42.698669
+    },
+    "name": "Adigeni"
+  },
+  {
+    "country": "GE",
+    "id": 824385,
+    "coord": {
+      "lat": 41.90694,
+      "lon": 41.95417
+    },
+    "name": "Naruja"
+  },
+  {
+    "country": "GE",
+    "id": 824613,
+    "coord": {
+      "lat": 41.733711,
+      "lon": 43.47242
+    },
+    "name": "Bakurianis Andeziti"
+  },
+  {
+    "country": "GE",
+    "id": 6940391,
+    "coord": {
+      "lat": 42.23,
+      "lon": 43.970001
+    },
+    "name": "Tskhinvali"
+  },
+  {
+    "country": "GE",
+    "id": 7667751,
+    "coord": {
+      "lat": 42.02137,
+      "lon": 43.197731
+    },
+    "name": "Kharagauli"
+  }
+
+]

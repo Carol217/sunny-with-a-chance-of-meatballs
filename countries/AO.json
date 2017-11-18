@@ -1,0 +1,625 @@
+[
+
+  {
+    "country": "AO",
+    "id": 2239076,
+    "coord": {
+      "lat": -9.29782,
+      "lon": 14.91162
+    },
+    "name": "Ndalatando"
+  },
+  {
+    "country": "AO",
+    "id": 876123,
+    "coord": {
+      "lat": -11.55,
+      "lon": 20.783331
+    },
+    "name": "Lumeje"
+  },
+  {
+    "country": "AO",
+    "id": 876233,
+    "coord": {
+      "lat": -11.65,
+      "lon": 20.450001
+    },
+    "name": "Leua"
+  },
+  {
+    "country": "AO",
+    "id": 876485,
+    "coord": {
+      "lat": -11.06715,
+      "lon": 20.701481
+    },
+    "name": "Cazaji"
+  },
+  {
+    "country": "AO",
+    "id": 2241660,
+    "coord": {
+      "lat": -8.91136,
+      "lon": 14.8887
+    },
+    "name": "Cuanza Norte Province"
+  },
+  {
+    "country": "AO",
+    "id": 2242885,
+    "coord": {
+      "lat": -8.18812,
+      "lon": 15.37495
+    },
+    "name": "Camabatela"
+  },
+  {
+    "country": "AO",
+    "id": 3345497,
+    "coord": {
+      "lat": -11.36343,
+      "lon": 15.12078
+    },
+    "name": "Uacu Cungo"
+  },
+  {
+    "country": "AO",
+    "id": 3346598,
+    "coord": {
+      "lat": -10.73366,
+      "lon": 14.97995
+    },
+    "name": "Quibala"
+  },
+  {
+    "country": "AO",
+    "id": 3349096,
+    "coord": {
+      "lat": -16.51009,
+      "lon": 15.43526
+    },
+    "name": "Cunene Province"
+  },
+  {
+    "country": "AO",
+    "id": 3346821,
+    "coord": {
+      "lat": -17.066669,
+      "lon": 15.73333
+    },
+    "name": "Ondjiva"
+  },
+  {
+    "country": "AO",
+    "id": 3349580,
+    "coord": {
+      "lat": -12.16667,
+      "lon": 17.33333
+    },
+    "name": "Chissamba"
+  },
+  {
+    "country": "AO",
+    "id": 3351380,
+    "coord": {
+      "lat": -13.73333,
+      "lon": 15.06667
+    },
+    "name": "Caconda"
+  },
+  {
+    "country": "AO",
+    "id": 876337,
+    "coord": {
+      "lat": -15.94761,
+      "lon": 19.3832
+    },
+    "name": "Província do Cuando Cubango"
+  },
+  {
+    "country": "AO",
+    "id": 3347494,
+    "coord": {
+      "lat": -17.48333,
+      "lon": 19.35
+    },
+    "name": "Manati"
+  },
+  {
+    "country": "AO",
+    "id": 145702,
+    "coord": {
+      "lat": -8.63543,
+      "lon": 19.64852
+    },
+    "name": "Lunda Norte Province"
+  },
+  {
+    "country": "AO",
+    "id": 3351879,
+    "coord": {
+      "lat": -12.5,
+      "lon": 18.5
+    },
+    "name": "Republic of Angola"
+  },
+  {
+    "country": "AO",
+    "id": 145701,
+    "coord": {
+      "lat": -10.25918,
+      "lon": 20.624889
+    },
+    "name": "Província da Lunda Sul"
+  },
+  {
+    "country": "AO",
+    "id": 876212,
+    "coord": {
+      "lat": -10.4,
+      "lon": 22.16667
+    },
+    "name": "Locoquicha"
+  },
+  {
+    "country": "AO",
+    "id": 2243266,
+    "coord": {
+      "lat": -4.93423,
+      "lon": 12.40532
+    },
+    "name": "Província de Cabinda"
+  },
+  {
+    "country": "AO",
+    "id": 2240354,
+    "coord": {
+      "lat": -5.53333,
+      "lon": 12.25
+    },
+    "name": "Lucola"
+  },
+  {
+    "country": "AO",
+    "id": 7909030,
+    "coord": {
+      "lat": -14.6726,
+      "lon": 17.70953
+    },
+    "name": "Bairro Novo"
+  },
+  {
+    "country": "AO",
+    "id": 2240444,
+    "coord": {
+      "lat": -8.91666,
+      "lon": 13.33924
+    },
+    "name": "Luanda Province"
+  },
+  {
+    "country": "AO",
+    "id": 2240449,
+    "coord": {
+      "lat": -8.83682,
+      "lon": 13.23432
+    },
+    "name": "Luanda"
+  },
+  {
+    "country": "AO",
+    "id": 3348303,
+    "coord": {
+      "lat": -14.69531,
+      "lon": 15.00014
+    },
+    "name": "Huila Province"
+  },
+  {
+    "country": "AO",
+    "id": 3347762,
+    "coord": {
+      "lat": -14.91717,
+      "lon": 13.4925
+    },
+    "name": "Lubango"
+  },
+  {
+    "country": "AO",
+    "id": 3372346,
+    "coord": {
+      "lat": -12.31972,
+      "lon": 13.59972
+    },
+    "name": "Lobito"
+  },
+  {
+    "country": "AO",
+    "id": 2243271,
+    "coord": {
+      "lat": -5.55,
+      "lon": 12.2
+    },
+    "name": "Cabinda"
+  },
+  {
+    "country": "AO",
+    "id": 3349234,
+    "coord": {
+      "lat": -10.82696,
+      "lon": 15.03197
+    },
+    "name": "Província do Kwanza Sul"
+  },
+  {
+    "country": "AO",
+    "id": 2239861,
+    "coord": {
+      "lat": -9.96361,
+      "lon": 14.92634
+    },
+    "name": "Malanje"
+  },
+  {
+    "country": "AO",
+    "id": 3348310,
+    "coord": {
+      "lat": -12.5,
+      "lon": 15.66667
+    },
+    "name": "Província do Huambo"
+  },
+  {
+    "country": "AO",
+    "id": 3348313,
+    "coord": {
+      "lat": -12.77611,
+      "lon": 15.73917
+    },
+    "name": "Huambo"
+  },
+  {
+    "country": "AO",
+    "id": 3351660,
+    "coord": {
+      "lat": -12.854,
+      "lon": 13.92825
+    },
+    "name": "Província de Benguela"
+  },
+  {
+    "country": "AO",
+    "id": 3351663,
+    "coord": {
+      "lat": -12.57626,
+      "lon": 13.40547
+    },
+    "name": "Benguela"
+  },
+  {
+    "country": "AO",
+    "id": 145531,
+    "coord": {
+      "lat": -9.66078,
+      "lon": 20.39155
+    },
+    "name": "Saurimo"
+  },
+  {
+    "country": "AO",
+    "id": 7866653,
+    "coord": {
+      "lat": -10.84475,
+      "lon": 14.36468
+    },
+    "name": "Quilamba"
+  },
+  {
+    "country": "AO",
+    "id": 3347016,
+    "coord": {
+      "lat": -15.33207,
+      "lon": 12.66002
+    },
+    "name": "Namibe Province"
+  },
+  {
+    "country": "AO",
+    "id": 3347019,
+    "coord": {
+      "lat": -15.19611,
+      "lon": 12.15222
+    },
+    "name": "Namibe"
+  },
+  {
+    "country": "AO",
+    "id": 7860622,
+    "coord": {
+      "lat": -11.4149,
+      "lon": 15.11013
+    },
+    "name": "Aldeia Campo"
+  },
+  {
+    "country": "AO",
+    "id": 7789926,
+    "coord": {
+      "lat": -9.70944,
+      "lon": 20.45376
+    },
+    "name": "Tchahungo"
+  },
+  {
+    "country": "AO",
+    "id": 3346661,
+    "coord": {
+      "lat": -10.73142,
+      "lon": 13.75985
+    },
+    "name": "Porto Amboim"
+  },
+  {
+    "country": "AO",
+    "id": 2239858,
+    "coord": {
+      "lat": -9.67548,
+      "lon": 16.825529
+    },
+    "name": "Malanje Province"
+  },
+  {
+    "country": "AO",
+    "id": 2592240,
+    "coord": {
+      "lat": -9.53889,
+      "lon": 16.31361
+    },
+    "name": "Vasco"
+  },
+  {
+    "country": "AO",
+    "id": 3351640,
+    "coord": {
+      "lat": -12.34989,
+      "lon": 17.303101
+    },
+    "name": "Província do Bié"
+  },
+  {
+    "country": "AO",
+    "id": 3348078,
+    "coord": {
+      "lat": -12.38333,
+      "lon": 16.933331
+    },
+    "name": "Kuito"
+  },
+  {
+    "country": "AO",
+    "id": 2238852,
+    "coord": {
+      "lat": -5.6,
+      "lon": 12.2
+    },
+    "name": "Povo Grande"
+  },
+  {
+    "country": "AO",
+    "id": 3371903,
+    "coord": {
+      "lat": -12.5975,
+      "lon": 13.41306
+    },
+    "name": "Docota"
+  },
+  {
+    "country": "AO",
+    "id": 3348966,
+    "coord": {
+      "lat": -13.78333,
+      "lon": 16.716669
+    },
+    "name": "Dala"
+  },
+  {
+    "country": "AO",
+    "id": 145724,
+    "coord": {
+      "lat": -8.41915,
+      "lon": 20.744659
+    },
+    "name": "Lucapa"
+  },
+  {
+    "country": "AO",
+    "id": 875996,
+    "coord": {
+      "lat": -12.84869,
+      "lon": 20.932659
+    },
+    "name": "Província do Moxico"
+  },
+  {
+    "country": "AO",
+    "id": 876177,
+    "coord": {
+      "lat": -10.70727,
+      "lon": 22.224661
+    },
+    "name": "Luau"
+  },
+  {
+    "country": "AO",
+    "id": 2236566,
+    "coord": {
+      "lat": -7.10719,
+      "lon": 15.44056
+    },
+    "name": "Província do Uíge"
+  },
+  {
+    "country": "AO",
+    "id": 2236568,
+    "coord": {
+      "lat": -7.60874,
+      "lon": 15.06131
+    },
+    "name": "Uige"
+  },
+  {
+    "country": "AO",
+    "id": 2236355,
+    "coord": {
+      "lat": -6.58717,
+      "lon": 13.51966
+    },
+    "name": "Província do Zaire"
+  },
+  {
+    "country": "AO",
+    "id": 2236967,
+    "coord": {
+      "lat": -6.1349,
+      "lon": 12.36894
+    },
+    "name": "Soio"
+  },
+  {
+    "country": "AO",
+    "id": 2239001,
+    "coord": {
+      "lat": -7.23116,
+      "lon": 12.8666
+    },
+    "name": "Nzeto"
+  },
+  {
+    "country": "AO",
+    "id": 2239520,
+    "coord": {
+      "lat": -6.26703,
+      "lon": 14.2401
+    },
+    "name": "Mbanza Congo"
+  },
+  {
+    "country": "AO",
+    "id": 2239862,
+    "coord": {
+      "lat": -9.54015,
+      "lon": 16.34096
+    },
+    "name": "Malanje"
+  },
+  {
+    "country": "AO",
+    "id": 2243598,
+    "coord": {
+      "lat": -8.97504,
+      "lon": 13.82743
+    },
+    "name": "Bengo Province"
+  },
+  {
+    "country": "AO",
+    "id": 2242001,
+    "coord": {
+      "lat": -8.57848,
+      "lon": 13.66425
+    },
+    "name": "Caxito"
+  },
+  {
+    "country": "AO",
+    "id": 3346015,
+    "coord": {
+      "lat": -11.20605,
+      "lon": 13.84371
+    },
+    "name": "Sumbe"
+  },
+  {
+    "country": "AO",
+    "id": 3347353,
+    "coord": {
+      "lat": -14.6585,
+      "lon": 17.69099
+    },
+    "name": "Menongue"
+  },
+  {
+    "country": "AO",
+    "id": 3347719,
+    "coord": {
+      "lat": -11.78333,
+      "lon": 19.91667
+    },
+    "name": "Luena"
+  },
+  {
+    "country": "AO",
+    "id": 3347853,
+    "coord": {
+      "lat": -12.90667,
+      "lon": 15.25333
+    },
+    "name": "Longonjo"
+  },
+  {
+    "country": "AO",
+    "id": 3347939,
+    "coord": {
+      "lat": -12.34806,
+      "lon": 13.54556
+    },
+    "name": "Lobito"
+  },
+  {
+    "country": "AO",
+    "id": 3350246,
+    "coord": {
+      "lat": -12.43139,
+      "lon": 13.54722
+    },
+    "name": "Catumbela"
+  },
+  {
+    "country": "AO",
+    "id": 3350372,
+    "coord": {
+      "lat": -12.15,
+      "lon": 17.283331
+    },
+    "name": "Catabola"
+  },
+  {
+    "country": "AO",
+    "id": 3351014,
+    "coord": {
+      "lat": -12.01667,
+      "lon": 17.48333
+    },
+    "name": "Camacupa"
+  },
+  {
+    "country": "AO",
+    "id": 3351024,
+    "coord": {
+      "lat": -13.78333,
+      "lon": 14.68333
+    },
+    "name": "Caluquembe"
+  },
+  {
+    "country": "AO",
+    "id": 3351500,
+    "coord": {
+      "lat": -12.8525,
+      "lon": 15.56056
+    },
+    "name": "Caala"
+  }
+
+]

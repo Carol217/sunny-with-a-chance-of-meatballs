@@ -1,0 +1,31 @@
+[
+
+  {
+    "country": "CX",
+    "id": 2078132,
+    "coord": {
+      "lat": -10.43333,
+      "lon": 105.683327
+    },
+    "name": "Drumsite"
+  },
+  {
+    "country": "CX",
+    "id": 2078138,
+    "coord": {
+      "lat": -10.5,
+      "lon": 105.666672
+    },
+    "name": "Territory of Christmas Island"
+  },
+  {
+    "country": "CX",
+    "id": 2078127,
+    "coord": {
+      "lat": -10.42172,
+      "lon": 105.679123
+    },
+    "name": "Flying Fish Cove"
+  }
+
+]

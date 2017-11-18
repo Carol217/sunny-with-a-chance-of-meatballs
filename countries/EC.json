@@ -1,0 +1,1723 @@
+[
+
+  {
+    "country": "EC",
+    "id": 3658394,
+    "coord": {
+      "lat": -2,
+      "lon": -77.5
+    },
+    "name": "Republic of Ecuador"
+  },
+  {
+    "country": "EC",
+    "id": 3654665,
+    "coord": {
+      "lat": -4.16667,
+      "lon": -79.5
+    },
+    "name": "Provincia de Loja"
+  },
+  {
+    "country": "EC",
+    "id": 3650095,
+    "coord": {
+      "lat": -3.98333,
+      "lon": -79.216667
+    },
+    "name": "Yanacocha"
+  },
+  {
+    "country": "EC",
+    "id": 3657505,
+    "coord": {
+      "lat": -2,
+      "lon": -79.833328
+    },
+    "name": "Provincia del Guayas"
+  },
+  {
+    "country": "EC",
+    "id": 3656537,
+    "coord": {
+      "lat": -2.16667,
+      "lon": -79.400002
+    },
+    "name": "Hacienda Norton"
+  },
+  {
+    "country": "EC",
+    "id": 3653224,
+    "coord": {
+      "lat": -0.08333,
+      "lon": -78.5
+    },
+    "name": "Provincia de Pichincha"
+  },
+  {
+    "country": "EC",
+    "id": 3658476,
+    "coord": {
+      "lat": -0.61667,
+      "lon": -78.366669
+    },
+    "name": "Del Salitre"
+  },
+  {
+    "country": "EC",
+    "id": 3654451,
+    "coord": {
+      "lat": -0.66667,
+      "lon": -80.083328
+    },
+    "name": "Provincia de Manabí"
+  },
+  {
+    "country": "EC",
+    "id": 3658194,
+    "coord": {
+      "lat": -0.4,
+      "lon": -80.083328
+    },
+    "name": "Eloy Alfaro"
+  },
+  {
+    "country": "EC",
+    "id": 3654410,
+    "coord": {
+      "lat": -0.95,
+      "lon": -80.73333
+    },
+    "name": "Manta"
+  },
+  {
+    "country": "EC",
+    "id": 3650267,
+    "coord": {
+      "lat": -1.45,
+      "lon": -79.466667
+    },
+    "name": "Ventanas"
+  },
+  {
+    "country": "EC",
+    "id": 3650273,
+    "coord": {
+      "lat": -1.05,
+      "lon": -79.616669
+    },
+    "name": "Velasco Ibarra"
+  },
+  {
+    "country": "EC",
+    "id": 3650960,
+    "coord": {
+      "lat": -1.26667,
+      "lon": -80.433327
+    },
+    "name": "Sucre"
+  },
+  {
+    "country": "EC",
+    "id": 3651694,
+    "coord": {
+      "lat": 1.28833,
+      "lon": -78.836937
+    },
+    "name": "San Lorenzo de Esmeraldas"
+  },
+  {
+    "country": "EC",
+    "id": 3651868,
+    "coord": {
+      "lat": 0.6,
+      "lon": -77.816673
+    },
+    "name": "San Gabriel"
+  },
+  {
+    "country": "EC",
+    "id": 3652065,
+    "coord": {
+      "lat": -1.95,
+      "lon": -79.73333
+    },
+    "name": "Samborondon"
+  },
+  {
+    "country": "EC",
+    "id": 3652100,
+    "coord": {
+      "lat": -2.21667,
+      "lon": -80.966667
+    },
+    "name": "Salinas"
+  },
+  {
+    "country": "EC",
+    "id": 3652257,
+    "coord": {
+      "lat": 0.33333,
+      "lon": -79.466667
+    },
+    "name": "Rosa Zarate"
+  },
+  {
+    "country": "EC",
+    "id": 3652584,
+    "coord": {
+      "lat": -1.46667,
+      "lon": -77.98333
+    },
+    "name": "Puyo"
+  },
+  {
+    "country": "EC",
+    "id": 3652881,
+    "coord": {
+      "lat": 0.93333,
+      "lon": -79.683327
+    },
+    "name": "Propicia"
+  },
+  {
+    "country": "EC",
+    "id": 3653130,
+    "coord": {
+      "lat": -3.66667,
+      "lon": -79.650002
+    },
+    "name": "Pinas"
+  },
+  {
+    "country": "EC",
+    "id": 3653287,
+    "coord": {
+      "lat": -1.31667,
+      "lon": -78.533333
+    },
+    "name": "Pelileo"
+  },
+  {
+    "country": "EC",
+    "id": 3653295,
+    "coord": {
+      "lat": -1.83333,
+      "lon": -80.23333
+    },
+    "name": "Pedro Carbo"
+  },
+  {
+    "country": "EC",
+    "id": 3653403,
+    "coord": {
+      "lat": -3.33333,
+      "lon": -79.816673
+    },
+    "name": "Pasaje"
+  },
+  {
+    "country": "EC",
+    "id": 3653873,
+    "coord": {
+      "lat": -2.21667,
+      "lon": -79.48333
+    },
+    "name": "Naranjito"
+  },
+  {
+    "country": "EC",
+    "id": 3654536,
+    "coord": {
+      "lat": -0.5,
+      "lon": -78.566673
+    },
+    "name": "Machachi"
+  },
+  {
+    "country": "EC",
+    "id": 3654853,
+    "coord": {
+      "lat": -2.4,
+      "lon": -79.333328
+    },
+    "name": "La Troncal"
+  },
+  {
+    "country": "EC",
+    "id": 3655117,
+    "coord": {
+      "lat": -0.93333,
+      "lon": -79.216667
+    },
+    "name": "La Mana"
+  },
+  {
+    "country": "EC",
+    "id": 3655185,
+    "coord": {
+      "lat": 0.08472,
+      "lon": -76.882782
+    },
+    "name": "Nueva Loja"
+  },
+  {
+    "country": "EC",
+    "id": 3655446,
+    "coord": {
+      "lat": -1.33333,
+      "lon": -80.583328
+    },
+    "name": "Jipijapa"
+  },
+  {
+    "country": "EC",
+    "id": 3655720,
+    "coord": {
+      "lat": -3.48333,
+      "lon": -80.23333
+    },
+    "name": "Huaquillas"
+  },
+  {
+    "country": "EC",
+    "id": 3657670,
+    "coord": {
+      "lat": -2.9,
+      "lon": -78.783333
+    },
+    "name": "Gualaceo"
+  },
+  {
+    "country": "EC",
+    "id": 3658053,
+    "coord": {
+      "lat": -1.93333,
+      "lon": -79.966667
+    },
+    "name": "El Triunfo"
+  },
+  {
+    "country": "EC",
+    "id": 3658192,
+    "coord": {
+      "lat": -2.2,
+      "lon": -79.833328
+    },
+    "name": "Duran"
+  },
+  {
+    "country": "EC",
+    "id": 3659578,
+    "coord": {
+      "lat": 0.05,
+      "lon": -78.133331
+    },
+    "name": "Cayambe"
+  },
+  {
+    "country": "EC",
+    "id": 3659711,
+    "coord": {
+      "lat": -4.33333,
+      "lon": -79.550003
+    },
+    "name": "Cariamanga"
+  },
+  {
+    "country": "EC",
+    "id": 3660152,
+    "coord": {
+      "lat": -0.71667,
+      "lon": -77.133331
+    },
+    "name": "Boca Suno"
+  },
+  {
+    "country": "EC",
+    "id": 3660361,
+    "coord": {
+      "lat": -1.36667,
+      "lon": -79.900002
+    },
+    "name": "Balzar"
+  },
+  {
+    "country": "EC",
+    "id": 3660401,
+    "coord": {
+      "lat": -0.6,
+      "lon": -80.416672
+    },
+    "name": "Bahia de Caraquez"
+  },
+  {
+    "country": "EC",
+    "id": 3660434,
+    "coord": {
+      "lat": -2.73333,
+      "lon": -78.833328
+    },
+    "name": "Azogues"
+  },
+  {
+    "country": "EC",
+    "id": 3660478,
+    "coord": {
+      "lat": 0.33333,
+      "lon": -78.216667
+    },
+    "name": "Atuntaqui"
+  },
+  {
+    "country": "EC",
+    "id": 3656594,
+    "coord": {
+      "lat": -2.06667,
+      "lon": -79.533333
+    },
+    "name": "Hacienda Milagro"
+  },
+  {
+    "country": "EC",
+    "id": 3650445,
+    "coord": {
+      "lat": -1.25,
+      "lon": -78.5
+    },
+    "name": "Provincia del Tungurahua"
+  },
+  {
+    "country": "EC",
+    "id": 3655400,
+    "coord": {
+      "lat": -1.38333,
+      "lon": -78.400002
+    },
+    "name": "Juivi"
+  },
+  {
+    "country": "EC",
+    "id": 3653392,
+    "coord": {
+      "lat": -1.91667,
+      "lon": -77
+    },
+    "name": "Provincia del Pastaza"
+  },
+  {
+    "country": "EC",
+    "id": 3650709,
+    "coord": {
+      "lat": -1.4,
+      "lon": -77.949997
+    },
+    "name": "Teniente Hugo Ortiz"
+  },
+  {
+    "country": "EC",
+    "id": 3651843,
+    "coord": {
+      "lat": -0.36667,
+      "lon": -80.183327
+    },
+    "name": "San Isidro"
+  },
+  {
+    "country": "EC",
+    "id": 3830305,
+    "coord": {
+      "lat": 0.1,
+      "lon": -76.866669
+    },
+    "name": "Provincia de Sucumbíos"
+  },
+  {
+    "country": "EC",
+    "id": 3651588,
+    "coord": {
+      "lat": -0.25,
+      "lon": -76.433327
+    },
+    "name": "San Pablo de Kantesiya"
+  },
+  {
+    "country": "EC",
+    "id": 3650574,
+    "coord": {
+      "lat": -0.05,
+      "lon": -78.150002
+    },
+    "name": "Toni Loma"
+  },
+  {
+    "country": "EC",
+    "id": 3763372,
+    "coord": {
+      "lat": 0.05694,
+      "lon": -76.557503
+    },
+    "name": "San Jacinto"
+  },
+  {
+    "country": "EC",
+    "id": 3655635,
+    "coord": {
+      "lat": 0.36667,
+      "lon": -78.416672
+    },
+    "name": "Provincia de Imbabura"
+  },
+  {
+    "country": "EC",
+    "id": 3655828,
+    "coord": {
+      "lat": 0.2,
+      "lon": -78.083328
+    },
+    "name": "Hacienda Zuleta"
+  },
+  {
+    "country": "EC",
+    "id": 3657986,
+    "coord": {
+      "lat": 0.83333,
+      "lon": -79.25
+    },
+    "name": "Provincia de Esmeraldas"
+  },
+  {
+    "country": "EC",
+    "id": 3652168,
+    "coord": {
+      "lat": 0.51667,
+      "lon": -79.366669
+    },
+    "name": "Sade"
+  },
+  {
+    "country": "EC",
+    "id": 3659718,
+    "coord": {
+      "lat": 0.75,
+      "lon": -78.083328
+    },
+    "name": "Provincia del Carchi"
+  },
+  {
+    "country": "EC",
+    "id": 3653210,
+    "coord": {
+      "lat": 1.15,
+      "lon": -78.5
+    },
+    "name": "Piedra del Medio"
+  },
+  {
+    "country": "EC",
+    "id": 3650121,
+    "coord": {
+      "lat": -2.11667,
+      "lon": -79.683327
+    },
+    "name": "Yaguachi"
+  },
+  {
+    "country": "EC",
+    "id": 3651431,
+    "coord": {
+      "lat": -0.35,
+      "lon": -78.5
+    },
+    "name": "Santa Fe"
+  },
+  {
+    "country": "EC",
+    "id": 3657879,
+    "coord": {
+      "lat": -0.67015,
+      "lon": -90.873413
+    },
+    "name": "Provincia de Galápagos"
+  },
+  {
+    "country": "EC",
+    "id": 3652764,
+    "coord": {
+      "lat": -0.73931,
+      "lon": -90.351761
+    },
+    "name": "Puerto Ayora"
+  },
+  {
+    "country": "EC",
+    "id": 3652462,
+    "coord": {
+      "lat": -0.22985,
+      "lon": -78.524948
+    },
+    "name": "Quito"
+  },
+  {
+    "country": "EC",
+    "id": 7116565,
+    "coord": {
+      "lat": -0.20522,
+      "lon": -78.495468
+    },
+    "name": "Mariscal Sucre"
+  },
+  {
+    "country": "EC",
+    "id": 3657509,
+    "coord": {
+      "lat": -2.16667,
+      "lon": -79.900002
+    },
+    "name": "Guayaquil"
+  },
+  {
+    "country": "EC",
+    "id": 3660689,
+    "coord": {
+      "lat": -1.24908,
+      "lon": -78.616753
+    },
+    "name": "Ambato"
+  },
+  {
+    "country": "EC",
+    "id": 3656049,
+    "coord": {
+      "lat": -0.36667,
+      "lon": -78.449997
+    },
+    "name": "Hacienda Santa Rosa"
+  },
+  {
+    "country": "EC",
+    "id": 3651297,
+    "coord": {
+      "lat": -0.25,
+      "lon": -79.150002
+    },
+    "name": "Santo Domingo de los Colorados"
+  },
+  {
+    "country": "EC",
+    "id": 3660431,
+    "coord": {
+      "lat": -3.08333,
+      "lon": -79.333328
+    },
+    "name": "Provincia del Azuay"
+  },
+  {
+    "country": "EC",
+    "id": 3654157,
+    "coord": {
+      "lat": -2.88333,
+      "lon": -78.98333
+    },
+    "name": "Miraflores"
+  },
+  {
+    "country": "EC",
+    "id": 3652941,
+    "coord": {
+      "lat": -1.05,
+      "lon": -80.449997
+    },
+    "name": "Portoviejo"
+  },
+  {
+    "country": "EC",
+    "id": 3654667,
+    "coord": {
+      "lat": -3.99313,
+      "lon": -79.204224
+    },
+    "name": "Loja"
+  },
+  {
+    "country": "EC",
+    "id": 3650767,
+    "coord": {
+      "lat": -0.95,
+      "lon": -80.73333
+    },
+    "name": "Tarqui"
+  },
+  {
+    "country": "EC",
+    "id": 3660130,
+    "coord": {
+      "lat": -1.58333,
+      "lon": -79.083328
+    },
+    "name": "Provincia de Bolívar"
+  },
+  {
+    "country": "EC",
+    "id": 3657571,
+    "coord": {
+      "lat": -1.6,
+      "lon": -79
+    },
+    "name": "Guaranda"
+  },
+  {
+    "country": "EC",
+    "id": 3658195,
+    "coord": {
+      "lat": -3.5,
+      "lon": -79.833328
+    },
+    "name": "Provincia de El Oro"
+  },
+  {
+    "country": "EC",
+    "id": 3652717,
+    "coord": {
+      "lat": -3.26667,
+      "lon": -79.966667
+    },
+    "name": "Puerto Pito"
+  },
+  {
+    "country": "EC",
+    "id": 3655673,
+    "coord": {
+      "lat": 0.35,
+      "lon": -78.116669
+    },
+    "name": "Ibarra"
+  },
+  {
+    "country": "EC",
+    "id": 3654592,
+    "coord": {
+      "lat": -1.41667,
+      "lon": -79.583328
+    },
+    "name": "Provincia de Los Ríos"
+  },
+  {
+    "country": "EC",
+    "id": 3650186,
+    "coord": {
+      "lat": -1.55,
+      "lon": -79.73333
+    },
+    "name": "Vinces"
+  },
+  {
+    "country": "EC",
+    "id": 3658766,
+    "coord": {
+      "lat": -0.83333,
+      "lon": -78.833328
+    },
+    "name": "Provincia de Cotopaxi"
+  },
+  {
+    "country": "EC",
+    "id": 3651251,
+    "coord": {
+      "lat": -0.83333,
+      "lon": -78.666672
+    },
+    "name": "Saquisili"
+  },
+  {
+    "country": "EC",
+    "id": 3652567,
+    "coord": {
+      "lat": -1.03333,
+      "lon": -79.449997
+    },
+    "name": "Quevedo"
+  },
+  {
+    "country": "EC",
+    "id": 3654005,
+    "coord": {
+      "lat": -2.5,
+      "lon": -77.75
+    },
+    "name": "Provincia de Morona Santiago"
+  },
+  {
+    "country": "EC",
+    "id": 3654541,
+    "coord": {
+      "lat": -2.31667,
+      "lon": -78.116669
+    },
+    "name": "Macas"
+  },
+  {
+    "country": "EC",
+    "id": 3659849,
+    "coord": {
+      "lat": -2.5,
+      "lon": -79
+    },
+    "name": "Provincia del Cañar"
+  },
+  {
+    "country": "EC",
+    "id": 3653718,
+    "coord": {
+      "lat": -2.73333,
+      "lon": -78.833328
+    },
+    "name": "Opar"
+  },
+  {
+    "country": "EC",
+    "id": 3654870,
+    "coord": {
+      "lat": -0.93333,
+      "lon": -78.616669
+    },
+    "name": "Latacunga"
+  },
+  {
+    "country": "EC",
+    "id": 3658781,
+    "coord": {
+      "lat": 0.3,
+      "lon": -78.26667
+    },
+    "name": "Cotacachi"
+  },
+  {
+    "country": "EC",
+    "id": 3659237,
+    "coord": {
+      "lat": -1.91667,
+      "lon": -78.75
+    },
+    "name": "Provincia del Chimborazo"
+  },
+  {
+    "country": "EC",
+    "id": 3652350,
+    "coord": {
+      "lat": -1.66667,
+      "lon": -78.633331
+    },
+    "name": "Riobamba"
+  },
+  {
+    "country": "EC",
+    "id": 3653693,
+    "coord": {
+      "lat": 0.23333,
+      "lon": -78.26667
+    },
+    "name": "Otavalo"
+  },
+  {
+    "country": "EC",
+    "id": 3650554,
+    "coord": {
+      "lat": -0.78333,
+      "lon": -80.25
+    },
+    "name": "Tosagua"
+  },
+  {
+    "country": "EC",
+    "id": 3660418,
+    "coord": {
+      "lat": -1.81667,
+      "lon": -79.51667
+    },
+    "name": "Babahoyo"
+  },
+  {
+    "country": "EC",
+    "id": 3653882,
+    "coord": {
+      "lat": -2.66667,
+      "lon": -79.616669
+    },
+    "name": "Naranjal"
+  },
+  {
+    "country": "EC",
+    "id": 3653609,
+    "coord": {
+      "lat": -1.56667,
+      "lon": -80.416672
+    },
+    "name": "Pajan"
+  },
+  {
+    "country": "EC",
+    "id": 3655131,
+    "coord": {
+      "lat": -2.23333,
+      "lon": -80.900002
+    },
+    "name": "La Libertad"
+  },
+  {
+    "country": "EC",
+    "id": 3652758,
+    "coord": {
+      "lat": -0.9,
+      "lon": -89.599998
+    },
+    "name": "Puerto Baquerizo Moreno"
+  },
+  {
+    "country": "EC",
+    "id": 7062138,
+    "coord": {
+      "lat": -2.08333,
+      "lon": -80.583328
+    },
+    "name": "Provincia de Santa Elena"
+  },
+  {
+    "country": "EC",
+    "id": 3651436,
+    "coord": {
+      "lat": -2.23333,
+      "lon": -80.866669
+    },
+    "name": "Cantón Santa Elena"
+  },
+  {
+    "country": "EC",
+    "id": 3651438,
+    "coord": {
+      "lat": -2.23333,
+      "lon": -80.849998
+    },
+    "name": "Santa Elena"
+  },
+  {
+    "country": "EC",
+    "id": 3652684,
+    "coord": {
+      "lat": -0.95,
+      "lon": -78.683327
+    },
+    "name": "Pujili"
+  },
+  {
+    "country": "EC",
+    "id": 3654064,
+    "coord": {
+      "lat": -1.8,
+      "lon": -79.333328
+    },
+    "name": "Montalvo"
+  },
+  {
+    "country": "EC",
+    "id": 3657594,
+    "coord": {
+      "lat": -1.58333,
+      "lon": -78.633331
+    },
+    "name": "Guano"
+  },
+  {
+    "country": "EC",
+    "id": 3653890,
+    "coord": {
+      "lat": -0.66667,
+      "lon": -77.833328
+    },
+    "name": "Provincia de Napo"
+  },
+  {
+    "country": "EC",
+    "id": 3650721,
+    "coord": {
+      "lat": -0.98333,
+      "lon": -77.816673
+    },
+    "name": "Tena"
+  },
+  {
+    "country": "EC",
+    "id": 3658147,
+    "coord": {
+      "lat": -0.89866,
+      "lon": -89.547234
+    },
+    "name": "El Progreso"
+  },
+  {
+    "country": "EC",
+    "id": 3659139,
+    "coord": {
+      "lat": -0.68333,
+      "lon": -80.099998
+    },
+    "name": "Chone"
+  },
+  {
+    "country": "EC",
+    "id": 3650447,
+    "coord": {
+      "lat": -1.16667,
+      "lon": -78.533333
+    },
+    "name": "Tunguipamba"
+  },
+  {
+    "country": "EC",
+    "id": 3653157,
+    "coord": {
+      "lat": -1.16667,
+      "lon": -78.533333
+    },
+    "name": "Píllaro Nuevo"
+  },
+  {
+    "country": "EC",
+    "id": 3656412,
+    "coord": {
+      "lat": 0.05,
+      "lon": -78.133331
+    },
+    "name": "Hacienda Punyatsil"
+  },
+  {
+    "country": "EC",
+    "id": 3658332,
+    "coord": {
+      "lat": -1.31667,
+      "lon": -80.01667
+    },
+    "name": "El Carmen"
+  },
+  {
+    "country": "EC",
+    "id": 3649912,
+    "coord": {
+      "lat": -3.66667,
+      "lon": -79.650002
+    },
+    "name": "Zarumaurcu"
+  },
+  {
+    "country": "EC",
+    "id": 3658625,
+    "coord": {
+      "lat": -0.2,
+      "lon": -78.433327
+    },
+    "name": "Cumbayá"
+  },
+  {
+    "country": "EC",
+    "id": 3660073,
+    "coord": {
+      "lat": -0.9,
+      "lon": -79.48333
+    },
+    "name": "Buena Fe"
+  },
+  {
+    "country": "EC",
+    "id": 3654832,
+    "coord": {
+      "lat": -2.2,
+      "lon": -79.833328
+    },
+    "name": "La Uruguaya"
+  },
+  {
+    "country": "EC",
+    "id": 3660798,
+    "coord": {
+      "lat": -2.2,
+      "lon": -78.833328
+    },
+    "name": "Alausi"
+  },
+  {
+    "country": "EC",
+    "id": 3651495,
+    "coord": {
+      "lat": -1.21667,
+      "lon": -80.383331
+    },
+    "name": "Santa Ana"
+  },
+  {
+    "country": "EC",
+    "id": 3657722,
+    "coord": {
+      "lat": -3.25,
+      "lon": -79.849998
+    },
+    "name": "Guabo"
+  },
+  {
+    "country": "EC",
+    "id": 3652516,
+    "coord": {
+      "lat": -2.9,
+      "lon": -78.783333
+    },
+    "name": "Quimshi"
+  },
+  {
+    "country": "EC",
+    "id": 3657661,
+    "coord": {
+      "lat": -3.4,
+      "lon": -78.550003
+    },
+    "name": "Gualaquiza"
+  },
+  {
+    "country": "EC",
+    "id": 3660422,
+    "coord": {
+      "lat": -1.78333,
+      "lon": -79.666672
+    },
+    "name": "Baba"
+  },
+  {
+    "country": "EC",
+    "id": 3650896,
+    "coord": {
+      "lat": 0.05,
+      "lon": -78.199997
+    },
+    "name": "Tabacundo"
+  },
+  {
+    "country": "EC",
+    "id": 3651356,
+    "coord": {
+      "lat": -3.45,
+      "lon": -79.966667
+    },
+    "name": "Santa Rosa"
+  },
+  {
+    "country": "EC",
+    "id": 3650956,
+    "coord": {
+      "lat": -2.46667,
+      "lon": -78.166672
+    },
+    "name": "Sucua"
+  },
+  {
+    "country": "EC",
+    "id": 3659926,
+    "coord": {
+      "lat": -0.85,
+      "lon": -80.166672
+    },
+    "name": "Calceta"
+  },
+  {
+    "country": "EC",
+    "id": 3649953,
+    "coord": {
+      "lat": -4.25,
+      "lon": -78.833328
+    },
+    "name": "Provincia de Zamora Chinchipe"
+  },
+  {
+    "country": "EC",
+    "id": 3649959,
+    "coord": {
+      "lat": -4.06917,
+      "lon": -78.956673
+    },
+    "name": "Zamora"
+  },
+  {
+    "country": "EC",
+    "id": 3650472,
+    "coord": {
+      "lat": 0.8,
+      "lon": -77.716667
+    },
+    "name": "Tulcan"
+  },
+  {
+    "country": "EC",
+    "id": 3660559,
+    "coord": {
+      "lat": -3.55,
+      "lon": -80.066673
+    },
+    "name": "Arenillas"
+  },
+  {
+    "country": "EC",
+    "id": 3658670,
+    "coord": {
+      "lat": -2.55,
+      "lon": -78.933327
+    },
+    "name": "Cuchucún"
+  },
+  {
+    "country": "EC",
+    "id": 3652977,
+    "coord": {
+      "lat": -0.05,
+      "lon": -78.449997
+    },
+    "name": "Pomasqui"
+  },
+  {
+    "country": "EC",
+    "id": 3654797,
+    "coord": {
+      "lat": -2.7,
+      "lon": -78.866669
+    },
+    "name": "Lecherón Yargín"
+  },
+  {
+    "country": "EC",
+    "id": 3655272,
+    "coord": {
+      "lat": 0,
+      "lon": -79.383331
+    },
+    "name": "La Concordia"
+  },
+  {
+    "country": "EC",
+    "id": 3650199,
+    "coord": {
+      "lat": -4.25,
+      "lon": -79.25
+    },
+    "name": "Vilcabamba"
+  },
+  {
+    "country": "EC",
+    "id": 3653015,
+    "coord": {
+      "lat": -2.63333,
+      "lon": -80.383331
+    },
+    "name": "Playas"
+  },
+  {
+    "country": "EC",
+    "id": 3655951,
+    "coord": {
+      "lat": -3.78333,
+      "lon": -79.816673
+    },
+    "name": "Hacienda Targuarcocha"
+  },
+  {
+    "country": "EC",
+    "id": 3650053,
+    "coord": {
+      "lat": -3.82778,
+      "lon": -78.759438
+    },
+    "name": "Yantzaza"
+  },
+  {
+    "country": "EC",
+    "id": 3654055,
+    "coord": {
+      "lat": -1.05,
+      "lon": -80.666672
+    },
+    "name": "Montecristi"
+  },
+  {
+    "country": "EC",
+    "id": 3658396,
+    "coord": {
+      "lat": -1.43333,
+      "lon": -79.26667
+    },
+    "name": "Echeandía"
+  },
+  {
+    "country": "EC",
+    "id": 3651245,
+    "coord": {
+      "lat": -3.6,
+      "lon": -79.216667
+    },
+    "name": "Saraguro"
+  },
+  {
+    "country": "EC",
+    "id": 3653938,
+    "coord": {
+      "lat": -2.93333,
+      "lon": -78.76667
+    },
+    "name": "Musmus"
+  },
+  {
+    "country": "EC",
+    "id": 3655869,
+    "coord": {
+      "lat": -0.05,
+      "lon": -78.333328
+    },
+    "name": "Hacienda Villacís"
+  },
+  {
+    "country": "EC",
+    "id": 3649914,
+    "coord": {
+      "lat": -3.68333,
+      "lon": -79.616669
+    },
+    "name": "Zaruma"
+  },
+  {
+    "country": "EC",
+    "id": 3830306,
+    "coord": {
+      "lat": -0.75,
+      "lon": -76.416672
+    },
+    "name": "Provincia de Francisco de Orellana"
+  },
+  {
+    "country": "EC",
+    "id": 3652743,
+    "coord": {
+      "lat": -0.46667,
+      "lon": -76.966667
+    },
+    "name": "Puerto Francisco de Orellana"
+  },
+  {
+    "country": "EC",
+    "id": 3651093,
+    "coord": {
+      "lat": -0.03333,
+      "lon": -77.066673
+    },
+    "name": "Shushufindi"
+  },
+  {
+    "country": "EC",
+    "id": 3651546,
+    "coord": {
+      "lat": -3.93333,
+      "lon": -79.416672
+    },
+    "name": "San Pedro de la Bendita"
+  },
+  {
+    "country": "EC",
+    "id": 3659599,
+    "coord": {
+      "lat": -3.98333,
+      "lon": -79.349998
+    },
+    "name": "Catamayo"
+  },
+  {
+    "country": "EC",
+    "id": 3649966,
+    "coord": {
+      "lat": -0.15,
+      "lon": -78.433327
+    },
+    "name": "Zámbiza"
+  },
+  {
+    "country": "EC",
+    "id": 3651411,
+    "coord": {
+      "lat": -2.18333,
+      "lon": -80
+    },
+    "name": "Santa Lucia"
+  },
+  {
+    "country": "EC",
+    "id": 3652025,
+    "coord": {
+      "lat": 0.95,
+      "lon": -78.650002
+    },
+    "name": "San Antonio"
+  },
+  {
+    "country": "EC",
+    "id": 3658124,
+    "coord": {
+      "lat": 0.81667,
+      "lon": -77.699997
+    },
+    "name": "El Rosal"
+  },
+  {
+    "country": "EC",
+    "id": 3654825,
+    "coord": {
+      "lat": -0.76667,
+      "lon": -75.51667
+    },
+    "name": "La Victoria"
+  },
+  {
+    "country": "EC",
+    "id": 3651949,
+    "coord": {
+      "lat": -0.9045,
+      "lon": -89.617439
+    },
+    "name": "San Cristobal"
+  },
+  {
+    "country": "EC",
+    "id": 3659210,
+    "coord": {
+      "lat": -2.2,
+      "lon": -81
+    },
+    "name": "Chinchipe"
+  },
+  {
+    "country": "EC",
+    "id": 3656293,
+    "coord": {
+      "lat": -0.13333,
+      "lon": -78.5
+    },
+    "name": "Hacienda San Carlos"
+  },
+  {
+    "country": "EC",
+    "id": 3658373,
+    "coord": {
+      "lat": -0.98333,
+      "lon": -80.666672
+    },
+    "name": "El Arroyo"
+  },
+  {
+    "country": "EC",
+    "id": 3654545,
+    "coord": {
+      "lat": -4.38333,
+      "lon": -79.949997
+    },
+    "name": "Macara"
+  },
+  {
+    "country": "EC",
+    "id": 3651163,
+    "coord": {
+      "lat": -0.42356,
+      "lon": -90.271797
+    },
+    "name": "Seymour"
+  },
+  {
+    "country": "EC",
+    "id": 3657115,
+    "coord": {
+      "lat": -1.2,
+      "lon": -78.566673
+    },
+    "name": "Hacienda de Jáuregui"
+  },
+  {
+    "country": "EC",
+    "id": 3654533,
+    "coord": {
+      "lat": -3.26667,
+      "lon": -79.966667
+    },
+    "name": "Machala"
+  },
+  {
+    "country": "EC",
+    "id": 3658666,
+    "coord": {
+      "lat": -2.88333,
+      "lon": -78.98333
+    },
+    "name": "Cuenca"
+  },
+  {
+    "country": "EC",
+    "id": 3650312,
+    "coord": {
+      "lat": 1.24917,
+      "lon": -78.983063
+    },
+    "name": "Valdez"
+  },
+  {
+    "country": "EC",
+    "id": 3651613,
+    "coord": {
+      "lat": -1.03333,
+      "lon": -78.566673
+    },
+    "name": "San Miguel de Salcedo"
+  },
+  {
+    "country": "EC",
+    "id": 3651639,
+    "coord": {
+      "lat": -1.7,
+      "lon": -79.033333
+    },
+    "name": "San Miguel"
+  },
+  {
+    "country": "EC",
+    "id": 3651857,
+    "coord": {
+      "lat": -0.33405,
+      "lon": -78.452171
+    },
+    "name": "Sangolqui"
+  },
+  {
+    "country": "EC",
+    "id": 3652315,
+    "coord": {
+      "lat": -0.91667,
+      "lon": -80.433327
+    },
+    "name": "Rocafuerte"
+  },
+  {
+    "country": "EC",
+    "id": 3652694,
+    "coord": {
+      "lat": -0.95542,
+      "lon": -90.966537
+    },
+    "name": "Puerto Villamil"
+  },
+  {
+    "country": "EC",
+    "id": 3652757,
+    "coord": {
+      "lat": -3.26667,
+      "lon": -79.98333
+    },
+    "name": "Puerto Bolivar"
+  },
+  {
+    "country": "EC",
+    "id": 3652943,
+    "coord": {
+      "lat": -3.71667,
+      "lon": -79.616669
+    },
+    "name": "Portovelo"
+  },
+  {
+    "country": "EC",
+    "id": 3653146,
+    "coord": {
+      "lat": 0.4,
+      "lon": -77.966667
+    },
+    "name": "Pimampiro"
+  },
+  {
+    "country": "EC",
+    "id": 3653159,
+    "coord": {
+      "lat": -1.16667,
+      "lon": -78.533333
+    },
+    "name": "Pillaro"
+  },
+  {
+    "country": "EC",
+    "id": 3653307,
+    "coord": {
+      "lat": 0.08333,
+      "lon": -80.050003
+    },
+    "name": "Pedernales"
+  },
+  {
+    "country": "EC",
+    "id": 3653523,
+    "coord": {
+      "lat": -1.7,
+      "lon": -77.933327
+    },
+    "name": "Palora"
+  },
+  {
+    "country": "EC",
+    "id": 3653581,
+    "coord": {
+      "lat": -1.93333,
+      "lon": -79.73333
+    },
+    "name": "Palestina"
+  },
+  {
+    "country": "EC",
+    "id": 3653587,
+    "coord": {
+      "lat": -1.45,
+      "lon": -79.73333
+    },
+    "name": "Palenque"
+  },
+  {
+    "country": "EC",
+    "id": 3653967,
+    "coord": {
+      "lat": 0.6,
+      "lon": -80.033333
+    },
+    "name": "Muisne"
+  },
+  {
+    "country": "EC",
+    "id": 3654650,
+    "coord": {
+      "lat": -1.88333,
+      "lon": -80.083328
+    },
+    "name": "Lomas de Sargentillo"
+  },
+  {
+    "country": "EC",
+    "id": 3655385,
+    "coord": {
+      "lat": -0.93333,
+      "lon": -80.216667
+    },
+    "name": "Junin"
+  },
+  {
+    "country": "EC",
+    "id": 3658379,
+    "coord": {
+      "lat": 0.61667,
+      "lon": -77.933327
+    },
+    "name": "El Angel"
+  },
+  {
+    "country": "EC",
+    "id": 3658822,
+    "coord": {
+      "lat": -2.2,
+      "lon": -79.416672
+    },
+    "name": "Coronel Marcelino Mariduena"
+  },
+  {
+    "country": "EC",
+    "id": 3658948,
+    "coord": {
+      "lat": -1.55,
+      "lon": -80.01667
+    },
+    "name": "Colimes"
+  },
+  {
+    "country": "EC",
+    "id": 3659544,
+    "coord": {
+      "lat": -4.11667,
+      "lon": -79.949997
+    },
+    "name": "Celica"
+  },
+  {
+    "country": "EC",
+    "id": 3659592,
+    "coord": {
+      "lat": -1.58333,
+      "lon": -79.466667
+    },
+    "name": "Catarama"
+  },
+  {
+    "country": "EC",
+    "id": 3659602,
+    "coord": {
+      "lat": -4.06667,
+      "lon": -79.633331
+    },
+    "name": "Catacocha"
+  },
+  {
+    "country": "EC",
+    "id": 3659852,
+    "coord": {
+      "lat": -2.55,
+      "lon": -78.933327
+    },
+    "name": "Canar"
+  },
+  {
+    "country": "EC",
+    "id": 3660346,
+    "coord": {
+      "lat": -1.4,
+      "lon": -78.416672
+    },
+    "name": "Banos"
+  },
+  {
+    "country": "EC",
+    "id": 3660387,
+    "coord": {
+      "lat": -2.91667,
+      "lon": -79.816673
+    },
+    "name": "Balao"
+  },
+  {
+    "country": "EC",
+    "id": 3660573,
+    "coord": {
+      "lat": -0.91667,
+      "lon": -77.800003
+    },
+    "name": "Archidona"
+  },
+  {
+    "country": "EC",
+    "id": 3660773,
+    "coord": {
+      "lat": -1.91667,
+      "lon": -79.51667
+    },
+    "name": "Alfredo Baquerizo Moreno"
+  },
+  {
+    "country": "EC",
+    "id": 3656356,
+    "coord": {
+      "lat": -0.18333,
+      "lon": -78.5
+    },
+    "name": "Hacienda Rumipamba"
+  }
+
+]

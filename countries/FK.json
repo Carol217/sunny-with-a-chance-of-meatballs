@@ -1,0 +1,40 @@
+[
+
+  {
+    "country": "FK",
+    "id": 3474414,
+    "coord": {
+      "lat": -51.75,
+      "lon": -59.166672
+    },
+    "name": "Falkland Islands (Islas Malvinas)"
+  },
+  {
+    "country": "FK",
+    "id": 3426691,
+    "coord": {
+      "lat": -51.700001,
+      "lon": -57.849998
+    },
+    "name": "Stanley"
+  },
+  {
+    "country": "FK",
+    "id": 3426768,
+    "coord": {
+      "lat": -51.46151,
+      "lon": -58.30933
+    },
+    "name": "Rincon Grande Settlement"
+  },
+  {
+    "country": "FK",
+    "id": 3426886,
+    "coord": {
+      "lat": -51.900002,
+      "lon": -58.400002
+    },
+    "name": "Mare Harbour Rancho"
+  }
+
+]

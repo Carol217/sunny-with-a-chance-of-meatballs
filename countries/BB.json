@@ -1,0 +1,445 @@
+[
+
+  {
+    "country": "BB",
+    "id": 3373988,
+    "coord": {
+      "lat": 13.08333,
+      "lon": -59.533329
+    },
+    "name": "Christ Church"
+  },
+  {
+    "country": "BB",
+    "id": 3373590,
+    "coord": {
+      "lat": 13.07471,
+      "lon": -59.588692
+    },
+    "name": "Rockley"
+  },
+  {
+    "country": "BB",
+    "id": 3374084,
+    "coord": {
+      "lat": 13.16667,
+      "lon": -59.533329
+    },
+    "name": "Barbados"
+  },
+  {
+    "country": "BB",
+    "id": 3373565,
+    "coord": {
+      "lat": 13.3,
+      "lon": -59.616669
+    },
+    "name": "Saint Lucy"
+  },
+  {
+    "country": "BB",
+    "id": 3373452,
+    "coord": {
+      "lat": 13.3,
+      "lon": -59.583328
+    },
+    "name": "Upper Salmonds"
+  },
+  {
+    "country": "BB",
+    "id": 3373557,
+    "coord": {
+      "lat": 13.11667,
+      "lon": -59.599998
+    },
+    "name": "Saint Michael"
+  },
+  {
+    "country": "BB",
+    "id": 3374036,
+    "coord": {
+      "lat": 13.1,
+      "lon": -59.616669
+    },
+    "name": "Bridgetown"
+  },
+  {
+    "country": "BB",
+    "id": 3373932,
+    "coord": {
+      "lat": 13.1,
+      "lon": -59.616669
+    },
+    "name": "Deacons"
+  },
+  {
+    "country": "BB",
+    "id": 3373789,
+    "coord": {
+      "lat": 13.31667,
+      "lon": -59.599998
+    },
+    "name": "Hope"
+  },
+  {
+    "country": "BB",
+    "id": 3373754,
+    "coord": {
+      "lat": 13.06667,
+      "lon": -59.549999
+    },
+    "name": "Kendal Hill"
+  },
+  {
+    "country": "BB",
+    "id": 3373982,
+    "coord": {
+      "lat": 13.08333,
+      "lon": -59.583328
+    },
+    "name": "Clapham"
+  },
+  {
+    "country": "BB",
+    "id": 3373570,
+    "coord": {
+      "lat": 13.21667,
+      "lon": -59.616669
+    },
+    "name": "Saint James"
+  },
+  {
+    "country": "BB",
+    "id": 3373461,
+    "coord": {
+      "lat": 13.2,
+      "lon": -59.633331
+    },
+    "name": "Trents"
+  },
+  {
+    "country": "BB",
+    "id": 3373542,
+    "coord": {
+      "lat": 13.16667,
+      "lon": -59.633331
+    },
+    "name": "Sandy Lane"
+  },
+  {
+    "country": "BB",
+    "id": 3373617,
+    "coord": {
+      "lat": 13.13333,
+      "lon": -59.633331
+    },
+    "name": "Prospect"
+  },
+  {
+    "country": "BB",
+    "id": 3373553,
+    "coord": {
+      "lat": 13.11667,
+      "lon": -59.466671
+    },
+    "name": "Saint Philip"
+  },
+  {
+    "country": "BB",
+    "id": 3373544,
+    "coord": {
+      "lat": 13.13333,
+      "lon": -59.450001
+    },
+    "name": "Sandford"
+  },
+  {
+    "country": "BB",
+    "id": 3373438,
+    "coord": {
+      "lat": 13.13333,
+      "lon": -59.616669
+    },
+    "name": "Wanstead"
+  },
+  {
+    "country": "BB",
+    "id": 3373568,
+    "coord": {
+      "lat": 13.2,
+      "lon": -59.533329
+    },
+    "name": "Saint Joseph"
+  },
+  {
+    "country": "BB",
+    "id": 3373967,
+    "coord": {
+      "lat": 13.18333,
+      "lon": -59.549999
+    },
+    "name": "Coffee Gully"
+  },
+  {
+    "country": "BB",
+    "id": 3373572,
+    "coord": {
+      "lat": 13.13333,
+      "lon": -59.533329
+    },
+    "name": "Saint George"
+  },
+  {
+    "country": "BB",
+    "id": 3373433,
+    "coord": {
+      "lat": 13.1,
+      "lon": -59.533329
+    },
+    "name": "Watts Village"
+  },
+  {
+    "country": "BB",
+    "id": 3373768,
+    "coord": {
+      "lat": 13.15,
+      "lon": -59.599998
+    },
+    "name": "Jackson"
+  },
+  {
+    "country": "BB",
+    "id": 3373538,
+    "coord": {
+      "lat": 13.05,
+      "lon": -59.51667
+    },
+    "name": "Sayes Court"
+  },
+  {
+    "country": "BB",
+    "id": 3373551,
+    "coord": {
+      "lat": 13.18333,
+      "lon": -59.583328
+    },
+    "name": "Saint Thomas"
+  },
+  {
+    "country": "BB",
+    "id": 3374090,
+    "coord": {
+      "lat": 13.15,
+      "lon": -59.616669
+    },
+    "name": "Bagatelle"
+  },
+  {
+    "country": "BB",
+    "id": 3373573,
+    "coord": {
+      "lat": 13.2,
+      "lon": -59.533329
+    },
+    "name": "Saint Elizabeths"
+  },
+  {
+    "country": "BB",
+    "id": 3373626,
+    "coord": {
+      "lat": 13.1,
+      "lon": -59.599998
+    },
+    "name": "Pine Housing Estate"
+  },
+  {
+    "country": "BB",
+    "id": 3374087,
+    "coord": {
+      "lat": 13.1,
+      "lon": -59.599998
+    },
+    "name": "Bank Hall"
+  },
+  {
+    "country": "BB",
+    "id": 3373454,
+    "coord": {
+      "lat": 13.21667,
+      "lon": -59.616669
+    },
+    "name": "Upper Carlton"
+  },
+  {
+    "country": "BB",
+    "id": 3373627,
+    "coord": {
+      "lat": 13.06667,
+      "lon": -59.5
+    },
+    "name": "Pilgrim Road"
+  },
+  {
+    "country": "BB",
+    "id": 3373559,
+    "coord": {
+      "lat": 13.08333,
+      "lon": -59.466671
+    },
+    "name": "Saint Martins"
+  },
+  {
+    "country": "BB",
+    "id": 3373554,
+    "coord": {
+      "lat": 13.25,
+      "lon": -59.616669
+    },
+    "name": "Saint Peter"
+  },
+  {
+    "country": "BB",
+    "id": 3373592,
+    "coord": {
+      "lat": 13.25,
+      "lon": -59.599998
+    },
+    "name": "Rock Hall"
+  },
+  {
+    "country": "BB",
+    "id": 3373418,
+    "coord": {
+      "lat": 13.05,
+      "lon": -59.5
+    },
+    "name": "Wilcox"
+  },
+  {
+    "country": "BB",
+    "id": 3373569,
+    "coord": {
+      "lat": 13.16667,
+      "lon": -59.48333
+    },
+    "name": "Saint John"
+  },
+  {
+    "country": "BB",
+    "id": 3374095,
+    "coord": {
+      "lat": 13.16667,
+      "lon": -59.533329
+    },
+    "name": "Ashbury"
+  },
+  {
+    "country": "BB",
+    "id": 3373509,
+    "coord": {
+      "lat": 13.16667,
+      "lon": -59.5
+    },
+    "name": "Small Town"
+  },
+  {
+    "country": "BB",
+    "id": 3373550,
+    "coord": {
+      "lat": 13.31667,
+      "lon": -59.633331
+    },
+    "name": "Salmond"
+  },
+  {
+    "country": "BB",
+    "id": 3373615,
+    "coord": {
+      "lat": 13.15,
+      "lon": -59.566669
+    },
+    "name": "Proutes"
+  },
+  {
+    "country": "BB",
+    "id": 3373947,
+    "coord": {
+      "lat": 13.13333,
+      "lon": -59.48333
+    },
+    "name": "Cottage Vale"
+  },
+  {
+    "country": "BB",
+    "id": 3373791,
+    "coord": {
+      "lat": 13.16667,
+      "lon": -59.616669
+    },
+    "name": "Holders"
+  },
+  {
+    "country": "BB",
+    "id": 3373868,
+    "coord": {
+      "lat": 13.13333,
+      "lon": -59.599998
+    },
+    "name": "Friendship Terrace"
+  },
+  {
+    "country": "BB",
+    "id": 3373436,
+    "coord": {
+      "lat": 13.06667,
+      "lon": -59.566669
+    },
+    "name": "Warners"
+  },
+  {
+    "country": "BB",
+    "id": 3373430,
+    "coord": {
+      "lat": 13.18333,
+      "lon": -59.566669
+    },
+    "name": "Welchman Hall"
+  },
+  {
+    "country": "BB",
+    "id": 3373505,
+    "coord": {
+      "lat": 13.25,
+      "lon": -59.650002
+    },
+    "name": "Speightstown"
+  },
+  {
+    "country": "BB",
+    "id": 3373652,
+    "coord": {
+      "lat": 13.06667,
+      "lon": -59.533329
+    },
+    "name": "Oistins"
+  },
+  {
+    "country": "BB",
+    "id": 3373790,
+    "coord": {
+      "lat": 13.18672,
+      "lon": -59.638081
+    },
+    "name": "Holetown"
+  },
+  {
+    "country": "BB",
+    "id": 3374083,
+    "coord": {
+      "lat": 13.21667,
+      "lon": -59.51667
+    },
+    "name": "Bathsheba"
+  }
+
+]

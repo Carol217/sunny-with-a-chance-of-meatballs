@@ -1,0 +1,400 @@
+[
+
+  {
+    "country": "BS",
+    "id": 3572887,
+    "coord": {
+      "lat": 25.040819,
+      "lon": -77.371223
+    },
+    "name": "Commonwealth of The Bahamas"
+  },
+  {
+    "country": "BS",
+    "id": 3571815,
+    "coord": {
+      "lat": 25.033331,
+      "lon": -77.283333
+    },
+    "name": "New Providence District"
+  },
+  {
+    "country": "BS",
+    "id": 3571824,
+    "coord": {
+      "lat": 25.058229,
+      "lon": -77.343063
+    },
+    "name": "Nassau"
+  },
+  {
+    "country": "BS",
+    "id": 3572374,
+    "coord": {
+      "lat": 26.520281,
+      "lon": -78.645279
+    },
+    "name": "City of Freeport District"
+  },
+  {
+    "country": "BS",
+    "id": 3572375,
+    "coord": {
+      "lat": 26.533331,
+      "lon": -78.699997
+    },
+    "name": "Freeport"
+  },
+  {
+    "country": "BS",
+    "id": 3571912,
+    "coord": {
+      "lat": 26.4,
+      "lon": -77.166672
+    },
+    "name": "Marsh Harbour District"
+  },
+  {
+    "country": "BS",
+    "id": 3571913,
+    "coord": {
+      "lat": 26.541241,
+      "lon": -77.063599
+    },
+    "name": "Marsh Harbour"
+  },
+  {
+    "country": "BS",
+    "id": 8030559,
+    "coord": {
+      "lat": 26.59333,
+      "lon": -78.600563
+    },
+    "name": "West Grand Bahama District"
+  },
+  {
+    "country": "BS",
+    "id": 3571224,
+    "coord": {
+      "lat": 26.683331,
+      "lon": -78.966667
+    },
+    "name": "West End"
+  },
+  {
+    "country": "BS",
+    "id": 8030555,
+    "coord": {
+      "lat": 26.04694,
+      "lon": -77.243607
+    },
+    "name": "South Abaco District"
+  },
+  {
+    "country": "BS",
+    "id": 3571500,
+    "coord": {
+      "lat": 26.01667,
+      "lon": -77.400002
+    },
+    "name": "Sandy Point"
+  },
+  {
+    "country": "BS",
+    "id": 3572154,
+    "coord": {
+      "lat": 21.076941,
+      "lon": -73.311668
+    },
+    "name": "Inagua District"
+  },
+  {
+    "country": "BS",
+    "id": 3571898,
+    "coord": {
+      "lat": 20.950001,
+      "lon": -73.666672
+    },
+    "name": "Matthew Town"
+  },
+  {
+    "country": "BS",
+    "id": 3571493,
+    "coord": {
+      "lat": 24.036671,
+      "lon": -74.493057
+    },
+    "name": "San Salvador District"
+  },
+  {
+    "country": "BS",
+    "id": 3571264,
+    "coord": {
+      "lat": 24.08333,
+      "lon": -74.51667
+    },
+    "name": "Victoria Hill"
+  },
+  {
+    "country": "BS",
+    "id": 3571964,
+    "coord": {
+      "lat": 25.066669,
+      "lon": -77.466667
+    },
+    "name": "Macbride"
+  },
+  {
+    "country": "BS",
+    "id": 8030546,
+    "coord": {
+      "lat": 26.671671,
+      "lon": -78.141388
+    },
+    "name": "East Grand Bahama District"
+  },
+  {
+    "country": "BS",
+    "id": 3572333,
+    "coord": {
+      "lat": 26.6,
+      "lon": -78.333328
+    },
+    "name": "Golden Grove"
+  },
+  {
+    "country": "BS",
+    "id": 8030557,
+    "coord": {
+      "lat": 24.800831,
+      "lon": -76.18306
+    },
+    "name": "South Eleuthera District"
+  },
+  {
+    "country": "BS",
+    "id": 3830951,
+    "coord": {
+      "lat": 24.906389,
+      "lon": -76.183327
+    },
+    "name": "Kemps Point"
+  },
+  {
+    "country": "BS",
+    "id": 8030553,
+    "coord": {
+      "lat": 25.46278,
+      "lon": -76.67556
+    },
+    "name": "North Eleuthera District"
+  },
+  {
+    "country": "BS",
+    "id": 3571275,
+    "coord": {
+      "lat": 25.450001,
+      "lon": -76.666672
+    },
+    "name": "Upper Bogue"
+  },
+  {
+    "country": "BS",
+    "id": 3572807,
+    "coord": {
+      "lat": 25.704439,
+      "lon": -79.288887
+    },
+    "name": "Bimini District"
+  },
+  {
+    "country": "BS",
+    "id": 3572924,
+    "coord": {
+      "lat": 25.716669,
+      "lon": -79.300003
+    },
+    "name": "Alice Town"
+  },
+  {
+    "country": "BS",
+    "id": 8030556,
+    "coord": {
+      "lat": 23.923611,
+      "lon": -77.648888
+    },
+    "name": "South Andros District"
+  },
+  {
+    "country": "BS",
+    "id": 3572603,
+    "coord": {
+      "lat": 24.16667,
+      "lon": -77.583328
+    },
+    "name": "Congo Town"
+  },
+  {
+    "country": "BS",
+    "id": 8030552,
+    "coord": {
+      "lat": 24.766939,
+      "lon": -78.096107
+    },
+    "name": "North Andros District"
+  },
+  {
+    "country": "BS",
+    "id": 3571865,
+    "coord": {
+      "lat": 24.700001,
+      "lon": -77.76667
+    },
+    "name": "Minns"
+  },
+  {
+    "country": "BS",
+    "id": 3571971,
+    "coord": {
+      "lat": 26.533331,
+      "lon": -78.666672
+    },
+    "name": "Lucaya"
+  },
+  {
+    "country": "BS",
+    "id": 3571592,
+    "coord": {
+      "lat": 24.9,
+      "lon": -76.199997
+    },
+    "name": "Rock Sound"
+  },
+  {
+    "country": "BS",
+    "id": 8030554,
+    "coord": {
+      "lat": 23.678061,
+      "lon": -74.856667
+    },
+    "name": "Rum Cay District"
+  },
+  {
+    "country": "BS",
+    "id": 3571650,
+    "coord": {
+      "lat": 23.633329,
+      "lon": -74.833328
+    },
+    "name": "Port Nelson"
+  },
+  {
+    "country": "BS",
+    "id": 3572189,
+    "coord": {
+      "lat": 26.620831,
+      "lon": -78.283333
+    },
+    "name": "High Rock"
+  },
+  {
+    "country": "BS",
+    "id": 8030550,
+    "coord": {
+      "lat": 26.300831,
+      "lon": -77.554169
+    },
+    "name": "Moore’s Island District"
+  },
+  {
+    "country": "BS",
+    "id": 3572233,
+    "coord": {
+      "lat": 26.316669,
+      "lon": -77.566673
+    },
+    "name": "Hard Bargain"
+  },
+  {
+    "country": "BS",
+    "id": 3572462,
+    "coord": {
+      "lat": 25.5,
+      "lon": -76.650002
+    },
+    "name": "Dunmore Town"
+  },
+  {
+    "country": "BS",
+    "id": 8030551,
+    "coord": {
+      "lat": 26.78944,
+      "lon": -77.436943
+    },
+    "name": "North Abaco District"
+  },
+  {
+    "country": "BS",
+    "id": 3572601,
+    "coord": {
+      "lat": 26.866671,
+      "lon": -77.51667
+    },
+    "name": "Coopers Town"
+  },
+  {
+    "country": "BS",
+    "id": 8030545,
+    "coord": {
+      "lat": 22.73361,
+      "lon": -74.215279
+    },
+    "name": "Crooked Island and Long Cay District"
+  },
+  {
+    "country": "BS",
+    "id": 3572620,
+    "coord": {
+      "lat": 22.76667,
+      "lon": -74.216667
+    },
+    "name": "Colonel Hill"
+  },
+  {
+    "country": "BS",
+    "id": 3572627,
+    "coord": {
+      "lat": 24.033331,
+      "lon": -74.51667
+    },
+    "name": "Cockburn Town"
+  },
+  {
+    "country": "BS",
+    "id": 3572005,
+    "coord": {
+      "lat": 23.216669,
+      "lon": -75.111671
+    },
+    "name": "Long Island District"
+  },
+  {
+    "country": "BS",
+    "id": 3572640,
+    "coord": {
+      "lat": 23.1,
+      "lon": -74.98333
+    },
+    "name": "Clarence Town"
+  },
+  {
+    "country": "BS",
+    "id": 3572906,
+    "coord": {
+      "lat": 24.700001,
+      "lon": -77.76667
+    },
+    "name": "Andros Town"
+  }
+
+]

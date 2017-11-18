@@ -1,0 +1,175 @@
+[
+
+  {
+    "country": "DJ",
+    "id": 223818,
+    "coord": {
+      "lat": 11.51667,
+      "lon": 43
+    },
+    "name": "Ville de Djibouti"
+  },
+  {
+    "country": "DJ",
+    "id": 222570,
+    "coord": {
+      "lat": 11.56944,
+      "lon": 43.136669
+    },
+    "name": "Ambouli"
+  },
+  {
+    "country": "DJ",
+    "id": 220781,
+    "coord": {
+      "lat": 12,
+      "lon": 42.5
+    },
+    "name": "Région de Tadjourah"
+  },
+  {
+    "country": "DJ",
+    "id": 221525,
+    "coord": {
+      "lat": 12.25,
+      "lon": 43.083328
+    },
+    "name": "Région d’ Obock"
+  },
+  {
+    "country": "DJ",
+    "id": 221527,
+    "coord": {
+      "lat": 11.96306,
+      "lon": 43.290562
+    },
+    "name": "Obock"
+  },
+  {
+    "country": "DJ",
+    "id": 225282,
+    "coord": {
+      "lat": 11.25,
+      "lon": 43
+    },
+    "name": "Région d’ Ali Sabieh"
+  },
+  {
+    "country": "DJ",
+    "id": 225284,
+    "coord": {
+      "lat": 11.15583,
+      "lon": 42.712502
+    },
+    "name": "Ali Sabieh"
+  },
+  {
+    "country": "DJ",
+    "id": 223816,
+    "coord": {
+      "lat": 11.5,
+      "lon": 42.5
+    },
+    "name": "Republic of Djibouti"
+  },
+  {
+    "country": "DJ",
+    "id": 220782,
+    "coord": {
+      "lat": 11.78528,
+      "lon": 42.884441
+    },
+    "name": "Tadjoura"
+  },
+  {
+    "country": "DJ",
+    "id": 223817,
+    "coord": {
+      "lat": 11.58767,
+      "lon": 43.14468
+    },
+    "name": "Djibouti"
+  },
+  {
+    "country": "DJ",
+    "id": 221915,
+    "coord": {
+      "lat": 11.46111,
+      "lon": 43.252781
+    },
+    "name": "Loyada"
+  },
+  {
+    "country": "DJ",
+    "id": 222596,
+    "coord": {
+      "lat": 11.31028,
+      "lon": 42.92944
+    },
+    "name": "Holhol"
+  },
+  {
+    "country": "DJ",
+    "id": 223773,
+    "coord": {
+      "lat": 12.14944,
+      "lon": 42.477501
+    },
+    "name": "Dorra"
+  },
+  {
+    "country": "DJ",
+    "id": 223889,
+    "coord": {
+      "lat": 11.5,
+      "lon": 42.166672
+    },
+    "name": "Région de Dikhil"
+  },
+  {
+    "country": "DJ",
+    "id": 223890,
+    "coord": {
+      "lat": 11.10861,
+      "lon": 42.37389
+    },
+    "name": "Dikhil"
+  },
+  {
+    "country": "DJ",
+    "id": 449265,
+    "coord": {
+      "lat": 11.5,
+      "lon": 42.75
+    },
+    "name": "Région d’ Arta"
+  },
+  {
+    "country": "DJ",
+    "id": 225037,
+    "coord": {
+      "lat": 11.52222,
+      "lon": 42.841942
+    },
+    "name": "Arta"
+  },
+  {
+    "country": "DJ",
+    "id": 400462,
+    "coord": {
+      "lat": 12.42167,
+      "lon": 42.895561
+    },
+    "name": "Alaili Dadda"
+  },
+  {
+    "country": "DJ",
+    "id": 408698,
+    "coord": {
+      "lat": 11.71583,
+      "lon": 41.836109
+    },
+    "name": "Galafi"
+  }
+
+]

@@ -1,0 +1,148 @@
+[
+
+  {
+    "country": "HK",
+    "id": 7533612,
+    "coord": {
+      "lat": 22.328659,
+      "lon": 114.191208
+    },
+    "name": "Kowloon City"
+  },
+  {
+    "country": "HK",
+    "id": 1818833,
+    "coord": {
+      "lat": 22.283831,
+      "lon": 114.149597
+    },
+    "name": "Sheung Wan"
+  },
+  {
+    "country": "HK",
+    "id": 1818209,
+    "coord": {
+      "lat": 22.366671,
+      "lon": 114.099998
+    },
+    "name": "Tsuen Wan"
+  },
+  {
+    "country": "HK",
+    "id": 1819730,
+    "coord": {
+      "lat": 22.25,
+      "lon": 114.166672
+    },
+    "name": "Hong Kong Special Administrative Region"
+  },
+  {
+    "country": "HK",
+    "id": 1819414,
+    "coord": {
+      "lat": 22.35,
+      "lon": 114.26667
+    },
+    "name": "Ma Nam Wat"
+  },
+  {
+    "country": "HK",
+    "id": 1818983,
+    "coord": {
+      "lat": 22.533331,
+      "lon": 114.133331
+    },
+    "name": "San Uk Ling"
+  },
+  {
+    "country": "HK",
+    "id": 1819729,
+    "coord": {
+      "lat": 22.285521,
+      "lon": 114.157692
+    },
+    "name": "Hong Kong"
+  },
+  {
+    "country": "HK",
+    "id": 1818501,
+    "coord": {
+      "lat": 22.299999,
+      "lon": 114.166672
+    },
+    "name": "Tsim Sha Tsui"
+  },
+  {
+    "country": "HK",
+    "id": 6942153,
+    "coord": {
+      "lat": 22.321381,
+      "lon": 114.1726
+    },
+    "name": "Mongkok"
+  },
+  {
+    "country": "HK",
+    "id": 1819273,
+    "coord": {
+      "lat": 22.33333,
+      "lon": 114.183327
+    },
+    "name": "Nga Tsin Wai"
+  },
+  {
+    "country": "HK",
+    "id": 1819609,
+    "coord": {
+      "lat": 22.316669,
+      "lon": 114.183327
+    },
+    "name": "Kowloon"
+  },
+  {
+    "country": "HK",
+    "id": 8223932,
+    "coord": {
+      "lat": 22.28299,
+      "lon": 114.158463
+    },
+    "name": "Central"
+  },
+  {
+    "country": "HK",
+    "id": 1818336,
+    "coord": {
+      "lat": 22.25,
+      "lon": 114.183327
+    },
+    "name": "Wong Chuk Hang Kau Wai"
+  },
+  {
+    "country": "HK",
+    "id": 1819706,
+    "coord": {
+      "lat": 22.26667,
+      "lon": 114.183327
+    },
+    "name": "Jardines Lookout"
+  },
+  {
+    "country": "HK",
+    "id": 1818211,
+    "coord": {
+      "lat": 22.23333,
+      "lon": 114.116669
+    },
+    "name": "Yung Shue Wan"
+  },
+  {
+    "country": "HK",
+    "id": 1818775,
+    "coord": {
+      "lat": 22.200001,
+      "lon": 114.133331
+    },
+    "name": "Sok Kwu Wan"
+  }
+
+]

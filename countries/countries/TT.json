@@ -1,0 +1,877 @@
+[
+
+  {
+    "country": "TT",
+    "id": 3574116,
+    "coord": {
+      "lat": 10.283,
+      "lon": -61.446049
+    },
+    "name": "Mon Repos"
+  },
+  {
+    "country": "TT",
+    "id": 3575052,
+    "coord": {
+      "lat": 10.63333,
+      "lon": -61.283329
+    },
+    "name": "Arima"
+  },
+  {
+    "country": "TT",
+    "id": 3574888,
+    "coord": {
+      "lat": 10.25,
+      "lon": -61.466671
+    },
+    "name": "Canaan"
+  },
+  {
+    "country": "TT",
+    "id": 7521943,
+    "coord": {
+      "lat": 10.184,
+      "lon": -61.681969
+    },
+    "name": "Point Fortin"
+  },
+  {
+    "country": "TT",
+    "id": 3573899,
+    "coord": {
+      "lat": 10.18333,
+      "lon": -61.683331
+    },
+    "name": "Point Fortin"
+  },
+  {
+    "country": "TT",
+    "id": 7521937,
+    "coord": {
+      "lat": 10.51718,
+      "lon": -61.415031
+    },
+    "name": "Chaguanas"
+  },
+  {
+    "country": "TT",
+    "id": 3573591,
+    "coord": {
+      "lat": 11,
+      "lon": -61
+    },
+    "name": "Republic of Trinidad and Tobago"
+  },
+  {
+    "country": "TT",
+    "id": 3573650,
+    "coord": {
+      "lat": 10.38333,
+      "lon": -61.299999
+    },
+    "name": "Tabaquite"
+  },
+  {
+    "country": "TT",
+    "id": 3573804,
+    "coord": {
+      "lat": 10.41667,
+      "lon": -61.466671
+    },
+    "name": "Saint Andrew"
+  },
+  {
+    "country": "TT",
+    "id": 3574345,
+    "coord": {
+      "lat": 10.73333,
+      "lon": -61.51667
+    },
+    "name": "La Finette"
+  },
+  {
+    "country": "TT",
+    "id": 3573606,
+    "coord": {
+      "lat": 11.25,
+      "lon": -60.666672
+    },
+    "name": "Tobago"
+  },
+  {
+    "country": "TT",
+    "id": 3573520,
+    "coord": {
+      "lat": 11.24973,
+      "lon": -60.722618
+    },
+    "name": "Woodlands"
+  },
+  {
+    "country": "TT",
+    "id": 3573768,
+    "coord": {
+      "lat": 10.33333,
+      "lon": -61.450001
+    },
+    "name": "Saint Margaret"
+  },
+  {
+    "country": "TT",
+    "id": 3573891,
+    "coord": {
+      "lat": 10.65,
+      "lon": -61.51667
+    },
+    "name": "City of Port of Spain"
+  },
+  {
+    "country": "TT",
+    "id": 3574738,
+    "coord": {
+      "lat": 10.65,
+      "lon": -61.51667
+    },
+    "name": "Corbeaux Town"
+  },
+  {
+    "country": "TT",
+    "id": 3573773,
+    "coord": {
+      "lat": 10.65,
+      "lon": -61.416672
+    },
+    "name": "Saint Joseph"
+  },
+  {
+    "country": "TT",
+    "id": 3574211,
+    "coord": {
+      "lat": 10.26667,
+      "lon": -61.383331
+    },
+    "name": "Manahambre"
+  },
+  {
+    "country": "TT",
+    "id": 3574578,
+    "coord": {
+      "lat": 10.41667,
+      "lon": -61.450001
+    },
+    "name": "Exchange"
+  },
+  {
+    "country": "TT",
+    "id": 3574604,
+    "coord": {
+      "lat": 10.63333,
+      "lon": -61.383331
+    },
+    "name": "El Dorado"
+  },
+  {
+    "country": "TT",
+    "id": 3574794,
+    "coord": {
+      "lat": 10.46667,
+      "lon": -61.416672
+    },
+    "name": "Chase Village"
+  },
+  {
+    "country": "TT",
+    "id": 3573989,
+    "coord": {
+      "lat": 10.65,
+      "lon": -61.366669
+    },
+    "name": "Paradise"
+  },
+  {
+    "country": "TT",
+    "id": 3573643,
+    "coord": {
+      "lat": 10.63471,
+      "lon": -61.366711
+    },
+    "name": "Paradise"
+  },
+  {
+    "country": "TT",
+    "id": 3574081,
+    "coord": {
+      "lat": 10.65,
+      "lon": -61.466671
+    },
+    "name": "Morvant"
+  },
+  {
+    "country": "TT",
+    "id": 3573703,
+    "coord": {
+      "lat": 11.18333,
+      "lon": -60.73333
+    },
+    "name": "Scarborough"
+  },
+  {
+    "country": "TT",
+    "id": 3574524,
+    "coord": {
+      "lat": 10.31667,
+      "lon": -61.416672
+    },
+    "name": "Gasparillo"
+  },
+  {
+    "country": "TT",
+    "id": 7521945,
+    "coord": {
+      "lat": 10.13382,
+      "lon": -61.501209
+    },
+    "name": "Siparia"
+  },
+  {
+    "country": "TT",
+    "id": 3573681,
+    "coord": {
+      "lat": 10.13333,
+      "lon": -61.5
+    },
+    "name": "Siparia"
+  },
+  {
+    "country": "TT",
+    "id": 3573652,
+    "coord": {
+      "lat": 10.65,
+      "lon": -61.48333
+    },
+    "name": "Success"
+  },
+  {
+    "country": "TT",
+    "id": 7521939,
+    "coord": {
+      "lat": 10.7005,
+      "lon": -61.534168
+    },
+    "name": "Diego Martin"
+  },
+  {
+    "country": "TT",
+    "id": 3573935,
+    "coord": {
+      "lat": 10.7,
+      "lon": -61.533329
+    },
+    "name": "Petit Valley"
+  },
+  {
+    "country": "TT",
+    "id": 3574878,
+    "coord": {
+      "lat": 10.7,
+      "lon": -61.466671
+    },
+    "name": "Cantaro"
+  },
+  {
+    "country": "TT",
+    "id": 3574184,
+    "coord": {
+      "lat": 10.7,
+      "lon": -61.51667
+    },
+    "name": "Maraval"
+  },
+  {
+    "country": "TT",
+    "id": 3573957,
+    "coord": {
+      "lat": 10.65,
+      "lon": -61.450001
+    },
+    "name": "Petit Bourg"
+  },
+  {
+    "country": "TT",
+    "id": 7521941,
+    "coord": {
+      "lat": 10.16778,
+      "lon": -61.46524
+    },
+    "name": "Penal/Debe"
+  },
+  {
+    "country": "TT",
+    "id": 3573965,
+    "coord": {
+      "lat": 10.16667,
+      "lon": -61.466671
+    },
+    "name": "Penal"
+  },
+  {
+    "country": "TT",
+    "id": 3574536,
+    "coord": {
+      "lat": 10.18333,
+      "lon": -61.549999
+    },
+    "name": "Fyzabad"
+  },
+  {
+    "country": "TT",
+    "id": 3574773,
+    "coord": {
+      "lat": 10.35,
+      "lon": -61.466671
+    },
+    "name": "Claxton Bay"
+  },
+  {
+    "country": "TT",
+    "id": 3574671,
+    "coord": {
+      "lat": 10.63333,
+      "lon": -61.400002
+    },
+    "name": "Curepe"
+  },
+  {
+    "country": "TT",
+    "id": 3573854,
+    "coord": {
+      "lat": 10.61667,
+      "lon": -61.316669
+    },
+    "name": "Red Hill"
+  },
+  {
+    "country": "TT",
+    "id": 3574632,
+    "coord": {
+      "lat": 10.63333,
+      "lon": -61.349998
+    },
+    "name": "Dinsley"
+  },
+  {
+    "country": "TT",
+    "id": 3573781,
+    "coord": {
+      "lat": 10.58333,
+      "lon": -61.333328
+    },
+    "name": "Saint Helena"
+  },
+  {
+    "country": "TT",
+    "id": 3573764,
+    "coord": {
+      "lat": 10.45,
+      "lon": -61.416672
+    },
+    "name": "Saint Marys"
+  },
+  {
+    "country": "TT",
+    "id": 3574104,
+    "coord": {
+      "lat": 11.24606,
+      "lon": -60.71365
+    },
+    "name": "Moriah"
+  },
+  {
+    "country": "TT",
+    "id": 3574038,
+    "coord": {
+      "lat": 10.28333,
+      "lon": -61.316669
+    },
+    "name": "New Grant"
+  },
+  {
+    "country": "TT",
+    "id": 3573885,
+    "coord": {
+      "lat": 10.41667,
+      "lon": -61.400002
+    },
+    "name": "Preysal"
+  },
+  {
+    "country": "TT",
+    "id": 3573995,
+    "coord": {
+      "lat": 10.08333,
+      "lon": -61.583328
+    },
+    "name": "Palo Seco"
+  },
+  {
+    "country": "TT",
+    "id": 3574806,
+    "coord": {
+      "lat": 10.68333,
+      "lon": -61.633331
+    },
+    "name": "Chaguaramas"
+  },
+  {
+    "country": "TT",
+    "id": 3574957,
+    "coord": {
+      "lat": 10.66667,
+      "lon": -61.51667
+    },
+    "name": "Boissiere Village"
+  },
+  {
+    "country": "TT",
+    "id": 3574323,
+    "coord": {
+      "lat": 10.71667,
+      "lon": -61.466671
+    },
+    "name": "La Pastora"
+  },
+  {
+    "country": "TT",
+    "id": 3573541,
+    "coord": {
+      "lat": 10.46667,
+      "lon": -61.466671
+    },
+    "name": "Waterloo"
+  },
+  {
+    "country": "TT",
+    "id": 7521940,
+    "coord": {
+      "lat": 11.24988,
+      "lon": -60.58419
+    },
+    "name": "Eastern Tobago"
+  },
+  {
+    "country": "TT",
+    "id": 3573819,
+    "coord": {
+      "lat": 11.25,
+      "lon": -60.583328
+    },
+    "name": "Roxborough"
+  },
+  {
+    "country": "TT",
+    "id": 3573604,
+    "coord": {
+      "lat": 10.83333,
+      "lon": -60.950001
+    },
+    "name": "Toco"
+  },
+  {
+    "country": "TT",
+    "id": 3573972,
+    "coord": {
+      "lat": 11.18822,
+      "lon": -60.763889
+    },
+    "name": "Patience Hill"
+  },
+  {
+    "country": "TT",
+    "id": 3573645,
+    "coord": {
+      "lat": 10.26667,
+      "lon": -61.26667
+    },
+    "name": "Tableland"
+  },
+  {
+    "country": "TT",
+    "id": 3573596,
+    "coord": {
+      "lat": 10.36667,
+      "lon": -61.400002
+    },
+    "name": "Tortuga"
+  },
+  {
+    "country": "TT",
+    "id": 3574952,
+    "coord": {
+      "lat": 11.1543,
+      "lon": -60.83075
+    },
+    "name": "Bon Accord Village"
+  },
+  {
+    "country": "TT",
+    "id": 3574689,
+    "coord": {
+      "lat": 10.58333,
+      "lon": -61.200001
+    },
+    "name": "Cumuto"
+  },
+  {
+    "country": "TT",
+    "id": 3574497,
+    "coord": {
+      "lat": 10.4,
+      "lon": -61.366669
+    },
+    "name": "Gran Couva"
+  },
+  {
+    "country": "TT",
+    "id": 3574877,
+    "coord": {
+      "lat": 10.45,
+      "lon": -61.333328
+    },
+    "name": "Caparo"
+  },
+  {
+    "country": "TT",
+    "id": 3574087,
+    "coord": {
+      "lat": 10.08333,
+      "lon": -61.283329
+    },
+    "name": "Moruga"
+  },
+  {
+    "country": "TT",
+    "id": 3574168,
+    "coord": {
+      "lat": 10.66667,
+      "lon": -61.066669
+    },
+    "name": "Matura"
+  },
+  {
+    "country": "TT",
+    "id": 3573638,
+    "coord": {
+      "lat": 10.5,
+      "lon": -61.26667
+    },
+    "name": "Talparo"
+  },
+  {
+    "country": "TT",
+    "id": 3573850,
+    "coord": {
+      "lat": 10.3,
+      "lon": -61.416672
+    },
+    "name": "Reform"
+  },
+  {
+    "country": "TT",
+    "id": 3574552,
+    "coord": {
+      "lat": 10.68639,
+      "lon": -61.555
+    },
+    "name": "Four Roads"
+  },
+  {
+    "country": "TT",
+    "id": 3574729,
+    "coord": {
+      "lat": 10.5,
+      "lon": -61.183331
+    },
+    "name": "Coryal"
+  },
+  {
+    "country": "TT",
+    "id": 3573918,
+    "coord": {
+      "lat": 10.33333,
+      "lon": -61.333328
+    },
+    "name": "Piparo"
+  },
+  {
+    "country": "TT",
+    "id": 3573665,
+    "coord": {
+      "lat": 11.29694,
+      "lon": -60.537949
+    },
+    "name": "Speyside"
+  },
+  {
+    "country": "TT",
+    "id": 3574517,
+    "coord": {
+      "lat": 11.22264,
+      "lon": -60.60984
+    },
+    "name": "Glamorgan"
+  },
+  {
+    "country": "TT",
+    "id": 3573822,
+    "coord": {
+      "lat": 10.21667,
+      "lon": -61.583328
+    },
+    "name": "Roussillac"
+  },
+  {
+    "country": "TT",
+    "id": 3574928,
+    "coord": {
+      "lat": 10.48333,
+      "lon": -61.466671
+    },
+    "name": "Brickfield"
+  },
+  {
+    "country": "TT",
+    "id": 3574263,
+    "coord": {
+      "lat": 10.68333,
+      "lon": -61.316669
+    },
+    "name": "Lopinot"
+  },
+  {
+    "country": "TT",
+    "id": 3574655,
+    "coord": {
+      "lat": 11.26601,
+      "lon": -60.559319
+    },
+    "name": "Delaford"
+  },
+  {
+    "country": "TT",
+    "id": 3574103,
+    "coord": {
+      "lat": 10.36035,
+      "lon": -61.35075
+    },
+    "name": "Morichal"
+  },
+  {
+    "country": "TT",
+    "id": 3575073,
+    "coord": {
+      "lat": 11.20969,
+      "lon": -60.717731
+    },
+    "name": "Adelphi"
+  },
+  {
+    "country": "TT",
+    "id": 3574874,
+    "coord": {
+      "lat": 10.15,
+      "lon": -61.700001
+    },
+    "name": "Cap-de-Ville"
+  },
+  {
+    "country": "TT",
+    "id": 3574986,
+    "coord": {
+      "lat": 11.20598,
+      "lon": -60.781898
+    },
+    "name": "Black Rock"
+  },
+  {
+    "country": "TT",
+    "id": 7521947,
+    "coord": {
+      "lat": 10.63387,
+      "lon": -61.381821
+    },
+    "name": "Tunapuna/Piarco"
+  },
+  {
+    "country": "TT",
+    "id": 3573576,
+    "coord": {
+      "lat": 10.63333,
+      "lon": -61.383331
+    },
+    "name": "Tunapuna"
+  },
+  {
+    "country": "TT",
+    "id": 7521944,
+    "coord": {
+      "lat": 10.5835,
+      "lon": -61.117722
+    },
+    "name": "Sangre Grande"
+  },
+  {
+    "country": "TT",
+    "id": 3573732,
+    "coord": {
+      "lat": 10.58333,
+      "lon": -61.116669
+    },
+    "name": "Sangre Grande"
+  },
+  {
+    "country": "TT",
+    "id": 3573739,
+    "coord": {
+      "lat": 10.28333,
+      "lon": -61.466671
+    },
+    "name": "San Fernando"
+  },
+  {
+    "country": "TT",
+    "id": 3573738,
+    "coord": {
+      "lat": 10.28333,
+      "lon": -61.466671
+    },
+    "name": "San Fernando"
+  },
+  {
+    "country": "TT",
+    "id": 3573890,
+    "coord": {
+      "lat": 10.66617,
+      "lon": -61.516571
+    },
+    "name": "Port-of-Spain"
+  },
+  {
+    "country": "TT",
+    "id": 3574194,
+    "coord": {
+      "lat": 10.30618,
+      "lon": -61.446709
+    },
+    "name": "Marabella"
+  },
+  {
+    "country": "TT",
+    "id": 3574810,
+    "coord": {
+      "lat": 10.51667,
+      "lon": -61.416672
+    },
+    "name": "Chaguanas"
+  },
+  {
+    "country": "TT",
+    "id": 3575051,
+    "coord": {
+      "lat": 10.63333,
+      "lon": -61.283329
+    },
+    "name": "Arima"
+  },
+  {
+    "country": "TT",
+    "id": 3573840,
+    "coord": {
+      "lat": 10.3,
+      "lon": -61.183331
+    },
+    "name": "Rio Claro"
+  },
+  {
+    "country": "TT",
+    "id": 3573882,
+    "coord": {
+      "lat": 10.26667,
+      "lon": -61.383331
+    },
+    "name": "Princes Town"
+  },
+  {
+    "country": "TT",
+    "id": 3574069,
+    "coord": {
+      "lat": 10.66667,
+      "lon": -61.533329
+    },
+    "name": "Mucurapo"
+  },
+  {
+    "country": "TT",
+    "id": 3574309,
+    "coord": {
+      "lat": 10.64917,
+      "lon": -61.49889
+    },
+    "name": "Laventille"
+  },
+  {
+    "country": "TT",
+    "id": 3574659,
+    "coord": {
+      "lat": 10.2,
+      "lon": -61.450001
+    },
+    "name": "Debe"
+  },
+  {
+    "country": "TT",
+    "id": 3574724,
+    "coord": {
+      "lat": 10.42248,
+      "lon": -61.46748
+    },
+    "name": "Couva"
+  },
+  {
+    "country": "TT",
+    "id": 3575039,
+    "coord": {
+      "lat": 10.63333,
+      "lon": -61.333328
+    },
+    "name": "Arouca"
+  },
+  {
+    "country": "TT",
+    "id": 3574766,
+    "coord": {
+      "lat": 10.68333,
+      "lon": -61.583328
+    },
+    "name": "Coco"
+  },
+  {
+    "country": "TT",
+    "id": 3573794,
+    "coord": {
+      "lat": 10.67039,
+      "lon": -61.521679
+    },
+    "name": "Saint Clair"
+  },
+  {
+    "country": "TT",
+    "id": 3574466,
+    "coord": {
+      "lat": 10.73333,
+      "lon": -61.566669
+    },
+    "name": "Green Hill"
+  }
+
+]

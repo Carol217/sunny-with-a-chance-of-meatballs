@@ -1,0 +1,247 @@
+[
+
+  {
+    "country": "YT",
+    "id": 7521435,
+    "coord": {
+      "lat": -12.79489,
+      "lon": 45.281952
+    },
+    "name": "Pamandzi"
+  },
+  {
+    "country": "YT",
+    "id": 921707,
+    "coord": {
+      "lat": -12.79674,
+      "lon": 45.279381
+    },
+    "name": "Pamanzi Be"
+  },
+  {
+    "country": "YT",
+    "id": 7521426,
+    "coord": {
+      "lat": -12.93497,
+      "lon": 45.151058
+    },
+    "name": "Chirongui"
+  },
+  {
+    "country": "YT",
+    "id": 1090415,
+    "coord": {
+      "lat": -12.93194,
+      "lon": 45.148331
+    },
+    "name": "Chirongui"
+  },
+  {
+    "country": "YT",
+    "id": 7521430,
+    "coord": {
+      "lat": -12.73513,
+      "lon": 45.20591
+    },
+    "name": "Koungou"
+  },
+  {
+    "country": "YT",
+    "id": 1090225,
+    "coord": {
+      "lat": -12.73361,
+      "lon": 45.20417
+    },
+    "name": "Koungou"
+  },
+  {
+    "country": "YT",
+    "id": 7521425,
+    "coord": {
+      "lat": -12.83072,
+      "lon": 45.114071
+    },
+    "name": "Chiconi"
+  },
+  {
+    "country": "YT",
+    "id": 1090322,
+    "coord": {
+      "lat": -12.83333,
+      "lon": 45.110561
+    },
+    "name": "Chiconi"
+  },
+  {
+    "country": "YT",
+    "id": 7521421,
+    "coord": {
+      "lat": -12.72215,
+      "lon": 45.058109
+    },
+    "name": "Acoua"
+  },
+  {
+    "country": "YT",
+    "id": 922015,
+    "coord": {
+      "lat": -12.72391,
+      "lon": 45.058189
+    },
+    "name": "Acoua"
+  },
+  {
+    "country": "YT",
+    "id": 7521423,
+    "coord": {
+      "lat": -12.91113,
+      "lon": 45.19389
+    },
+    "name": "Bandrele"
+  },
+  {
+    "country": "YT",
+    "id": 1024031,
+    "coord": {
+      "lat": -12.83333,
+      "lon": 45.166672
+    },
+    "name": "Mayotte"
+  },
+  {
+    "country": "YT",
+    "id": 7521431,
+    "coord": {
+      "lat": -12.77966,
+      "lon": 45.22831
+    },
+    "name": "Mamoudzou"
+  },
+  {
+    "country": "YT",
+    "id": 921815,
+    "coord": {
+      "lat": -12.77944,
+      "lon": 45.227219
+    },
+    "name": "Mamoudzou"
+  },
+  {
+    "country": "YT",
+    "id": 7521437,
+    "coord": {
+      "lat": -12.78845,
+      "lon": 45.10463
+    },
+    "name": "Tsingoni"
+  },
+  {
+    "country": "YT",
+    "id": 1090177,
+    "coord": {
+      "lat": -12.78722,
+      "lon": 45.102779
+    },
+    "name": "Tsingoni"
+  },
+  {
+    "country": "YT",
+    "id": 1090397,
+    "coord": {
+      "lat": -12.90667,
+      "lon": 45.191391
+    },
+    "name": "Bandrele"
+  },
+  {
+    "country": "YT",
+    "id": 7521432,
+    "coord": {
+      "lat": -12.70013,
+      "lon": 45.06918
+    },
+    "name": "Mtsamboro"
+  },
+  {
+    "country": "YT",
+    "id": 1090126,
+    "coord": {
+      "lat": -12.69982,
+      "lon": 45.068939
+    },
+    "name": "Mtsamboro"
+  },
+  {
+    "country": "YT",
+    "id": 921900,
+    "coord": {
+      "lat": -12.7887,
+      "lon": 45.269939
+    },
+    "name": "Dzaoudzi"
+  },
+  {
+    "country": "YT",
+    "id": 921917,
+    "coord": {
+      "lat": -12.8436,
+      "lon": 45.184361
+    },
+    "name": "Dembeni"
+  },
+  {
+    "country": "YT",
+    "id": 1090119,
+    "coord": {
+      "lat": -12.7044,
+      "lon": 45.122311
+    },
+    "name": "Bandraboua"
+  },
+  {
+    "country": "YT",
+    "id": 1090161,
+    "coord": {
+      "lat": -12.75944,
+      "lon": 45.083611
+    },
+    "name": "MTsangamouji"
+  },
+  {
+    "country": "YT",
+    "id": 1090311,
+    "coord": {
+      "lat": -12.84639,
+      "lon": 45.136108
+    },
+    "name": "Ouangani"
+  },
+  {
+    "country": "YT",
+    "id": 1090340,
+    "coord": {
+      "lat": -12.85055,
+      "lon": 45.102051
+    },
+    "name": "Sada"
+  },
+  {
+    "country": "YT",
+    "id": 1090467,
+    "coord": {
+      "lat": -12.9025,
+      "lon": 45.076111
+    },
+    "name": "Boueni"
+  },
+  {
+    "country": "YT",
+    "id": 1090476,
+    "coord": {
+      "lat": -12.95361,
+      "lon": 45.103329
+    },
+    "name": "Kani Keli"
+  }
+
+]

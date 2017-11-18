@@ -1,0 +1,1687 @@
+[
+
+  {
+    "country": "UG",
+    "id": 235483,
+    "coord": {
+      "lat": 2.15,
+      "lon": 32.549999
+    },
+    "name": "Adok"
+  },
+  {
+    "country": "UG",
+    "id": 8030561,
+    "coord": {
+      "lat": 2.38153,
+      "lon": 34.168339
+    },
+    "name": "Napak District"
+  },
+  {
+    "country": "UG",
+    "id": 230088,
+    "coord": {
+      "lat": 2.33333,
+      "lon": 34.349998
+    },
+    "name": "Lokiporangatome"
+  },
+  {
+    "country": "UG",
+    "id": 225858,
+    "coord": {
+      "lat": 0.72833,
+      "lon": 32.512218
+    },
+    "name": "Wobulenzi"
+  },
+  {
+    "country": "UG",
+    "id": 229059,
+    "coord": {
+      "lat": 3.66088,
+      "lon": 31.724739
+    },
+    "name": "Moyo"
+  },
+  {
+    "country": "UG",
+    "id": 229746,
+    "coord": {
+      "lat": 0.84917,
+      "lon": 32.473061
+    },
+    "name": "Luwero"
+  },
+  {
+    "country": "UG",
+    "id": 233070,
+    "coord": {
+      "lat": -1.24857,
+      "lon": 29.989929
+    },
+    "name": "Kabale"
+  },
+  {
+    "country": "UG",
+    "id": 443334,
+    "coord": {
+      "lat": 0.7,
+      "lon": 33.533298
+    },
+    "name": "Iganga District"
+  },
+  {
+    "country": "UG",
+    "id": 234092,
+    "coord": {
+      "lat": 0.76972,
+      "lon": 33.61306
+    },
+    "name": "Busembatia"
+  },
+  {
+    "country": "UG",
+    "id": 227439,
+    "coord": {
+      "lat": -1.13333,
+      "lon": 29.58333
+    },
+    "name": "Nyalutembe"
+  },
+  {
+    "country": "UG",
+    "id": 225835,
+    "coord": {
+      "lat": 3.46506,
+      "lon": 31.246889
+    },
+    "name": "Yumbe"
+  },
+  {
+    "country": "UG",
+    "id": 227592,
+    "coord": {
+      "lat": -0.88333,
+      "lon": 29.65
+    },
+    "name": "Ntungamo"
+  },
+  {
+    "country": "UG",
+    "id": 228227,
+    "coord": {
+      "lat": 0.68944,
+      "lon": 32.421391
+    },
+    "name": "Namasuba"
+  },
+  {
+    "country": "UG",
+    "id": 443336,
+    "coord": {
+      "lat": -1.20774,
+      "lon": 29.98588
+    },
+    "name": "Kabale District"
+  },
+  {
+    "country": "UG",
+    "id": 233730,
+    "coord": {
+      "lat": -0.59167,
+      "lon": 30.628611
+    },
+    "name": "Bwizibwera"
+  },
+  {
+    "country": "UG",
+    "id": 226074,
+    "coord": {
+      "lat": 2,
+      "lon": 33
+    },
+    "name": "Republic of Uganda"
+  },
+  {
+    "country": "UG",
+    "id": 448224,
+    "coord": {
+      "lat": 0.23763,
+      "lon": 32.478359
+    },
+    "name": "Wakiso District"
+  },
+  {
+    "country": "UG",
+    "id": 234882,
+    "coord": {
+      "lat": 0.03333,
+      "lon": 32.283329
+    },
+    "name": "Balabala"
+  },
+  {
+    "country": "UG",
+    "id": 443337,
+    "coord": {
+      "lat": 0.65454,
+      "lon": 30.28816
+    },
+    "name": "Kabarole District"
+  },
+  {
+    "country": "UG",
+    "id": 231163,
+    "coord": {
+      "lat": 0.41667,
+      "lon": 30.183331
+    },
+    "name": "Kiraboha"
+  },
+  {
+    "country": "UG",
+    "id": 443339,
+    "coord": {
+      "lat": 0.33508,
+      "lon": 32.58313
+    },
+    "name": "Kampala District"
+  },
+  {
+    "country": "UG",
+    "id": 228177,
+    "coord": {
+      "lat": 0.31667,
+      "lon": 32.566669
+    },
+    "name": "Namirembe"
+  },
+  {
+    "country": "UG",
+    "id": 233508,
+    "coord": {
+      "lat": 0.06444,
+      "lon": 32.446941
+    },
+    "name": "Entebbe"
+  },
+  {
+    "country": "UG",
+    "id": 233709,
+    "coord": {
+      "lat": 0.07285,
+      "lon": 32.19902
+    },
+    "name": "Mpigi District"
+  },
+  {
+    "country": "UG",
+    "id": 229024,
+    "coord": {
+      "lat": 0.225,
+      "lon": 32.31361
+    },
+    "name": "Mpigi"
+  },
+  {
+    "country": "UG",
+    "id": 443365,
+    "coord": {
+      "lat": 1.78481,
+      "lon": 33.594318
+    },
+    "name": "Soroti District"
+  },
+  {
+    "country": "UG",
+    "id": 226975,
+    "coord": {
+      "lat": 1.7,
+      "lon": 33.616669
+    },
+    "name": "Opiyai"
+  },
+  {
+    "country": "UG",
+    "id": 443349,
+    "coord": {
+      "lat": 2.33107,
+      "lon": 32.945869
+    },
+    "name": "Lira District"
+  },
+  {
+    "country": "UG",
+    "id": 230166,
+    "coord": {
+      "lat": 2.235,
+      "lon": 32.909721
+    },
+    "name": "Lira"
+  },
+  {
+    "country": "UG",
+    "id": 443356,
+    "coord": {
+      "lat": 2.6389,
+      "lon": 34.643951
+    },
+    "name": "Moroto District"
+  },
+  {
+    "country": "UG",
+    "id": 228512,
+    "coord": {
+      "lat": 2.51667,
+      "lon": 34.650002
+    },
+    "name": "Nadiket"
+  },
+  {
+    "country": "UG",
+    "id": 443366,
+    "coord": {
+      "lat": 0.75,
+      "lon": 34.083328
+    },
+    "name": "Tororo District"
+  },
+  {
+    "country": "UG",
+    "id": 226110,
+    "coord": {
+      "lat": 0.69299,
+      "lon": 34.180851
+    },
+    "name": "Tororo"
+  },
+  {
+    "country": "UG",
+    "id": 226234,
+    "coord": {
+      "lat": 1.71464,
+      "lon": 33.61113
+    },
+    "name": "Soroti"
+  },
+  {
+    "country": "UG",
+    "id": 443351,
+    "coord": {
+      "lat": 1.78849,
+      "lon": 31.719801
+    },
+    "name": "Masindi District"
+  },
+  {
+    "country": "UG",
+    "id": 8079569,
+    "coord": {
+      "lat": 1.75561,
+      "lon": 31.72566
+    },
+    "name": "Palingi"
+  },
+  {
+    "country": "UG",
+    "id": 443355,
+    "coord": {
+      "lat": -0.5,
+      "lon": 30.6
+    },
+    "name": "Mbarara District"
+  },
+  {
+    "country": "UG",
+    "id": 227442,
+    "coord": {
+      "lat": -0.5675,
+      "lon": 30.603609
+    },
+    "name": "Nyalubanga"
+  },
+  {
+    "country": "UG",
+    "id": 443342,
+    "coord": {
+      "lat": 0.121,
+      "lon": 30.007771
+    },
+    "name": "Kasese District"
+  },
+  {
+    "country": "UG",
+    "id": 226608,
+    "coord": {
+      "lat": 0.2,
+      "lon": 30.1
+    },
+    "name": "Rukoki"
+  },
+  {
+    "country": "UG",
+    "id": 443335,
+    "coord": {
+      "lat": 0.56273,
+      "lon": 33.21106
+    },
+    "name": "Jinja District"
+  },
+  {
+    "country": "UG",
+    "id": 233114,
+    "coord": {
+      "lat": 0.43902,
+      "lon": 33.203171
+    },
+    "name": "Jinja"
+  },
+  {
+    "country": "UG",
+    "id": 443331,
+    "coord": {
+      "lat": 2.85604,
+      "lon": 32.430012
+    },
+    "name": "Gulu District"
+  },
+  {
+    "country": "UG",
+    "id": 8197383,
+    "coord": {
+      "lat": 2.83018,
+      "lon": 32.287811
+    },
+    "name": "Bungatira"
+  },
+  {
+    "country": "UG",
+    "id": 234396,
+    "coord": {
+      "lat": 0.03333,
+      "lon": 32.433331
+    },
+    "name": "Bukiberu"
+  },
+  {
+    "country": "UG",
+    "id": 443328,
+    "coord": {
+      "lat": 2.96667,
+      "lon": 31.16667
+    },
+    "name": "Arua District"
+  },
+  {
+    "country": "UG",
+    "id": 448245,
+    "coord": {
+      "lat": 3.05278,
+      "lon": 30.92194
+    },
+    "name": "Paraka"
+  },
+  {
+    "country": "UG",
+    "id": 448225,
+    "coord": {
+      "lat": 3.52354,
+      "lon": 31.282431
+    },
+    "name": "Yumbe District"
+  },
+  {
+    "country": "UG",
+    "id": 443350,
+    "coord": {
+      "lat": 0.83,
+      "lon": 32.5
+    },
+    "name": "Luwero District"
+  },
+  {
+    "country": "UG",
+    "id": 225964,
+    "coord": {
+      "lat": 0.40444,
+      "lon": 32.459438
+    },
+    "name": "Wakiso"
+  },
+  {
+    "country": "UG",
+    "id": 443362,
+    "coord": {
+      "lat": 1.22593,
+      "lon": 33.77977
+    },
+    "name": "Pallisa District"
+  },
+  {
+    "country": "UG",
+    "id": 226823,
+    "coord": {
+      "lat": 1.145,
+      "lon": 33.709438
+    },
+    "name": "Pallisa"
+  },
+  {
+    "country": "UG",
+    "id": 8030563,
+    "coord": {
+      "lat": 2.52031,
+      "lon": 30.888241
+    },
+    "name": "Zombo District"
+  },
+  {
+    "country": "UG",
+    "id": 226853,
+    "coord": {
+      "lat": 2.41669,
+      "lon": 30.98551
+    },
+    "name": "Paidha"
+  },
+  {
+    "country": "UG",
+    "id": 448217,
+    "coord": {
+      "lat": -0.75,
+      "lon": 29.73
+    },
+    "name": "Kanungu District"
+  },
+  {
+    "country": "UG",
+    "id": 443361,
+    "coord": {
+      "lat": -0.93702,
+      "lon": 30.304831
+    },
+    "name": "Ntungamo District"
+  },
+  {
+    "country": "UG",
+    "id": 227593,
+    "coord": {
+      "lat": -0.87944,
+      "lon": 30.26417
+    },
+    "name": "Ntungamo"
+  },
+  {
+    "country": "UG",
+    "id": 8030577,
+    "coord": {
+      "lat": 0.3012,
+      "lon": 33.051842
+    },
+    "name": "Buikwe District"
+  },
+  {
+    "country": "UG",
+    "id": 227812,
+    "coord": {
+      "lat": 0.41861,
+      "lon": 33.173061
+    },
+    "name": "Njeru"
+  },
+  {
+    "country": "UG",
+    "id": 443360,
+    "coord": {
+      "lat": 2.46732,
+      "lon": 31.26293
+    },
+    "name": "Nebbi District"
+  },
+  {
+    "country": "UG",
+    "id": 227904,
+    "coord": {
+      "lat": 2.47826,
+      "lon": 31.08894
+    },
+    "name": "Nebbi"
+  },
+  {
+    "country": "UG",
+    "id": 7056294,
+    "coord": {
+      "lat": 1.04063,
+      "lon": 32.189678
+    },
+    "name": "Nakaseke District"
+  },
+  {
+    "country": "UG",
+    "id": 443359,
+    "coord": {
+      "lat": -0.11134,
+      "lon": 32.73645
+    },
+    "name": "Mukono District"
+  },
+  {
+    "country": "UG",
+    "id": 228853,
+    "coord": {
+      "lat": 0.35333,
+      "lon": 32.75528
+    },
+    "name": "Mukono"
+  },
+  {
+    "country": "UG",
+    "id": 443358,
+    "coord": {
+      "lat": 0.5,
+      "lon": 31.5
+    },
+    "name": "Mubende District"
+  },
+  {
+    "country": "UG",
+    "id": 228971,
+    "coord": {
+      "lat": 0.56055,
+      "lon": 31.389999
+    },
+    "name": "Mubende"
+  },
+  {
+    "country": "UG",
+    "id": 443357,
+    "coord": {
+      "lat": 3.65,
+      "lon": 31.719999
+    },
+    "name": "Moyo District"
+  },
+  {
+    "country": "UG",
+    "id": 7056293,
+    "coord": {
+      "lat": 0.43213,
+      "lon": 32.066971
+    },
+    "name": "Mityana District"
+  },
+  {
+    "country": "UG",
+    "id": 229139,
+    "coord": {
+      "lat": 0.4175,
+      "lon": 32.022781
+    },
+    "name": "Mityana"
+  },
+  {
+    "country": "UG",
+    "id": 229268,
+    "coord": {
+      "lat": -0.608,
+      "lon": 30.65
+    },
+    "name": "Mbarara"
+  },
+  {
+    "country": "UG",
+    "id": 443353,
+    "coord": {
+      "lat": 1.08,
+      "lon": 34.18
+    },
+    "name": "Mbale District"
+  },
+  {
+    "country": "UG",
+    "id": 229278,
+    "coord": {
+      "lat": 1.08209,
+      "lon": 34.17503
+    },
+    "name": "Mbale"
+  },
+  {
+    "country": "UG",
+    "id": 229362,
+    "coord": {
+      "lat": 1.67444,
+      "lon": 31.715
+    },
+    "name": "Masindi"
+  },
+  {
+    "country": "UG",
+    "id": 226230,
+    "coord": {
+      "lat": -0.48729,
+      "lon": 31.840731
+    },
+    "name": "Masaka District"
+  },
+  {
+    "country": "UG",
+    "id": 229380,
+    "coord": {
+      "lat": -0.33379,
+      "lon": 31.734091
+    },
+    "name": "Masaka"
+  },
+  {
+    "country": "UG",
+    "id": 229911,
+    "coord": {
+      "lat": 0.37722,
+      "lon": 32.91972
+    },
+    "name": "Lugazi"
+  },
+  {
+    "country": "UG",
+    "id": 448219,
+    "coord": {
+      "lat": 0.65696,
+      "lon": 30.659901
+    },
+    "name": "Kyenjojo District"
+  },
+  {
+    "country": "UG",
+    "id": 230299,
+    "coord": {
+      "lat": 0.63278,
+      "lon": 30.621389
+    },
+    "name": "Kyenjojo"
+  },
+  {
+    "country": "UG",
+    "id": 443347,
+    "coord": {
+      "lat": 3,
+      "lon": 34.099998
+    },
+    "name": "Kotido District"
+  },
+  {
+    "country": "UG",
+    "id": 230617,
+    "coord": {
+      "lat": 2.98056,
+      "lon": 34.13306
+    },
+    "name": "Kotido"
+  },
+  {
+    "country": "UG",
+    "id": 443346,
+    "coord": {
+      "lat": 3.36052,
+      "lon": 33.27388
+    },
+    "name": "Kitgum District"
+  },
+  {
+    "country": "UG",
+    "id": 230893,
+    "coord": {
+      "lat": 3.27833,
+      "lon": 32.886669
+    },
+    "name": "Kitgum"
+  },
+  {
+    "country": "UG",
+    "id": 231139,
+    "coord": {
+      "lat": 0.3475,
+      "lon": 32.64917
+    },
+    "name": "Kireka"
+  },
+  {
+    "country": "UG",
+    "id": 448218,
+    "coord": {
+      "lat": 1,
+      "lon": 32.866669
+    },
+    "name": "Kayunga District"
+  },
+  {
+    "country": "UG",
+    "id": 231696,
+    "coord": {
+      "lat": 0.7025,
+      "lon": 32.888611
+    },
+    "name": "Kayunga"
+  },
+  {
+    "country": "UG",
+    "id": 232066,
+    "coord": {
+      "lat": 0.18333,
+      "lon": 30.08333
+    },
+    "name": "Kasese"
+  },
+  {
+    "country": "UG",
+    "id": 448216,
+    "coord": {
+      "lat": 0.21644,
+      "lon": 30.44076
+    },
+    "name": "Kamwenge District"
+  },
+  {
+    "country": "UG",
+    "id": 232371,
+    "coord": {
+      "lat": 0.1866,
+      "lon": 30.45393
+    },
+    "name": "Kamwenge"
+  },
+  {
+    "country": "UG",
+    "id": 232422,
+    "coord": {
+      "lat": 0.31628,
+      "lon": 32.582191
+    },
+    "name": "Kampala"
+  },
+  {
+    "country": "UG",
+    "id": 233275,
+    "coord": {
+      "lat": 0.60917,
+      "lon": 33.468609
+    },
+    "name": "Iganga"
+  },
+  {
+    "country": "UG",
+    "id": 443332,
+    "coord": {
+      "lat": 1.41667,
+      "lon": 31.08333
+    },
+    "name": "Hoima District"
+  },
+  {
+    "country": "UG",
+    "id": 233312,
+    "coord": {
+      "lat": 1.43556,
+      "lon": 31.343611
+    },
+    "name": "Hoima"
+  },
+  {
+    "country": "UG",
+    "id": 233346,
+    "coord": {
+      "lat": 2.77457,
+      "lon": 32.298988
+    },
+    "name": "Gulu"
+  },
+  {
+    "country": "UG",
+    "id": 233476,
+    "coord": {
+      "lat": 0.66174,
+      "lon": 30.274799
+    },
+    "name": "Fort Portal"
+  },
+  {
+    "country": "UG",
+    "id": 233886,
+    "coord": {
+      "lat": 0.64222,
+      "lon": 33.174438
+    },
+    "name": "Buwenge"
+  },
+  {
+    "country": "UG",
+    "id": 443784,
+    "coord": {
+      "lat": 0.41762,
+      "lon": 34.004211
+    },
+    "name": "Busia District"
+  },
+  {
+    "country": "UG",
+    "id": 234077,
+    "coord": {
+      "lat": 0.45444,
+      "lon": 34.075829
+    },
+    "name": "Busia"
+  },
+  {
+    "country": "UG",
+    "id": 443329,
+    "coord": {
+      "lat": 0.66667,
+      "lon": 30.049999
+    },
+    "name": "Bundibugyo District"
+  },
+  {
+    "country": "UG",
+    "id": 234178,
+    "coord": {
+      "lat": 0.74139,
+      "lon": 30.04167
+    },
+    "name": "Bundibugyo"
+  },
+  {
+    "country": "UG",
+    "id": 443783,
+    "coord": {
+      "lat": 0.5333,
+      "lon": 33.790001
+    },
+    "name": "Bugiri District"
+  },
+  {
+    "country": "UG",
+    "id": 234565,
+    "coord": {
+      "lat": 0.57139,
+      "lon": 33.741669
+    },
+    "name": "Bugiri"
+  },
+  {
+    "country": "UG",
+    "id": 235039,
+    "coord": {
+      "lat": 3.02013,
+      "lon": 30.911051
+    },
+    "name": "Arua"
+  },
+  {
+    "country": "UG",
+    "id": 443782,
+    "coord": {
+      "lat": 3.25,
+      "lon": 31.75
+    },
+    "name": "Adjumani District"
+  },
+  {
+    "country": "UG",
+    "id": 235489,
+    "coord": {
+      "lat": 3.37786,
+      "lon": 31.790899
+    },
+    "name": "Adjumani"
+  },
+  {
+    "country": "UG",
+    "id": 225797,
+    "coord": {
+      "lat": 2.51355,
+      "lon": 30.90909
+    },
+    "name": "Zombo"
+  },
+  {
+    "country": "UG",
+    "id": 226267,
+    "coord": {
+      "lat": 1.23132,
+      "lon": 34.24773
+    },
+    "name": "Sironko"
+  },
+  {
+    "country": "UG",
+    "id": 226330,
+    "coord": {
+      "lat": 1.49417,
+      "lon": 33.45528
+    },
+    "name": "Serere"
+  },
+  {
+    "country": "UG",
+    "id": 226361,
+    "coord": {
+      "lat": -0.07722,
+      "lon": 31.456671
+    },
+    "name": "Sembabule"
+  },
+  {
+    "country": "UG",
+    "id": 226600,
+    "coord": {
+      "lat": -0.84111,
+      "lon": 29.94194
+    },
+    "name": "Rukungiri"
+  },
+  {
+    "country": "UG",
+    "id": 226676,
+    "coord": {
+      "lat": -0.29889,
+      "lon": 30.13361
+    },
+    "name": "Rubirizi"
+  },
+  {
+    "country": "UG",
+    "id": 226727,
+    "coord": {
+      "lat": -0.72,
+      "lon": 31.483891
+    },
+    "name": "Rakai"
+  },
+  {
+    "country": "UG",
+    "id": 226866,
+    "coord": {
+      "lat": 2.80056,
+      "lon": 33.134998
+    },
+    "name": "Pader Palwo"
+  },
+  {
+    "country": "UG",
+    "id": 227605,
+    "coord": {
+      "lat": 1.04111,
+      "lon": 30.48111
+    },
+    "name": "Ntoroko"
+  },
+  {
+    "country": "UG",
+    "id": 227843,
+    "coord": {
+      "lat": 1.43139,
+      "lon": 33.777222
+    },
+    "name": "Ngora"
+  },
+  {
+    "country": "UG",
+    "id": 228094,
+    "coord": {
+      "lat": 0.83611,
+      "lon": 33.686111
+    },
+    "name": "Namutumba"
+  },
+  {
+    "country": "UG",
+    "id": 228418,
+    "coord": {
+      "lat": 1.30889,
+      "lon": 32.45639
+    },
+    "name": "Nakasongola"
+  },
+  {
+    "country": "UG",
+    "id": 228429,
+    "coord": {
+      "lat": 0.75167,
+      "lon": 32.384998
+    },
+    "name": "Nakaseke"
+  },
+  {
+    "country": "UG",
+    "id": 228894,
+    "coord": {
+      "lat": 0.93806,
+      "lon": 30.759439
+    },
+    "name": "Muhororo"
+  },
+  {
+    "country": "UG",
+    "id": 229112,
+    "coord": {
+      "lat": 2.53453,
+      "lon": 34.666592
+    },
+    "name": "Moroto"
+  },
+  {
+    "country": "UG",
+    "id": 229144,
+    "coord": {
+      "lat": -0.68417,
+      "lon": 30.07
+    },
+    "name": "Mitoma"
+  },
+  {
+    "country": "UG",
+    "id": 229292,
+    "coord": {
+      "lat": 0.45972,
+      "lon": 33.480282
+    },
+    "name": "Mayuge"
+  },
+  {
+    "country": "UG",
+    "id": 229361,
+    "coord": {
+      "lat": 1.69606,
+      "lon": 32.086079
+    },
+    "name": "Masindi Port"
+  },
+  {
+    "country": "UG",
+    "id": 229397,
+    "coord": {
+      "lat": 3.27042,
+      "lon": 30.95532
+    },
+    "name": "Maracha"
+  },
+  {
+    "country": "UG",
+    "id": 229599,
+    "coord": {
+      "lat": -0.40306,
+      "lon": 31.157221
+    },
+    "name": "Lyantonde"
+  },
+  {
+    "country": "UG",
+    "id": 229630,
+    "coord": {
+      "lat": -0.41611,
+      "lon": 31.40806
+    },
+    "name": "Lwengo"
+  },
+  {
+    "country": "UG",
+    "id": 230256,
+    "coord": {
+      "lat": -0.61556,
+      "lon": 31.5175
+    },
+    "name": "Kyotera"
+  },
+  {
+    "country": "UG",
+    "id": 230331,
+    "coord": {
+      "lat": 0.50222,
+      "lon": 31.041389
+    },
+    "name": "Kyegegwa"
+  },
+  {
+    "country": "UG",
+    "id": 230584,
+    "coord": {
+      "lat": 1.46083,
+      "lon": 33.936111
+    },
+    "name": "Kumi"
+  },
+  {
+    "country": "UG",
+    "id": 230725,
+    "coord": {
+      "lat": 3.41364,
+      "lon": 30.95994
+    },
+    "name": "Koboko"
+  },
+  {
+    "country": "UG",
+    "id": 230993,
+    "coord": {
+      "lat": -1.28538,
+      "lon": 29.684971
+    },
+    "name": "Kisoro"
+  },
+  {
+    "country": "UG",
+    "id": 231083,
+    "coord": {
+      "lat": 1.87633,
+      "lon": 32.062248
+    },
+    "name": "Kiryandongo"
+  },
+  {
+    "country": "UG",
+    "id": 231250,
+    "coord": {
+      "lat": 0.2,
+      "lon": 30
+    },
+    "name": "Kilembe"
+  },
+  {
+    "country": "UG",
+    "id": 231426,
+    "coord": {
+      "lat": 1.6162,
+      "lon": 31.308901
+    },
+    "name": "Kigorobya"
+  },
+  {
+    "country": "UG",
+    "id": 231532,
+    "coord": {
+      "lat": 1.04333,
+      "lon": 33.797501
+    },
+    "name": "Kibuku"
+  },
+  {
+    "country": "UG",
+    "id": 231550,
+    "coord": {
+      "lat": 0.91611,
+      "lon": 31.77417
+    },
+    "name": "Kiboga"
+  },
+  {
+    "country": "UG",
+    "id": 231554,
+    "coord": {
+      "lat": -0.62602,
+      "lon": 30.43594
+    },
+    "name": "Kibingo"
+  },
+  {
+    "country": "UG",
+    "id": 231617,
+    "coord": {
+      "lat": 0.8,
+      "lon": 31.066669
+    },
+    "name": "Kibale"
+  },
+  {
+    "country": "UG",
+    "id": 231947,
+    "coord": {
+      "lat": 1.89111,
+      "lon": 33.96611
+    },
+    "name": "Katakwi"
+  },
+  {
+    "country": "UG",
+    "id": 232235,
+    "coord": {
+      "lat": 1.39651,
+      "lon": 34.450932
+    },
+    "name": "Kapchorwa"
+  },
+  {
+    "country": "UG",
+    "id": 232287,
+    "coord": {
+      "lat": -0.9575,
+      "lon": 29.789721
+    },
+    "name": "Kanungu"
+  },
+  {
+    "country": "UG",
+    "id": 232307,
+    "coord": {
+      "lat": 0.17722,
+      "lon": 31.881109
+    },
+    "name": "Kanoni"
+  },
+  {
+    "country": "UG",
+    "id": 232397,
+    "coord": {
+      "lat": 0.94722,
+      "lon": 33.11972
+    },
+    "name": "Kamuli"
+  },
+  {
+    "country": "UG",
+    "id": 232490,
+    "coord": {
+      "lat": -0.16969,
+      "lon": 31.758471
+    },
+    "name": "Kalungu"
+  },
+  {
+    "country": "UG",
+    "id": 232526,
+    "coord": {
+      "lat": 0.89444,
+      "lon": 33.499439
+    },
+    "name": "Kaliro"
+  },
+  {
+    "country": "UG",
+    "id": 232571,
+    "coord": {
+      "lat": -0.30889,
+      "lon": 32.224998
+    },
+    "name": "Kalangala"
+  },
+  {
+    "country": "UG",
+    "id": 232713,
+    "coord": {
+      "lat": 0.20806,
+      "lon": 32.522221
+    },
+    "name": "Kajansi"
+  },
+  {
+    "country": "UG",
+    "id": 232834,
+    "coord": {
+      "lat": 0.96056,
+      "lon": 30.796671
+    },
+    "name": "Kagadi"
+  },
+  {
+    "country": "UG",
+    "id": 233019,
+    "coord": {
+      "lat": 1.73889,
+      "lon": 33.159439
+    },
+    "name": "Kaberamaido"
+  },
+  {
+    "country": "UG",
+    "id": 233093,
+    "coord": {
+      "lat": 3.48361,
+      "lon": 34.14917
+    },
+    "name": "Kaabong"
+  },
+  {
+    "country": "UG",
+    "id": 233382,
+    "coord": {
+      "lat": 0.20333,
+      "lon": 32.088058
+    },
+    "name": "Gombe"
+  },
+  {
+    "country": "UG",
+    "id": 233563,
+    "coord": {
+      "lat": 1.89833,
+      "lon": 33.177502
+    },
+    "name": "Dokolo"
+  },
+  {
+    "country": "UG",
+    "id": 233725,
+    "coord": {
+      "lat": -0.7425,
+      "lon": 31.406389
+    },
+    "name": "Byakabanda"
+  },
+  {
+    "country": "UG",
+    "id": 233738,
+    "coord": {
+      "lat": 0.35583,
+      "lon": 32.667221
+    },
+    "name": "Bweyogerere"
+  },
+  {
+    "country": "UG",
+    "id": 233840,
+    "coord": {
+      "lat": 1.15167,
+      "lon": 33.154999
+    },
+    "name": "Buyende"
+  },
+  {
+    "country": "UG",
+    "id": 234004,
+    "coord": {
+      "lat": 0.91194,
+      "lon": 33.951111
+    },
+    "name": "Butaleja"
+  },
+  {
+    "country": "UG",
+    "id": 234081,
+    "coord": {
+      "lat": -0.58528,
+      "lon": 30.21139
+    },
+    "name": "Bushenyi"
+  },
+  {
+    "country": "UG",
+    "id": 234259,
+    "coord": {
+      "lat": 2.11781,
+      "lon": 31.411631
+    },
+    "name": "Bulisa"
+  },
+  {
+    "country": "UG",
+    "id": 234306,
+    "coord": {
+      "lat": 1.16667,
+      "lon": 34.383331
+    },
+    "name": "Bulambuli"
+  },
+  {
+    "country": "UG",
+    "id": 234328,
+    "coord": {
+      "lat": 1.25917,
+      "lon": 34.753891
+    },
+    "name": "Bukwa"
+  },
+  {
+    "country": "UG",
+    "id": 234371,
+    "coord": {
+      "lat": -0.15778,
+      "lon": 31.60417
+    },
+    "name": "Bukomansimbi"
+  },
+  {
+    "country": "UG",
+    "id": 234412,
+    "coord": {
+      "lat": 1.31694,
+      "lon": 34.05056
+    },
+    "name": "Bukedea"
+  },
+  {
+    "country": "UG",
+    "id": 234480,
+    "coord": {
+      "lat": 0.3375,
+      "lon": 33.010559
+    },
+    "name": "Buikwe"
+  },
+  {
+    "country": "UG",
+    "id": 234578,
+    "coord": {
+      "lat": 0.47972,
+      "lon": 33.23444
+    },
+    "name": "Bugembe"
+  },
+  {
+    "country": "UG",
+    "id": 234637,
+    "coord": {
+      "lat": 1.01118,
+      "lon": 34.33112
+    },
+    "name": "Bududa"
+  },
+  {
+    "country": "UG",
+    "id": 234658,
+    "coord": {
+      "lat": 1.00389,
+      "lon": 33.92556
+    },
+    "name": "Budaka"
+  },
+  {
+    "country": "UG",
+    "id": 234769,
+    "coord": {
+      "lat": 1.41667,
+      "lon": 34.533329
+    },
+    "name": "Binyin"
+  },
+  {
+    "country": "UG",
+    "id": 235130,
+    "coord": {
+      "lat": 1.97556,
+      "lon": 32.538609
+    },
+    "name": "Apac"
+  },
+  {
+    "country": "UG",
+    "id": 235186,
+    "coord": {
+      "lat": 2.00361,
+      "lon": 33.651112
+    },
+    "name": "Amuria"
+  },
+  {
+    "country": "UG",
+    "id": 235191,
+    "coord": {
+      "lat": 1.95,
+      "lon": 34.950001
+    },
+    "name": "Amudat"
+  },
+  {
+    "country": "UG",
+    "id": 235203,
+    "coord": {
+      "lat": 1.61556,
+      "lon": 32.839722
+    },
+    "name": "Amolatar"
+  },
+  {
+    "country": "UG",
+    "id": 235293,
+    "coord": {
+      "lat": 2.24472,
+      "lon": 33.254719
+    },
+    "name": "Alebtong"
+  },
+  {
+    "country": "UG",
+    "id": 235574,
+    "coord": {
+      "lat": 2.70167,
+      "lon": 33.676109
+    },
+    "name": "Abim"
+  },
+  {
+    "country": "UG",
+    "id": 448226,
+    "coord": {
+      "lat": 1.91667,
+      "lon": 34.783329
+    },
+    "name": "Nakapiripirit"
+  },
+  {
+    "country": "UG",
+    "id": 448227,
+    "coord": {
+      "lat": 3.05,
+      "lon": 33.216671
+    },
+    "name": "Pader"
+  },
+  {
+    "country": "UG",
+    "id": 448232,
+    "coord": {
+      "lat": 0.41861,
+      "lon": 29.891109
+    },
+    "name": "Margherita"
+  },
+  {
+    "country": "UG",
+    "id": 448243,
+    "coord": {
+      "lat": 2.63422,
+      "lon": 32.00106
+    },
+    "name": "Nwoya"
+  },
+  {
+    "country": "UG",
+    "id": 7911405,
+    "coord": {
+      "lat": -0.86864,
+      "lon": 30.830191
+    },
+    "name": "Isingiro"
+  },
+  {
+    "country": "UG",
+    "id": 7911406,
+    "coord": {
+      "lat": 0.97842,
+      "lon": 34.374298
+    },
+    "name": "Manafwa"
+  },
+  {
+    "country": "UG",
+    "id": 7911407,
+    "coord": {
+      "lat": 2.235,
+      "lon": 32.384949
+    },
+    "name": "Oyam"
+  },
+  {
+    "country": "UG",
+    "id": 8015635,
+    "coord": {
+      "lat": 2.81388,
+      "lon": 31.938681
+    },
+    "name": "Amuru"
+  },
+  {
+    "country": "UG",
+    "id": 8051532,
+    "coord": {
+      "lat": 0.23983,
+      "lon": 33.884911
+    },
+    "name": "Namayingo"
+  },
+  {
+    "country": "UG",
+    "id": 8051533,
+    "coord": {
+      "lat": 0.22216,
+      "lon": 33.206081
+    },
+    "name": "Kitamilo"
+  },
+  {
+    "country": "UG",
+    "id": 8051534,
+    "coord": {
+      "lat": 1.20062,
+      "lon": 31.800619
+    },
+    "name": "Kyankwanzi"
+  },
+  {
+    "country": "UG",
+    "id": 8051535,
+    "coord": {
+      "lat": 2.40015,
+      "lon": 32.800339
+    },
+    "name": "Kole"
+  },
+  {
+    "country": "UG",
+    "id": 8051536,
+    "coord": {
+      "lat": 2.50038,
+      "lon": 33.500648
+    },
+    "name": "Otuke"
+  },
+  {
+    "country": "UG",
+    "id": 8051537,
+    "coord": {
+      "lat": 2.25139,
+      "lon": 34.250118
+    },
+    "name": "Napak"
+  },
+  {
+    "country": "UG",
+    "id": 8051538,
+    "coord": {
+      "lat": 0.70076,
+      "lon": 33.300201
+    },
+    "name": "Luuka Town"
+  }
+
+]

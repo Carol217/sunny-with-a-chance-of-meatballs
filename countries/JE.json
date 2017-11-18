@@ -1,0 +1,112 @@
+[
+
+  {
+    "country": "JE",
+    "id": 3042079,
+    "coord": {
+      "lat": 49.201939,
+      "lon": -2.20028
+    },
+    "name": "Ville des Quennevais"
+  },
+  {
+    "country": "JE",
+    "id": 3042142,
+    "coord": {
+      "lat": 49.216671,
+      "lon": -2.11667
+    },
+    "name": "Bailiwick of Jersey"
+  },
+  {
+    "country": "JE",
+    "id": 6620384,
+    "coord": {
+      "lat": 49.183399,
+      "lon": -2.10034
+    },
+    "name": "Jersey (general)"
+  },
+  {
+    "country": "JE",
+    "id": 3042113,
+    "coord": {
+      "lat": 49.183331,
+      "lon": -2.08333
+    },
+    "name": "Longueville"
+  },
+  {
+    "country": "JE",
+    "id": 3042091,
+    "coord": {
+      "lat": 49.188042,
+      "lon": -2.10491
+    },
+    "name": "Saint Helier"
+  },
+  {
+    "country": "JE",
+    "id": 3042086,
+    "coord": {
+      "lat": 49.212219,
+      "lon": -2.18361
+    },
+    "name": "Saint Peter’s Church"
+  },
+  {
+    "country": "JE",
+    "id": 3237467,
+    "coord": {
+      "lat": 49.24361,
+      "lon": -2.2075
+    },
+    "name": "Ville Bagot"
+  },
+  {
+    "country": "JE",
+    "id": 3042134,
+    "coord": {
+      "lat": 49.183331,
+      "lon": -2.18333
+    },
+    "name": "La Haule"
+  },
+  {
+    "country": "JE",
+    "id": 3237515,
+    "coord": {
+      "lat": 49.246941,
+      "lon": -2.12417
+    },
+    "name": "Mont Mado"
+  },
+  {
+    "country": "JE",
+    "id": 3042098,
+    "coord": {
+      "lat": 49.236389,
+      "lon": -2.04611
+    },
+    "name": "Rozel"
+  },
+  {
+    "country": "JE",
+    "id": 3237455,
+    "coord": {
+      "lat": 49.25111,
+      "lon": -2.22583
+    },
+    "name": "Portinfer"
+  },
+  {
+    "country": "JE",
+    "id": 3237474,
+    "coord": {
+      "lat": 49.249439,
+      "lon": -2.16889
+    },
+    "name": "La Falaise"
+  }
+
+]

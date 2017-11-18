@@ -1,0 +1,688 @@
+[
+
+  {
+    "country": "KG",
+    "id": 1528919,
+    "coord": {
+      "lat": 40.44574,
+      "lon": 72.209633
+    },
+    "name": "Ak-Shor"
+  },
+  {
+    "country": "KG",
+    "id": 1538652,
+    "coord": {
+      "lat": 42.416672,
+      "lon": 74.5
+    },
+    "name": "Chüy"
+  },
+  {
+    "country": "KG",
+    "id": 8064044,
+    "coord": {
+      "lat": 42.562351,
+      "lon": 74.482483
+    },
+    "name": "Ala-Archa Al’plegri"
+  },
+  {
+    "country": "KG",
+    "id": 1222662,
+    "coord": {
+      "lat": 39.838558,
+      "lon": 69.530579
+    },
+    "name": "Isfana"
+  },
+  {
+    "country": "KG",
+    "id": 1528249,
+    "coord": {
+      "lat": 40.933331,
+      "lon": 73
+    },
+    "name": "Jalal-Abad"
+  },
+  {
+    "country": "KG",
+    "id": 1527004,
+    "coord": {
+      "lat": 42.455681,
+      "lon": 76.186127
+    },
+    "name": "Balykchy"
+  },
+  {
+    "country": "KG",
+    "id": 1528512,
+    "coord": {
+      "lat": 42.649441,
+      "lon": 77.082253
+    },
+    "name": "Cholpon-Ata"
+  },
+  {
+    "country": "KG",
+    "id": 1528646,
+    "coord": {
+      "lat": 42.660061,
+      "lon": 77.185883
+    },
+    "name": "Bosteri"
+  },
+  {
+    "country": "KG",
+    "id": 1528182,
+    "coord": {
+      "lat": 42.814232,
+      "lon": 73.848129
+    },
+    "name": "Kara-Balta"
+  },
+  {
+    "country": "KG",
+    "id": 1527199,
+    "coord": {
+      "lat": 42.841721,
+      "lon": 75.301582
+    },
+    "name": "Tokmok"
+  },
+  {
+    "country": "KG",
+    "id": 1528211,
+    "coord": {
+      "lat": 42.829021,
+      "lon": 73.855659
+    },
+    "name": "Kalininskoe"
+  },
+  {
+    "country": "KG",
+    "id": 1527360,
+    "coord": {
+      "lat": 42.854012,
+      "lon": 74.302567
+    },
+    "name": "Sokuluk"
+  },
+  {
+    "country": "KG",
+    "id": 1527551,
+    "coord": {
+      "lat": 42.74707,
+      "lon": 75.592247
+    },
+    "name": "Orlovka"
+  },
+  {
+    "country": "KG",
+    "id": 1528193,
+    "coord": {
+      "lat": 42.89106,
+      "lon": 74.850769
+    },
+    "name": "Kant"
+  },
+  {
+    "country": "KG",
+    "id": 1528606,
+    "coord": {
+      "lat": 42.78458,
+      "lon": 75.689171
+    },
+    "name": "Bystrovka"
+  },
+  {
+    "country": "KG",
+    "id": 1528831,
+    "coord": {
+      "lat": 40.516079,
+      "lon": 72.499603
+    },
+    "name": "Aravan"
+  },
+  {
+    "country": "KG",
+    "id": 1527513,
+    "coord": {
+      "lat": 40.769939,
+      "lon": 73.300682
+    },
+    "name": "Uzgen"
+  },
+  {
+    "country": "KG",
+    "id": 1528336,
+    "coord": {
+      "lat": 40.116669,
+      "lon": 71.73333
+    },
+    "name": "Kadamjay"
+  },
+  {
+    "country": "KG",
+    "id": 1527590,
+    "coord": {
+      "lat": 41.433331,
+      "lon": 75.966667
+    },
+    "name": "Naryn Oblasty"
+  },
+  {
+    "country": "KG",
+    "id": 1528796,
+    "coord": {
+      "lat": 41.17017,
+      "lon": 75.810577
+    },
+    "name": "At-Bashi"
+  },
+  {
+    "country": "KG",
+    "id": 1527497,
+    "coord": {
+      "lat": 42.3414,
+      "lon": 78.005577
+    },
+    "name": "Pokrovka"
+  },
+  {
+    "country": "KG",
+    "id": 1528856,
+    "coord": {
+      "lat": 40.23333,
+      "lon": 71.466667
+    },
+    "name": "Alga"
+  },
+  {
+    "country": "KG",
+    "id": 1528334,
+    "coord": {
+      "lat": 42.895859,
+      "lon": 74.600258
+    },
+    "name": "Bishkek"
+  },
+  {
+    "country": "KG",
+    "id": 1528675,
+    "coord": {
+      "lat": 42.869999,
+      "lon": 74.589996
+    },
+    "name": "Bishkek"
+  },
+  {
+    "country": "KG",
+    "id": 1527297,
+    "coord": {
+      "lat": 42.333328,
+      "lon": 72
+    },
+    "name": "Talas Oblasty"
+  },
+  {
+    "country": "KG",
+    "id": 1527299,
+    "coord": {
+      "lat": 42.522221,
+      "lon": 72.241943
+    },
+    "name": "Talas"
+  },
+  {
+    "country": "KG",
+    "id": 1528121,
+    "coord": {
+      "lat": 42.490681,
+      "lon": 78.393623
+    },
+    "name": "Karakol"
+  },
+  {
+    "country": "KG",
+    "id": 1529778,
+    "coord": {
+      "lat": 41.5,
+      "lon": 72.5
+    },
+    "name": "Jalal-Abad Oblasty"
+  },
+  {
+    "country": "KG",
+    "id": 1527260,
+    "coord": {
+      "lat": 41.346119,
+      "lon": 72.217079
+    },
+    "name": "Tash-Kumyr"
+  },
+  {
+    "country": "KG",
+    "id": 1528735,
+    "coord": {
+      "lat": 40.062592,
+      "lon": 70.819389
+    },
+    "name": "Batken"
+  },
+  {
+    "country": "KG",
+    "id": 1538648,
+    "coord": {
+      "lat": 41.870789,
+      "lon": 72.940201
+    },
+    "name": "Toktogul"
+  },
+  {
+    "country": "KG",
+    "id": 1527747,
+    "coord": {
+      "lat": 41,
+      "lon": 75
+    },
+    "name": "Kyrgyz Republic"
+  },
+  {
+    "country": "KG",
+    "id": 1346798,
+    "coord": {
+      "lat": 40,
+      "lon": 73
+    },
+    "name": "Osh Oblasty"
+  },
+  {
+    "country": "KG",
+    "id": 1528913,
+    "coord": {
+      "lat": 43.01667,
+      "lon": 74.166672
+    },
+    "name": "Ak-Su"
+  },
+  {
+    "country": "KG",
+    "id": 7649203,
+    "coord": {
+      "lat": 42.354729,
+      "lon": 72.656776
+    },
+    "name": "Talas"
+  },
+  {
+    "country": "KG",
+    "id": 1528260,
+    "coord": {
+      "lat": 42,
+      "lon": 78
+    },
+    "name": "Issyk-Kul’skaya Oblast’"
+  },
+  {
+    "country": "KG",
+    "id": 1527475,
+    "coord": {
+      "lat": 42.75491,
+      "lon": 78.69455
+    },
+    "name": "Kara-Chungkur"
+  },
+  {
+    "country": "KG",
+    "id": 1528947,
+    "coord": {
+      "lat": 41.22546,
+      "lon": 74.844009
+    },
+    "name": "Ak-Chiy"
+  },
+  {
+    "country": "KG",
+    "id": 1527725,
+    "coord": {
+      "lat": 40.538151,
+      "lon": 72.77684
+    },
+    "name": "Kyzyl-Kyshtak"
+  },
+  {
+    "country": "KG",
+    "id": 1528052,
+    "coord": {
+      "lat": 41.493992,
+      "lon": 71.758263
+    },
+    "name": "Karavan"
+  },
+  {
+    "country": "KG",
+    "id": 8139898,
+    "coord": {
+      "lat": 40.618111,
+      "lon": 72.806503
+    },
+    "name": "Kyzyl-Mekhnat"
+  },
+  {
+    "country": "KG",
+    "id": 8064028,
+    "coord": {
+      "lat": 43.0494,
+      "lon": 74.49736
+    },
+    "name": "Mramornoe"
+  },
+  {
+    "country": "KG",
+    "id": 1463580,
+    "coord": {
+      "lat": 39.833328,
+      "lon": 71
+    },
+    "name": "Batken Oblasty"
+  },
+  {
+    "country": "KG",
+    "id": 1222562,
+    "coord": {
+      "lat": 39.933731,
+      "lon": 69.57
+    },
+    "name": "Sulyukta"
+  },
+  {
+    "country": "KG",
+    "id": 1527534,
+    "coord": {
+      "lat": 40.51506,
+      "lon": 72.808258
+    },
+    "name": "Osh"
+  },
+  {
+    "country": "KG",
+    "id": 1527592,
+    "coord": {
+      "lat": 41.428661,
+      "lon": 75.991112
+    },
+    "name": "Naryn"
+  },
+  {
+    "country": "KG",
+    "id": 1527719,
+    "coord": {
+      "lat": 40.25684,
+      "lon": 72.12793
+    },
+    "name": "Kyzyl-Kyya"
+  },
+  {
+    "country": "KG",
+    "id": 1528091,
+    "coord": {
+      "lat": 40.704601,
+      "lon": 72.866661
+    },
+    "name": "Kara Suu"
+  },
+  {
+    "country": "KG",
+    "id": 1528717,
+    "coord": {
+      "lat": 41.037601,
+      "lon": 72.745857
+    },
+    "name": "Bazar-Korgon"
+  },
+  {
+    "country": "KG",
+    "id": 1222635,
+    "coord": {
+      "lat": 39.944309,
+      "lon": 71.342941
+    },
+    "name": "Khaydarkan"
+  },
+  {
+    "country": "KG",
+    "id": 1527121,
+    "coord": {
+      "lat": 42.7276,
+      "lon": 78.364761
+    },
+    "name": "Tyup"
+  },
+  {
+    "country": "KG",
+    "id": 1527232,
+    "coord": {
+      "lat": 42.499481,
+      "lon": 78.527023
+    },
+    "name": "Teploklyuchenka"
+  },
+  {
+    "country": "KG",
+    "id": 1527317,
+    "coord": {
+      "lat": 40.898201,
+      "lon": 72.904823
+    },
+    "name": "Suzak"
+  },
+  {
+    "country": "KG",
+    "id": 1527338,
+    "coord": {
+      "lat": 42.819729,
+      "lon": 75.282333
+    },
+    "name": "Chuy"
+  },
+  {
+    "country": "KG",
+    "id": 1527351,
+    "coord": {
+      "lat": 42.63699,
+      "lon": 73.905724
+    },
+    "name": "Sosnovka"
+  },
+  {
+    "country": "KG",
+    "id": 1527496,
+    "coord": {
+      "lat": 42.736198,
+      "lon": 71.609818
+    },
+    "name": "Pokrovka"
+  },
+  {
+    "country": "KG",
+    "id": 1527688,
+    "coord": {
+      "lat": 42.492981,
+      "lon": 71.923599
+    },
+    "name": "Leninpol"
+  },
+  {
+    "country": "KG",
+    "id": 1527689,
+    "coord": {
+      "lat": 41.063999,
+      "lon": 72.637482
+    },
+    "name": "Massy"
+  },
+  {
+    "country": "KG",
+    "id": 1527690,
+    "coord": {
+      "lat": 42.884541,
+      "lon": 74.678192
+    },
+    "name": "Lebedinovka"
+  },
+  {
+    "country": "KG",
+    "id": 1527902,
+    "coord": {
+      "lat": 42.215519,
+      "lon": 75.756592
+    },
+    "name": "Kochkor"
+  },
+  {
+    "country": "KG",
+    "id": 1527919,
+    "coord": {
+      "lat": 42.619808,
+      "lon": 71.589104
+    },
+    "name": "Kirovskoye"
+  },
+  {
+    "country": "KG",
+    "id": 1528005,
+    "coord": {
+      "lat": 41.404518,
+      "lon": 74.028282
+    },
+    "name": "Kazarman"
+  },
+  {
+    "country": "KG",
+    "id": 1528053,
+    "coord": {
+      "lat": 40.295132,
+      "lon": 72.186272
+    },
+    "name": "Karavan"
+  },
+  {
+    "country": "KG",
+    "id": 1528190,
+    "coord": {
+      "lat": 41.765362,
+      "lon": 71.091812
+    },
+    "name": "Kanysh-Kyya"
+  },
+  {
+    "country": "KG",
+    "id": 1528234,
+    "coord": {
+      "lat": 42.824692,
+      "lon": 73.67585
+    },
+    "name": "Kaindy"
+  },
+  {
+    "country": "KG",
+    "id": 1528241,
+    "coord": {
+      "lat": 42.141071,
+      "lon": 77.178482
+    },
+    "name": "Kadzhi-Say"
+  },
+  {
+    "country": "KG",
+    "id": 1528252,
+    "coord": {
+      "lat": 42.887779,
+      "lon": 75.084999
+    },
+    "name": "Ivanovka"
+  },
+  {
+    "country": "KG",
+    "id": 1528253,
+    "coord": {
+      "lat": 42.547619,
+      "lon": 72.209038
+    },
+    "name": "Ivanovo-Alekseyevka"
+  },
+  {
+    "country": "KG",
+    "id": 1528320,
+    "coord": {
+      "lat": 40.313801,
+      "lon": 73.444183
+    },
+    "name": "Gulcha"
+  },
+  {
+    "country": "KG",
+    "id": 1528566,
+    "coord": {
+      "lat": 41.927681,
+      "lon": 74.516991
+    },
+    "name": "Chayek"
+  },
+  {
+    "country": "KG",
+    "id": 1528666,
+    "coord": {
+      "lat": 42.11768,
+      "lon": 76.993317
+    },
+    "name": "Bokombayevskoye"
+  },
+  {
+    "country": "KG",
+    "id": 1528702,
+    "coord": {
+      "lat": 42.829441,
+      "lon": 74.108299
+    },
+    "name": "Belovodskoye"
+  },
+  {
+    "country": "KG",
+    "id": 1528766,
+    "coord": {
+      "lat": 41.266682,
+      "lon": 74.956978
+    },
+    "name": "Baetov"
+  },
+  {
+    "country": "KG",
+    "id": 1528875,
+    "coord": {
+      "lat": 41.4105,
+      "lon": 71.486282
+    },
+    "name": "Ala-Buka"
+  },
+  {
+    "country": "KG",
+    "id": 8134212,
+    "coord": {
+      "lat": 41.762218,
+      "lon": 73.200317
+    },
+    "name": "Uch-Terek"
+  },
+  {
+    "country": "KG",
+    "id": 8145969,
+    "coord": {
+      "lat": 40.632229,
+      "lon": 73.592491
+    },
+    "name": "Kara-Kulja"
+  }
+
+]

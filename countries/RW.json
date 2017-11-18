@@ -1,0 +1,265 @@
+[
+
+  {
+    "country": "RW",
+    "id": 6413337,
+    "coord": {
+      "lat": -1.75,
+      "lon": 30.5
+    },
+    "name": "Eastern Province"
+  },
+  {
+    "country": "RW",
+    "id": 202068,
+    "coord": {
+      "lat": -2.1597,
+      "lon": 30.5427
+    },
+    "name": "Kibungo"
+  },
+  {
+    "country": "RW",
+    "id": 6413339,
+    "coord": {
+      "lat": -1.58333,
+      "lon": 29.91667
+    },
+    "name": "Province du Nord"
+  },
+  {
+    "country": "RW",
+    "id": 7592960,
+    "coord": {
+      "lat": -1.5734,
+      "lon": 30.0634
+    },
+    "name": "Byumba Ville"
+  },
+  {
+    "country": "RW",
+    "id": 6413340,
+    "coord": {
+      "lat": -2.16667,
+      "lon": 29.33333
+    },
+    "name": "Western Province"
+  },
+  {
+    "country": "RW",
+    "id": 202905,
+    "coord": {
+      "lat": -1.70278,
+      "lon": 29.25639
+    },
+    "name": "Gisenyi"
+  },
+  {
+    "country": "RW",
+    "id": 383968,
+    "coord": {
+      "lat": -2.5805,
+      "lon": 29.716
+    },
+    "name": "Huye"
+  },
+  {
+    "country": "RW",
+    "id": 7572238,
+    "coord": {
+      "lat": -1.4856,
+      "lon": 29.6185
+    },
+    "name": "Gahondogo"
+  },
+  {
+    "country": "RW",
+    "id": 6413338,
+    "coord": {
+      "lat": -1.91667,
+      "lon": 30.08333
+    },
+    "name": "Ville de Kigali"
+  },
+  {
+    "country": "RW",
+    "id": 202061,
+    "coord": {
+      "lat": -1.94995,
+      "lon": 30.058849
+    },
+    "name": "Kigali"
+  },
+  {
+    "country": "RW",
+    "id": 6413341,
+    "coord": {
+      "lat": -2.33333,
+      "lon": 29.66667
+    },
+    "name": "Province du Sud"
+  },
+  {
+    "country": "RW",
+    "id": 203112,
+    "coord": {
+      "lat": -2.59667,
+      "lon": 29.739441
+    },
+    "name": "Butare"
+  },
+  {
+    "country": "RW",
+    "id": 202217,
+    "coord": {
+      "lat": -2.07444,
+      "lon": 29.75667
+    },
+    "name": "Gitarama"
+  },
+  {
+    "country": "RW",
+    "id": 201865,
+    "coord": {
+      "lat": -2.479,
+      "lon": 29.5564
+    },
+    "name": "Nzega"
+  },
+  {
+    "country": "RW",
+    "id": 49518,
+    "coord": {
+      "lat": -2,
+      "lon": 30
+    },
+    "name": "Republic of Rwanda"
+  },
+  {
+    "country": "RW",
+    "id": 7595653,
+    "coord": {
+      "lat": -1.9643,
+      "lon": 30.1106
+    },
+    "name": "Nyakabanda"
+  },
+  {
+    "country": "RW",
+    "id": 7605614,
+    "coord": {
+      "lat": -1.66557,
+      "lon": 29.247181
+    },
+    "name": "Muhato"
+  },
+  {
+    "country": "RW",
+    "id": 7032728,
+    "coord": {
+      "lat": -2.4661,
+      "lon": 28.907301
+    },
+    "name": "Kannyogo"
+  },
+  {
+    "country": "RW",
+    "id": 7319869,
+    "coord": {
+      "lat": -1.49998,
+      "lon": 29.633301
+    },
+    "name": "Musanze"
+  },
+  {
+    "country": "RW",
+    "id": 7595671,
+    "coord": {
+      "lat": -1.9751,
+      "lon": 30.1373
+    },
+    "name": "Samuduha"
+  },
+  {
+    "country": "RW",
+    "id": 7605645,
+    "coord": {
+      "lat": -1.6824,
+      "lon": 29.2593
+    },
+    "name": "Bonde"
+  },
+  {
+    "country": "RW",
+    "id": 201463,
+    "coord": {
+      "lat": -1.9487,
+      "lon": 30.4347
+    },
+    "name": "Rwamagana"
+  },
+  {
+    "country": "RW",
+    "id": 201521,
+    "coord": {
+      "lat": -1.49984,
+      "lon": 29.63497
+    },
+    "name": "Musanze"
+  },
+  {
+    "country": "RW",
+    "id": 202065,
+    "coord": {
+      "lat": -2.0597,
+      "lon": 29.3482
+    },
+    "name": "Kibuye"
+  },
+  {
+    "country": "RW",
+    "id": 202326,
+    "coord": {
+      "lat": -2.4846,
+      "lon": 28.907499
+    },
+    "name": "Cyangugu"
+  },
+  {
+    "country": "RW",
+    "id": 203104,
+    "coord": {
+      "lat": -1.5763,
+      "lon": 30.067499
+    },
+    "name": "Byumba"
+  },
+  {
+    "country": "RW",
+    "id": 202239,
+    "coord": {
+      "lat": -2.46397,
+      "lon": 29.573891
+    },
+    "name": "Gikongoro"
+  },
+  {
+    "country": "RW",
+    "id": 203117,
+    "coord": {
+      "lat": -2.6038,
+      "lon": 29.743099
+    },
+    "name": "Butare"
+  },
+  {
+    "country": "RW",
+    "id": 7062967,
+    "coord": {
+      "lat": -2.35187,
+      "lon": 29.750891
+    },
+    "name": "Nyanza"
+  }
+
+]

@@ -1,0 +1,1930 @@
+[
+
+  {
+    "country": "IL",
+    "id": 295582,
+    "coord": {
+      "lat": 31.75,
+      "lon": 34.700001
+    },
+    "name": "‘Azriqam"
+  },
+  {
+    "country": "IL",
+    "id": 294622,
+    "coord": {
+      "lat": 32.92556,
+      "lon": 35.154999
+    },
+    "name": "Judieda Makr"
+  },
+  {
+    "country": "IL",
+    "id": 294387,
+    "coord": {
+      "lat": 32.889839,
+      "lon": 35.407028
+    },
+    "name": "Maghar"
+  },
+  {
+    "country": "IL",
+    "id": 294568,
+    "coord": {
+      "lat": 31.91111,
+      "lon": 34.792782
+    },
+    "name": "Kefar Aharon"
+  },
+  {
+    "country": "IL",
+    "id": 284305,
+    "coord": {
+      "lat": 31.74267,
+      "lon": 35.203041
+    },
+    "name": "Beit Ṣafāfā"
+  },
+  {
+    "country": "IL",
+    "id": 293725,
+    "coord": {
+      "lat": 31.89694,
+      "lon": 34.818611
+    },
+    "name": "Reẖovot"
+  },
+  {
+    "country": "IL",
+    "id": 294071,
+    "coord": {
+      "lat": 32.33292,
+      "lon": 34.859921
+    },
+    "name": "Netanya"
+  },
+  {
+    "country": "IL",
+    "id": 293783,
+    "coord": {
+      "lat": 32.147221,
+      "lon": 34.841671
+    },
+    "name": "Ramat HaSharon"
+  },
+  {
+    "country": "IL",
+    "id": 294502,
+    "coord": {
+      "lat": 32.686562,
+      "lon": 35.421181
+    },
+    "name": "Kefar Tavor"
+  },
+  {
+    "country": "IL",
+    "id": 294027,
+    "coord": {
+      "lat": 31.33559,
+      "lon": 34.395069
+    },
+    "name": "Nirim"
+  },
+  {
+    "country": "IL",
+    "id": 293198,
+    "coord": {
+      "lat": 31.75,
+      "lon": 35
+    },
+    "name": "Jerusalem District"
+  },
+  {
+    "country": "IL",
+    "id": 294377,
+    "coord": {
+      "lat": 31.748541,
+      "lon": 35.007038
+    },
+    "name": "Maẖseya"
+  },
+  {
+    "country": "IL",
+    "id": 293279,
+    "coord": {
+      "lat": 31.304331,
+      "lon": 34.523281
+    },
+    "name": "Urim"
+  },
+  {
+    "country": "IL",
+    "id": 293361,
+    "coord": {
+      "lat": 32.05389,
+      "lon": 34.848061
+    },
+    "name": "Tel Litwinsky"
+  },
+  {
+    "country": "IL",
+    "id": 293823,
+    "coord": {
+      "lat": 32.723888,
+      "lon": 35.12722
+    },
+    "name": "Qiryat Tiv‘on"
+  },
+  {
+    "country": "IL",
+    "id": 293969,
+    "coord": {
+      "lat": 32.506401,
+      "lon": 34.920872
+    },
+    "name": "Or ‘Aqiva"
+  },
+  {
+    "country": "IL",
+    "id": 293327,
+    "coord": {
+      "lat": 31.449841,
+      "lon": 34.578159
+    },
+    "name": "Tequma"
+  },
+  {
+    "country": "IL",
+    "id": 293253,
+    "coord": {
+      "lat": 32.05043,
+      "lon": 34.752239
+    },
+    "name": "Yafo"
+  },
+  {
+    "country": "IL",
+    "id": 293690,
+    "coord": {
+      "lat": 32.09417,
+      "lon": 34.945831
+    },
+    "name": "Rosh HaAyin"
+  },
+  {
+    "country": "IL",
+    "id": 293822,
+    "coord": {
+      "lat": 32.85083,
+      "lon": 35.070278
+    },
+    "name": "Qiryat Yam"
+  },
+  {
+    "country": "IL",
+    "id": 294244,
+    "coord": {
+      "lat": 31.721769,
+      "lon": 35.106689
+    },
+    "name": "Mevo Betar"
+  },
+  {
+    "country": "IL",
+    "id": 294604,
+    "coord": {
+      "lat": 32.11417,
+      "lon": 34.973888
+    },
+    "name": "Kafr Qasim"
+  },
+  {
+    "country": "IL",
+    "id": 294608,
+    "coord": {
+      "lat": 32.80722,
+      "lon": 35.260281
+    },
+    "name": "Kafr Manda"
+  },
+  {
+    "country": "IL",
+    "id": 294610,
+    "coord": {
+      "lat": 32.746601,
+      "lon": 35.342419
+    },
+    "name": "Kafr Kanna"
+  },
+  {
+    "country": "IL",
+    "id": 294981,
+    "coord": {
+      "lat": 32.075279,
+      "lon": 34.846668
+    },
+    "name": "Givat Shemuel"
+  },
+  {
+    "country": "IL",
+    "id": 295127,
+    "coord": {
+      "lat": 32.2341,
+      "lon": 34.95023
+    },
+    "name": "Tirah"
+  },
+  {
+    "country": "IL",
+    "id": 6693674,
+    "coord": {
+      "lat": 32.09174,
+      "lon": 34.885029
+    },
+    "name": "Petah Tikva"
+  },
+  {
+    "country": "IL",
+    "id": 6693679,
+    "coord": {
+      "lat": 31.90729,
+      "lon": 34.999008
+    },
+    "name": "Modiin"
+  },
+  {
+    "country": "IL",
+    "id": 6945291,
+    "coord": {
+      "lat": 31.77667,
+      "lon": 35.234169
+    },
+    "name": "Old City"
+  },
+  {
+    "country": "IL",
+    "id": 294952,
+    "coord": {
+      "lat": 30.666668,
+      "lon": 34.833332
+    },
+    "name": "Southern District"
+  },
+  {
+    "country": "IL",
+    "id": 294097,
+    "coord": {
+      "lat": 32.70816,
+      "lon": 35.32468
+    },
+    "name": "Naẕerat ‘Illit"
+  },
+  {
+    "country": "IL",
+    "id": 293857,
+    "coord": {
+      "lat": 31.81555,
+      "lon": 34.720798
+    },
+    "name": "Qevuẕat Yavne"
+  },
+  {
+    "country": "IL",
+    "id": 295471,
+    "coord": {
+      "lat": 31.736059,
+      "lon": 34.655941
+    },
+    "name": "Bet ‘Ezra"
+  },
+  {
+    "country": "IL",
+    "id": 294063,
+    "coord": {
+      "lat": 31.224159,
+      "lon": 34.88208
+    },
+    "name": "Nevatim"
+  },
+  {
+    "country": "IL",
+    "id": 295410,
+    "coord": {
+      "lat": 32.523201,
+      "lon": 34.944988
+    },
+    "name": "Binyamina"
+  },
+  {
+    "country": "IL",
+    "id": 294035,
+    "coord": {
+      "lat": 31.51959,
+      "lon": 34.580059
+    },
+    "name": "Nir‘am"
+  },
+  {
+    "country": "IL",
+    "id": 295714,
+    "coord": {
+      "lat": 32.720001,
+      "lon": 35.141941
+    },
+    "name": "Allonim"
+  },
+  {
+    "country": "IL",
+    "id": 295080,
+    "coord": {
+      "lat": 31.787371,
+      "lon": 34.706589
+    },
+    "name": "Gan Yavne"
+  },
+  {
+    "country": "IL",
+    "id": 294498,
+    "coord": {
+      "lat": 32.38126,
+      "lon": 34.877369
+    },
+    "name": "Kefar Witqin"
+  },
+  {
+    "country": "IL",
+    "id": 293222,
+    "coord": {
+      "lat": 31.87639,
+      "lon": 34.740002
+    },
+    "name": "Yavne"
+  },
+  {
+    "country": "IL",
+    "id": 293286,
+    "coord": {
+      "lat": 32.51725,
+      "lon": 35.153488
+    },
+    "name": "Umm el Fahm"
+  },
+  {
+    "country": "IL",
+    "id": 293426,
+    "coord": {
+      "lat": 32.84861,
+      "lon": 35.20472
+    },
+    "name": "Tamra"
+  },
+  {
+    "country": "IL",
+    "id": 293619,
+    "coord": {
+      "lat": 31.525,
+      "lon": 34.596931
+    },
+    "name": "Sederot"
+  },
+  {
+    "country": "IL",
+    "id": 295365,
+    "coord": {
+      "lat": 32.693611,
+      "lon": 35.040829
+    },
+    "name": "Daliyat el Karmil"
+  },
+  {
+    "country": "IL",
+    "id": 295739,
+    "coord": {
+      "lat": 32.633228,
+      "lon": 35.325218
+    },
+    "name": "Afula Illit"
+  },
+  {
+    "country": "IL",
+    "id": 294640,
+    "coord": {
+      "lat": 31.5,
+      "lon": 34.75
+    },
+    "name": "State of Israel"
+  },
+  {
+    "country": "IL",
+    "id": 293682,
+    "coord": {
+      "lat": 31.5,
+      "lon": 34.700001
+    },
+    "name": "Ruẖama"
+  },
+  {
+    "country": "IL",
+    "id": 294166,
+    "coord": {
+      "lat": 30.609444,
+      "lon": 34.801109
+    },
+    "name": "Mitzpe Ramon"
+  },
+  {
+    "country": "IL",
+    "id": 8199379,
+    "coord": {
+      "lat": 31.871111,
+      "lon": 34.99081
+    },
+    "name": "Nof Ayalon"
+  },
+  {
+    "country": "IL",
+    "id": 8199420,
+    "coord": {
+      "lat": 32.131649,
+      "lon": 34.99094
+    },
+    "name": "Oranit"
+  },
+  {
+    "country": "IL",
+    "id": 294666,
+    "coord": {
+      "lat": 33.017109,
+      "lon": 35.348351
+    },
+    "name": "Hurfeish"
+  },
+  {
+    "country": "IL",
+    "id": 294824,
+    "coord": {
+      "lat": 32.833328,
+      "lon": 35.333328
+    },
+    "name": "Northern District"
+  },
+  {
+    "country": "IL",
+    "id": 295179,
+    "coord": {
+      "lat": 32.994781,
+      "lon": 35.48513
+    },
+    "name": "‘En Zetim"
+  },
+  {
+    "country": "IL",
+    "id": 294904,
+    "coord": {
+      "lat": 32.083328,
+      "lon": 34.916672
+    },
+    "name": "Central District"
+  },
+  {
+    "country": "IL",
+    "id": 294074,
+    "coord": {
+      "lat": 31.929331,
+      "lon": 34.798679
+    },
+    "name": "Ness Ziona"
+  },
+  {
+    "country": "IL",
+    "id": 8072868,
+    "coord": {
+      "lat": 31.696421,
+      "lon": 34.707039
+    },
+    "name": "Merkaz Shapira"
+  },
+  {
+    "country": "IL",
+    "id": 294990,
+    "coord": {
+      "lat": 31.76667,
+      "lon": 35.200001
+    },
+    "name": "Giv‘at Mordekhay"
+  },
+  {
+    "country": "IL",
+    "id": 293396,
+    "coord": {
+      "lat": 32.083328,
+      "lon": 34.799999
+    },
+    "name": "Tel Aviv District"
+  },
+  {
+    "country": "IL",
+    "id": 294777,
+    "coord": {
+      "lat": 32.166672,
+      "lon": 34.816669
+    },
+    "name": "Herzliyya B"
+  },
+  {
+    "country": "IL",
+    "id": 293788,
+    "coord": {
+      "lat": 32.080559,
+      "lon": 34.814171
+    },
+    "name": "Ramat Gan"
+  },
+  {
+    "country": "IL",
+    "id": 294117,
+    "coord": {
+      "lat": 33.005859,
+      "lon": 35.09409
+    },
+    "name": "Nahariyya"
+  },
+  {
+    "country": "IL",
+    "id": 294800,
+    "coord": {
+      "lat": 32.583328,
+      "lon": 35
+    },
+    "name": "Haifa District"
+  },
+  {
+    "country": "IL",
+    "id": 294801,
+    "coord": {
+      "lat": 32.815559,
+      "lon": 34.98917
+    },
+    "name": "Haifa"
+  },
+  {
+    "country": "IL",
+    "id": 293962,
+    "coord": {
+      "lat": 32.031109,
+      "lon": 34.845829
+    },
+    "name": "Or Yehuda"
+  },
+  {
+    "country": "IL",
+    "id": 293322,
+    "coord": {
+      "lat": 32.792198,
+      "lon": 35.531239
+    },
+    "name": "Tiberias"
+  },
+  {
+    "country": "IL",
+    "id": 294751,
+    "coord": {
+      "lat": 32.011391,
+      "lon": 34.772221
+    },
+    "name": "Holon"
+  },
+  {
+    "country": "IL",
+    "id": 295277,
+    "coord": {
+      "lat": 29.55805,
+      "lon": 34.948212
+    },
+    "name": "Eilat"
+  },
+  {
+    "country": "IL",
+    "id": 294078,
+    "coord": {
+      "lat": 32.764999,
+      "lon": 35.049999
+    },
+    "name": "Nesher"
+  },
+  {
+    "country": "IL",
+    "id": 294946,
+    "coord": {
+      "lat": 32.436451,
+      "lon": 34.919559
+    },
+    "name": "Hadera"
+  },
+  {
+    "country": "IL",
+    "id": 294760,
+    "coord": {
+      "lat": 32.150829,
+      "lon": 34.888329
+    },
+    "name": "Hod HaSharon"
+  },
+  {
+    "country": "IL",
+    "id": 294577,
+    "coord": {
+      "lat": 32.917221,
+      "lon": 35.304169
+    },
+    "name": "Karmiel"
+  },
+  {
+    "country": "IL",
+    "id": 295064,
+    "coord": {
+      "lat": 31.81456,
+      "lon": 34.77998
+    },
+    "name": "Gedera"
+  },
+  {
+    "country": "IL",
+    "id": 295267,
+    "coord": {
+      "lat": 31.41667,
+      "lon": 34.75
+    },
+    "name": "El Huzaiyil"
+  },
+  {
+    "country": "IL",
+    "id": 295548,
+    "coord": {
+      "lat": 32.02306,
+      "lon": 34.750278
+    },
+    "name": "Bat Yam"
+  },
+  {
+    "country": "IL",
+    "id": 295435,
+    "coord": {
+      "lat": 32.5,
+      "lon": 35.5
+    },
+    "name": "Bet Shean"
+  },
+  {
+    "country": "IL",
+    "id": 293768,
+    "coord": {
+      "lat": 31.92528,
+      "lon": 34.86694
+    },
+    "name": "Ramla"
+  },
+  {
+    "country": "IL",
+    "id": 294098,
+    "coord": {
+      "lat": 32.703609,
+      "lon": 35.295559
+    },
+    "name": "Nazareth"
+  },
+  {
+    "country": "IL",
+    "id": 293992,
+    "coord": {
+      "lat": 31.3141,
+      "lon": 34.620251
+    },
+    "name": "Ofaqim"
+  },
+  {
+    "country": "IL",
+    "id": 295584,
+    "coord": {
+      "lat": 32.019169,
+      "lon": 34.810558
+    },
+    "name": "Azor"
+  },
+  {
+    "country": "IL",
+    "id": 294042,
+    "coord": {
+      "lat": 32.066669,
+      "lon": 34.76667
+    },
+    "name": "Newe Ẕedeq"
+  },
+  {
+    "country": "IL",
+    "id": 295130,
+    "coord": {
+      "lat": 32.266159,
+      "lon": 35.00893
+    },
+    "name": "Et Taiyiba"
+  },
+  {
+    "country": "IL",
+    "id": 294492,
+    "coord": {
+      "lat": 32.316689,
+      "lon": 34.93507
+    },
+    "name": "Kefar Yona"
+  },
+  {
+    "country": "IL",
+    "id": 294508,
+    "coord": {
+      "lat": 32.185558,
+      "lon": 34.821941
+    },
+    "name": "Kefar Shemaryahu"
+  },
+  {
+    "country": "IL",
+    "id": 295514,
+    "coord": {
+      "lat": 32.090279,
+      "lon": 34.839722
+    },
+    "name": "Bene Beraq"
+  },
+  {
+    "country": "IL",
+    "id": 294421,
+    "coord": {
+      "lat": 31.951389,
+      "lon": 34.895279
+    },
+    "name": "Lod"
+  },
+  {
+    "country": "IL",
+    "id": 294514,
+    "coord": {
+      "lat": 32.174999,
+      "lon": 34.90694
+    },
+    "name": "Kfar Saba"
+  },
+  {
+    "country": "IL",
+    "id": 293844,
+    "coord": {
+      "lat": 32.827499,
+      "lon": 35.085831
+    },
+    "name": "Qiryat Bialik"
+  },
+  {
+    "country": "IL",
+    "id": 293845,
+    "coord": {
+      "lat": 32.80056,
+      "lon": 35.106392
+    },
+    "name": "Qiryat Ata"
+  },
+  {
+    "country": "IL",
+    "id": 295620,
+    "coord": {
+      "lat": 31.66926,
+      "lon": 34.571491
+    },
+    "name": "Ashqelon"
+  },
+  {
+    "country": "IL",
+    "id": 294210,
+    "coord": {
+      "lat": 32.671391,
+      "lon": 35.240559
+    },
+    "name": "Migdal HaEmeq"
+  },
+  {
+    "country": "IL",
+    "id": 293703,
+    "coord": {
+      "lat": 31.96417,
+      "lon": 34.80444
+    },
+    "name": "Rishon LeZiyyon"
+  },
+  {
+    "country": "IL",
+    "id": 295328,
+    "coord": {
+      "lat": 31.066669,
+      "lon": 35.033329
+    },
+    "name": "Dimona"
+  },
+  {
+    "country": "IL",
+    "id": 295530,
+    "coord": {
+      "lat": 31.25181,
+      "lon": 34.791302
+    },
+    "name": "Beersheba"
+  },
+  {
+    "country": "IL",
+    "id": 293831,
+    "coord": {
+      "lat": 32.836391,
+      "lon": 35.075279
+    },
+    "name": "Qiryat Motzkin"
+  },
+  {
+    "country": "IL",
+    "id": 294114,
+    "coord": {
+      "lat": 32.933331,
+      "lon": 35.316669
+    },
+    "name": "Nahf"
+  },
+  {
+    "country": "IL",
+    "id": 293943,
+    "coord": {
+      "lat": 32.474079,
+      "lon": 34.97781
+    },
+    "name": "Pardés H̱anna Karkur"
+  },
+  {
+    "country": "IL",
+    "id": 294384,
+    "coord": {
+      "lat": 32.988979,
+      "lon": 35.570599
+    },
+    "name": "Maẖanayim"
+  },
+  {
+    "country": "IL",
+    "id": 294068,
+    "coord": {
+      "lat": 31.42215,
+      "lon": 34.588581
+    },
+    "name": "Netivot"
+  },
+  {
+    "country": "IL",
+    "id": 294410,
+    "coord": {
+      "lat": 32.555489,
+      "lon": 34.916382
+    },
+    "name": "Ma‘agan Mikha’el"
+  },
+  {
+    "country": "IL",
+    "id": 293655,
+    "coord": {
+      "lat": 32.862221,
+      "lon": 35.293331
+    },
+    "name": "Sakhnin"
+  },
+  {
+    "country": "IL",
+    "id": 293825,
+    "coord": {
+      "lat": 33.207329,
+      "lon": 35.572121
+    },
+    "name": "Qiryat Shemona"
+  },
+  {
+    "country": "IL",
+    "id": 294778,
+    "coord": {
+      "lat": 32.165829,
+      "lon": 34.83667
+    },
+    "name": "Herzliyya"
+  },
+  {
+    "country": "IL",
+    "id": 295571,
+    "coord": {
+      "lat": 32.41806,
+      "lon": 35.043121
+    },
+    "name": "Bāqa el Gharbiyya"
+  },
+  {
+    "country": "IL",
+    "id": 293963,
+    "coord": {
+      "lat": 31.74103,
+      "lon": 34.735168
+    },
+    "name": "Orot"
+  },
+  {
+    "country": "IL",
+    "id": 293420,
+    "coord": {
+      "lat": 33.01667,
+      "lon": 35.26667
+    },
+    "name": "maalot Tarshiha"
+  },
+  {
+    "country": "IL",
+    "id": 294184,
+    "coord": {
+      "lat": 31.364161,
+      "lon": 34.7187
+    },
+    "name": "Mishmar HaNegev"
+  },
+  {
+    "country": "IL",
+    "id": 294857,
+    "coord": {
+      "lat": 31.76428,
+      "lon": 34.999699
+    },
+    "name": "Hartuv"
+  },
+  {
+    "country": "IL",
+    "id": 293148,
+    "coord": {
+      "lat": 29.883329,
+      "lon": 35.049999
+    },
+    "name": "Yotvata"
+  },
+  {
+    "country": "IL",
+    "id": 293436,
+    "coord": {
+      "lat": 31.950001,
+      "lon": 34.849998
+    },
+    "name": "Talme Menashe"
+  },
+  {
+    "country": "IL",
+    "id": 295523,
+    "coord": {
+      "lat": 32.964642,
+      "lon": 35.381519
+    },
+    "name": "Beit Jann"
+  },
+  {
+    "country": "IL",
+    "id": 294057,
+    "coord": {
+      "lat": 32.029999,
+      "lon": 34.870831
+    },
+    "name": "Newe Efrayim"
+  },
+  {
+    "country": "IL",
+    "id": 295740,
+    "coord": {
+      "lat": 32.611111,
+      "lon": 35.291672
+    },
+    "name": "‘Afula"
+  },
+  {
+    "country": "IL",
+    "id": 293918,
+    "coord": {
+      "lat": 32.088612,
+      "lon": 34.872219
+    },
+    "name": "Petaẖ Tiqwa"
+  },
+  {
+    "country": "IL",
+    "id": 293896,
+    "coord": {
+      "lat": 32.284931,
+      "lon": 34.98106
+    },
+    "name": "Qalansuwa"
+  },
+  {
+    "country": "IL",
+    "id": 293162,
+    "coord": {
+      "lat": 32.836109,
+      "lon": 35.26944
+    },
+    "name": "Yodefat"
+  },
+  {
+    "country": "IL",
+    "id": 295174,
+    "coord": {
+      "lat": 32.72361,
+      "lon": 35.3125
+    },
+    "name": "Er Reina"
+  },
+  {
+    "country": "IL",
+    "id": 293308,
+    "coord": {
+      "lat": 32.761669,
+      "lon": 34.971939
+    },
+    "name": "Tirat Karmel"
+  },
+  {
+    "country": "IL",
+    "id": 293100,
+    "coord": {
+      "lat": 32.965641,
+      "lon": 35.500488
+    },
+    "name": "Zefat"
+  },
+  {
+    "country": "IL",
+    "id": 293260,
+    "coord": {
+      "lat": 32.316669,
+      "lon": 35
+    },
+    "name": "Yad H̱anna"
+  },
+  {
+    "country": "IL",
+    "id": 293304,
+    "coord": {
+      "lat": 32.421669,
+      "lon": 35.524441
+    },
+    "name": "Tirat Ẕevi"
+  },
+  {
+    "country": "IL",
+    "id": 295439,
+    "coord": {
+      "lat": 31.44553,
+      "lon": 34.761848
+    },
+    "name": "Bet Qama"
+  },
+  {
+    "country": "IL",
+    "id": 294434,
+    "coord": {
+      "lat": 31.561291,
+      "lon": 34.843128
+    },
+    "name": "Lakhish"
+  },
+  {
+    "country": "IL",
+    "id": 294999,
+    "coord": {
+      "lat": 32.069721,
+      "lon": 34.811668
+    },
+    "name": "Givatayim"
+  },
+  {
+    "country": "IL",
+    "id": 293371,
+    "coord": {
+      "lat": 32.774719,
+      "lon": 35.03167
+    },
+    "name": "Tel H̱anan"
+  },
+  {
+    "country": "IL",
+    "id": 294817,
+    "coord": {
+      "lat": 31.24057,
+      "lon": 34.713902
+    },
+    "name": "H̱aẕerim"
+  },
+  {
+    "country": "IL",
+    "id": 293153,
+    "coord": {
+      "lat": 32.666672,
+      "lon": 35.133331
+    },
+    "name": "Yoqne‘am ‘Illit"
+  },
+  {
+    "country": "IL",
+    "id": 293181,
+    "coord": {
+      "lat": 32.953758,
+      "lon": 35.212002
+    },
+    "name": "Yirkā"
+  },
+  {
+    "country": "IL",
+    "id": 295095,
+    "coord": {
+      "lat": 31.633659,
+      "lon": 34.84758
+    },
+    "name": "Gal’on"
+  },
+  {
+    "country": "IL",
+    "id": 295189,
+    "coord": {
+      "lat": 29.584299,
+      "lon": 34.882801
+    },
+    "name": "‘En Netafim"
+  },
+  {
+    "country": "IL",
+    "id": 293792,
+    "coord": {
+      "lat": 32.110561,
+      "lon": 34.795559
+    },
+    "name": "Ramat Aviv"
+  },
+  {
+    "country": "IL",
+    "id": 6620954,
+    "coord": {
+      "lat": 29.9702,
+      "lon": 35.061298
+    },
+    "name": "Ketura"
+  },
+  {
+    "country": "IL",
+    "id": 293824,
+    "coord": {
+      "lat": 32.838058,
+      "lon": 35.064442
+    },
+    "name": "Qiryat Shemu’el"
+  },
+  {
+    "country": "IL",
+    "id": 293836,
+    "coord": {
+      "lat": 32.83194,
+      "lon": 35.05611
+    },
+    "name": "Qiryat H̱ayyim"
+  },
+  {
+    "country": "IL",
+    "id": 293977,
+    "coord": {
+      "lat": 32.022221,
+      "lon": 34.866669
+    },
+    "name": "Qiryat Ono"
+  },
+  {
+    "country": "IL",
+    "id": 281184,
+    "coord": {
+      "lat": 31.769039,
+      "lon": 35.216331
+    },
+    "name": "Jerusalem"
+  },
+  {
+    "country": "IL",
+    "id": 293397,
+    "coord": {
+      "lat": 32.080879,
+      "lon": 34.780571
+    },
+    "name": "Tel Aviv"
+  },
+  {
+    "country": "IL",
+    "id": 293842,
+    "coord": {
+      "lat": 31.60998,
+      "lon": 34.764221
+    },
+    "name": "Qiryat Gat"
+  },
+  {
+    "country": "IL",
+    "id": 295432,
+    "coord": {
+      "lat": 31.74959,
+      "lon": 34.98877
+    },
+    "name": "Bet Shemesh"
+  },
+  {
+    "country": "IL",
+    "id": 295629,
+    "coord": {
+      "lat": 31.816669,
+      "lon": 34.650002
+    },
+    "name": "Ashdod"
+  },
+  {
+    "country": "IL",
+    "id": 295721,
+    "coord": {
+      "lat": 32.923611,
+      "lon": 35.072781
+    },
+    "name": "Akko"
+  },
+  {
+    "country": "IL",
+    "id": 7498240,
+    "coord": {
+      "lat": 31.78199,
+      "lon": 35.219608
+    },
+    "name": "West Jerusalem"
+  },
+  {
+    "country": "IL",
+    "id": 282582,
+    "coord": {
+      "lat": 31.827539,
+      "lon": 35.130932
+    },
+    "name": "Har Adar"
+  },
+  {
+    "country": "IL",
+    "id": 293014,
+    "coord": {
+      "lat": 32.298191,
+      "lon": 34.913132
+    },
+    "name": "Zur Moshe"
+  },
+  {
+    "country": "IL",
+    "id": 293020,
+    "coord": {
+      "lat": 31.717939,
+      "lon": 35.09549
+    },
+    "name": "Zur Hadassa"
+  },
+  {
+    "country": "IL",
+    "id": 293203,
+    "coord": {
+      "lat": 30.987221,
+      "lon": 34.931389
+    },
+    "name": "Yeroham"
+  },
+  {
+    "country": "IL",
+    "id": 293220,
+    "coord": {
+      "lat": 32.70356,
+      "lon": 35.506618
+    },
+    "name": "Yavneel"
+  },
+  {
+    "country": "IL",
+    "id": 293273,
+    "coord": {
+      "lat": 32.792122,
+      "lon": 35.329842
+    },
+    "name": "Uzeir"
+  },
+  {
+    "country": "IL",
+    "id": 293310,
+    "coord": {
+      "lat": 32.703609,
+      "lon": 35.226669
+    },
+    "name": "Timrat"
+  },
+  {
+    "country": "IL",
+    "id": 293354,
+    "coord": {
+      "lat": 32.24995,
+      "lon": 34.91737
+    },
+    "name": "Tel Mond"
+  },
+  {
+    "country": "IL",
+    "id": 293449,
+    "coord": {
+      "lat": 32.60606,
+      "lon": 35.33408
+    },
+    "name": "Sulam"
+  },
+  {
+    "country": "IL",
+    "id": 293522,
+    "coord": {
+      "lat": 33.074718,
+      "lon": 35.14608
+    },
+    "name": "Shelomi"
+  },
+  {
+    "country": "IL",
+    "id": 293633,
+    "coord": {
+      "lat": 32.053059,
+      "lon": 34.877781
+    },
+    "name": "Savyon"
+  },
+  {
+    "country": "IL",
+    "id": 293657,
+    "coord": {
+      "lat": 32.942661,
+      "lon": 35.341358
+    },
+    "name": "Sajur"
+  },
+  {
+    "country": "IL",
+    "id": 293688,
+    "coord": {
+      "lat": 32.968941,
+      "lon": 35.54258
+    },
+    "name": "Rosh Pinna"
+  },
+  {
+    "country": "IL",
+    "id": 293721,
+    "coord": {
+      "lat": 32.75,
+      "lon": 35.099998
+    },
+    "name": "Rekhasim"
+  },
+  {
+    "country": "IL",
+    "id": 293773,
+    "coord": {
+      "lat": 32.700562,
+      "lon": 35.179722
+    },
+    "name": "Ramat Yishay"
+  },
+  {
+    "country": "IL",
+    "id": 293942,
+    "coord": {
+      "lat": 32.305771,
+      "lon": 34.909111
+    },
+    "name": "Pardesiyya"
+  },
+  {
+    "country": "IL",
+    "id": 294003,
+    "coord": {
+      "lat": 32.314701,
+      "lon": 34.896172
+    },
+    "name": "Nordiyya"
+  },
+  {
+    "country": "IL",
+    "id": 294089,
+    "coord": {
+      "lat": 32.63063,
+      "lon": 35.34885
+    },
+    "name": "Nein"
+  },
+  {
+    "country": "IL",
+    "id": 294093,
+    "coord": {
+      "lat": 32.061939,
+      "lon": 34.913891
+    },
+    "name": "Nehalim"
+  },
+  {
+    "country": "IL",
+    "id": 294205,
+    "coord": {
+      "lat": 33.027809,
+      "lon": 35.25658
+    },
+    "name": "Miilya"
+  },
+  {
+    "country": "IL",
+    "id": 294247,
+    "coord": {
+      "lat": 33.279179,
+      "lon": 35.579498
+    },
+    "name": "Metulla"
+  },
+  {
+    "country": "IL",
+    "id": 294303,
+    "coord": {
+      "lat": 31.853889,
+      "lon": 34.838612
+    },
+    "name": "Mazkeret Batya"
+  },
+  {
+    "country": "IL",
+    "id": 294545,
+    "coord": {
+      "lat": 31.98667,
+      "lon": 34.851109
+    },
+    "name": "Kefar Habad"
+  },
+  {
+    "country": "IL",
+    "id": 294571,
+    "coord": {
+      "lat": 32.833328,
+      "lon": 35.25
+    },
+    "name": "Kaukab Abu el Hija"
+  },
+  {
+    "country": "IL",
+    "id": 294600,
+    "coord": {
+      "lat": 32.95451,
+      "lon": 35.1623
+    },
+    "name": "Kafr Yasif"
+  },
+  {
+    "country": "IL",
+    "id": 294607,
+    "coord": {
+      "lat": 32.64521,
+      "lon": 35.421471
+    },
+    "name": "Kafr Misr"
+  },
+  {
+    "country": "IL",
+    "id": 294611,
+    "coord": {
+      "lat": 32.721291,
+      "lon": 35.441219
+    },
+    "name": "Kafr Kama"
+  },
+  {
+    "country": "IL",
+    "id": 294615,
+    "coord": {
+      "lat": 32.866669,
+      "lon": 35.213058
+    },
+    "name": "Kabul"
+  },
+  {
+    "country": "IL",
+    "id": 294627,
+    "coord": {
+      "lat": 33.02216,
+      "lon": 35.446941
+    },
+    "name": "Jish"
+  },
+  {
+    "country": "IL",
+    "id": 294634,
+    "coord": {
+      "lat": 32.15583,
+      "lon": 34.952782
+    },
+    "name": "Jaljulya"
+  },
+  {
+    "country": "IL",
+    "id": 294658,
+    "coord": {
+      "lat": 32.681641,
+      "lon": 35.32365
+    },
+    "name": "Iksal"
+  },
+  {
+    "country": "IL",
+    "id": 294661,
+    "coord": {
+      "lat": 32.761669,
+      "lon": 35.10083
+    },
+    "name": "Ibtin"
+  },
+  {
+    "country": "IL",
+    "id": 295089,
+    "coord": {
+      "lat": 32.06028,
+      "lon": 34.874722
+    },
+    "name": "Ganne Tiqwa"
+  },
+  {
+    "country": "IL",
+    "id": 295104,
+    "coord": {
+      "lat": 33.04895,
+      "lon": 35.308941
+    },
+    "name": "Mafshatah"
+  },
+  {
+    "country": "IL",
+    "id": 295122,
+    "coord": {
+      "lat": 32.269588,
+      "lon": 34.887589
+    },
+    "name": "Even Yehuda"
+  },
+  {
+    "country": "IL",
+    "id": 295157,
+    "coord": {
+      "lat": 32.99231,
+      "lon": 35.1479
+    },
+    "name": "Esh Sheikh Dannun"
+  },
+  {
+    "country": "IL",
+    "id": 295224,
+    "coord": {
+      "lat": 31.201389,
+      "lon": 35.363892
+    },
+    "name": "En Boqeq"
+  },
+  {
+    "country": "IL",
+    "id": 295232,
+    "coord": {
+      "lat": 32.407928,
+      "lon": 34.924332
+    },
+    "name": "Elyakhin"
+  },
+  {
+    "country": "IL",
+    "id": 295249,
+    "coord": {
+      "lat": 32.983379,
+      "lon": 35.09837
+    },
+    "name": "El Mazraa"
+  },
+  {
+    "country": "IL",
+    "id": 295269,
+    "coord": {
+      "lat": 32.599998,
+      "lon": 34.950001
+    },
+    "name": "El Fureidis"
+  },
+  {
+    "country": "IL",
+    "id": 295291,
+    "coord": {
+      "lat": 32.83622,
+      "lon": 35.400398
+    },
+    "name": "Eilabun"
+  },
+  {
+    "country": "IL",
+    "id": 295339,
+    "coord": {
+      "lat": 32.861961,
+      "lon": 35.363651
+    },
+    "name": "Deir Hanna"
+  },
+  {
+    "country": "IL",
+    "id": 295370,
+    "coord": {
+      "lat": 32.692558,
+      "lon": 35.371231
+    },
+    "name": "Dabburiya"
+  },
+  {
+    "country": "IL",
+    "id": 295379,
+    "coord": {
+      "lat": 32.977459,
+      "lon": 35.33345
+    },
+    "name": "Buqeia"
+  },
+  {
+    "country": "IL",
+    "id": 295380,
+    "coord": {
+      "lat": 32.806358,
+      "lon": 35.364861
+    },
+    "name": "Bueina"
+  },
+  {
+    "country": "IL",
+    "id": 295404,
+    "coord": {
+      "lat": 32.75,
+      "lon": 35.23333
+    },
+    "name": "Bir el Maksur"
+  },
+  {
+    "country": "IL",
+    "id": 295424,
+    "coord": {
+      "lat": 32.327511,
+      "lon": 34.888779
+    },
+    "name": "Bet Yizhaq"
+  },
+  {
+    "country": "IL",
+    "id": 295475,
+    "coord": {
+      "lat": 32.001389,
+      "lon": 34.83028
+    },
+    "name": "Bet Dagan"
+  },
+  {
+    "country": "IL",
+    "id": 295515,
+    "coord": {
+      "lat": 31.783331,
+      "lon": 34.75
+    },
+    "name": "Bene Ayish"
+  },
+  {
+    "country": "IL",
+    "id": 295553,
+    "coord": {
+      "lat": 32.73444,
+      "lon": 35.145828
+    },
+    "name": "Basmat Tabun"
+  },
+  {
+    "country": "IL",
+    "id": 295613,
+    "coord": {
+      "lat": 32.683331,
+      "lon": 34.933331
+    },
+    "name": "Atlit"
+  },
+  {
+    "country": "IL",
+    "id": 295772,
+    "coord": {
+      "lat": 31.80592,
+      "lon": 35.109299
+    },
+    "name": "Abu Ghaush"
+  },
+  {
+    "country": "IL",
+    "id": 386042,
+    "coord": {
+      "lat": 32.694641,
+      "lon": 35.392521
+    },
+    "name": "Shibli"
+  },
+  {
+    "country": "IL",
+    "id": 386194,
+    "coord": {
+      "lat": 32.779171,
+      "lon": 35.306938
+    },
+    "name": "Rumat Heib"
+  },
+  {
+    "country": "IL",
+    "id": 386253,
+    "coord": {
+      "lat": 32.894428,
+      "lon": 35.369308
+    },
+    "name": "Sallama"
+  },
+  {
+    "country": "IL",
+    "id": 386445,
+    "coord": {
+      "lat": 32.993851,
+      "lon": 35.277931
+    },
+    "name": "Kefar Weradim"
+  },
+  {
+    "country": "IL",
+    "id": 6693244,
+    "coord": {
+      "lat": 31.372841,
+      "lon": 34.816189
+    },
+    "name": "Lehavim"
+  },
+  {
+    "country": "IL",
+    "id": 6929924,
+    "coord": {
+      "lat": 30.85154,
+      "lon": 34.783401
+    },
+    "name": "Midreshet Ben-Gurion"
+  },
+  {
+    "country": "IL",
+    "id": 7117228,
+    "coord": {
+      "lat": 32.518879,
+      "lon": 34.904591
+    },
+    "name": "Qesarya"
+  },
+  {
+    "country": "IL",
+    "id": 8199378,
+    "coord": {
+      "lat": 31.932211,
+      "lon": 35.044159
+    },
+    "name": "Modiin Ilit"
+  },
+  {
+    "country": "IL",
+    "id": 8199382,
+    "coord": {
+      "lat": 31.929729,
+      "lon": 35.0215
+    },
+    "name": "Hashmonaim"
+  },
+  {
+    "country": "IL",
+    "id": 8199383,
+    "coord": {
+      "lat": 31.917641,
+      "lon": 35.032219
+    },
+    "name": "Lapid"
+  },
+  {
+    "country": "IL",
+    "id": 8199384,
+    "coord": {
+      "lat": 31.919821,
+      "lon": 35.03669
+    },
+    "name": "Kfar NaOranim"
+  },
+  {
+    "country": "IL",
+    "id": 8199385,
+    "coord": {
+      "lat": 31.848761,
+      "lon": 35.035831
+    },
+    "name": "Mevo horon"
+  },
+  {
+    "country": "IL",
+    "id": 8199386,
+    "coord": {
+      "lat": 31.86145,
+      "lon": 35.16861
+    },
+    "name": "Givat Zeev"
+  },
+  {
+    "country": "IL",
+    "id": 8199387,
+    "coord": {
+      "lat": 31.875811,
+      "lon": 35.12999
+    },
+    "name": "Beit Horon"
+  },
+  {
+    "country": "IL",
+    "id": 8199389,
+    "coord": {
+      "lat": 31.96236,
+      "lon": 35.065529
+    },
+    "name": "Naale"
+  },
+  {
+    "country": "IL",
+    "id": 8199390,
+    "coord": {
+      "lat": 31.84927,
+      "lon": 35.16106
+    },
+    "name": "Givon HaHadasha"
+  },
+  {
+    "country": "IL",
+    "id": 8199392,
+    "coord": {
+      "lat": 31.93927,
+      "lon": 35.135391
+    },
+    "name": "Talmon"
+  },
+  {
+    "country": "IL",
+    "id": 8199393,
+    "coord": {
+      "lat": 31.92609,
+      "lon": 35.13393
+    },
+    "name": "Dolev"
+  },
+  {
+    "country": "IL",
+    "id": 8199394,
+    "coord": {
+      "lat": 32.106499,
+      "lon": 35.18449
+    },
+    "name": "Ariel"
+  },
+  {
+    "country": "IL",
+    "id": 8199421,
+    "coord": {
+      "lat": 32.14677,
+      "lon": 34.986221
+    },
+    "name": "Nirit"
+  },
+  {
+    "country": "IL",
+    "id": 8199422,
+    "coord": {
+      "lat": 32.119259,
+      "lon": 35.12896
+    },
+    "name": "Revava"
+  }
+
+]

@@ -1,0 +1,49 @@
+[
+
+  {
+    "country": "SJ",
+    "id": 7521757,
+    "coord": {
+      "lat": 78.157059,
+      "lon": 15.86426
+    },
+    "name": "Svalbard"
+  },
+  {
+    "country": "SJ",
+    "id": 7535696,
+    "coord": {
+      "lat": 78.052902,
+      "lon": 17.709961
+    },
+    "name": "Spitsbergen"
+  },
+  {
+    "country": "SJ",
+    "id": 2729456,
+    "coord": {
+      "lat": 78.201851,
+      "lon": 15.59119
+    },
+    "name": "Nybyen"
+  },
+  {
+    "country": "SJ",
+    "id": 2729907,
+    "coord": {
+      "lat": 78.218597,
+      "lon": 15.64007
+    },
+    "name": "Longyearbyen"
+  },
+  {
+    "country": "SJ",
+    "id": 7535941,
+    "coord": {
+      "lat": 70.922096,
+      "lon": -8.7187
+    },
+    "name": "Olonkinbyen"
+  }
+
+]

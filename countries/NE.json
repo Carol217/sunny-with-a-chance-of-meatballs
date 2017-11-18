@@ -1,0 +1,508 @@
+[
+
+  {
+    "country": "NE",
+    "id": 2437797,
+    "coord": {
+      "lat": 15,
+      "lon": 10.5
+    },
+    "name": "Zinder"
+  },
+  {
+    "country": "NE",
+    "id": 6750152,
+    "coord": {
+      "lat": 13.59936,
+      "lon": 10.13456
+    },
+    "name": "Kaygamari"
+  },
+  {
+    "country": "NE",
+    "id": 2595293,
+    "coord": {
+      "lat": 14.33333,
+      "lon": 2.08333
+    },
+    "name": "Tillabéri"
+  },
+  {
+    "country": "NE",
+    "id": 2443250,
+    "coord": {
+      "lat": 14.14841,
+      "lon": 1.24301
+    },
+    "name": "I-n-Alakam"
+  },
+  {
+    "country": "NE",
+    "id": 2438678,
+    "coord": {
+      "lat": 14.21167,
+      "lon": 1.45306
+    },
+    "name": "Tillaberi"
+  },
+  {
+    "country": "NE",
+    "id": 2445702,
+    "coord": {
+      "lat": 16,
+      "lon": 13.5
+    },
+    "name": "Diffa"
+  },
+  {
+    "country": "NE",
+    "id": 6777949,
+    "coord": {
+      "lat": 13.262,
+      "lon": 12.4577
+    },
+    "name": "Aligoundiri"
+  },
+  {
+    "country": "NE",
+    "id": 2448083,
+    "coord": {
+      "lat": 19.75,
+      "lon": 10.25
+    },
+    "name": "Agadez"
+  },
+  {
+    "country": "NE",
+    "id": 2446796,
+    "coord": {
+      "lat": 18.68532,
+      "lon": 12.91643
+    },
+    "name": "Bilma"
+  },
+  {
+    "country": "NE",
+    "id": 2437798,
+    "coord": {
+      "lat": 13.80716,
+      "lon": 8.9881
+    },
+    "name": "Zinder"
+  },
+  {
+    "country": "NE",
+    "id": 2438774,
+    "coord": {
+      "lat": 13.56271,
+      "lon": 7.04848
+    },
+    "name": "Tibiri"
+  },
+  {
+    "country": "NE",
+    "id": 2440495,
+    "coord": {
+      "lat": 14.24953,
+      "lon": 13.10921
+    },
+    "name": "Nguigmi"
+  },
+  {
+    "country": "NE",
+    "id": 2441217,
+    "coord": {
+      "lat": 13.42309,
+      "lon": 8.47485
+    },
+    "name": "Matamey"
+  },
+  {
+    "country": "NE",
+    "id": 2441482,
+    "coord": {
+      "lat": 12.99826,
+      "lon": 8.90991
+    },
+    "name": "Magaria"
+  },
+  {
+    "country": "NE",
+    "id": 2446267,
+    "coord": {
+      "lat": 14.51056,
+      "lon": 6.765
+    },
+    "name": "Dakoro"
+  },
+  {
+    "country": "NE",
+    "id": 2447938,
+    "coord": {
+      "lat": 17.0187,
+      "lon": 8.0168
+    },
+    "name": "Alaghsas"
+  },
+  {
+    "country": "NE",
+    "id": 2440476,
+    "coord": {
+      "lat": 16,
+      "lon": 8
+    },
+    "name": "Republic of Niger"
+  },
+  {
+    "country": "NE",
+    "id": 2437732,
+    "coord": {
+      "lat": 13.79562,
+      "lon": 5.2553
+    },
+    "name": "Birni N Konni"
+  },
+  {
+    "country": "NE",
+    "id": 2595294,
+    "coord": {
+      "lat": 13.52139,
+      "lon": 2.10528
+    },
+    "name": "Niamey"
+  },
+  {
+    "country": "NE",
+    "id": 2440485,
+    "coord": {
+      "lat": 13.51366,
+      "lon": 2.1098
+    },
+    "name": "Niamey"
+  },
+  {
+    "country": "NE",
+    "id": 2441289,
+    "coord": {
+      "lat": 14.25,
+      "lon": 7.25
+    },
+    "name": "Maradi"
+  },
+  {
+    "country": "NE",
+    "id": 2441291,
+    "coord": {
+      "lat": 13.5,
+      "lon": 7.10174
+    },
+    "name": "Maradi"
+  },
+  {
+    "country": "NE",
+    "id": 2448085,
+    "coord": {
+      "lat": 16.97333,
+      "lon": 7.99111
+    },
+    "name": "Agadez"
+  },
+  {
+    "country": "NE",
+    "id": 2447513,
+    "coord": {
+      "lat": 18.73694,
+      "lon": 7.38528
+    },
+    "name": "Arlit"
+  },
+  {
+    "country": "NE",
+    "id": 6728346,
+    "coord": {
+      "lat": 13.78125,
+      "lon": 8.97338
+    },
+    "name": "Kaché-ni"
+  },
+  {
+    "country": "NE",
+    "id": 6306035,
+    "coord": {
+      "lat": 16.97389,
+      "lon": 7.99861
+    },
+    "name": "Sabon Gari"
+  },
+  {
+    "country": "NE",
+    "id": 2439374,
+    "coord": {
+      "lat": 16,
+      "lon": 5.5
+    },
+    "name": "Tahoua"
+  },
+  {
+    "country": "NE",
+    "id": 2439376,
+    "coord": {
+      "lat": 14.8888,
+      "lon": 5.2692
+    },
+    "name": "Tahoua"
+  },
+  {
+    "country": "NE",
+    "id": 2569011,
+    "coord": {
+      "lat": 13.4697,
+      "lon": 2.1837
+    },
+    "name": "Saga-Aviation"
+  },
+  {
+    "country": "NE",
+    "id": 7015634,
+    "coord": {
+      "lat": 13.80015,
+      "lon": 5.2552
+    },
+    "name": "Masalata"
+  },
+  {
+    "country": "NE",
+    "id": 2596709,
+    "coord": {
+      "lat": 19.366671,
+      "lon": 5.8
+    },
+    "name": "Assamakka"
+  },
+  {
+    "country": "NE",
+    "id": 2438823,
+    "coord": {
+      "lat": 13.75737,
+      "lon": 7.9874
+    },
+    "name": "Tessaoua"
+  },
+  {
+    "country": "NE",
+    "id": 2438855,
+    "coord": {
+      "lat": 14.00776,
+      "lon": 0.75306
+    },
+    "name": "Tera"
+  },
+  {
+    "country": "NE",
+    "id": 2439155,
+    "coord": {
+      "lat": 14.97089,
+      "lon": 8.88786
+    },
+    "name": "Tanout"
+  },
+  {
+    "country": "NE",
+    "id": 2440921,
+    "coord": {
+      "lat": 13.70727,
+      "lon": 9.15013
+    },
+    "name": "Mirya"
+  },
+  {
+    "country": "NE",
+    "id": 2441194,
+    "coord": {
+      "lat": 13.95532,
+      "lon": 7.67122
+    },
+    "name": "Mayahi"
+  },
+  {
+    "country": "NE",
+    "id": 2441530,
+    "coord": {
+      "lat": 14.073,
+      "lon": 5.96
+    },
+    "name": "Madaoua"
+  },
+  {
+    "country": "NE",
+    "id": 2443304,
+    "coord": {
+      "lat": 14.4605,
+      "lon": 5.2437
+    },
+    "name": "Illela"
+  },
+  {
+    "country": "NE",
+    "id": 2445486,
+    "coord": {
+      "lat": 13.5,
+      "lon": 3.5
+    },
+    "name": "Dosso"
+  },
+  {
+    "country": "NE",
+    "id": 2444489,
+    "coord": {
+      "lat": 11.88435,
+      "lon": 3.44919
+    },
+    "name": "Gaya"
+  },
+  {
+    "country": "NE",
+    "id": 2445488,
+    "coord": {
+      "lat": 13.049,
+      "lon": 3.1937
+    },
+    "name": "Dosso"
+  },
+  {
+    "country": "NE",
+    "id": 2445553,
+    "coord": {
+      "lat": 13.63933,
+      "lon": 4.02875
+    },
+    "name": "Dogondoutchi"
+  },
+  {
+    "country": "NE",
+    "id": 2445704,
+    "coord": {
+      "lat": 13.31536,
+      "lon": 12.61134
+    },
+    "name": "Diffa"
+  },
+  {
+    "country": "NE",
+    "id": 2447416,
+    "coord": {
+      "lat": 14.73075,
+      "lon": 0.91738
+    },
+    "name": "Ayorou"
+  },
+  {
+    "country": "NE",
+    "id": 2438974,
+    "coord": {
+      "lat": 15.8969,
+      "lon": 5.7985
+    },
+    "name": "Tchin Tabaraden"
+  },
+  {
+    "country": "NE",
+    "id": 2439812,
+    "coord": {
+      "lat": 13.1007,
+      "lon": 2.3689
+    },
+    "name": "Say"
+  },
+  {
+    "country": "NE",
+    "id": 2440371,
+    "coord": {
+      "lat": 14.3188,
+      "lon": 2.0866
+    },
+    "name": "Ouallam"
+  },
+  {
+    "country": "NE",
+    "id": 2441447,
+    "coord": {
+      "lat": 13.21139,
+      "lon": 12.0241
+    },
+    "name": "Maine-Soroa"
+  },
+  {
+    "country": "NE",
+    "id": 2441526,
+    "coord": {
+      "lat": 13.30867,
+      "lon": 7.15602
+    },
+    "name": "Madarounfa"
+  },
+  {
+    "country": "NE",
+    "id": 2442248,
+    "coord": {
+      "lat": 13.3043,
+      "lon": 2.339
+    },
+    "name": "Kollo"
+  },
+  {
+    "country": "NE",
+    "id": 2442478,
+    "coord": {
+      "lat": 14.7551,
+      "lon": 5.7749
+    },
+    "name": "Keita"
+  },
+  {
+    "country": "NE",
+    "id": 2444219,
+    "coord": {
+      "lat": 13.9835,
+      "lon": 10.27035
+    },
+    "name": "Goure"
+  },
+  {
+    "country": "NE",
+    "id": 2444995,
+    "coord": {
+      "lat": 14.3521,
+      "lon": 3.3168
+    },
+    "name": "Filingue"
+  },
+  {
+    "country": "NE",
+    "id": 2446466,
+    "coord": {
+      "lat": 14.42293,
+      "lon": 6.04278
+    },
+    "name": "Bouza"
+  },
+  {
+    "country": "NE",
+    "id": 2448024,
+    "coord": {
+      "lat": 13.50601,
+      "lon": 7.77863
+    },
+    "name": "Aguie"
+  },
+  {
+    "country": "NE",
+    "id": 2448245,
+    "coord": {
+      "lat": 15.4509,
+      "lon": 6.2793
+    },
+    "name": "Abalak"
+  }
+
+]

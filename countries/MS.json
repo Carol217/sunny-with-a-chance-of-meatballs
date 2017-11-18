@@ -1,0 +1,76 @@
+[
+
+  {
+    "country": "MS",
+    "id": 3578045,
+    "coord": {
+      "lat": 16.700001,
+      "lon": -62.200001
+    },
+    "name": "Parish of Saint Anthony"
+  },
+  {
+    "country": "MS",
+    "id": 3577989,
+    "coord": {
+      "lat": 16.700001,
+      "lon": -62.216671
+    },
+    "name": "Webbs"
+  },
+  {
+    "country": "MS",
+    "id": 3578039,
+    "coord": {
+      "lat": 16.783331,
+      "lon": -62.200001
+    },
+    "name": "Parish of Saint Peter"
+  },
+  {
+    "country": "MS",
+    "id": 3578028,
+    "coord": {
+      "lat": 16.783331,
+      "lon": -62.200001
+    },
+    "name": "Soldier Ghaut"
+  },
+  {
+    "country": "MS",
+    "id": 3578097,
+    "coord": {
+      "lat": 16.75,
+      "lon": -62.200001
+    },
+    "name": "Montserrat"
+  },
+  {
+    "country": "MS",
+    "id": 3578160,
+    "coord": {
+      "lat": 16.79575,
+      "lon": -62.193562
+    },
+    "name": "Gerald's"
+  },
+  {
+    "country": "MS",
+    "id": 3578069,
+    "coord": {
+      "lat": 16.705549,
+      "lon": -62.212921
+    },
+    "name": "Plymouth"
+  },
+  {
+    "country": "MS",
+    "id": 7266440,
+    "coord": {
+      "lat": 16.79183,
+      "lon": -62.210579
+    },
+    "name": "Brades"
+  }
+
+]

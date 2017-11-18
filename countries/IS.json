@@ -1,0 +1,463 @@
+[
+
+  {
+    "country": "IS",
+    "id": 3416900,
+    "coord": {
+      "lat": 64.138962,
+      "lon": -21.956779
+    },
+    "name": "Grímsstaðaholt"
+  },
+  {
+    "country": "IS",
+    "id": 3415846,
+    "coord": {
+      "lat": 64.063164,
+      "lon": -21.98592
+    },
+    "name": "Hvaleyri"
+  },
+  {
+    "country": "IS",
+    "id": 2629691,
+    "coord": {
+      "lat": 65,
+      "lon": -18
+    },
+    "name": "Republic of Iceland"
+  },
+  {
+    "country": "IS",
+    "id": 3426183,
+    "coord": {
+      "lat": 63.916672,
+      "lon": -22.25
+    },
+    "name": "Suðurnes"
+  },
+  {
+    "country": "IS",
+    "id": 3415496,
+    "coord": {
+      "lat": 64.004921,
+      "lon": -22.56242
+    },
+    "name": "Keflavik"
+  },
+  {
+    "country": "IS",
+    "id": 3426182,
+    "coord": {
+      "lat": 64.166672,
+      "lon": -21.66667
+    },
+    "name": "Höfuðborgarsvæði"
+  },
+  {
+    "country": "IS",
+    "id": 6692263,
+    "coord": {
+      "lat": 64.118401,
+      "lon": -21.85799
+    },
+    "name": "Reykjavik"
+  },
+  {
+    "country": "IS",
+    "id": 3337404,
+    "coord": {
+      "lat": 65.5,
+      "lon": -17
+    },
+    "name": "Norðurland Eystra"
+  },
+  {
+    "country": "IS",
+    "id": 3415212,
+    "coord": {
+      "lat": 64.112343,
+      "lon": -21.912979
+    },
+    "name": "Kopavogur"
+  },
+  {
+    "country": "IS",
+    "id": 3426184,
+    "coord": {
+      "lat": 64.75,
+      "lon": -21.83333
+    },
+    "name": "Vesturland"
+  },
+  {
+    "country": "IS",
+    "id": 3418365,
+    "coord": {
+      "lat": 64.619438,
+      "lon": -21.538601
+    },
+    "name": "Kelda"
+  },
+  {
+    "country": "IS",
+    "id": 3413650,
+    "coord": {
+      "lat": 64.406097,
+      "lon": -21.626881
+    },
+    "name": "Saurbær"
+  },
+  {
+    "country": "IS",
+    "id": 3413829,
+    "coord": {
+      "lat": 64.135483,
+      "lon": -21.895411
+    },
+    "name": "Reykjavik"
+  },
+  {
+    "country": "IS",
+    "id": 2633274,
+    "coord": {
+      "lat": 65.683533,
+      "lon": -18.087799
+    },
+    "name": "Akureyri"
+  },
+  {
+    "country": "IS",
+    "id": 3337406,
+    "coord": {
+      "lat": 64,
+      "lon": -19
+    },
+    "name": "Suðurland"
+  },
+  {
+    "country": "IS",
+    "id": 3413604,
+    "coord": {
+      "lat": 63.933109,
+      "lon": -20.99712
+    },
+    "name": "Selfoss"
+  },
+  {
+    "country": "IS",
+    "id": 2629833,
+    "coord": {
+      "lat": 66.044891,
+      "lon": -17.33885
+    },
+    "name": "Husavik"
+  },
+  {
+    "country": "IS",
+    "id": 2627130,
+    "coord": {
+      "lat": 66.151337,
+      "lon": -18.905121
+    },
+    "name": "Siglufjordur"
+  },
+  {
+    "country": "IS",
+    "id": 3337403,
+    "coord": {
+      "lat": 65.333328,
+      "lon": -20
+    },
+    "name": "Norðurland Vestra"
+  },
+  {
+    "country": "IS",
+    "id": 2627309,
+    "coord": {
+      "lat": 65.746109,
+      "lon": -19.639441
+    },
+    "name": "Saudarkrokur"
+  },
+  {
+    "country": "IS",
+    "id": 3414079,
+    "coord": {
+      "lat": 64.894524,
+      "lon": -23.714239
+    },
+    "name": "Ólafsvík"
+  },
+  {
+    "country": "IS",
+    "id": 3337405,
+    "coord": {
+      "lat": 65,
+      "lon": -15
+    },
+    "name": "Austurland"
+  },
+  {
+    "country": "IS",
+    "id": 2632428,
+    "coord": {
+      "lat": 65.031639,
+      "lon": -14.21832
+    },
+    "name": "Reyðarfjörður"
+  },
+  {
+    "country": "IS",
+    "id": 2632287,
+    "coord": {
+      "lat": 65.970177,
+      "lon": -18.52861
+    },
+    "name": "Dalvik"
+  },
+  {
+    "country": "IS",
+    "id": 2625252,
+    "coord": {
+      "lat": 63.419701,
+      "lon": -19.00831
+    },
+    "name": "Vík"
+  },
+  {
+    "country": "IS",
+    "id": 3415720,
+    "coord": {
+      "lat": 63.753311,
+      "lon": -20.22434
+    },
+    "name": "Hvolsvöllur"
+  },
+  {
+    "country": "IS",
+    "id": 3412589,
+    "coord": {
+      "lat": 63.860931,
+      "lon": -21.378441
+    },
+    "name": "Torlakshofn"
+  },
+  {
+    "country": "IS",
+    "id": 2628020,
+    "coord": {
+      "lat": 65.148819,
+      "lon": -13.67951
+    },
+    "name": "Neskaupstadur"
+  },
+  {
+    "country": "IS",
+    "id": 3411954,
+    "coord": {
+      "lat": 63.989658,
+      "lon": -22.547319
+    },
+    "name": "Ytri-Njarðvík"
+  },
+  {
+    "country": "IS",
+    "id": 2629399,
+    "coord": {
+      "lat": 65.641693,
+      "lon": -18.014799
+    },
+    "name": "Kaupangur"
+  },
+  {
+    "country": "IS",
+    "id": 2625189,
+    "coord": {
+      "lat": 65.755501,
+      "lon": -14.8252
+    },
+    "name": "Vopnafjörður"
+  },
+  {
+    "country": "IS",
+    "id": 3414109,
+    "coord": {
+      "lat": 63.41972,
+      "lon": -20.294399
+    },
+    "name": "Ofanleiti"
+  },
+  {
+    "country": "IS",
+    "id": 2627642,
+    "coord": {
+      "lat": 66.44265,
+      "lon": -15.9486
+    },
+    "name": "Raufarhöfn"
+  },
+  {
+    "country": "IS",
+    "id": 2632811,
+    "coord": {
+      "lat": 64.315399,
+      "lon": -15.24182
+    },
+    "name": "Bjarnanes"
+  },
+  {
+    "country": "IS",
+    "id": 2628310,
+    "coord": {
+      "lat": 66.537712,
+      "lon": -17.95118
+    },
+    "name": "Miðgarðar"
+  },
+  {
+    "country": "IS",
+    "id": 6354943,
+    "coord": {
+      "lat": 65.265327,
+      "lon": -14.39484
+    },
+    "name": "Egilsstadir"
+  },
+  {
+    "country": "IS",
+    "id": 3416706,
+    "coord": {
+      "lat": 64.067101,
+      "lon": -21.93774
+    },
+    "name": "Hafnarfjordur"
+  },
+  {
+    "country": "IS",
+    "id": 2630299,
+    "coord": {
+      "lat": 64.253868,
+      "lon": -15.2082
+    },
+    "name": "Hofn"
+  },
+  {
+    "country": "IS",
+    "id": 3412093,
+    "coord": {
+      "lat": 63.44273,
+      "lon": -20.27339
+    },
+    "name": "Vestmannaeyjar"
+  },
+  {
+    "country": "IS",
+    "id": 3412888,
+    "coord": {
+      "lat": 65.075729,
+      "lon": -22.72967
+    },
+    "name": "Stykkisholmur"
+  },
+  {
+    "country": "IS",
+    "id": 3413727,
+    "coord": {
+      "lat": 64.036613,
+      "lon": -22.7066
+    },
+    "name": "Sandgerdi"
+  },
+  {
+    "country": "IS",
+    "id": 3414222,
+    "coord": {
+      "lat": 63.9809,
+      "lon": -22.5145
+    },
+    "name": "Njardvik"
+  },
+  {
+    "country": "IS",
+    "id": 3414979,
+    "coord": {
+      "lat": 64.150002,
+      "lon": -22
+    },
+    "name": "Seltjarnarnes"
+  },
+  {
+    "country": "IS",
+    "id": 3415021,
+    "coord": {
+      "lat": 64.166672,
+      "lon": -21.700001
+    },
+    "name": "Mosfellsbaer"
+  },
+  {
+    "country": "IS",
+    "id": 3415667,
+    "coord": {
+      "lat": 66.075493,
+      "lon": -23.124001
+    },
+    "name": "Isafjoerdur"
+  },
+  {
+    "country": "IS",
+    "id": 3415761,
+    "coord": {
+      "lat": 64.000572,
+      "lon": -21.18874
+    },
+    "name": "Hveragerdi"
+  },
+  {
+    "country": "IS",
+    "id": 3416888,
+    "coord": {
+      "lat": 63.8424,
+      "lon": -22.43375
+    },
+    "name": "Grindavik"
+  },
+  {
+    "country": "IS",
+    "id": 3417195,
+    "coord": {
+      "lat": 64.088654,
+      "lon": -21.922979
+    },
+    "name": "Gardabar"
+  },
+  {
+    "country": "IS",
+    "id": 3417972,
+    "coord": {
+      "lat": 64.099998,
+      "lon": -22.01667
+    },
+    "name": "Alftanes"
+  },
+  {
+    "country": "IS",
+    "id": 3418076,
+    "coord": {
+      "lat": 64.538338,
+      "lon": -21.920641
+    },
+    "name": "Borgarnes"
+  },
+  {
+    "country": "IS",
+    "id": 3418653,
+    "coord": {
+      "lat": 64.321793,
+      "lon": -22.0749
+    },
+    "name": "Akranes"
+  }
+
+]

@@ -1,0 +1,598 @@
+[
+
+  {
+    "country": "NA",
+    "id": 3371200,
+    "coord": {
+      "lat": -24.5,
+      "lon": 17.25
+    },
+    "name": "Hardap"
+  },
+  {
+    "country": "NA",
+    "id": 3371202,
+    "coord": {
+      "lat": -19.41667,
+      "lon": 13.75
+    },
+    "name": "Kunene"
+  },
+  {
+    "country": "NA",
+    "id": 3353715,
+    "coord": {
+      "lat": -20.116671,
+      "lon": 16.15
+    },
+    "name": "Outjo"
+  },
+  {
+    "country": "NA",
+    "id": 3364236,
+    "coord": {
+      "lat": -22.98333,
+      "lon": 14.48333
+    },
+    "name": "Meersig"
+  },
+  {
+    "country": "NA",
+    "id": 3355916,
+    "coord": {
+      "lat": -24.23333,
+      "lon": 17.5
+    },
+    "name": "Kub"
+  },
+  {
+    "country": "NA",
+    "id": 3371205,
+    "coord": {
+      "lat": -21.75,
+      "lon": 19.41667
+    },
+    "name": "Omaheke"
+  },
+  {
+    "country": "NA",
+    "id": 3352083,
+    "coord": {
+      "lat": -22.4,
+      "lon": 18.48333
+    },
+    "name": "Witvlei"
+  },
+  {
+    "country": "NA",
+    "id": 3353907,
+    "coord": {
+      "lat": -22.385559,
+      "lon": 17.24
+    },
+    "name": "Otjihase"
+  },
+  {
+    "country": "NA",
+    "id": 3371206,
+    "coord": {
+      "lat": -18.33333,
+      "lon": 14.83333
+    },
+    "name": "Omusati"
+  },
+  {
+    "country": "NA",
+    "id": 3354588,
+    "coord": {
+      "lat": -17.566669,
+      "lon": 15.58333
+    },
+    "name": "Olupandu"
+  },
+  {
+    "country": "NA",
+    "id": 3371350,
+    "coord": {
+      "lat": -22.572781,
+      "lon": 17.056391
+    },
+    "name": "Protea"
+  },
+  {
+    "country": "NA",
+    "id": 3355338,
+    "coord": {
+      "lat": -22,
+      "lon": 17
+    },
+    "name": "Republic of Namibia"
+  },
+  {
+    "country": "NA",
+    "id": 3352137,
+    "coord": {
+      "lat": -22.75,
+      "lon": 17.08333
+    },
+    "name": "Khomas"
+  },
+  {
+    "country": "NA",
+    "id": 3357953,
+    "coord": {
+      "lat": -22.33333,
+      "lon": 17.1
+    },
+    "name": "Döbra"
+  },
+  {
+    "country": "NA",
+    "id": 3371208,
+    "coord": {
+      "lat": -18.5,
+      "lon": 17.08333
+    },
+    "name": "Oshikoto"
+  },
+  {
+    "country": "NA",
+    "id": 3352593,
+    "coord": {
+      "lat": -19.23333,
+      "lon": 17.716669
+    },
+    "name": "Tsumeb"
+  },
+  {
+    "country": "NA",
+    "id": 3353811,
+    "coord": {
+      "lat": -20.46369,
+      "lon": 16.64772
+    },
+    "name": "Otjiwarongo"
+  },
+  {
+    "country": "NA",
+    "id": 3371199,
+    "coord": {
+      "lat": -22.08333,
+      "lon": 15.33333
+    },
+    "name": "Erongo"
+  },
+  {
+    "country": "NA",
+    "id": 3352844,
+    "coord": {
+      "lat": -22.683331,
+      "lon": 14.53333
+    },
+    "name": "Swakopmund"
+  },
+  {
+    "country": "NA",
+    "id": 3352136,
+    "coord": {
+      "lat": -22.55941,
+      "lon": 17.083229
+    },
+    "name": "Windhoek"
+  },
+  {
+    "country": "NA",
+    "id": 3359638,
+    "coord": {
+      "lat": -22.9575,
+      "lon": 14.50528
+    },
+    "name": "Walvis Bay"
+  },
+  {
+    "country": "NA",
+    "id": 3371207,
+    "coord": {
+      "lat": -18.5,
+      "lon": 15.75
+    },
+    "name": "Oshana"
+  },
+  {
+    "country": "NA",
+    "id": 3354247,
+    "coord": {
+      "lat": -17.91667,
+      "lon": 15.95
+    },
+    "name": "Ondangwa"
+  },
+  {
+    "country": "NA",
+    "id": 3354021,
+    "coord": {
+      "lat": -17.783331,
+      "lon": 15.68333
+    },
+    "name": "Oshakati"
+  },
+  {
+    "country": "NA",
+    "id": 3353540,
+    "coord": {
+      "lat": -23.316669,
+      "lon": 17.08333
+    },
+    "name": "Rehoboth"
+  },
+  {
+    "country": "NA",
+    "id": 3371201,
+    "coord": {
+      "lat": -27,
+      "lon": 17.5
+    },
+    "name": "Karas"
+  },
+  {
+    "country": "NA",
+    "id": 3355672,
+    "coord": {
+      "lat": -26.64806,
+      "lon": 15.15944
+    },
+    "name": "Luderitz"
+  },
+  {
+    "country": "NA",
+    "id": 3371209,
+    "coord": {
+      "lat": -20.33333,
+      "lon": 18
+    },
+    "name": "Otjozondjupa"
+  },
+  {
+    "country": "NA",
+    "id": 3357114,
+    "coord": {
+      "lat": -19.566669,
+      "lon": 18.116671
+    },
+    "name": "Grootfontein"
+  },
+  {
+    "country": "NA",
+    "id": 3371204,
+    "coord": {
+      "lat": -18.41667,
+      "lon": 19.75
+    },
+    "name": "Okavango"
+  },
+  {
+    "country": "NA",
+    "id": 3353383,
+    "coord": {
+      "lat": -17.933331,
+      "lon": 19.76667
+    },
+    "name": "Rundu"
+  },
+  {
+    "country": "NA",
+    "id": 3354071,
+    "coord": {
+      "lat": -28.549999,
+      "lon": 16.433331
+    },
+    "name": "Oranjemund"
+  },
+  {
+    "country": "NA",
+    "id": 3355595,
+    "coord": {
+      "lat": -24.633329,
+      "lon": 17.966669
+    },
+    "name": "Mariental"
+  },
+  {
+    "country": "NA",
+    "id": 3357247,
+    "coord": {
+      "lat": -22.450001,
+      "lon": 18.966669
+    },
+    "name": "Gobabis"
+  },
+  {
+    "country": "NA",
+    "id": 3371203,
+    "coord": {
+      "lat": -17.58333,
+      "lon": 16.75
+    },
+    "name": "Ohangwena"
+  },
+  {
+    "country": "NA",
+    "id": 3353996,
+    "coord": {
+      "lat": -17.4,
+      "lon": 15.88333
+    },
+    "name": "Oshikango"
+  },
+  {
+    "country": "NA",
+    "id": 3356264,
+    "coord": {
+      "lat": -26.58333,
+      "lon": 18.133329
+    },
+    "name": "Keetmanshoop"
+  },
+  {
+    "country": "NA",
+    "id": 1090052,
+    "coord": {
+      "lat": -17.83333,
+      "lon": 23.75
+    },
+    "name": "Caprivi"
+  },
+  {
+    "country": "NA",
+    "id": 877178,
+    "coord": {
+      "lat": -17.5,
+      "lon": 24.26667
+    },
+    "name": "Katima Mulilo"
+  },
+  {
+    "country": "NA",
+    "id": 3358815,
+    "coord": {
+      "lat": -22.610279,
+      "lon": 17.067221
+    },
+    "name": "Academia"
+  },
+  {
+    "country": "NA",
+    "id": 3363754,
+    "coord": {
+      "lat": -22.95167,
+      "lon": 14.53722
+    },
+    "name": "Narraville"
+  },
+  {
+    "country": "NA",
+    "id": 3356386,
+    "coord": {
+      "lat": -17.933331,
+      "lon": 19.700001
+    },
+    "name": "Kansukwa"
+  },
+  {
+    "country": "NA",
+    "id": 3354716,
+    "coord": {
+      "lat": -19.1763,
+      "lon": 15.9161
+    },
+    "name": "Okaukuejo"
+  },
+  {
+    "country": "NA",
+    "id": 3352919,
+    "coord": {
+      "lat": -21.816669,
+      "lon": 18.23333
+    },
+    "name": "Steinhausen"
+  },
+  {
+    "country": "NA",
+    "id": 3354537,
+    "coord": {
+      "lat": -17.883329,
+      "lon": 15.96667
+    },
+    "name": "Omashaka"
+  },
+  {
+    "country": "NA",
+    "id": 3356024,
+    "coord": {
+      "lat": -26.70389,
+      "lon": 15.23278
+    },
+    "name": "Kolmanskop"
+  },
+  {
+    "country": "NA",
+    "id": 877153,
+    "coord": {
+      "lat": -17.683331,
+      "lon": 24.116671
+    },
+    "name": "Kosheshe"
+  },
+  {
+    "country": "NA",
+    "id": 3354898,
+    "coord": {
+      "lat": -21.98333,
+      "lon": 16.91667
+    },
+    "name": "Okahandja"
+  },
+  {
+    "country": "NA",
+    "id": 3352263,
+    "coord": {
+      "lat": -28.450001,
+      "lon": 18.73333
+    },
+    "name": "Warmbad"
+  },
+  {
+    "country": "NA",
+    "id": 3352461,
+    "coord": {
+      "lat": -22,
+      "lon": 15.6
+    },
+    "name": "Usakos"
+  },
+  {
+    "country": "NA",
+    "id": 3353871,
+    "coord": {
+      "lat": -22.35,
+      "lon": 16.133329
+    },
+    "name": "Otjimbingwe"
+  },
+  {
+    "country": "NA",
+    "id": 3353934,
+    "coord": {
+      "lat": -19.65,
+      "lon": 17.33333
+    },
+    "name": "Otavi"
+  },
+  {
+    "country": "NA",
+    "id": 3354077,
+    "coord": {
+      "lat": -18.06068,
+      "lon": 13.83998
+    },
+    "name": "Opuwo"
+  },
+  {
+    "country": "NA",
+    "id": 3354147,
+    "coord": {
+      "lat": -17.783331,
+      "lon": 15.76667
+    },
+    "name": "Ongwediva"
+  },
+  {
+    "country": "NA",
+    "id": 3354178,
+    "coord": {
+      "lat": -17.883329,
+      "lon": 15.06667
+    },
+    "name": "Ongandjera"
+  },
+  {
+    "country": "NA",
+    "id": 3354540,
+    "coord": {
+      "lat": -21.433331,
+      "lon": 15.93333
+    },
+    "name": "Omaruru"
+  },
+  {
+    "country": "NA",
+    "id": 3354876,
+    "coord": {
+      "lat": -20.58333,
+      "lon": 17.433331
+    },
+    "name": "Okakarara"
+  },
+  {
+    "country": "NA",
+    "id": 3355624,
+    "coord": {
+      "lat": -24.83333,
+      "lon": 16.98333
+    },
+    "name": "Maltahohe"
+  },
+  {
+    "country": "NA",
+    "id": 3356213,
+    "coord": {
+      "lat": -20.366671,
+      "lon": 14.96667
+    },
+    "name": "Khorixas"
+  },
+  {
+    "country": "NA",
+    "id": 3356332,
+    "coord": {
+      "lat": -21.933331,
+      "lon": 15.83333
+    },
+    "name": "Karibib"
+  },
+  {
+    "country": "NA",
+    "id": 3356343,
+    "coord": {
+      "lat": -28.01667,
+      "lon": 18.75
+    },
+    "name": "Karasburg"
+  },
+  {
+    "country": "NA",
+    "id": 3356832,
+    "coord": {
+      "lat": -22.116671,
+      "lon": 14.28333
+    },
+    "name": "Hentiesbaai"
+  },
+  {
+    "country": "NA",
+    "id": 3357804,
+    "coord": {
+      "lat": -17.466669,
+      "lon": 16.33333
+    },
+    "name": "Eenhana"
+  },
+  {
+    "country": "NA",
+    "id": 3358416,
+    "coord": {
+      "lat": -26.48333,
+      "lon": 17.15
+    },
+    "name": "Bethanie"
+  },
+  {
+    "country": "NA",
+    "id": 3358666,
+    "coord": {
+      "lat": -24.133329,
+      "lon": 19.116671
+    },
+    "name": "Aranos"
+  },
+  {
+    "country": "NA",
+    "id": 3358670,
+    "coord": {
+      "lat": -22.41667,
+      "lon": 14.96667
+    },
+    "name": "Arandis"
+  }
+
+]

@@ -1,0 +1,310 @@
+[
+
+  {
+    "country": "LR",
+    "id": 2273312,
+    "coord": {
+      "lat": 8.42194,
+      "lon": -9.74778
+    },
+    "name": "Voinjama"
+  },
+  {
+    "country": "LR",
+    "id": 2278292,
+    "coord": {
+      "lat": 7,
+      "lon": -9.66667
+    },
+    "name": "Bong County"
+  },
+  {
+    "country": "LR",
+    "id": 2277060,
+    "coord": {
+      "lat": 6.99556,
+      "lon": -9.47222
+    },
+    "name": "Gbarnga"
+  },
+  {
+    "country": "LR",
+    "id": 2593120,
+    "coord": {
+      "lat": 5.25,
+      "lon": -7.91667
+    },
+    "name": "River Gee County"
+  },
+  {
+    "country": "LR",
+    "id": 2273638,
+    "coord": {
+      "lat": 5.19639,
+      "lon": -7.87556
+    },
+    "name": "Fish Town"
+  },
+  {
+    "country": "LR",
+    "id": 2276630,
+    "coord": {
+      "lat": 6.25,
+      "lon": -9.75
+    },
+    "name": "Grand Bassa County"
+  },
+  {
+    "country": "LR",
+    "id": 2278158,
+    "coord": {
+      "lat": 5.88083,
+      "lon": -10.04667
+    },
+    "name": "Buchanan"
+  },
+  {
+    "country": "LR",
+    "id": 2274688,
+    "coord": {
+      "lat": 6.75,
+      "lon": -8.75
+    },
+    "name": "Nimba County"
+  },
+  {
+    "country": "LR",
+    "id": 2272790,
+    "coord": {
+      "lat": 7.57944,
+      "lon": -8.53778
+    },
+    "name": "New Yekepa"
+  },
+  {
+    "country": "LR",
+    "id": 2275344,
+    "coord": {
+      "lat": 7.91667,
+      "lon": -10
+    },
+    "name": "Lofa County"
+  },
+  {
+    "country": "LR",
+    "id": 2276086,
+    "coord": {
+      "lat": 6.53,
+      "lon": -10.35167
+    },
+    "name": "Kakata"
+  },
+  {
+    "country": "LR",
+    "id": 2275099,
+    "coord": {
+      "lat": 4.75,
+      "lon": -7.75
+    },
+    "name": "Maryland County"
+  },
+  {
+    "country": "LR",
+    "id": 2276492,
+    "coord": {
+      "lat": 4.375,
+      "lon": -7.71694
+    },
+    "name": "Harper"
+  },
+  {
+    "country": "LR",
+    "id": 2278682,
+    "coord": {
+      "lat": 6.44611,
+      "lon": -10.6125
+    },
+    "name": "Bensonville"
+  },
+  {
+    "country": "LR",
+    "id": 2274890,
+    "coord": {
+      "lat": 6.5,
+      "lon": -10.5
+    },
+    "name": "Montserrado County"
+  },
+  {
+    "country": "LR",
+    "id": 2274895,
+    "coord": {
+      "lat": 6.30054,
+      "lon": -10.7969
+    },
+    "name": "Monrovia"
+  },
+  {
+    "country": "LR",
+    "id": 2277960,
+    "coord": {
+      "lat": 6.31667,
+      "lon": -10.8
+    },
+    "name": "Crown Hill"
+  },
+  {
+    "country": "LR",
+    "id": 2273898,
+    "coord": {
+      "lat": 5.33333,
+      "lon": -8.66667
+    },
+    "name": "Sinoe County"
+  },
+  {
+    "country": "LR",
+    "id": 2276600,
+    "coord": {
+      "lat": 5.01111,
+      "lon": -9.03889
+    },
+    "name": "Greenville"
+  },
+  {
+    "country": "LR",
+    "id": 2276622,
+    "coord": {
+      "lat": 5.91667,
+      "lon": -8.08333
+    },
+    "name": "Grand Gedeh County"
+  },
+  {
+    "country": "LR",
+    "id": 2272491,
+    "coord": {
+      "lat": 6.06667,
+      "lon": -8.12806
+    },
+    "name": "Zwedru"
+  },
+  {
+    "country": "LR",
+    "id": 2275384,
+    "coord": {
+      "lat": 6.5,
+      "lon": -9.5
+    },
+    "name": "Republic of Liberia"
+  },
+  {
+    "country": "LR",
+    "id": 2588491,
+    "coord": {
+      "lat": 6.5,
+      "lon": -10.25
+    },
+    "name": "Margibi County"
+  },
+  {
+    "country": "LR",
+    "id": 2597314,
+    "coord": {
+      "lat": 6.22861,
+      "lon": -10.35583
+    },
+    "name": "Peabody Farm Two"
+  },
+  {
+    "country": "LR",
+    "id": 7873978,
+    "coord": {
+      "lat": 6.28339,
+      "lon": -10.75158
+    },
+    "name": "Fiamah"
+  },
+  {
+    "country": "LR",
+    "id": 2274032,
+    "coord": {
+      "lat": 6.28333,
+      "lon": -8.28333
+    },
+    "name": "Sehnwehn"
+  },
+  {
+    "country": "LR",
+    "id": 2273435,
+    "coord": {
+      "lat": 6.87083,
+      "lon": -10.81722
+    },
+    "name": "Tubmanburg"
+  },
+  {
+    "country": "LR",
+    "id": 2274129,
+    "coord": {
+      "lat": 7.36222,
+      "lon": -8.70611
+    },
+    "name": "Sanniquellie"
+  },
+  {
+    "country": "LR",
+    "id": 2274275,
+    "coord": {
+      "lat": 6.75333,
+      "lon": -11.36861
+    },
+    "name": "Robertsport"
+  },
+  {
+    "country": "LR",
+    "id": 2274288,
+    "coord": {
+      "lat": 5.46,
+      "lon": -9.58278
+    },
+    "name": "River Cess"
+  },
+  {
+    "country": "LR",
+    "id": 2277197,
+    "coord": {
+      "lat": 7.30222,
+      "lon": -8.53083
+    },
+    "name": "Ganta"
+  },
+  {
+    "country": "LR",
+    "id": 2278248,
+    "coord": {
+      "lat": 7.06667,
+      "lon": -10.4875
+    },
+    "name": "Bopolu"
+  },
+  {
+    "country": "LR",
+    "id": 2278889,
+    "coord": {
+      "lat": 4.67972,
+      "lon": -8.23389
+    },
+    "name": "Barclayville"
+  },
+  {
+    "country": "LR",
+    "id": 8260265,
+    "coord": {
+      "lat": 6.8275,
+      "lon": -8.3428
+    },
+    "name": "Buutuo"
+  }
+
+]

@@ -1,0 +1,31 @@
+[
+
+  {
+    "country": "MF",
+    "id": 6985378,
+    "coord": {
+      "lat": 18.069111,
+      "lon": -63.033539
+    },
+    "name": "Quartier D’Orleans Sud"
+  },
+  {
+    "country": "MF",
+    "id": 3578851,
+    "coord": {
+      "lat": 18.066669,
+      "lon": -63.083328
+    },
+    "name": "Marigot"
+  },
+  {
+    "country": "MF",
+    "id": 3578421,
+    "coord": {
+      "lat": 18.066669,
+      "lon": -63.066669
+    },
+    "name": "Saint-Martin"
+  }
+
+]

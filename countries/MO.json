@@ -1,0 +1,31 @@
+[
+
+  {
+    "country": "MO",
+    "id": 1821275,
+    "coord": {
+      "lat": 22.15778,
+      "lon": 113.559723
+    },
+    "name": "Macau Special Administrative Region"
+  },
+  {
+    "country": "MO",
+    "id": 1821273,
+    "coord": {
+      "lat": 22.200279,
+      "lon": 113.546944
+    },
+    "name": "Concelho de Macau"
+  },
+  {
+    "country": "MO",
+    "id": 1821274,
+    "coord": {
+      "lat": 22.20056,
+      "lon": 113.546112
+    },
+    "name": "Macau"
+  }
+
+]

@@ -1,0 +1,2182 @@
+[
+
+  {
+    "country": "KR",
+    "id": 1832257,
+    "coord": {
+      "lat": 37.184471,
+      "lon": 128.468216
+    },
+    "name": "Neietsu"
+  },
+  {
+    "country": "KR",
+    "id": 1832501,
+    "coord": {
+      "lat": 35.275002,
+      "lon": 126.509438
+    },
+    "name": "Reiko"
+  },
+  {
+    "country": "KR",
+    "id": 1832743,
+    "coord": {
+      "lat": 37.29583,
+      "lon": 127.633888
+    },
+    "name": "Yeoju"
+  },
+  {
+    "country": "KR",
+    "id": 1832909,
+    "coord": {
+      "lat": 38.105831,
+      "lon": 127.989441
+    },
+    "name": "Yanggu"
+  },
+  {
+    "country": "KR",
+    "id": 1840886,
+    "coord": {
+      "lat": 36.594582,
+      "lon": 128.199463
+    },
+    "name": "Mungyeong"
+  },
+  {
+    "country": "KR",
+    "id": 1841976,
+    "coord": {
+      "lat": 35.209438,
+      "lon": 127.464439
+    },
+    "name": "Kurye"
+  },
+  {
+    "country": "KR",
+    "id": 1845519,
+    "coord": {
+      "lat": 36.43351,
+      "lon": 129.057007
+    },
+    "name": "Cheongsong gun"
+  },
+  {
+    "country": "KR",
+    "id": 1846095,
+    "coord": {
+      "lat": 36.85667,
+      "lon": 127.443329
+    },
+    "name": "Chinchon"
+  },
+  {
+    "country": "KR",
+    "id": 1925943,
+    "coord": {
+      "lat": 35.80167,
+      "lon": 128.500824
+    },
+    "name": "Hwawon"
+  },
+  {
+    "country": "KR",
+    "id": 1845106,
+    "coord": {
+      "lat": 36.75,
+      "lon": 128
+    },
+    "name": "Ch’ungch’ŏng-bukto"
+  },
+  {
+    "country": "KR",
+    "id": 6802827,
+    "coord": {
+      "lat": 37.507198,
+      "lon": 127.320099
+    },
+    "name": "괴내"
+  },
+  {
+    "country": "KR",
+    "id": 1890085,
+    "coord": {
+      "lat": 37.570621,
+      "lon": 128.038773
+    },
+    "name": "Tangp’yŏng"
+  },
+  {
+    "country": "KR",
+    "id": 1833702,
+    "coord": {
+      "lat": 38.049999,
+      "lon": 127.316673
+    },
+    "name": "Umulmok"
+  },
+  {
+    "country": "KR",
+    "id": 6367618,
+    "coord": {
+      "lat": 38.121941,
+      "lon": 127.544724
+    },
+    "name": "Myŏngwŏli-ri"
+  },
+  {
+    "country": "KR",
+    "id": 6573030,
+    "coord": {
+      "lat": 37.283611,
+      "lon": 127.021393
+    },
+    "name": "Namhyang-dong"
+  },
+  {
+    "country": "KR",
+    "id": 1842936,
+    "coord": {
+      "lat": 37.623611,
+      "lon": 126.714172
+    },
+    "name": "Kinho"
+  },
+  {
+    "country": "KR",
+    "id": 6800892,
+    "coord": {
+      "lat": 37.594601,
+      "lon": 127.143501
+    },
+    "name": "Sup’yŏng-dong"
+  },
+  {
+    "country": "KR",
+    "id": 6800397,
+    "coord": {
+      "lat": 37.5368,
+      "lon": 127.1185
+    },
+    "name": "P’ungnap-tong"
+  },
+  {
+    "country": "KR",
+    "id": 1844533,
+    "coord": {
+      "lat": 35.519379,
+      "lon": 127.727661
+    },
+    "name": "Hamyang"
+  },
+  {
+    "country": "KR",
+    "id": 1832215,
+    "coord": {
+      "lat": 35.994171,
+      "lon": 129.345001
+    },
+    "name": "Enjitsu"
+  },
+  {
+    "country": "KR",
+    "id": 1832697,
+    "coord": {
+      "lat": 38.09404,
+      "lon": 127.075768
+    },
+    "name": "yeoncheongun"
+  },
+  {
+    "country": "KR",
+    "id": 1832830,
+    "coord": {
+      "lat": 37.489719,
+      "lon": 127.490562
+    },
+    "name": "Yangpyong"
+  },
+  {
+    "country": "KR",
+    "id": 1832847,
+    "coord": {
+      "lat": 37.833111,
+      "lon": 127.061691
+    },
+    "name": "Yangju"
+  },
+  {
+    "country": "KR",
+    "id": 1833466,
+    "coord": {
+      "lat": 35.845089,
+      "lon": 127.147522
+    },
+    "name": "Wanju"
+  },
+  {
+    "country": "KR",
+    "id": 1833514,
+    "coord": {
+      "lat": 35.991749,
+      "lon": 128.397324
+    },
+    "name": "Waegwan"
+  },
+  {
+    "country": "KR",
+    "id": 1833788,
+    "coord": {
+      "lat": 37.741501,
+      "lon": 127.047401
+    },
+    "name": "Vijongbu"
+  },
+  {
+    "country": "KR",
+    "id": 1835096,
+    "coord": {
+      "lat": 36.971401,
+      "lon": 126.454201
+    },
+    "name": "Taesal-li"
+  },
+  {
+    "country": "KR",
+    "id": 1835224,
+    "coord": {
+      "lat": 36.333328,
+      "lon": 127.416672
+    },
+    "name": "Taejŏn-gwangyŏksi"
+  },
+  {
+    "country": "KR",
+    "id": 1838722,
+    "coord": {
+      "lat": 35.728062,
+      "lon": 126.731941
+    },
+    "name": "Puan"
+  },
+  {
+    "country": "KR",
+    "id": 1839726,
+    "coord": {
+      "lat": 36.783611,
+      "lon": 127.004173
+    },
+    "name": "Asan"
+  },
+  {
+    "country": "KR",
+    "id": 1840862,
+    "coord": {
+      "lat": 37.85944,
+      "lon": 126.785004
+    },
+    "name": "Munsan"
+  },
+  {
+    "country": "KR",
+    "id": 1841810,
+    "coord": {
+      "lat": 37.41,
+      "lon": 127.257217
+    },
+    "name": "Kwangju"
+  },
+  {
+    "country": "KR",
+    "id": 1841988,
+    "coord": {
+      "lat": 37.598598,
+      "lon": 127.139397
+    },
+    "name": "Kuri"
+  },
+  {
+    "country": "KR",
+    "id": 1842016,
+    "coord": {
+      "lat": 36.234718,
+      "lon": 128.572784
+    },
+    "name": "Kunwi"
+  },
+  {
+    "country": "KR",
+    "id": 1842153,
+    "coord": {
+      "lat": 36.103062,
+      "lon": 127.488892
+    },
+    "name": "Kinzan"
+  },
+  {
+    "country": "KR",
+    "id": 1842225,
+    "coord": {
+      "lat": 36.113602,
+      "lon": 128.335999
+    },
+    "name": "Kumi"
+  },
+  {
+    "country": "KR",
+    "id": 1842754,
+    "coord": {
+      "lat": 34.850281,
+      "lon": 128.588608
+    },
+    "name": "Kyosai"
+  },
+  {
+    "country": "KR",
+    "id": 1842944,
+    "coord": {
+      "lat": 36.121761,
+      "lon": 128.119812
+    },
+    "name": "Gimcheon"
+  },
+  {
+    "country": "KR",
+    "id": 1843082,
+    "coord": {
+      "lat": 37.831009,
+      "lon": 127.51059
+    },
+    "name": "Gapyeong"
+  },
+  {
+    "country": "KR",
+    "id": 1843847,
+    "coord": {
+      "lat": 37.206821,
+      "lon": 126.816902
+    },
+    "name": "Hwaseong"
+  },
+  {
+    "country": "KR",
+    "id": 1844045,
+    "coord": {
+      "lat": 38.10611,
+      "lon": 127.706673
+    },
+    "name": "Hwacheon"
+  },
+  {
+    "country": "KR",
+    "id": 1844174,
+    "coord": {
+      "lat": 36.600899,
+      "lon": 126.665001
+    },
+    "name": "Hongsung"
+  },
+  {
+    "country": "KR",
+    "id": 1844191,
+    "coord": {
+      "lat": 37.691799,
+      "lon": 127.885696
+    },
+    "name": "Hongchon"
+  },
+  {
+    "country": "KR",
+    "id": 1846114,
+    "coord": {
+      "lat": 35.791672,
+      "lon": 127.425278
+    },
+    "name": "jin-angun"
+  },
+  {
+    "country": "KR",
+    "id": 1846355,
+    "coord": {
+      "lat": 35.648418,
+      "lon": 127.515228
+    },
+    "name": "Changsu"
+  },
+  {
+    "country": "KR",
+    "id": 1886598,
+    "coord": {
+      "lat": 36.12944,
+      "lon": 127.099998
+    },
+    "name": "Yonmu"
+  },
+  {
+    "country": "KR",
+    "id": 1892823,
+    "coord": {
+      "lat": 37.543892,
+      "lon": 129.106934
+    },
+    "name": "Tonghae"
+  },
+  {
+    "country": "KR",
+    "id": 1896953,
+    "coord": {
+      "lat": 37.291672,
+      "lon": 127.507782
+    },
+    "name": "Pubal"
+  },
+  {
+    "country": "KR",
+    "id": 1897000,
+    "coord": {
+      "lat": 37.43861,
+      "lon": 127.137779
+    },
+    "name": "Seongnam"
+  },
+  {
+    "country": "KR",
+    "id": 1897118,
+    "coord": {
+      "lat": 37.6525,
+      "lon": 127.307503
+    },
+    "name": "Hwado"
+  },
+  {
+    "country": "KR",
+    "id": 1925936,
+    "coord": {
+      "lat": 35.249722,
+      "lon": 128.520004
+    },
+    "name": "Naeso"
+  },
+  {
+    "country": "KR",
+    "id": 6903078,
+    "coord": {
+      "lat": 35.541451,
+      "lon": 128.495056
+    },
+    "name": "Changnyeong"
+  },
+  {
+    "country": "KR",
+    "id": 1833581,
+    "coord": {
+      "lat": 38.054169,
+      "lon": 127.20472
+    },
+    "name": "Unsal-li"
+  },
+  {
+    "country": "KR",
+    "id": 1884249,
+    "coord": {
+      "lat": 38.117779,
+      "lon": 127.292503
+    },
+    "name": "Kangp’o-ri"
+  },
+  {
+    "country": "KR",
+    "id": 1835518,
+    "coord": {
+      "lat": 36.75639,
+      "lon": 126.297783
+    },
+    "name": "Taian"
+  },
+  {
+    "country": "KR",
+    "id": 1846278,
+    "coord": {
+      "lat": 37.136108,
+      "lon": 128.211945
+    },
+    "name": "Teisen"
+  },
+  {
+    "country": "KR",
+    "id": 1844539,
+    "coord": {
+      "lat": 35.063889,
+      "lon": 126.51944
+    },
+    "name": "Kanhei"
+  },
+  {
+    "country": "KR",
+    "id": 1832015,
+    "coord": {
+      "lat": 36.112499,
+      "lon": 129.352219
+    },
+    "name": "Heung-hai"
+  },
+  {
+    "country": "KR",
+    "id": 1832617,
+    "coord": {
+      "lat": 35.967499,
+      "lon": 128.930832
+    },
+    "name": "Eisen"
+  },
+  {
+    "country": "KR",
+    "id": 1835447,
+    "coord": {
+      "lat": 36.349312,
+      "lon": 126.597717
+    },
+    "name": "Taisen-ri"
+  },
+  {
+    "country": "KR",
+    "id": 1835967,
+    "coord": {
+      "lat": 36.240829,
+      "lon": 128.297501
+    },
+    "name": "Jenzan"
+  },
+  {
+    "country": "KR",
+    "id": 1836208,
+    "coord": {
+      "lat": 36.915562,
+      "lon": 127.131393
+    },
+    "name": "Songwon"
+  },
+  {
+    "country": "KR",
+    "id": 1838508,
+    "coord": {
+      "lat": 36.28194,
+      "lon": 126.912498
+    },
+    "name": "Fuyo"
+  },
+  {
+    "country": "KR",
+    "id": 1839011,
+    "coord": {
+      "lat": 34.84494,
+      "lon": 127.342934
+    },
+    "name": "Beolgyo"
+  },
+  {
+    "country": "KR",
+    "id": 1840179,
+    "coord": {
+      "lat": 38.378811,
+      "lon": 128.467606
+    },
+    "name": "Kosong"
+  },
+  {
+    "country": "KR",
+    "id": 1842966,
+    "coord": {
+      "lat": 35.244171,
+      "lon": 129.213882
+    },
+    "name": "Kijang"
+  },
+  {
+    "country": "KR",
+    "id": 1843585,
+    "coord": {
+      "lat": 35.61306,
+      "lon": 127.279442
+    },
+    "name": "Imsil"
+  },
+  {
+    "country": "KR",
+    "id": 1844308,
+    "coord": {
+      "lat": 35.91333,
+      "lon": 128.820007
+    },
+    "name": "Hayang"
+  },
+  {
+    "country": "KR",
+    "id": 1847050,
+    "coord": {
+      "lat": 33.464439,
+      "lon": 126.318329
+    },
+    "name": "Gaigeturi"
+  },
+  {
+    "country": "KR",
+    "id": 1882056,
+    "coord": {
+      "lat": 34.8825,
+      "lon": 128.626663
+    },
+    "name": "Sinhyeon"
+  },
+  {
+    "country": "KR",
+    "id": 1912205,
+    "coord": {
+      "lat": 35.406109,
+      "lon": 129.16861
+    },
+    "name": "Ungsang"
+  },
+  {
+    "country": "KR",
+    "id": 6395804,
+    "coord": {
+      "lat": 34.826199,
+      "lon": 126.108627
+    },
+    "name": "Sinan"
+  },
+  {
+    "country": "KR",
+    "id": 1835841,
+    "coord": {
+      "lat": 37,
+      "lon": 127.5
+    },
+    "name": "Republic of Korea"
+  },
+  {
+    "country": "KR",
+    "id": 1902028,
+    "coord": {
+      "lat": 35.25,
+      "lon": 128.25
+    },
+    "name": "Kyŏngsang-namdo"
+  },
+  {
+    "country": "KR",
+    "id": 1846430,
+    "coord": {
+      "lat": 35.381691,
+      "lon": 128.435013
+    },
+    "name": "Changp’o"
+  },
+  {
+    "country": "KR",
+    "id": 6901961,
+    "coord": {
+      "lat": 35.515518,
+      "lon": 128.338211
+    },
+    "name": "Chidong-gol"
+  },
+  {
+    "country": "KR",
+    "id": 6901967,
+    "coord": {
+      "lat": 35.520199,
+      "lon": 128.36235
+    },
+    "name": "Ugok"
+  },
+  {
+    "country": "KR",
+    "id": 1841597,
+    "coord": {
+      "lat": 36.333328,
+      "lon": 128.75
+    },
+    "name": "Kyŏngsang-bukto"
+  },
+  {
+    "country": "KR",
+    "id": 6890843,
+    "coord": {
+      "lat": 36.0541,
+      "lon": 128.177094
+    },
+    "name": "Chogok"
+  },
+  {
+    "country": "KR",
+    "id": 1845105,
+    "coord": {
+      "lat": 36.5,
+      "lon": 127
+    },
+    "name": "Ch’ungch’ŏng-namdo"
+  },
+  {
+    "country": "KR",
+    "id": 1846589,
+    "coord": {
+      "lat": 36.174702,
+      "lon": 127.238403
+    },
+    "name": "Chang-gol"
+  },
+  {
+    "country": "KR",
+    "id": 6887688,
+    "coord": {
+      "lat": 36.226898,
+      "lon": 127.292198
+    },
+    "name": "Kuŏng-mal"
+  },
+  {
+    "country": "KR",
+    "id": 6891973,
+    "coord": {
+      "lat": 36.2323,
+      "lon": 128.084595
+    },
+    "name": "P’yŏngsŏng"
+  },
+  {
+    "country": "KR",
+    "id": 1837660,
+    "coord": {
+      "lat": 36.251099,
+      "lon": 128.106201
+    },
+    "name": "Sang-ni"
+  },
+  {
+    "country": "KR",
+    "id": 1844088,
+    "coord": {
+      "lat": 36.333328,
+      "lon": 128.416672
+    },
+    "name": "Hŭngjŏn"
+  },
+  {
+    "country": "KR",
+    "id": 1886748,
+    "coord": {
+      "lat": 36.561668,
+      "lon": 127.018333
+    },
+    "name": "Unam-ni"
+  },
+  {
+    "country": "KR",
+    "id": 6895286,
+    "coord": {
+      "lat": 36.594501,
+      "lon": 129.239395
+    },
+    "name": "Utt’ŏ-gol"
+  },
+  {
+    "country": "KR",
+    "id": 6812754,
+    "coord": {
+      "lat": 37.005699,
+      "lon": 127.521004
+    },
+    "name": "Angol"
+  },
+  {
+    "country": "KR",
+    "id": 6812988,
+    "coord": {
+      "lat": 37.046101,
+      "lon": 127.524002
+    },
+    "name": "Anteo"
+  },
+  {
+    "country": "KR",
+    "id": 6794644,
+    "coord": {
+      "lat": 37.064999,
+      "lon": 128.540604
+    },
+    "name": "Kŏmusil"
+  },
+  {
+    "country": "KR",
+    "id": 1841610,
+    "coord": {
+      "lat": 37.599998,
+      "lon": 127.25
+    },
+    "name": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "id": 1844106,
+    "coord": {
+      "lat": 37.209721,
+      "lon": 126.553062
+    },
+    "name": "Kulgwan-dong"
+  },
+  {
+    "country": "KR",
+    "id": 6575822,
+    "coord": {
+      "lat": 37.212219,
+      "lon": 127.17028
+    },
+    "name": "Sangdeok"
+  },
+  {
+    "country": "KR",
+    "id": 6575866,
+    "coord": {
+      "lat": 37.238892,
+      "lon": 127.159439
+    },
+    "name": "Samga-dong"
+  },
+  {
+    "country": "KR",
+    "id": 1843880,
+    "coord": {
+      "lat": 37.24754,
+      "lon": 127.569901
+    },
+    "name": "Hwapyeongri"
+  },
+  {
+    "country": "KR",
+    "id": 6575891,
+    "coord": {
+      "lat": 37.251389,
+      "lon": 127.06472
+    },
+    "name": "Yeongtongi-dong"
+  },
+  {
+    "country": "KR",
+    "id": 6398879,
+    "coord": {
+      "lat": 37.249722,
+      "lon": 127.37278
+    },
+    "name": "Anbaeteo"
+  },
+  {
+    "country": "KR",
+    "id": 1843125,
+    "coord": {
+      "lat": 37.75,
+      "lon": 128.25
+    },
+    "name": "Kangwŏn-do"
+  },
+  {
+    "country": "KR",
+    "id": 6808346,
+    "coord": {
+      "lat": 37.2981,
+      "lon": 129.0746
+    },
+    "name": "Chaen-mal"
+  },
+  {
+    "country": "KR",
+    "id": 1845275,
+    "coord": {
+      "lat": 37.361938,
+      "lon": 127.213058
+    },
+    "name": "Chuja-ri"
+  },
+  {
+    "country": "KR",
+    "id": 6795956,
+    "coord": {
+      "lat": 37.396999,
+      "lon": 128.451202
+    },
+    "name": "Pŏdŭlbat"
+  },
+  {
+    "country": "KR",
+    "id": 6576320,
+    "coord": {
+      "lat": 37.40139,
+      "lon": 127.53167
+    },
+    "name": "Subu-mal"
+  },
+  {
+    "country": "KR",
+    "id": 1835847,
+    "coord": {
+      "lat": 37.583328,
+      "lon": 127
+    },
+    "name": "Seoul-teukbyeolsi"
+  },
+  {
+    "country": "KR",
+    "id": 6573457,
+    "coord": {
+      "lat": 37.443329,
+      "lon": 127.056107
+    },
+    "name": "Wonteo"
+  },
+  {
+    "country": "KR",
+    "id": 6795865,
+    "coord": {
+      "lat": 37.452099,
+      "lon": 128.404694
+    },
+    "name": "Panghak-tong"
+  },
+  {
+    "country": "KR",
+    "id": 6803229,
+    "coord": {
+      "lat": 37.515759,
+      "lon": 127.429077
+    },
+    "name": "Misa-ch’on"
+  },
+  {
+    "country": "KR",
+    "id": 6800516,
+    "coord": {
+      "lat": 37.550072,
+      "lon": 127.019409
+    },
+    "name": "Kŭmhosamga-dong"
+  },
+  {
+    "country": "KR",
+    "id": 6367745,
+    "coord": {
+      "lat": 38.055279,
+      "lon": 127.594719
+    },
+    "name": "Ot’ani-ri"
+  },
+  {
+    "country": "KR",
+    "id": 1883978,
+    "coord": {
+      "lat": 38.299999,
+      "lon": 128.256943
+    },
+    "name": "Puyŏn-dong"
+  },
+  {
+    "country": "KR",
+    "id": 1846986,
+    "coord": {
+      "lat": 36.565559,
+      "lon": 128.725006
+    },
+    "name": "Andong"
+  },
+  {
+    "country": "KR",
+    "id": 6800746,
+    "coord": {
+      "lat": 37.565369,
+      "lon": 127.002876
+    },
+    "name": "Kwanghŭi-dong"
+  },
+  {
+    "country": "KR",
+    "id": 1846735,
+    "coord": {
+      "lat": 37.51667,
+      "lon": 127
+    },
+    "name": "Chamsil"
+  },
+  {
+    "country": "KR",
+    "id": 1837055,
+    "coord": {
+      "lat": 37.533329,
+      "lon": 126.966667
+    },
+    "name": "Yongsan"
+  },
+  {
+    "country": "KR",
+    "id": 1833742,
+    "coord": {
+      "lat": 35.566669,
+      "lon": 129.266663
+    },
+    "name": "Ulsan-gwangyŏksi"
+  },
+  {
+    "country": "KR",
+    "id": 1833747,
+    "coord": {
+      "lat": 35.53722,
+      "lon": 129.316666
+    },
+    "name": "Ulsan"
+  },
+  {
+    "country": "KR",
+    "id": 1838519,
+    "coord": {
+      "lat": 35.133331,
+      "lon": 129.050003
+    },
+    "name": "Pusan-gwangyŏksi"
+  },
+  {
+    "country": "KR",
+    "id": 1838524,
+    "coord": {
+      "lat": 35.102779,
+      "lon": 129.040283
+    },
+    "name": "Busan"
+  },
+  {
+    "country": "KR",
+    "id": 1846918,
+    "coord": {
+      "lat": 37.323608,
+      "lon": 126.821938
+    },
+    "name": "Ansan"
+  },
+  {
+    "country": "KR",
+    "id": 1835327,
+    "coord": {
+      "lat": 35.799999,
+      "lon": 128.550003
+    },
+    "name": "Taegu-gwangyŏksi"
+  },
+  {
+    "country": "KR",
+    "id": 1835329,
+    "coord": {
+      "lat": 35.870281,
+      "lon": 128.59111
+    },
+    "name": "Daegu"
+  },
+  {
+    "country": "KR",
+    "id": 1842943,
+    "coord": {
+      "lat": 35.234169,
+      "lon": 128.881104
+    },
+    "name": "Kimhae"
+  },
+  {
+    "country": "KR",
+    "id": 1840898,
+    "coord": {
+      "lat": 37.761108,
+      "lon": 126.775002
+    },
+    "name": "Munemi"
+  },
+  {
+    "country": "KR",
+    "id": 1833105,
+    "coord": {
+      "lat": 37.351391,
+      "lon": 127.945282
+    },
+    "name": "Wonju"
+  },
+  {
+    "country": "KR",
+    "id": 1841245,
+    "coord": {
+      "lat": 35.208061,
+      "lon": 128.572495
+    },
+    "name": "Masan"
+  },
+  {
+    "country": "KR",
+    "id": 1845789,
+    "coord": {
+      "lat": 35.75,
+      "lon": 127.25
+    },
+    "name": "Chŏlla-bukto"
+  },
+  {
+    "country": "KR",
+    "id": 1843491,
+    "coord": {
+      "lat": 35.94389,
+      "lon": 126.954437
+    },
+    "name": "Iksan"
+  },
+  {
+    "country": "KR",
+    "id": 1832427,
+    "coord": {
+      "lat": 37.234169,
+      "lon": 127.20639
+    },
+    "name": "Yongin"
+  },
+  {
+    "country": "KR",
+    "id": 1838343,
+    "coord": {
+      "lat": 36.99472,
+      "lon": 127.08889
+    },
+    "name": "Pyongtak"
+  },
+  {
+    "country": "KR",
+    "id": 1846052,
+    "coord": {
+      "lat": 35.19278,
+      "lon": 128.084717
+    },
+    "name": "Chinju"
+  },
+  {
+    "country": "KR",
+    "id": 1838716,
+    "coord": {
+      "lat": 37.49889,
+      "lon": 126.783058
+    },
+    "name": "Bucheon"
+  },
+  {
+    "country": "KR",
+    "id": 1841808,
+    "coord": {
+      "lat": 35.166672,
+      "lon": 126.916672
+    },
+    "name": "Kwangju-gwangyŏksi"
+  },
+  {
+    "country": "KR",
+    "id": 1841811,
+    "coord": {
+      "lat": 35.15472,
+      "lon": 126.915558
+    },
+    "name": "Gwangju"
+  },
+  {
+    "country": "KR",
+    "id": 1846265,
+    "coord": {
+      "lat": 33.416672,
+      "lon": 126.5
+    },
+    "name": "Cheju-do"
+  },
+  {
+    "country": "KR",
+    "id": 1846266,
+    "coord": {
+      "lat": 33.50972,
+      "lon": 126.521942
+    },
+    "name": "Jeju"
+  },
+  {
+    "country": "KR",
+    "id": 1842030,
+    "coord": {
+      "lat": 37.3675,
+      "lon": 126.946938
+    },
+    "name": "Tang-ni"
+  },
+  {
+    "country": "KR",
+    "id": 1832828,
+    "coord": {
+      "lat": 35.338612,
+      "lon": 129.038605
+    },
+    "name": "Yangsan"
+  },
+  {
+    "country": "KR",
+    "id": 1845604,
+    "coord": {
+      "lat": 36.637218,
+      "lon": 127.489723
+    },
+    "name": "Cheongju"
+  },
+  {
+    "country": "KR",
+    "id": 1845136,
+    "coord": {
+      "lat": 37.874722,
+      "lon": 127.734169
+    },
+    "name": "Chuncheon"
+  },
+  {
+    "country": "KR",
+    "id": 1842485,
+    "coord": {
+      "lat": 37.656391,
+      "lon": 126.834999
+    },
+    "name": "Goyang"
+  },
+  {
+    "country": "KR",
+    "id": 1839071,
+    "coord": {
+      "lat": 36.032219,
+      "lon": 129.365005
+    },
+    "name": "Hoko"
+  },
+  {
+    "country": "KR",
+    "id": 1897122,
+    "coord": {
+      "lat": 37.636669,
+      "lon": 127.214172
+    },
+    "name": "Yanggok"
+  },
+  {
+    "country": "KR",
+    "id": 1845759,
+    "coord": {
+      "lat": 36.806499,
+      "lon": 127.152199
+    },
+    "name": "Tenan"
+  },
+  {
+    "country": "KR",
+    "id": 1845788,
+    "coord": {
+      "lat": 34.75,
+      "lon": 127
+    },
+    "name": "Chŏlla-namdo"
+  },
+  {
+    "country": "KR",
+    "id": 1841775,
+    "coord": {
+      "lat": 34.975281,
+      "lon": 127.589172
+    },
+    "name": "Kwangyang"
+  },
+  {
+    "country": "KR",
+    "id": 1832771,
+    "coord": {
+      "lat": 36.677559,
+      "lon": 126.84272
+    },
+    "name": "Yesan"
+  },
+  {
+    "country": "KR",
+    "id": 1842616,
+    "coord": {
+      "lat": 36.455559,
+      "lon": 127.124718
+    },
+    "name": "Kongju"
+  },
+  {
+    "country": "KR",
+    "id": 1846069,
+    "coord": {
+      "lat": 35.149441,
+      "lon": 128.659714
+    },
+    "name": "Chinhae"
+  },
+  {
+    "country": "KR",
+    "id": 1842025,
+    "coord": {
+      "lat": 35.978611,
+      "lon": 126.711388
+    },
+    "name": "Kunsan"
+  },
+  {
+    "country": "KR",
+    "id": 1841066,
+    "coord": {
+      "lat": 34.79361,
+      "lon": 126.388611
+    },
+    "name": "Moppo"
+  },
+  {
+    "country": "KR",
+    "id": 1846898,
+    "coord": {
+      "lat": 37.392502,
+      "lon": 126.926941
+    },
+    "name": "Anyang"
+  },
+  {
+    "country": "KR",
+    "id": 1845457,
+    "coord": {
+      "lat": 35.821941,
+      "lon": 127.148888
+    },
+    "name": "Jeonju"
+  },
+  {
+    "country": "KR",
+    "id": 1832157,
+    "coord": {
+      "lat": 34.744171,
+      "lon": 127.737778
+    },
+    "name": "Reisui"
+  },
+  {
+    "country": "KR",
+    "id": 1836553,
+    "coord": {
+      "lat": 38.208328,
+      "lon": 128.59111
+    },
+    "name": "Sogcho"
+  },
+  {
+    "country": "KR",
+    "id": 1897007,
+    "coord": {
+      "lat": 37.540001,
+      "lon": 127.205559
+    },
+    "name": "Hanam"
+  },
+  {
+    "country": "KR",
+    "id": 1841909,
+    "coord": {
+      "lat": 37.42889,
+      "lon": 126.989166
+    },
+    "name": "Kwach’ŏn"
+  },
+  {
+    "country": "KR",
+    "id": 1843137,
+    "coord": {
+      "lat": 37.755562,
+      "lon": 128.896103
+    },
+    "name": "Kang-neung"
+  },
+  {
+    "country": "KR",
+    "id": 1835648,
+    "coord": {
+      "lat": 34.948078,
+      "lon": 127.489471
+    },
+    "name": "Sunchun"
+  },
+  {
+    "country": "KR",
+    "id": 1841149,
+    "coord": {
+      "lat": 35.493328,
+      "lon": 128.748886
+    },
+    "name": "Miryang"
+  },
+  {
+    "country": "KR",
+    "id": 1835650,
+    "coord": {
+      "lat": 35.373611,
+      "lon": 127.142776
+    },
+    "name": "Sunch’ang"
+  },
+  {
+    "country": "KR",
+    "id": 1894079,
+    "coord": {
+      "lat": 35.749802,
+      "lon": 127.89463
+    },
+    "name": "Imsil"
+  },
+  {
+    "country": "KR",
+    "id": 1846149,
+    "coord": {
+      "lat": 35.920559,
+      "lon": 128.551392
+    },
+    "name": "Shitsukoku"
+  },
+  {
+    "country": "KR",
+    "id": 1845033,
+    "coord": {
+      "lat": 36.970558,
+      "lon": 127.93222
+    },
+    "name": "Tsch-hung"
+  },
+  {
+    "country": "KR",
+    "id": 1844788,
+    "coord": {
+      "lat": 35.069439,
+      "lon": 127.749168
+    },
+    "name": "Hadong"
+  },
+  {
+    "country": "KR",
+    "id": 1837706,
+    "coord": {
+      "lat": 36.415279,
+      "lon": 128.160553
+    },
+    "name": "Sangju"
+  },
+  {
+    "country": "KR",
+    "id": 1835895,
+    "coord": {
+      "lat": 36.78167,
+      "lon": 126.452217
+    },
+    "name": "Suisan"
+  },
+  {
+    "country": "KR",
+    "id": 1839652,
+    "coord": {
+      "lat": 37.152222,
+      "lon": 127.070557
+    },
+    "name": "Osan"
+  },
+  {
+    "country": "KR",
+    "id": 6571507,
+    "coord": {
+      "lat": 37.501671,
+      "lon": 127.090561
+    },
+    "name": "Samjeon-dong"
+  },
+  {
+    "country": "KR",
+    "id": 1837217,
+    "coord": {
+      "lat": 37.51667,
+      "lon": 127.083328
+    },
+    "name": "Sinch’ŏn-dong"
+  },
+  {
+    "country": "KR",
+    "id": 1838740,
+    "coord": {
+      "lat": 34.769718,
+      "lon": 127.080887
+    },
+    "name": "Posung"
+  },
+  {
+    "country": "KR",
+    "id": 1832663,
+    "coord": {
+      "lat": 34.798328,
+      "lon": 126.699997
+    },
+    "name": "Reigan"
+  },
+  {
+    "country": "KR",
+    "id": 1843702,
+    "coord": {
+      "lat": 37.279171,
+      "lon": 127.442497
+    },
+    "name": "Ichon"
+  },
+  {
+    "country": "KR",
+    "id": 1842939,
+    "coord": {
+      "lat": 35.80167,
+      "lon": 126.888893
+    },
+    "name": "Kimje"
+  },
+  {
+    "country": "KR",
+    "id": 1840211,
+    "coord": {
+      "lat": 36.203892,
+      "lon": 127.084717
+    },
+    "name": "Nonsan"
+  },
+  {
+    "country": "KR",
+    "id": 1832566,
+    "coord": {
+      "lat": 36.174999,
+      "lon": 127.77639
+    },
+    "name": "Yong-dong"
+  },
+  {
+    "country": "KR",
+    "id": 1840421,
+    "coord": {
+      "lat": 35.811939,
+      "lon": 126.790833
+    },
+    "name": "Namp’o-ri"
+  },
+  {
+    "country": "KR",
+    "id": 1843542,
+    "coord": {
+      "lat": 38.065559,
+      "lon": 128.173065
+    },
+    "name": "Inje"
+  },
+  {
+    "country": "KR",
+    "id": 1832809,
+    "coord": {
+      "lat": 38.073891,
+      "lon": 128.621109
+    },
+    "name": "Yangyang"
+  },
+  {
+    "country": "KR",
+    "id": 1842518,
+    "coord": {
+      "lat": 34.976311,
+      "lon": 128.323608
+    },
+    "name": "Goseong"
+  },
+  {
+    "country": "KR",
+    "id": 1832384,
+    "coord": {
+      "lat": 36.821671,
+      "lon": 128.630829
+    },
+    "name": "Eisen"
+  },
+  {
+    "country": "KR",
+    "id": 1841598,
+    "coord": {
+      "lat": 35.82333,
+      "lon": 128.737778
+    },
+    "name": "Keizan"
+  },
+  {
+    "country": "KR",
+    "id": 1840942,
+    "coord": {
+      "lat": 36.007221,
+      "lon": 127.661392
+    },
+    "name": "Muju"
+  },
+  {
+    "country": "KR",
+    "id": 1840379,
+    "coord": {
+      "lat": 35.41,
+      "lon": 127.385834
+    },
+    "name": "Nangen"
+  },
+  {
+    "country": "KR",
+    "id": 1844751,
+    "coord": {
+      "lat": 34.57111,
+      "lon": 126.598892
+    },
+    "name": "Haenam"
+  },
+  {
+    "country": "KR",
+    "id": 1840982,
+    "coord": {
+      "lat": 34.989719,
+      "lon": 126.47139
+    },
+    "name": "Muan"
+  },
+  {
+    "country": "KR",
+    "id": 1843841,
+    "coord": {
+      "lat": 35.059441,
+      "lon": 126.985001
+    },
+    "name": "Hwasun"
+  },
+  {
+    "country": "KR",
+    "id": 1840536,
+    "coord": {
+      "lat": 35.028332,
+      "lon": 126.717499
+    },
+    "name": "Naju"
+  },
+  {
+    "country": "KR",
+    "id": 1841603,
+    "coord": {
+      "lat": 35.842781,
+      "lon": 129.21167
+    },
+    "name": "Kyonju"
+  },
+  {
+    "country": "KR",
+    "id": 1842781,
+    "coord": {
+      "lat": 34.610081,
+      "lon": 127.284462
+    },
+    "name": "Koyo"
+  },
+  {
+    "country": "KR",
+    "id": 1840454,
+    "coord": {
+      "lat": 34.839439,
+      "lon": 127.89444
+    },
+    "name": "Namhae"
+  },
+  {
+    "country": "KR",
+    "id": 1948005,
+    "coord": {
+      "lat": 37.477219,
+      "lon": 126.866386
+    },
+    "name": "Kwangmyong"
+  },
+  {
+    "country": "KR",
+    "id": 1842859,
+    "coord": {
+      "lat": 35.433331,
+      "lon": 126.699997
+    },
+    "name": "Kochang"
+  },
+  {
+    "country": "KR",
+    "id": 1835515,
+    "coord": {
+      "lat": 37.1759,
+      "lon": 128.988907
+    },
+    "name": "Taebaek"
+  },
+  {
+    "country": "KR",
+    "id": 1949757,
+    "coord": {
+      "lat": 34.88472,
+      "lon": 128.620834
+    },
+    "name": "Kŏje"
+  },
+  {
+    "country": "KR",
+    "id": 6367665,
+    "coord": {
+      "lat": 38.11306,
+      "lon": 127.711113
+    },
+    "name": "Paemŏri"
+  },
+  {
+    "country": "KR",
+    "id": 1842800,
+    "coord": {
+      "lat": 36.810829,
+      "lon": 127.794724
+    },
+    "name": "Koesan"
+  },
+  {
+    "country": "KR",
+    "id": 1841919,
+    "coord": {
+      "lat": 36.015099,
+      "lon": 128.394608
+    },
+    "name": "Kuwaegwan"
+  },
+  {
+    "country": "KR",
+    "id": 1844954,
+    "coord": {
+      "lat": 36.784721,
+      "lon": 127.58194
+    },
+    "name": "Jungpyong"
+  },
+  {
+    "country": "KR",
+    "id": 6799737,
+    "coord": {
+      "lat": 37.914902,
+      "lon": 127.066704
+    },
+    "name": "Hwangmae"
+  },
+  {
+    "country": "KR",
+    "id": 1844192,
+    "coord": {
+      "lat": 36.900002,
+      "lon": 127.23333
+    },
+    "name": "Hongch’ŏn"
+  },
+  {
+    "country": "KR",
+    "id": 6801953,
+    "coord": {
+      "lat": 37.74284,
+      "lon": 127.035599
+    },
+    "name": "Kanŭngi-dong"
+  },
+  {
+    "country": "KR",
+    "id": 1838294,
+    "coord": {
+      "lat": 35.084171,
+      "lon": 128.088608
+    },
+    "name": "Shisen"
+  },
+  {
+    "country": "KR",
+    "id": 1838431,
+    "coord": {
+      "lat": 37,
+      "lon": 127
+    },
+    "name": "Pyeong"
+  },
+  {
+    "country": "KR",
+    "id": 1842559,
+    "coord": {
+      "lat": 35.729389,
+      "lon": 128.267548
+    },
+    "name": "Koryŏng"
+  },
+  {
+    "country": "KR",
+    "id": 1833763,
+    "coord": {
+      "lat": 36.992939,
+      "lon": 129.399994
+    },
+    "name": "Ulchin"
+  },
+  {
+    "country": "KR",
+    "id": 1840377,
+    "coord": {
+      "lat": 37.208889,
+      "lon": 126.816673
+    },
+    "name": "Namyang"
+  },
+  {
+    "country": "KR",
+    "id": 1930831,
+    "coord": {
+      "lat": 34.847778,
+      "lon": 128.425278
+    },
+    "name": "T’aep’ong-dong"
+  },
+  {
+    "country": "KR",
+    "id": 6897324,
+    "coord": {
+      "lat": 34.844898,
+      "lon": 128.423553
+    },
+    "name": "Chungang-dong"
+  },
+  {
+    "country": "KR",
+    "id": 1834885,
+    "coord": {
+      "lat": 36.89444,
+      "lon": 126.629723
+    },
+    "name": "Tangjin"
+  },
+  {
+    "country": "KR",
+    "id": 1843561,
+    "coord": {
+      "lat": 37.450001,
+      "lon": 126.416107
+    },
+    "name": "Inch’ŏn-gwangyŏksi"
+  },
+  {
+    "country": "KR",
+    "id": 1843163,
+    "coord": {
+      "lat": 37.747219,
+      "lon": 126.485558
+    },
+    "name": "Kanghwa"
+  },
+  {
+    "country": "KR",
+    "id": 1839873,
+    "coord": {
+      "lat": 36.301201,
+      "lon": 127.568001
+    },
+    "name": "ogcheongun"
+  },
+  {
+    "country": "KR",
+    "id": 1838069,
+    "coord": {
+      "lat": 37.440559,
+      "lon": 129.170837
+    },
+    "name": "Santyoku"
+  },
+  {
+    "country": "KR",
+    "id": 1832798,
+    "coord": {
+      "lat": 36.65556,
+      "lon": 128.45694
+    },
+    "name": "Reisen"
+  },
+  {
+    "country": "KR",
+    "id": 1895287,
+    "coord": {
+      "lat": 36.63139,
+      "lon": 128.335556
+    },
+    "name": "Sŏnbawi"
+  },
+  {
+    "country": "KR",
+    "id": 1843495,
+    "coord": {
+      "lat": 36.716671,
+      "lon": 127.5
+    },
+    "name": "Ipyang-ni"
+  },
+  {
+    "country": "KR",
+    "id": 1843502,
+    "coord": {
+      "lat": 35.900002,
+      "lon": 128.649994
+    },
+    "name": "Ipsŏk-tong"
+  },
+  {
+    "country": "KR",
+    "id": 1845585,
+    "coord": {
+      "lat": 35.991669,
+      "lon": 129.404724
+    },
+    "name": "Ch’ŏngnim"
+  },
+  {
+    "country": "KR",
+    "id": 6575883,
+    "coord": {
+      "lat": 37.244438,
+      "lon": 127.008888
+    },
+    "name": "Seryui-dong"
+  },
+  {
+    "country": "KR",
+    "id": 6575423,
+    "coord": {
+      "lat": 37.096111,
+      "lon": 127.024437
+    },
+    "name": "Haejeong"
+  },
+  {
+    "country": "KR",
+    "id": 1836164,
+    "coord": {
+      "lat": 35.589169,
+      "lon": 129.357224
+    },
+    "name": "Songjŏng"
+  },
+  {
+    "country": "KR",
+    "id": 1836034,
+    "coord": {
+      "lat": 35.099998,
+      "lon": 128.066666
+    },
+    "name": "Seisan-ri"
+  },
+  {
+    "country": "KR",
+    "id": 1979031,
+    "coord": {
+      "lat": 35.175282,
+      "lon": 128.928329
+    },
+    "name": "Sŏlman"
+  },
+  {
+    "country": "KR",
+    "id": 1832008,
+    "coord": {
+      "lat": 35.133331,
+      "lon": 128.699997
+    },
+    "name": "Tokusan-ri"
+  },
+  {
+    "country": "KR",
+    "id": 7588461,
+    "coord": {
+      "lat": 38.06588,
+      "lon": 128.674957
+    },
+    "name": "Changjon"
+  },
+  {
+    "country": "KR",
+    "id": 6794156,
+    "coord": {
+      "lat": 37.444599,
+      "lon": 127.958702
+    },
+    "name": "Hup’yŏng"
+  },
+  {
+    "country": "KR",
+    "id": 6816630,
+    "coord": {
+      "lat": 37.74902,
+      "lon": 128.949524
+    },
+    "name": "Pŏdang"
+  },
+  {
+    "country": "KR",
+    "id": 7588425,
+    "coord": {
+      "lat": 38.13792,
+      "lon": 128.589996
+    },
+    "name": "Changsal-li"
+  },
+  {
+    "country": "KR",
+    "id": 1837640,
+    "coord": {
+      "lat": 34.833328,
+      "lon": 127.616669
+    },
+    "name": "San’gok"
+  },
+  {
+    "country": "KR",
+    "id": 6877998,
+    "coord": {
+      "lat": 35.873299,
+      "lon": 127.112129
+    },
+    "name": "Yonghŭng"
+  },
+  {
+    "country": "KR",
+    "id": 1885994,
+    "coord": {
+      "lat": 35.876282,
+      "lon": 127.112312
+    },
+    "name": "Songch’ŏni-dong"
+  },
+  {
+    "country": "KR",
+    "id": 1886130,
+    "coord": {
+      "lat": 35.896389,
+      "lon": 126.625832
+    },
+    "name": "Sŏnyŏl-li"
+  },
+  {
+    "country": "KR",
+    "id": 1832973,
+    "coord": {
+      "lat": 35.13028,
+      "lon": 126.815826
+    },
+    "name": "Yach’on"
+  },
+  {
+    "country": "KR",
+    "id": 1835235,
+    "coord": {
+      "lat": 36.321388,
+      "lon": 127.419724
+    },
+    "name": "Daejeon"
+  },
+  {
+    "country": "KR",
+    "id": 1835553,
+    "coord": {
+      "lat": 37.291111,
+      "lon": 127.008888
+    },
+    "name": "Suigen"
+  },
+  {
+    "country": "KR",
+    "id": 1835848,
+    "coord": {
+      "lat": 37.56826,
+      "lon": 126.977829
+    },
+    "name": "Seoul"
+  },
+  {
+    "country": "KR",
+    "id": 1843564,
+    "coord": {
+      "lat": 37.453609,
+      "lon": 126.731667
+    },
+    "name": "Incheon"
+  },
+  {
+    "country": "KR",
+    "id": 1846326,
+    "coord": {
+      "lat": 35.228062,
+      "lon": 128.681107
+    },
+    "name": "Changwon"
+  },
+  {
+    "country": "KR",
+    "id": 1846912,
+    "coord": {
+      "lat": 37.01083,
+      "lon": 127.270279
+    },
+    "name": "Anseong"
+  },
+  {
+    "country": "KR",
+    "id": 1912209,
+    "coord": {
+      "lat": 37.589722,
+      "lon": 127.220284
+    },
+    "name": "Wabu"
+  },
+  {
+    "country": "KR",
+    "id": 6573747,
+    "coord": {
+      "lat": 37.282501,
+      "lon": 127.145828
+    },
+    "name": "Dongjinwon"
+  },
+  {
+    "country": "KR",
+    "id": 6800035,
+    "coord": {
+      "lat": 37.506329,
+      "lon": 126.987297
+    },
+    "name": "Panpo’bon-dong"
+  },
+  {
+    "country": "KR",
+    "id": 6811761,
+    "coord": {
+      "lat": 36.809792,
+      "lon": 127.161346
+    },
+    "name": "Wŏnsŏngil-tong"
+  }
+
+]

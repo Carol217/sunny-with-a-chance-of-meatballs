@@ -1,0 +1,58 @@
+[
+
+  {
+    "country": "SC",
+    "id": 241170,
+    "coord": {
+      "lat": -4.58333,
+      "lon": 55.666672
+    },
+    "name": "Republic of Seychelles"
+  },
+  {
+    "country": "SC",
+    "id": 241302,
+    "coord": {
+      "lat": -4.59167,
+      "lon": 55.450001
+    },
+    "name": "English River"
+  },
+  {
+    "country": "SC",
+    "id": 241131,
+    "coord": {
+      "lat": -4.61667,
+      "lon": 55.450001
+    },
+    "name": "Victoria"
+  },
+  {
+    "country": "SC",
+    "id": 241424,
+    "coord": {
+      "lat": -4.625,
+      "lon": 55.404171
+    },
+    "name": "Bel Ombre"
+  },
+  {
+    "country": "SC",
+    "id": 241423,
+    "coord": {
+      "lat": -4.61667,
+      "lon": 55.416672
+    },
+    "name": "Bel Ombre"
+  },
+  {
+    "country": "SC",
+    "id": 241443,
+    "coord": {
+      "lat": -4.73333,
+      "lon": 55.51667
+    },
+    "name": "Anse Royale"
+  }
+
+]

@@ -1,0 +1,895 @@
+[
+
+  {
+    "country": "MM",
+    "id": 1299298,
+    "coord": {
+      "lat": 21.51667,
+      "lon": 95.599998
+    },
+    "name": "Pya"
+  },
+  {
+    "country": "MM",
+    "id": 1285941,
+    "coord": {
+      "lat": 14.05,
+      "lon": 98.150002
+    },
+    "name": "Yahaungwa"
+  },
+  {
+    "country": "MM",
+    "id": 1294701,
+    "coord": {
+      "lat": 20.48333,
+      "lon": 95.51667
+    },
+    "name": "Tanaunghla"
+  },
+  {
+    "country": "MM",
+    "id": 1292118,
+    "coord": {
+      "lat": 21.066669,
+      "lon": 94.550003
+    },
+    "name": "Thayetchin"
+  },
+  {
+    "country": "MM",
+    "id": 1286764,
+    "coord": {
+      "lat": 21.16667,
+      "lon": 99.366669
+    },
+    "name": "Wān Yampēng"
+  },
+  {
+    "country": "MM",
+    "id": 1318433,
+    "coord": {
+      "lat": 22.549999,
+      "lon": 97.449997
+    },
+    "name": "Kongmöng"
+  },
+  {
+    "country": "MM",
+    "id": 1292572,
+    "coord": {
+      "lat": 24.15,
+      "lon": 97.133331
+    },
+    "name": "Thanbankyun"
+  },
+  {
+    "country": "MM",
+    "id": 1298480,
+    "coord": {
+      "lat": 23.5,
+      "lon": 95.5
+    },
+    "name": "Sagaing Division"
+  },
+  {
+    "country": "MM",
+    "id": 1312356,
+    "coord": {
+      "lat": 27.26667,
+      "lon": 97.23333
+    },
+    "name": "Mahkawshan"
+  },
+  {
+    "country": "MM",
+    "id": 1300466,
+    "coord": {
+      "lat": 17.33667,
+      "lon": 96.479721
+    },
+    "name": "Bago"
+  },
+  {
+    "country": "MM",
+    "id": 1302439,
+    "coord": {
+      "lat": 21.33333,
+      "lon": 95.099998
+    },
+    "name": "Pakokku"
+  },
+  {
+    "country": "MM",
+    "id": 1319539,
+    "coord": {
+      "lat": 19.25,
+      "lon": 97.5
+    },
+    "name": "Kayah State"
+  },
+  {
+    "country": "MM",
+    "id": 1311871,
+    "coord": {
+      "lat": 21,
+      "lon": 96
+    },
+    "name": "Mandalay Division"
+  },
+  {
+    "country": "MM",
+    "id": 1319481,
+    "coord": {
+      "lat": 18.48333,
+      "lon": 95.133331
+    },
+    "name": "Kayinzu"
+  },
+  {
+    "country": "MM",
+    "id": 1297099,
+    "coord": {
+      "lat": 22,
+      "lon": 98
+    },
+    "name": "Shan State"
+  },
+  {
+    "country": "MM",
+    "id": 1302015,
+    "coord": {
+      "lat": 20.31222,
+      "lon": 99.120277
+    },
+    "name": "Pānghpak"
+  },
+  {
+    "country": "MM",
+    "id": 1312604,
+    "coord": {
+      "lat": 20.5,
+      "lon": 94.75
+    },
+    "name": "Magway Division"
+  },
+  {
+    "country": "MM",
+    "id": 1321702,
+    "coord": {
+      "lat": 26,
+      "lon": 97.5
+    },
+    "name": "Kachin State"
+  },
+  {
+    "country": "MM",
+    "id": 1285871,
+    "coord": {
+      "lat": 17.033331,
+      "lon": 95.650002
+    },
+    "name": "Nyaungdon"
+  },
+  {
+    "country": "MM",
+    "id": 1289828,
+    "coord": {
+      "lat": 16.6,
+      "lon": 95.183327
+    },
+    "name": "Wakema"
+  },
+  {
+    "country": "MM",
+    "id": 1290374,
+    "coord": {
+      "lat": 16.716669,
+      "lon": 95.933327
+    },
+    "name": "Twante"
+  },
+  {
+    "country": "MM",
+    "id": 1298911,
+    "coord": {
+      "lat": 18.48333,
+      "lon": 96.433327
+    },
+    "name": "Pyu"
+  },
+  {
+    "country": "MM",
+    "id": 1299154,
+    "coord": {
+      "lat": 18.816669,
+      "lon": 95.216667
+    },
+    "name": "Pyay"
+  },
+  {
+    "country": "MM",
+    "id": 1299237,
+    "coord": {
+      "lat": 16.283331,
+      "lon": 95.683327
+    },
+    "name": "Pyapon"
+  },
+  {
+    "country": "MM",
+    "id": 1300969,
+    "coord": {
+      "lat": 18.48333,
+      "lon": 95.5
+    },
+    "name": "Paungde"
+  },
+  {
+    "country": "MM",
+    "id": 1303406,
+    "coord": {
+      "lat": 17.950001,
+      "lon": 96.73333
+    },
+    "name": "Nyaunglebin"
+  },
+  {
+    "country": "MM",
+    "id": 1308464,
+    "coord": {
+      "lat": 16.383329,
+      "lon": 95.26667
+    },
+    "name": "Mawlamyinegyunn"
+  },
+  {
+    "country": "MM",
+    "id": 1309289,
+    "coord": {
+      "lat": 20.183331,
+      "lon": 94.883331
+    },
+    "name": "Minbu"
+  },
+  {
+    "country": "MM",
+    "id": 1309937,
+    "coord": {
+      "lat": 22.033331,
+      "lon": 96.466667
+    },
+    "name": "Maymyo"
+  },
+  {
+    "country": "MM",
+    "id": 1310120,
+    "coord": {
+      "lat": 23.633329,
+      "lon": 94.416672
+    },
+    "name": "Mawlaik"
+  },
+  {
+    "country": "MM",
+    "id": 1312609,
+    "coord": {
+      "lat": 20.15,
+      "lon": 94.916672
+    },
+    "name": "Magway"
+  },
+  {
+    "country": "MM",
+    "id": 1314042,
+    "coord": {
+      "lat": 17.783331,
+      "lon": 95.75
+    },
+    "name": "Letpandan"
+  },
+  {
+    "country": "MM",
+    "id": 1317397,
+    "coord": {
+      "lat": 16.433331,
+      "lon": 95.73333
+    },
+    "name": "Kyaiklat"
+  },
+  {
+    "country": "MM",
+    "id": 1317402,
+    "coord": {
+      "lat": 16.08,
+      "lon": 97.567497
+    },
+    "name": "Kyaikkami"
+  },
+  {
+    "country": "MM",
+    "id": 1319533,
+    "coord": {
+      "lat": 16.90556,
+      "lon": 96.563057
+    },
+    "name": "Kayan"
+  },
+  {
+    "country": "MM",
+    "id": 1327865,
+    "coord": {
+      "lat": 22,
+      "lon": 98
+    },
+    "name": "Union of Burma"
+  },
+  {
+    "country": "MM",
+    "id": 1321850,
+    "coord": {
+      "lat": 17,
+      "lon": 95
+    },
+    "name": "Ayeyarwady Division"
+  },
+  {
+    "country": "MM",
+    "id": 1290920,
+    "coord": {
+      "lat": 16.383329,
+      "lon": 94.449997
+    },
+    "name": "Tingyaung"
+  },
+  {
+    "country": "MM",
+    "id": 1298822,
+    "coord": {
+      "lat": 17,
+      "lon": 96.166672
+    },
+    "name": "Yangon Division"
+  },
+  {
+    "country": "MM",
+    "id": 1482099,
+    "coord": {
+      "lat": 16.503889,
+      "lon": 96.096939
+    },
+    "name": "Chaungbo"
+  },
+  {
+    "country": "MM",
+    "id": 1480737,
+    "coord": {
+      "lat": 17.191389,
+      "lon": 96.30722
+    },
+    "name": "Inkyangon"
+  },
+  {
+    "country": "MM",
+    "id": 1320233,
+    "coord": {
+      "lat": 17.5,
+      "lon": 97.75
+    },
+    "name": "Kayin State"
+  },
+  {
+    "country": "MM",
+    "id": 1315047,
+    "coord": {
+      "lat": 18.119169,
+      "lon": 97.576942
+    },
+    "name": "Lakawdo"
+  },
+  {
+    "country": "MM",
+    "id": 1296119,
+    "coord": {
+      "lat": 21.58333,
+      "lon": 96.033333
+    },
+    "name": "Singun"
+  },
+  {
+    "country": "MM",
+    "id": 1310084,
+    "coord": {
+      "lat": 24.533331,
+      "lon": 94.550003
+    },
+    "name": "Mawnwe"
+  },
+  {
+    "country": "MM",
+    "id": 1304138,
+    "coord": {
+      "lat": 25.216669,
+      "lon": 97.23333
+    },
+    "name": "Ninglum"
+  },
+  {
+    "country": "MM",
+    "id": 1481825,
+    "coord": {
+      "lat": 16.772779,
+      "lon": 96.16861
+    },
+    "name": "Botataung"
+  },
+  {
+    "country": "MM",
+    "id": 1481709,
+    "coord": {
+      "lat": 16.903891,
+      "lon": 96.127777
+    },
+    "name": "Mithwegon"
+  },
+  {
+    "country": "MM",
+    "id": 1326149,
+    "coord": {
+      "lat": 21.683331,
+      "lon": 95.98333
+    },
+    "name": "Ekyigon"
+  },
+  {
+    "country": "MM",
+    "id": 1298852,
+    "coord": {
+      "lat": 19,
+      "lon": 94.25
+    },
+    "name": "Rakhine State"
+  },
+  {
+    "country": "MM",
+    "id": 1295765,
+    "coord": {
+      "lat": 20.15,
+      "lon": 92.900002
+    },
+    "name": "Sittwe"
+  },
+  {
+    "country": "MM",
+    "id": 1307641,
+    "coord": {
+      "lat": 20.133329,
+      "lon": 92.883331
+    },
+    "name": "Myoma"
+  },
+  {
+    "country": "MM",
+    "id": 1285173,
+    "coord": {
+      "lat": 20.466669,
+      "lon": 94.883331
+    },
+    "name": "Yenangyaung"
+  },
+  {
+    "country": "MM",
+    "id": 1285899,
+    "coord": {
+      "lat": 20.433331,
+      "lon": 96.150002
+    },
+    "name": "Yamethin"
+  },
+  {
+    "country": "MM",
+    "id": 1300463,
+    "coord": {
+      "lat": 18.25,
+      "lon": 96.25
+    },
+    "name": "Bago Division"
+  },
+  {
+    "country": "MM",
+    "id": 1290596,
+    "coord": {
+      "lat": 18.933331,
+      "lon": 96.433327
+    },
+    "name": "Taungoo"
+  },
+  {
+    "country": "MM",
+    "id": 1291193,
+    "coord": {
+      "lat": 16.76194,
+      "lon": 96.527779
+    },
+    "name": "Thongwa"
+  },
+  {
+    "country": "MM",
+    "id": 1292037,
+    "coord": {
+      "lat": 19.316669,
+      "lon": 95.183327
+    },
+    "name": "Thayetmyo"
+  },
+  {
+    "country": "MM",
+    "id": 1308528,
+    "coord": {
+      "lat": 17,
+      "lon": 97.25
+    },
+    "name": "Mon State"
+  },
+  {
+    "country": "MM",
+    "id": 1292288,
+    "coord": {
+      "lat": 16.920561,
+      "lon": 97.371391
+    },
+    "name": "Thaton"
+  },
+  {
+    "country": "MM",
+    "id": 1292313,
+    "coord": {
+      "lat": 17.65,
+      "lon": 95.800003
+    },
+    "name": "Tharyarwady"
+  },
+  {
+    "country": "MM",
+    "id": 1292579,
+    "coord": {
+      "lat": 17.299999,
+      "lon": 96.583328
+    },
+    "name": "Thanatpin"
+  },
+  {
+    "country": "MM",
+    "id": 1292580,
+    "coord": {
+      "lat": 17.211941,
+      "lon": 96.303329
+    },
+    "name": "Thanatpin"
+  },
+  {
+    "country": "MM",
+    "id": 1293118,
+    "coord": {
+      "lat": 13,
+      "lon": 99
+    },
+    "name": "Tanintharyi Division"
+  },
+  {
+    "country": "MM",
+    "id": 1293625,
+    "coord": {
+      "lat": 14.08333,
+      "lon": 98.199997
+    },
+    "name": "Dawei"
+  },
+  {
+    "country": "MM",
+    "id": 1293960,
+    "coord": {
+      "lat": 20.783331,
+      "lon": 97.033333
+    },
+    "name": "Taunggyi"
+  },
+  {
+    "country": "MM",
+    "id": 1294041,
+    "coord": {
+      "lat": 20.01667,
+      "lon": 95.550003
+    },
+    "name": "Taungdwingyi"
+  },
+  {
+    "country": "MM",
+    "id": 1295395,
+    "coord": {
+      "lat": 16.772221,
+      "lon": 96.237778
+    },
+    "name": "Syriam"
+  },
+  {
+    "country": "MM",
+    "id": 1296736,
+    "coord": {
+      "lat": 22.566669,
+      "lon": 95.699997
+    },
+    "name": "Shwebo"
+  },
+  {
+    "country": "MM",
+    "id": 1298482,
+    "coord": {
+      "lat": 21.8787,
+      "lon": 95.979652
+    },
+    "name": "Sagaing"
+  },
+  {
+    "country": "MM",
+    "id": 1298824,
+    "coord": {
+      "lat": 16.805281,
+      "lon": 96.156113
+    },
+    "name": "Rangoon"
+  },
+  {
+    "country": "MM",
+    "id": 1298987,
+    "coord": {
+      "lat": 19.73333,
+      "lon": 96.216667
+    },
+    "name": "Pyinmana"
+  },
+  {
+    "country": "MM",
+    "id": 1307741,
+    "coord": {
+      "lat": 25.383329,
+      "lon": 97.400002
+    },
+    "name": "Myitkyina"
+  },
+  {
+    "country": "MM",
+    "id": 1307835,
+    "coord": {
+      "lat": 21.466669,
+      "lon": 95.383331
+    },
+    "name": "Myingyan"
+  },
+  {
+    "country": "MM",
+    "id": 1308204,
+    "coord": {
+      "lat": 18.283331,
+      "lon": 95.316673
+    },
+    "name": "Myanaung"
+  },
+  {
+    "country": "MM",
+    "id": 1308415,
+    "coord": {
+      "lat": 16.25778,
+      "lon": 97.716393
+    },
+    "name": "Mudon"
+  },
+  {
+    "country": "MM",
+    "id": 1308465,
+    "coord": {
+      "lat": 16.49139,
+      "lon": 97.625557
+    },
+    "name": "Mawlamyine"
+  },
+  {
+    "country": "MM",
+    "id": 1308522,
+    "coord": {
+      "lat": 22.116671,
+      "lon": 95.133331
+    },
+    "name": "Monywa"
+  },
+  {
+    "country": "MM",
+    "id": 1308937,
+    "coord": {
+      "lat": 22.91667,
+      "lon": 96.5
+    },
+    "name": "Mogok"
+  },
+  {
+    "country": "MM",
+    "id": 1309611,
+    "coord": {
+      "lat": 12.43333,
+      "lon": 98.599998
+    },
+    "name": "Myeik"
+  },
+  {
+    "country": "MM",
+    "id": 1309793,
+    "coord": {
+      "lat": 20.866671,
+      "lon": 95.866669
+    },
+    "name": "Meiktila"
+  },
+  {
+    "country": "MM",
+    "id": 1310362,
+    "coord": {
+      "lat": 16.73333,
+      "lon": 95.650002
+    },
+    "name": "Maubin"
+  },
+  {
+    "country": "MM",
+    "id": 1310460,
+    "coord": {
+      "lat": 16.531389,
+      "lon": 97.611107
+    },
+    "name": "Martaban"
+  },
+  {
+    "country": "MM",
+    "id": 1311874,
+    "coord": {
+      "lat": 21.97473,
+      "lon": 96.083588
+    },
+    "name": "Mandalay"
+  },
+  {
+    "country": "MM",
+    "id": 1313479,
+    "coord": {
+      "lat": 19.67417,
+      "lon": 97.209442
+    },
+    "name": "Loikaw"
+  },
+  {
+    "country": "MM",
+    "id": 1314759,
+    "coord": {
+      "lat": 22.933331,
+      "lon": 97.75
+    },
+    "name": "Lashio"
+  },
+  {
+    "country": "MM",
+    "id": 1316703,
+    "coord": {
+      "lat": 21.6,
+      "lon": 96.133331
+    },
+    "name": "Kyaukse"
+  },
+  {
+    "country": "MM",
+    "id": 1317375,
+    "coord": {
+      "lat": 17.299999,
+      "lon": 97.01667
+    },
+    "name": "Kyaikto"
+  },
+  {
+    "country": "MM",
+    "id": 1320944,
+    "coord": {
+      "lat": 16.70528,
+      "lon": 96.001671
+    },
+    "name": "Kanbe"
+  },
+  {
+    "country": "MM",
+    "id": 1325211,
+    "coord": {
+      "lat": 17.633329,
+      "lon": 95.466667
+    },
+    "name": "Hinthada"
+  },
+  {
+    "country": "MM",
+    "id": 1327659,
+    "coord": {
+      "lat": 20.883329,
+      "lon": 94.816673
+    },
+    "name": "Chauk"
+  },
+  {
+    "country": "MM",
+    "id": 1328121,
+    "coord": {
+      "lat": 16.283331,
+      "lon": 95.400002
+    },
+    "name": "Bogale"
+  },
+  {
+    "country": "MM",
+    "id": 1328218,
+    "coord": {
+      "lat": 24.26667,
+      "lon": 97.23333
+    },
+    "name": "Bhamo"
+  },
+  {
+    "country": "MM",
+    "id": 1328421,
+    "coord": {
+      "lat": 16.783331,
+      "lon": 94.73333
+    },
+    "name": "Pathein"
+  },
+  {
+    "country": "MM",
+    "id": 1329239,
+    "coord": {
+      "lat": 19.366671,
+      "lon": 95.216667
+    },
+    "name": "Myaydo"
+  },
+  {
+    "country": "MM",
+    "id": 6611854,
+    "coord": {
+      "lat": 19.745001,
+      "lon": 96.129723
+    },
+    "name": "Nay Pyi Taw"
+  },
+  {
+    "country": "MM",
+    "id": 1302849,
+    "coord": {
+      "lat": 16.89056,
+      "lon": 97.633331
+    },
+    "name": "Hpa-an"
+  },
+  {
+    "country": "MM",
+    "id": 1325443,
+    "coord": {
+      "lat": 22.65,
+      "lon": 93.616669
+    },
+    "name": "Hakha"
+  },
+  {
+    "country": "MM",
+    "id": 1326105,
+    "coord": {
+      "lat": 22.91667,
+      "lon": 93.683327
+    },
+    "name": "Falam"
+  }
+
+]

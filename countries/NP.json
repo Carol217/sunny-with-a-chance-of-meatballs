@@ -1,0 +1,2371 @@
+[
+
+  {
+    "country": "NP",
+    "id": 1283378,
+    "coord": {
+      "lat": 28,
+      "lon": 84.633331
+    },
+    "name": "Gorkhā"
+  },
+  {
+    "country": "NP",
+    "id": 1283710,
+    "coord": {
+      "lat": 28,
+      "lon": 85.416664
+    },
+    "name": "Bāgmatī Zone"
+  },
+  {
+    "country": "NP",
+    "id": 1283240,
+    "coord": {
+      "lat": 27.716667,
+      "lon": 85.316666
+    },
+    "name": "Kathmandu"
+  },
+  {
+    "country": "NP",
+    "id": 1282635,
+    "coord": {
+      "lat": 28.130989,
+      "lon": 82.297256
+    },
+    "name": "Tulsipur"
+  },
+  {
+    "country": "NP",
+    "id": 6941685,
+    "coord": {
+      "lat": 28.614647,
+      "lon": 84.147202
+    },
+    "name": "Pisang"
+  },
+  {
+    "country": "NP",
+    "id": 1282682,
+    "coord": {
+      "lat": 27.716667,
+      "lon": 85.316666
+    },
+    "name": "Thapathali"
+  },
+  {
+    "country": "NP",
+    "id": 1283076,
+    "coord": {
+      "lat": 28.666668,
+      "lon": 84.01667
+    },
+    "name": "Manangbhot"
+  },
+  {
+    "country": "NP",
+    "id": 1283150,
+    "coord": {
+      "lat": 28.200001,
+      "lon": 84.366669
+    },
+    "name": "Lamjung"
+  },
+  {
+    "country": "NP",
+    "id": 1282940,
+    "coord": {
+      "lat": 27.533333,
+      "lon": 83.666664
+    },
+    "name": "Parāsi"
+  },
+  {
+    "country": "NP",
+    "id": 1283692,
+    "coord": {
+      "lat": 27.733334,
+      "lon": 85.300003
+    },
+    "name": "Bālāju"
+  },
+  {
+    "country": "NP",
+    "id": 7113953,
+    "coord": {
+      "lat": 27.715141,
+      "lon": 85.310211
+    },
+    "name": "Thamel"
+  },
+  {
+    "country": "NP",
+    "id": 1282898,
+    "coord": {
+      "lat": 28.233334,
+      "lon": 83.98333
+    },
+    "name": "Pokhara"
+  },
+  {
+    "country": "NP",
+    "id": 1283295,
+    "coord": {
+      "lat": 28.783333,
+      "lon": 83.73333
+    },
+    "name": "Jomosom"
+  },
+  {
+    "country": "NP",
+    "id": 1282748,
+    "coord": {
+      "lat": 27.5,
+      "lon": 83.416664
+    },
+    "name": "Sunauli"
+  },
+  {
+    "country": "NP",
+    "id": 1282933,
+    "coord": {
+      "lat": 27.700001,
+      "lon": 85.349998
+    },
+    "name": "Pashupatināth"
+  },
+  {
+    "country": "NP",
+    "id": 7800118,
+    "coord": {
+      "lat": 27.713699,
+      "lon": 85.503098
+    },
+    "name": "Nagarkot"
+  },
+  {
+    "country": "NP",
+    "id": 1282616,
+    "coord": {
+      "lat": 27.98333,
+      "lon": 83.76667
+    },
+    "name": "Waling"
+  },
+  {
+    "country": "NP",
+    "id": 1282666,
+    "coord": {
+      "lat": 28.5,
+      "lon": 81.133331
+    },
+    "name": "Tikapur"
+  },
+  {
+    "country": "NP",
+    "id": 1282714,
+    "coord": {
+      "lat": 27.86731,
+      "lon": 83.5467
+    },
+    "name": "Tansen"
+  },
+  {
+    "country": "NP",
+    "id": 1282770,
+    "coord": {
+      "lat": 26.65411,
+      "lon": 86.208702
+    },
+    "name": "Siraha"
+  },
+  {
+    "country": "NP",
+    "id": 1282884,
+    "coord": {
+      "lat": 26.533331,
+      "lon": 86.75
+    },
+    "name": "Rajbiraj"
+  },
+  {
+    "country": "NP",
+    "id": 1282950,
+    "coord": {
+      "lat": 27.581381,
+      "lon": 85.512398
+    },
+    "name": "Panaoti"
+  },
+  {
+    "country": "NP",
+    "id": 1283082,
+    "coord": {
+      "lat": 26.856791,
+      "lon": 85.558113
+    },
+    "name": "Malangwa"
+  },
+  {
+    "country": "NP",
+    "id": 1283095,
+    "coord": {
+      "lat": 28.91667,
+      "lon": 80.333328
+    },
+    "name": "Mahendranagar"
+  },
+  {
+    "country": "NP",
+    "id": 1283161,
+    "coord": {
+      "lat": 26.72958,
+      "lon": 86.495148
+    },
+    "name": "Lahan"
+  },
+  {
+    "country": "NP",
+    "id": 1283217,
+    "coord": {
+      "lat": 27.374689,
+      "lon": 87.203903
+    },
+    "name": "Khandbari"
+  },
+  {
+    "country": "NP",
+    "id": 1283318,
+    "coord": {
+      "lat": 26.718281,
+      "lon": 85.906464
+    },
+    "name": "Janakpur"
+  },
+  {
+    "country": "NP",
+    "id": 1283323,
+    "coord": {
+      "lat": 26.64711,
+      "lon": 85.800812
+    },
+    "name": "Jaleswar"
+  },
+  {
+    "country": "NP",
+    "id": 1283329,
+    "coord": {
+      "lat": 26.66667,
+      "lon": 87.283333
+    },
+    "name": "Ithari"
+  },
+  {
+    "country": "NP",
+    "id": 1283334,
+    "coord": {
+      "lat": 26.91667,
+      "lon": 87.916672
+    },
+    "name": "Ilām"
+  },
+  {
+    "country": "NP",
+    "id": 1283333,
+    "coord": {
+      "lat": 26.90943,
+      "lon": 87.928238
+    },
+    "name": "Ilam"
+  },
+  {
+    "country": "NP",
+    "id": 1283339,
+    "coord": {
+      "lat": 27.428391,
+      "lon": 85.032188
+    },
+    "name": "Hitura"
+  },
+  {
+    "country": "NP",
+    "id": 1283368,
+    "coord": {
+      "lat": 28.23333,
+      "lon": 81.333328
+    },
+    "name": "Gulariya"
+  },
+  {
+    "country": "NP",
+    "id": 1283401,
+    "coord": {
+      "lat": 26.76667,
+      "lon": 85.26667
+    },
+    "name": "Gaur"
+  },
+  {
+    "country": "NP",
+    "id": 1283460,
+    "coord": {
+      "lat": 26.812481,
+      "lon": 87.283546
+    },
+    "name": "Dharan Bazar"
+  },
+  {
+    "country": "NP",
+    "id": 1283465,
+    "coord": {
+      "lat": 26.98333,
+      "lon": 87.333328
+    },
+    "name": "Dhankuta"
+  },
+  {
+    "country": "NP",
+    "id": 1283467,
+    "coord": {
+      "lat": 28.70792,
+      "lon": 80.596107
+    },
+    "name": "Dhangarhi"
+  },
+  {
+    "country": "NP",
+    "id": 1283484,
+    "coord": {
+      "lat": 29.841209,
+      "lon": 80.52874
+    },
+    "name": "Darchula"
+  },
+  {
+    "country": "NP",
+    "id": 1283497,
+    "coord": {
+      "lat": 28.83333,
+      "lon": 81.666672
+    },
+    "name": "Dailekh"
+  },
+  {
+    "country": "NP",
+    "id": 1283496,
+    "coord": {
+      "lat": 28.844339,
+      "lon": 81.710114
+    },
+    "name": "Dailekh"
+  },
+  {
+    "country": "NP",
+    "id": 1283499,
+    "coord": {
+      "lat": 29.29842,
+      "lon": 80.580589
+    },
+    "name": "Dadeldhura"
+  },
+  {
+    "country": "NP",
+    "id": 1283562,
+    "coord": {
+      "lat": 27.70055,
+      "lon": 83.448357
+    },
+    "name": "Butwal"
+  },
+  {
+    "country": "NP",
+    "id": 1283581,
+    "coord": {
+      "lat": 27.010429,
+      "lon": 84.87735
+    },
+    "name": "Birganj"
+  },
+  {
+    "country": "NP",
+    "id": 1283628,
+    "coord": {
+      "lat": 26.544041,
+      "lon": 88.09436
+    },
+    "name": "Bhadrapur"
+  },
+  {
+    "country": "NP",
+    "id": 1283679,
+    "coord": {
+      "lat": 27.629789,
+      "lon": 85.521378
+    },
+    "name": "Banepa"
+  },
+  {
+    "country": "NP",
+    "id": 1283711,
+    "coord": {
+      "lat": 28.271891,
+      "lon": 83.58976
+    },
+    "name": "Baglung"
+  },
+  {
+    "country": "NP",
+    "id": 6254843,
+    "coord": {
+      "lat": 28.60194,
+      "lon": 81.633888
+    },
+    "name": "Birendranagar"
+  },
+  {
+    "country": "NP",
+    "id": 1282988,
+    "coord": {
+      "lat": 28,
+      "lon": 84
+    },
+    "name": "Kingdom of Nepal"
+  },
+  {
+    "country": "NP",
+    "id": 6941672,
+    "coord": {
+      "lat": 28.818281,
+      "lon": 83.773842
+    },
+    "name": "Eklobhati"
+  },
+  {
+    "country": "NP",
+    "id": 1283278,
+    "coord": {
+      "lat": 28.833332,
+      "lon": 83.783333
+    },
+    "name": "Kāgbeni"
+  },
+  {
+    "country": "NP",
+    "id": 6941675,
+    "coord": {
+      "lat": 28.821741,
+      "lon": 83.829529
+    },
+    "name": "Khingar"
+  },
+  {
+    "country": "NP",
+    "id": 6941673,
+    "coord": {
+      "lat": 28.819372,
+      "lon": 83.848106
+    },
+    "name": "Jharkot"
+  },
+  {
+    "country": "NP",
+    "id": 1283031,
+    "coord": {
+      "lat": 28.816668,
+      "lon": 83.883331
+    },
+    "name": "Muktināth"
+  },
+  {
+    "country": "NP",
+    "id": 1283213,
+    "coord": {
+      "lat": 28.683332,
+      "lon": 83.98333
+    },
+    "name": "Khāngsar"
+  },
+  {
+    "country": "NP",
+    "id": 6941681,
+    "coord": {
+      "lat": 28.658733,
+      "lon": 84.036827
+    },
+    "name": "Braga"
+  },
+  {
+    "country": "NP",
+    "id": 6941683,
+    "coord": {
+      "lat": 28.641411,
+      "lon": 84.087379
+    },
+    "name": "Hongde"
+  },
+  {
+    "country": "NP",
+    "id": 6941687,
+    "coord": {
+      "lat": 28.642143,
+      "lon": 84.137505
+    },
+    "name": "Ghyaru"
+  },
+  {
+    "country": "NP",
+    "id": 6941686,
+    "coord": {
+      "lat": 28.616266,
+      "lon": 84.153664
+    },
+    "name": "Upper Pisang"
+  },
+  {
+    "country": "NP",
+    "id": 6941688,
+    "coord": {
+      "lat": 28.572914,
+      "lon": 84.190163
+    },
+    "name": "Bhratang"
+  },
+  {
+    "country": "NP",
+    "id": 6941689,
+    "coord": {
+      "lat": 28.553692,
+      "lon": 84.250977
+    },
+    "name": "Chame"
+  },
+  {
+    "country": "NP",
+    "id": 1282676,
+    "coord": {
+      "lat": 28.516666,
+      "lon": 84.349998
+    },
+    "name": "Thonje"
+  },
+  {
+    "country": "NP",
+    "id": 1282731,
+    "coord": {
+      "lat": 28.35,
+      "lon": 84.383331
+    },
+    "name": "Tāgring"
+  },
+  {
+    "country": "NP",
+    "id": 6254841,
+    "coord": {
+      "lat": 28.333889,
+      "lon": 84.419167
+    },
+    "name": "Thulobeshi"
+  },
+  {
+    "country": "NP",
+    "id": 6941690,
+    "coord": {
+      "lat": 28.282162,
+      "lon": 84.359123
+    },
+    "name": "Khudi"
+  },
+  {
+    "country": "NP",
+    "id": 1283038,
+    "coord": {
+      "lat": 27.483334,
+      "lon": 83.23333
+    },
+    "name": "Muglaha"
+  },
+  {
+    "country": "NP",
+    "id": 1282839,
+    "coord": {
+      "lat": 27.483334,
+      "lon": 83.283333
+    },
+    "name": "Rummin-dei"
+  },
+  {
+    "country": "NP",
+    "id": 1283621,
+    "coord": {
+      "lat": 27.5,
+      "lon": 83.449997
+    },
+    "name": "Bhairahawa"
+  },
+  {
+    "country": "NP",
+    "id": 1282724,
+    "coord": {
+      "lat": 27.566668,
+      "lon": 83.949997
+    },
+    "name": "Tamāspur"
+  },
+  {
+    "country": "NP",
+    "id": 1283006,
+    "coord": {
+      "lat": 27.566668,
+      "lon": 84.033333
+    },
+    "name": "Nandpur"
+  },
+  {
+    "country": "NP",
+    "id": 1283522,
+    "coord": {
+      "lat": 27.616667,
+      "lon": 84.116669
+    },
+    "name": "Chilha"
+  },
+  {
+    "country": "NP",
+    "id": 1283046,
+    "coord": {
+      "lat": 27.583332,
+      "lon": 84.23333
+    },
+    "name": "Meghauli"
+  },
+  {
+    "country": "NP",
+    "id": 1283049,
+    "coord": {
+      "lat": 27.700001,
+      "lon": 84.400002
+    },
+    "name": "Maruwā Ghāt"
+  },
+  {
+    "country": "NP",
+    "id": 1283001,
+    "coord": {
+      "lat": 27.683332,
+      "lon": 84.416664
+    },
+    "name": "Nārāyangarh"
+  },
+  {
+    "country": "NP",
+    "id": 1283613,
+    "coord": {
+      "lat": 27.683332,
+      "lon": 84.433334
+    },
+    "name": "Bharatpur"
+  },
+  {
+    "country": "NP",
+    "id": 1282665,
+    "coord": {
+      "lat": 27.633333,
+      "lon": 84.5
+    },
+    "name": "Tikoli"
+  },
+  {
+    "country": "NP",
+    "id": 1282621,
+    "coord": {
+      "lat": 27.766666,
+      "lon": 84.566666
+    },
+    "name": "Upardāng Garhi"
+  },
+  {
+    "country": "NP",
+    "id": 1283256,
+    "coord": {
+      "lat": 27.716667,
+      "lon": 84.783333
+    },
+    "name": "Kāndrāng Garhi"
+  },
+  {
+    "country": "NP",
+    "id": 1282951,
+    "coord": {
+      "lat": 27.633333,
+      "lon": 85.066666
+    },
+    "name": "Pālung"
+  },
+  {
+    "country": "NP",
+    "id": 1282996,
+    "coord": {
+      "lat": 27.716667,
+      "lon": 85.150002
+    },
+    "name": "Naubise"
+  },
+  {
+    "country": "NP",
+    "id": 1282684,
+    "coord": {
+      "lat": 27.683332,
+      "lon": 85.183334
+    },
+    "name": "Thānkot"
+  },
+  {
+    "country": "NP",
+    "id": 1283190,
+    "coord": {
+      "lat": 27.666668,
+      "lon": 85.283333
+    },
+    "name": "Kirtipur"
+  },
+  {
+    "country": "NP",
+    "id": 1283312,
+    "coord": {
+      "lat": 27.666668,
+      "lon": 85.316666
+    },
+    "name": "Jawlakhel"
+  },
+  {
+    "country": "NP",
+    "id": 1282931,
+    "coord": {
+      "lat": 27.666668,
+      "lon": 85.333336
+    },
+    "name": "Patan"
+  },
+  {
+    "country": "NP",
+    "id": 1283678,
+    "coord": {
+      "lat": 27.683332,
+      "lon": 85.333336
+    },
+    "name": "Bāneswar"
+  },
+  {
+    "country": "NP",
+    "id": 1282976,
+    "coord": {
+      "lat": 27.666668,
+      "lon": 85.26667
+    },
+    "name": "Nougām"
+  },
+  {
+    "country": "NP",
+    "id": 1283422,
+    "coord": {
+      "lat": 27.683332,
+      "lon": 85.116669
+    },
+    "name": "Dumān"
+  },
+  {
+    "country": "NP",
+    "id": 1283471,
+    "coord": {
+      "lat": 27.866667,
+      "lon": 84.916664
+    },
+    "name": "Dhāding"
+  },
+  {
+    "country": "NP",
+    "id": 1283636,
+    "coord": {
+      "lat": 27.816668,
+      "lon": 84.783333
+    },
+    "name": "Benighāt"
+  },
+  {
+    "country": "NP",
+    "id": 1283088,
+    "coord": {
+      "lat": 27.883333,
+      "lon": 84.683334
+    },
+    "name": "Makaising"
+  },
+  {
+    "country": "NP",
+    "id": 1283680,
+    "coord": {
+      "lat": 27.933332,
+      "lon": 84.416664
+    },
+    "name": "Bandīpur"
+  },
+  {
+    "country": "NP",
+    "id": 1282721,
+    "coord": {
+      "lat": 28.033333,
+      "lon": 84.333336
+    },
+    "name": "Tanahun"
+  },
+  {
+    "country": "NP",
+    "id": 1282766,
+    "coord": {
+      "lat": 28.083332,
+      "lon": 84.25
+    },
+    "name": "Sisāghāt Bāzār"
+  },
+  {
+    "country": "NP",
+    "id": 1283651,
+    "coord": {
+      "lat": 28.049999,
+      "lon": 84.066666
+    },
+    "name": "Bathāla"
+  },
+  {
+    "country": "NP",
+    "id": 1283474,
+    "coord": {
+      "lat": 28.116667,
+      "lon": 84.166664
+    },
+    "name": "Deorāli"
+  },
+  {
+    "country": "NP",
+    "id": 1282869,
+    "coord": {
+      "lat": 28.216667,
+      "lon": 84
+    },
+    "name": "Rānīpauwa"
+  },
+  {
+    "country": "NP",
+    "id": 1283654,
+    "coord": {
+      "lat": 28.116667,
+      "lon": 84.433334
+    },
+    "name": "Bartār"
+  },
+  {
+    "country": "NP",
+    "id": 1282679,
+    "coord": {
+      "lat": 28.016666,
+      "lon": 85.5
+    },
+    "name": "Thāre Pāti"
+  },
+  {
+    "country": "NP",
+    "id": 1283113,
+    "coord": {
+      "lat": 27.700001,
+      "lon": 86.716667
+    },
+    "name": "Lukla"
+  },
+  {
+    "country": "NP",
+    "id": 1283011,
+    "coord": {
+      "lat": 27.816668,
+      "lon": 86.716667
+    },
+    "name": "Namche Bazar"
+  },
+  {
+    "country": "NP",
+    "id": 1282670,
+    "coord": {
+      "lat": 27.833332,
+      "lon": 86.76667
+    },
+    "name": "Thyāngboche"
+  },
+  {
+    "country": "NP",
+    "id": 1283044,
+    "coord": {
+      "lat": 27.85,
+      "lon": 86.816666
+    },
+    "name": "Mingbo"
+  },
+  {
+    "country": "NP",
+    "id": 1283437,
+    "coord": {
+      "lat": 27.9,
+      "lon": 86.833336
+    },
+    "name": "Dingboche"
+  },
+  {
+    "country": "NP",
+    "id": 1282673,
+    "coord": {
+      "lat": 27.916668,
+      "lon": 86.800003
+    },
+    "name": "Thukla"
+  },
+  {
+    "country": "NP",
+    "id": 1283119,
+    "coord": {
+      "lat": 27.950001,
+      "lon": 86.816666
+    },
+    "name": "Lobujya"
+  },
+  {
+    "country": "NP",
+    "id": 1282913,
+    "coord": {
+      "lat": 27.85,
+      "lon": 86.75
+    },
+    "name": "Phorcha"
+  },
+  {
+    "country": "NP",
+    "id": 1283524,
+    "coord": {
+      "lat": 27.950001,
+      "lon": 86.616669
+    },
+    "name": "Chhule"
+  },
+  {
+    "country": "NP",
+    "id": 6941095,
+    "coord": {
+      "lat": 27.833332,
+      "lon": 86.716667
+    },
+    "name": "Dole"
+  },
+  {
+    "country": "NP",
+    "id": 1282945,
+    "coord": {
+      "lat": 27.85,
+      "lon": 86.800003
+    },
+    "name": "Pangboche"
+  },
+  {
+    "country": "NP",
+    "id": 1283290,
+    "coord": {
+      "lat": 27.583332,
+      "lon": 86.699997
+    },
+    "name": "Jubing"
+  },
+  {
+    "country": "NP",
+    "id": 1283284,
+    "coord": {
+      "lat": 27.583332,
+      "lon": 86.533333
+    },
+    "name": "Junbesi"
+  },
+  {
+    "country": "NP",
+    "id": 1282860,
+    "coord": {
+      "lat": 27.566668,
+      "lon": 86.199997
+    },
+    "name": "Rasnālu"
+  },
+  {
+    "country": "NP",
+    "id": 1282671,
+    "coord": {
+      "lat": 27.6,
+      "lon": 86.166664
+    },
+    "name": "Thulopātāl"
+  },
+  {
+    "country": "NP",
+    "id": 1283192,
+    "coord": {
+      "lat": 27.633333,
+      "lon": 86.066666
+    },
+    "name": "Kirāntīchhāp"
+  },
+  {
+    "country": "NP",
+    "id": 1283546,
+    "coord": {
+      "lat": 27.666668,
+      "lon": 86.033333
+    },
+    "name": "Charikot"
+  },
+  {
+    "country": "NP",
+    "id": 1282720,
+    "coord": {
+      "lat": 27.633333,
+      "lon": 85.916664
+    },
+    "name": "Tāndi"
+  },
+  {
+    "country": "NP",
+    "id": 1283429,
+    "coord": {
+      "lat": 27.65,
+      "lon": 85.699997
+    },
+    "name": "Dolālghāt"
+  },
+  {
+    "country": "NP",
+    "id": 1282948,
+    "coord": {
+      "lat": 27.65,
+      "lon": 85.616669
+    },
+    "name": "Panchkhal"
+  },
+  {
+    "country": "NP",
+    "id": 1283018,
+    "coord": {
+      "lat": 27.700001,
+      "lon": 85.51667
+    },
+    "name": "Nagarkot"
+  },
+  {
+    "country": "NP",
+    "id": 1282813,
+    "coord": {
+      "lat": 27.716667,
+      "lon": 85.449997
+    },
+    "name": "Sānkhu"
+  },
+  {
+    "country": "NP",
+    "id": 1283647,
+    "coord": {
+      "lat": 27.716667,
+      "lon": 85.366669
+    },
+    "name": "Baudhatinchule"
+  },
+  {
+    "country": "NP",
+    "id": 1282677,
+    "coord": {
+      "lat": 27.683332,
+      "lon": 85.383331
+    },
+    "name": "Thimi"
+  },
+  {
+    "country": "NP",
+    "id": 1283618,
+    "coord": {
+      "lat": 27.667337,
+      "lon": 85.416725
+    },
+    "name": "Bhaktapur"
+  },
+  {
+    "country": "NP",
+    "id": 1283540,
+    "coord": {
+      "lat": 27.666668,
+      "lon": 86.716667
+    },
+    "name": "Chaunrikharka"
+  },
+  {
+    "country": "NP",
+    "id": 1283616,
+    "coord": {
+      "lat": 27.583332,
+      "lon": 86.349998
+    },
+    "name": "Bhandār"
+  },
+  {
+    "country": "NP",
+    "id": 1282675,
+    "coord": {
+      "lat": 27.583332,
+      "lon": 86.25
+    },
+    "name": "Those"
+  },
+  {
+    "country": "NP",
+    "id": 1283617,
+    "coord": {
+      "lat": 27.683332,
+      "lon": 85.416664
+    },
+    "name": "Bhaktapur"
+  },
+  {
+    "country": "NP",
+    "id": 1283510,
+    "coord": {
+      "lat": 27.9,
+      "lon": 86.833336
+    },
+    "name": "Chukhung"
+  },
+  {
+    "country": "NP",
+    "id": 1283047,
+    "coord": {
+      "lat": 27.166668,
+      "lon": 87.916664
+    },
+    "name": "Mechī Zone"
+  },
+  {
+    "country": "NP",
+    "id": 1282836,
+    "coord": {
+      "lat": 27.333332,
+      "lon": 86.666664
+    },
+    "name": "Sagarmāthā Zone"
+  },
+  {
+    "country": "NP",
+    "id": 1283454,
+    "coord": {
+      "lat": 28.833332,
+      "lon": 83.5
+    },
+    "name": "Dhawalāgiri Zone"
+  },
+  {
+    "country": "NP",
+    "id": 1283410,
+    "coord": {
+      "lat": 28.166668,
+      "lon": 84.5
+    },
+    "name": "Gandakī Zone"
+  },
+  {
+    "country": "NP",
+    "id": 7289709,
+    "coord": {
+      "lat": 28.170389,
+      "lon": 83.938293
+    },
+    "name": "Pashchimanchal"
+  },
+  {
+    "country": "NP",
+    "id": 1282722,
+    "coord": {
+      "lat": 27.91667,
+      "lon": 84.25
+    },
+    "name": "Tanahun"
+  },
+  {
+    "country": "NP",
+    "id": 7801503,
+    "coord": {
+      "lat": 28.00094,
+      "lon": 84.030571
+    },
+    "name": "Bhanumati"
+  },
+  {
+    "country": "NP",
+    "id": 8003027,
+    "coord": {
+      "lat": 28.00042,
+      "lon": 84.000778
+    },
+    "name": "Buchakhani"
+  },
+  {
+    "country": "NP",
+    "id": 7289707,
+    "coord": {
+      "lat": 27.454359,
+      "lon": 85.223007
+    },
+    "name": "Madhyamanchal"
+  },
+  {
+    "country": "NP",
+    "id": 1282973,
+    "coord": {
+      "lat": 27.91667,
+      "lon": 85.25
+    },
+    "name": "Nuwākot"
+  },
+  {
+    "country": "NP",
+    "id": 7802136,
+    "coord": {
+      "lat": 27.989901,
+      "lon": 85.439941
+    },
+    "name": "Ghyangphedi"
+  },
+  {
+    "country": "NP",
+    "id": 7974073,
+    "coord": {
+      "lat": 27.985451,
+      "lon": 85.424698
+    },
+    "name": "Lampate"
+  },
+  {
+    "country": "NP",
+    "id": 1283379,
+    "coord": {
+      "lat": 28.33333,
+      "lon": 84.833328
+    },
+    "name": "Gorkhā"
+  },
+  {
+    "country": "NP",
+    "id": 7799297,
+    "coord": {
+      "lat": 27.9804,
+      "lon": 84.605301
+    },
+    "name": "PrithbinarayanN.P."
+  },
+  {
+    "country": "NP",
+    "id": 7949204,
+    "coord": {
+      "lat": 27.996189,
+      "lon": 84.630653
+    },
+    "name": "(Pokharithok Bajar)"
+  },
+  {
+    "country": "NP",
+    "id": 1283077,
+    "coord": {
+      "lat": 28.66667,
+      "lon": 84.25
+    },
+    "name": "Manang"
+  },
+  {
+    "country": "NP",
+    "id": 7802063,
+    "coord": {
+      "lat": 28.597429,
+      "lon": 84.149063
+    },
+    "name": "Pisang"
+  },
+  {
+    "country": "NP",
+    "id": 1283243,
+    "coord": {
+      "lat": 28.33333,
+      "lon": 84
+    },
+    "name": "Kāskī"
+  },
+  {
+    "country": "NP",
+    "id": 7801962,
+    "coord": {
+      "lat": 28.21386,
+      "lon": 83.99218
+    },
+    "name": "PokharaN.P."
+  },
+  {
+    "country": "NP",
+    "id": 7961335,
+    "coord": {
+      "lat": 28.231001,
+      "lon": 83.98391
+    },
+    "name": "Nalamukh"
+  },
+  {
+    "country": "NP",
+    "id": 1283023,
+    "coord": {
+      "lat": 28.91667,
+      "lon": 83.916672
+    },
+    "name": "Mustāng"
+  },
+  {
+    "country": "NP",
+    "id": 7800940,
+    "coord": {
+      "lat": 28.76696,
+      "lon": 83.770432
+    },
+    "name": "Jomsom"
+  },
+  {
+    "country": "NP",
+    "id": 7910491,
+    "coord": {
+      "lat": 28.784361,
+      "lon": 83.73513
+    },
+    "name": "Jomsom"
+  },
+  {
+    "country": "NP",
+    "id": 1283151,
+    "coord": {
+      "lat": 28.25,
+      "lon": 84.416672
+    },
+    "name": "Lamjung"
+  },
+  {
+    "country": "NP",
+    "id": 7800858,
+    "coord": {
+      "lat": 28.20573,
+      "lon": 84.380539
+    },
+    "name": "Gaunshahar"
+  },
+  {
+    "country": "NP",
+    "id": 7966485,
+    "coord": {
+      "lat": 28.199881,
+      "lon": 84.371452
+    },
+    "name": "Khatrigaun"
+  },
+  {
+    "country": "NP",
+    "id": 7800941,
+    "coord": {
+      "lat": 28.849649,
+      "lon": 83.727898
+    },
+    "name": "Kagbeni"
+  },
+  {
+    "country": "NP",
+    "id": 7971832,
+    "coord": {
+      "lat": 28.83882,
+      "lon": 83.787109
+    },
+    "name": "Kagbenee"
+  },
+  {
+    "country": "NP",
+    "id": 7800933,
+    "coord": {
+      "lat": 28.660391,
+      "lon": 83.925346
+    },
+    "name": "Khangsar"
+  },
+  {
+    "country": "NP",
+    "id": 7969462,
+    "coord": {
+      "lat": 28.67861,
+      "lon": 83.975517
+    },
+    "name": "Chyongo"
+  },
+  {
+    "country": "NP",
+    "id": 7802061,
+    "coord": {
+      "lat": 28.5338,
+      "lon": 84.269928
+    },
+    "name": "Chame"
+  },
+  {
+    "country": "NP",
+    "id": 7800877,
+    "coord": {
+      "lat": 28.370001,
+      "lon": 84.381828
+    },
+    "name": "Taghring"
+  },
+  {
+    "country": "NP",
+    "id": 7967083,
+    "coord": {
+      "lat": 28.34211,
+      "lon": 84.381203
+    },
+    "name": "Gairigaun"
+  },
+  {
+    "country": "NP",
+    "id": 7801994,
+    "coord": {
+      "lat": 28.32102,
+      "lon": 84.36631
+    },
+    "name": "Khudi"
+  },
+  {
+    "country": "NP",
+    "id": 1283112,
+    "coord": {
+      "lat": 27.75,
+      "lon": 83.5
+    },
+    "name": "Lumbinī Zone"
+  },
+  {
+    "country": "NP",
+    "id": 1282837,
+    "coord": {
+      "lat": 27.66667,
+      "lon": 83.416672
+    },
+    "name": "Rūpandehī"
+  },
+  {
+    "country": "NP",
+    "id": 7802360,
+    "coord": {
+      "lat": 27.502661,
+      "lon": 83.448341
+    },
+    "name": "SiddharthNagarN.P."
+  },
+  {
+    "country": "NP",
+    "id": 1282991,
+    "coord": {
+      "lat": 27.66667,
+      "lon": 83.916672
+    },
+    "name": "Nawalparāsī"
+  },
+  {
+    "country": "NP",
+    "id": 7800988,
+    "coord": {
+      "lat": 27.52935,
+      "lon": 83.6735
+    },
+    "name": "RamgramN.P."
+  },
+  {
+    "country": "NP",
+    "id": 7973340,
+    "coord": {
+      "lat": 27.52878,
+      "lon": 83.661621
+    },
+    "name": "Ghodpali"
+  },
+  {
+    "country": "NP",
+    "id": 7802106,
+    "coord": {
+      "lat": 27.57535,
+      "lon": 84.059471
+    },
+    "name": "Kolhuwa"
+  },
+  {
+    "country": "NP",
+    "id": 7973056,
+    "coord": {
+      "lat": 27.56111,
+      "lon": 84.037491
+    },
+    "name": "Nandapur"
+  },
+  {
+    "country": "NP",
+    "id": 7802105,
+    "coord": {
+      "lat": 27.61747,
+      "lon": 84.127563
+    },
+    "name": "Kawaswoti"
+  },
+  {
+    "country": "NP",
+    "id": 7973039,
+    "coord": {
+      "lat": 27.622061,
+      "lon": 84.117218
+    },
+    "name": "Makarkot"
+  },
+  {
+    "country": "NP",
+    "id": 7801829,
+    "coord": {
+      "lat": 27.707899,
+      "lon": 84.396339
+    },
+    "name": "Gaidakot"
+  },
+  {
+    "country": "NP",
+    "id": 7972960,
+    "coord": {
+      "lat": 27.70216,
+      "lon": 84.400383
+    },
+    "name": "Madhuwaghat"
+  },
+  {
+    "country": "NP",
+    "id": 1283000,
+    "coord": {
+      "lat": 27.366671,
+      "lon": 84.916672
+    },
+    "name": "Nārāyanī Zone"
+  },
+  {
+    "country": "NP",
+    "id": 1283517,
+    "coord": {
+      "lat": 27.58333,
+      "lon": 84.5
+    },
+    "name": "Chitawan"
+  },
+  {
+    "country": "NP",
+    "id": 7800545,
+    "coord": {
+      "lat": 27.77109,
+      "lon": 84.54248
+    },
+    "name": "Dahakhani"
+  },
+  {
+    "country": "NP",
+    "id": 7934341,
+    "coord": {
+      "lat": 27.764071,
+      "lon": 84.563408
+    },
+    "name": "Dharsin"
+  },
+  {
+    "country": "NP",
+    "id": 1283472,
+    "coord": {
+      "lat": 28,
+      "lon": 84.916672
+    },
+    "name": "Dhāding"
+  },
+  {
+    "country": "NP",
+    "id": 7799586,
+    "coord": {
+      "lat": 27.703199,
+      "lon": 85.156998
+    },
+    "name": "Naubise"
+  },
+  {
+    "country": "NP",
+    "id": 7942140,
+    "coord": {
+      "lat": 27.71784,
+      "lon": 85.1492
+    },
+    "name": "Kattichhap"
+  },
+  {
+    "country": "NP",
+    "id": 1283085,
+    "coord": {
+      "lat": 27.41667,
+      "lon": 85.25
+    },
+    "name": "Makwānpur"
+  },
+  {
+    "country": "NP",
+    "id": 7802044,
+    "coord": {
+      "lat": 27.647539,
+      "lon": 85.169281
+    },
+    "name": "Chitlang"
+  },
+  {
+    "country": "NP",
+    "id": 7968003,
+    "coord": {
+      "lat": 27.67441,
+      "lon": 85.18428
+    },
+    "name": "Dandakhrka"
+  },
+  {
+    "country": "NP",
+    "id": 1282946,
+    "coord": {
+      "lat": 27.66667,
+      "lon": 85.283333
+    },
+    "name": "Pānga"
+  },
+  {
+    "country": "NP",
+    "id": 1283154,
+    "coord": {
+      "lat": 27.58333,
+      "lon": 85.333328
+    },
+    "name": "Lalitpur"
+  },
+  {
+    "country": "NP",
+    "id": 7799973,
+    "coord": {
+      "lat": 27.6691,
+      "lon": 85.319901
+    },
+    "name": "LalitpurN.P."
+  },
+  {
+    "country": "NP",
+    "id": 7965675,
+    "coord": {
+      "lat": 27.666599,
+      "lon": 85.335037
+    },
+    "name": "Gwarko"
+  },
+  {
+    "country": "NP",
+    "id": 1283241,
+    "coord": {
+      "lat": 27.75,
+      "lon": 85.416672
+    },
+    "name": "Kathmandu"
+  },
+  {
+    "country": "NP",
+    "id": 7800827,
+    "coord": {
+      "lat": 27.70731,
+      "lon": 85.322182
+    },
+    "name": "KathmanduN.P."
+  },
+  {
+    "country": "NP",
+    "id": 7962239,
+    "coord": {
+      "lat": 27.680861,
+      "lon": 85.334251
+    },
+    "name": "Shankhamul Dobhan"
+  },
+  {
+    "country": "NP",
+    "id": 7799674,
+    "coord": {
+      "lat": 27.870199,
+      "lon": 84.911102
+    },
+    "name": "Sunaulabazar"
+  },
+  {
+    "country": "NP",
+    "id": 7942462,
+    "coord": {
+      "lat": 27.864161,
+      "lon": 84.913887
+    },
+    "name": "Kusunde"
+  },
+  {
+    "country": "NP",
+    "id": 7802653,
+    "coord": {
+      "lat": 28.036249,
+      "lon": 84.334641
+    },
+    "name": "Tanahunsur"
+  },
+  {
+    "country": "NP",
+    "id": 8004777,
+    "coord": {
+      "lat": 28.03129,
+      "lon": 84.334068
+    },
+    "name": "Patyarthok"
+  },
+  {
+    "country": "NP",
+    "id": 7801509,
+    "coord": {
+      "lat": 28.060459,
+      "lon": 84.267509
+    },
+    "name": "Kyamin"
+  },
+  {
+    "country": "NP",
+    "id": 8004101,
+    "coord": {
+      "lat": 28.084221,
+      "lon": 84.25209
+    },
+    "name": "Baniya Dihi"
+  },
+  {
+    "country": "NP",
+    "id": 7801505,
+    "coord": {
+      "lat": 28.05267,
+      "lon": 84.030937
+    },
+    "name": "Dhorfirdi"
+  },
+  {
+    "country": "NP",
+    "id": 8003390,
+    "coord": {
+      "lat": 28.051809,
+      "lon": 84.063431
+    },
+    "name": "Ganapati"
+  },
+  {
+    "country": "NP",
+    "id": 7800254,
+    "coord": {
+      "lat": 28.118429,
+      "lon": 84.153458
+    },
+    "name": "Deurali"
+  },
+  {
+    "country": "NP",
+    "id": 7960439,
+    "coord": {
+      "lat": 28.122789,
+      "lon": 84.168121
+    },
+    "name": "Kusunde"
+  },
+  {
+    "country": "NP",
+    "id": 7800876,
+    "coord": {
+      "lat": 28.13188,
+      "lon": 84.419907
+    },
+    "name": "Sundarbazar"
+  },
+  {
+    "country": "NP",
+    "id": 7967031,
+    "coord": {
+      "lat": 28.114571,
+      "lon": 84.429062
+    },
+    "name": "Paundidhik Bajar"
+  },
+  {
+    "country": "NP",
+    "id": 7647006,
+    "coord": {
+      "lat": 27.829359,
+      "lon": 85.545036
+    },
+    "name": "Sindhupalchok"
+  },
+  {
+    "country": "NP",
+    "id": 7801335,
+    "coord": {
+      "lat": 27.993549,
+      "lon": 85.54435
+    },
+    "name": "Helumbu"
+  },
+  {
+    "country": "NP",
+    "id": 7994717,
+    "coord": {
+      "lat": 28.0037,
+      "lon": 85.507423
+    },
+    "name": "Panchosa"
+  },
+  {
+    "country": "NP",
+    "id": 7289708,
+    "coord": {
+      "lat": 27.239981,
+      "lon": 87.148018
+    },
+    "name": "Purwanchal"
+  },
+  {
+    "country": "NP",
+    "id": 1282758,
+    "coord": {
+      "lat": 27.75,
+      "lon": 86.75
+    },
+    "name": "Solukhumbū"
+  },
+  {
+    "country": "NP",
+    "id": 7802556,
+    "coord": {
+      "lat": 27.7139,
+      "lon": 86.736519
+    },
+    "name": "Chaurikharka"
+  },
+  {
+    "country": "NP",
+    "id": 7996530,
+    "coord": {
+      "lat": 27.697809,
+      "lon": 86.721741
+    },
+    "name": "Chaurikharka"
+  },
+  {
+    "country": "NP",
+    "id": 7801416,
+    "coord": {
+      "lat": 27.87332,
+      "lon": 86.757339
+    },
+    "name": "Khumjung"
+  },
+  {
+    "country": "NP",
+    "id": 7996816,
+    "coord": {
+      "lat": 27.81604,
+      "lon": 86.713219
+    },
+    "name": "Jaro"
+  },
+  {
+    "country": "NP",
+    "id": 7996820,
+    "coord": {
+      "lat": 27.837379,
+      "lon": 86.768822
+    },
+    "name": "Thyanboche"
+  },
+  {
+    "country": "NP",
+    "id": 7996828,
+    "coord": {
+      "lat": 27.85405,
+      "lon": 86.822388
+    },
+    "name": "Minbo"
+  },
+  {
+    "country": "NP",
+    "id": 7996839,
+    "coord": {
+      "lat": 27.8964,
+      "lon": 86.837059
+    },
+    "name": "Dinboche"
+  },
+  {
+    "country": "NP",
+    "id": 7996868,
+    "coord": {
+      "lat": 27.849939,
+      "lon": 86.752823
+    },
+    "name": "Phorche"
+  },
+  {
+    "country": "NP",
+    "id": 7801420,
+    "coord": {
+      "lat": 27.83148,
+      "lon": 86.666191
+    },
+    "name": "Namche"
+  },
+  {
+    "country": "NP",
+    "id": 7997059,
+    "coord": {
+      "lat": 27.94282,
+      "lon": 86.610863
+    },
+    "name": "Chhulung Marsaang"
+  },
+  {
+    "country": "NP",
+    "id": 7800110,
+    "coord": {
+      "lat": 27.663601,
+      "lon": 85.411499
+    },
+    "name": "Kautunje"
+  },
+  {
+    "country": "NP",
+    "id": 1283182,
+    "coord": {
+      "lat": 27.15,
+      "lon": 87.316673
+    },
+    "name": "Kosī Zone"
+  },
+  {
+    "country": "NP",
+    "id": 1283712,
+    "coord": {
+      "lat": 28.41667,
+      "lon": 83.166672
+    },
+    "name": "Bāglung"
+  },
+  {
+    "country": "NP",
+    "id": 7962279,
+    "coord": {
+      "lat": 27.69632,
+      "lon": 85.354942
+    },
+    "name": "Sinamangal"
+  },
+  {
+    "country": "NP",
+    "id": 8010237,
+    "coord": {
+      "lat": 27.666161,
+      "lon": 85.415756
+    },
+    "name": "Banachaur"
+  },
+  {
+    "country": "NP",
+    "id": 1283582,
+    "coord": {
+      "lat": 26.483101,
+      "lon": 87.283371
+    },
+    "name": "Biratnagar"
+  },
+  {
+    "country": "NP",
+    "id": 1283316,
+    "coord": {
+      "lat": 27.33333,
+      "lon": 86
+    },
+    "name": "Janakpur Zone"
+  },
+  {
+    "country": "NP",
+    "id": 7648379,
+    "coord": {
+      "lat": 26.83,
+      "lon": 86.010002
+    },
+    "name": "Dhanusa"
+  },
+  {
+    "country": "NP",
+    "id": 7800051,
+    "coord": {
+      "lat": 26.6961,
+      "lon": 85.911797
+    },
+    "name": "Basahiya"
+  },
+  {
+    "country": "NP",
+    "id": 7943571,
+    "coord": {
+      "lat": 26.69743,
+      "lon": 85.913887
+    },
+    "name": "Basahiya"
+  },
+  {
+    "country": "NP",
+    "id": 7800283,
+    "coord": {
+      "lat": 28.27663,
+      "lon": 83.589157
+    },
+    "name": "Darling"
+  },
+  {
+    "country": "NP",
+    "id": 7953967,
+    "coord": {
+      "lat": 28.26368,
+      "lon": 83.605827
+    },
+    "name": "Ramrekha"
+  },
+  {
+    "country": "NP",
+    "id": 7289706,
+    "coord": {
+      "lat": 29.059771,
+      "lon": 82.313347
+    },
+    "name": "Madhya Pashchimanchal"
+  },
+  {
+    "country": "NP",
+    "id": 1283606,
+    "coord": {
+      "lat": 28.58333,
+      "lon": 81.666672
+    },
+    "name": "Bherī Zone"
+  },
+  {
+    "country": "NP",
+    "id": 6941099,
+    "coord": {
+      "lat": 28.049999,
+      "lon": 81.616669
+    },
+    "name": "Nepalgunj"
+  },
+  {
+    "country": "NP",
+    "id": 1283040,
+    "coord": {
+      "lat": 26.66667,
+      "lon": 87.5
+    },
+    "name": "Morang"
+  },
+  {
+    "country": "NP",
+    "id": 7799185,
+    "coord": {
+      "lat": 26.452499,
+      "lon": 87.274101
+    },
+    "name": "BiratnagarN.P."
+  },
+  {
+    "country": "NP",
+    "id": 7970003,
+    "coord": {
+      "lat": 26.484381,
+      "lon": 87.27092
+    },
+    "name": "Airport"
+  },
+  {
+    "country": "NP",
+    "id": 1282938,
+    "coord": {
+      "lat": 27.33333,
+      "lon": 84.833328
+    },
+    "name": "Parsa"
+  },
+  {
+    "country": "NP",
+    "id": 7801091,
+    "coord": {
+      "lat": 27.30599,
+      "lon": 84.671509
+    },
+    "name": "Nirmalbasti"
+  },
+  {
+    "country": "NP",
+    "id": 7979462,
+    "coord": {
+      "lat": 27.322781,
+      "lon": 84.654846
+    },
+    "name": "Odar"
+  },
+  {
+    "country": "NP",
+    "id": 7667450,
+    "coord": {
+      "lat": 28.51746,
+      "lon": 81.778702
+    },
+    "name": "Surkhet"
+  },
+  {
+    "country": "NP",
+    "id": 7801451,
+    "coord": {
+      "lat": 28.61198,
+      "lon": 81.619041
+    },
+    "name": "BirendranagarN.P."
+  },
+  {
+    "country": "NP",
+    "id": 7998675,
+    "coord": {
+      "lat": 28.58744,
+      "lon": 81.63163
+    },
+    "name": "Khajura"
+  },
+  {
+    "country": "NP",
+    "id": 1283670,
+    "coord": {
+      "lat": 27.08333,
+      "lon": 85.083328
+    },
+    "name": "Bārā"
+  },
+  {
+    "country": "NP",
+    "id": 7799408,
+    "coord": {
+      "lat": 27.1912,
+      "lon": 85.005898
+    },
+    "name": "PiparaSimara"
+  },
+  {
+    "country": "NP",
+    "id": 8009059,
+    "coord": {
+      "lat": 27.15839,
+      "lon": 84.987831
+    },
+    "name": "Auraha"
+  },
+  {
+    "country": "NP",
+    "id": 7961377,
+    "coord": {
+      "lat": 28.19623,
+      "lon": 83.981262
+    },
+    "name": "Syaldule"
+  },
+  {
+    "country": "NP",
+    "id": 1283245,
+    "coord": {
+      "lat": 29.5,
+      "lon": 82.416672
+    },
+    "name": "Karnālī Zone"
+  },
+  {
+    "country": "NP",
+    "id": 1283287,
+    "coord": {
+      "lat": 29.27528,
+      "lon": 82.183327
+    },
+    "name": "Jumla"
+  },
+  {
+    "country": "NP",
+    "id": 7798776,
+    "coord": {
+      "lat": 29.315201,
+      "lon": 82.175598
+    },
+    "name": "Chandannath"
+  },
+  {
+    "country": "NP",
+    "id": 7955603,
+    "coord": {
+      "lat": 29.273291,
+      "lon": 82.193932
+    },
+    "name": "Talichaur"
+  },
+  {
+    "country": "NP",
+    "id": 1282826,
+    "coord": {
+      "lat": 28.37858,
+      "lon": 82.170303
+    },
+    "name": "Salyan"
+  },
+  {
+    "country": "NP",
+    "id": 1282878,
+    "coord": {
+      "lat": 27.3256,
+      "lon": 86.087677
+    },
+    "name": "Ramechhap"
+  },
+  {
+    "country": "NP",
+    "id": 1282887,
+    "coord": {
+      "lat": 28.088671,
+      "lon": 82.88427
+    },
+    "name": "Pyuthan"
+  },
+  {
+    "country": "NP",
+    "id": 1283189,
+    "coord": {
+      "lat": 27.952511,
+      "lon": 85.948471
+    },
+    "name": "Kodari"
+  },
+  {
+    "country": "NP",
+    "id": 1283285,
+    "coord": {
+      "lat": 29.274719,
+      "lon": 82.18383
+    },
+    "name": "Jumla"
+  },
+  {
+    "country": "NP",
+    "id": 1283599,
+    "coord": {
+      "lat": 27.93565,
+      "lon": 81.775551
+    },
+    "name": "Bhojpur"
+  },
+  {
+    "country": "NP",
+    "id": 1283600,
+    "coord": {
+      "lat": 27.171499,
+      "lon": 87.046066
+    },
+    "name": "Bhojpur"
+  },
+  {
+    "country": "NP",
+    "id": 1283662,
+    "coord": {
+      "lat": 28.300579,
+      "lon": 81.3536
+    },
+    "name": "Bardiya"
+  },
+  {
+    "country": "NP",
+    "id": 1283742,
+    "coord": {
+      "lat": 29.049999,
+      "lon": 81.300003
+    },
+    "name": "Achham"
+  },
+  {
+    "country": "NP",
+    "id": 6254845,
+    "coord": {
+      "lat": 29.26083,
+      "lon": 80.940002
+    },
+    "name": "Dipayal"
+  },
+  {
+    "country": "NP",
+    "id": 6941691,
+    "coord": {
+      "lat": 28.426729,
+      "lon": 83.690758
+    },
+    "name": "Chitre"
+  },
+  {
+    "country": "NP",
+    "id": 7649119,
+    "coord": {
+      "lat": 28.51746,
+      "lon": 81.778702
+    },
+    "name": "Surkhet"
+  },
+  {
+    "country": "NP",
+    "id": 7969491,
+    "coord": {
+      "lat": 28.64831,
+      "lon": 84.102791
+    },
+    "name": "Nawal"
+  },
+  {
+    "country": "NP",
+    "id": 8199102,
+    "coord": {
+      "lat": 27.628811,
+      "lon": 85.459343
+    },
+    "name": "kankrabari Dovan"
+  }
+
+]

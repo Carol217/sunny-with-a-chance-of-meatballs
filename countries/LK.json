@@ -1,0 +1,859 @@
+[
+
+  {
+    "country": "LK",
+    "id": 1235846,
+    "coord": {
+      "lat": 5.94851,
+      "lon": 80.535278
+    },
+    "name": "Matara"
+  },
+  {
+    "country": "LK",
+    "id": 1241964,
+    "coord": {
+      "lat": 6.5831,
+      "lon": 79.959297
+    },
+    "name": "Kalutara"
+  },
+  {
+    "country": "LK",
+    "id": 1228730,
+    "coord": {
+      "lat": 6.68278,
+      "lon": 80.39917
+    },
+    "name": "Ratnapura"
+  },
+  {
+    "country": "LK",
+    "id": 1238992,
+    "coord": {
+      "lat": 6.90278,
+      "lon": 79.908333
+    },
+    "name": "Sri Jayewardenepura Kotte"
+  },
+  {
+    "country": "LK",
+    "id": 1244926,
+    "coord": {
+      "lat": 6.1241,
+      "lon": 81.1185
+    },
+    "name": "Hambantota"
+  },
+  {
+    "country": "LK",
+    "id": 8133521,
+    "coord": {
+      "lat": 8.60614,
+      "lon": 81.202011
+    },
+    "name": "Eastern Province"
+  },
+  {
+    "country": "LK",
+    "id": 1226260,
+    "coord": {
+      "lat": 8.5711,
+      "lon": 81.233498
+    },
+    "name": "Trincomalee"
+  },
+  {
+    "country": "LK",
+    "id": 1227667,
+    "coord": {
+      "lat": 6.91667,
+      "lon": 79.849998
+    },
+    "name": "Slave Island"
+  },
+  {
+    "country": "LK",
+    "id": 1232860,
+    "coord": {
+      "lat": 7.75,
+      "lon": 80.166672
+    },
+    "name": "North Western Province"
+  },
+  {
+    "country": "LK",
+    "id": 1237980,
+    "coord": {
+      "lat": 7.4863,
+      "lon": 80.362297
+    },
+    "name": "Kurunegala"
+  },
+  {
+    "country": "LK",
+    "id": 1226992,
+    "coord": {
+      "lat": 7.4726,
+      "lon": 80.6241
+    },
+    "name": "Taralanda"
+  },
+  {
+    "country": "LK",
+    "id": 7671049,
+    "coord": {
+      "lat": 9.16667,
+      "lon": 80.416672
+    },
+    "name": "Northern Province"
+  },
+  {
+    "country": "LK",
+    "id": 1236150,
+    "coord": {
+      "lat": 8.98333,
+      "lon": 79.900002
+    },
+    "name": "Mannar"
+  },
+  {
+    "country": "LK",
+    "id": 1223488,
+    "coord": {
+      "lat": 5.95,
+      "lon": 80.550003
+    },
+    "name": "Weragampita"
+  },
+  {
+    "country": "LK",
+    "id": 1231644,
+    "coord": {
+      "lat": 5.95,
+      "lon": 80.550003
+    },
+    "name": "Pallimulla"
+  },
+  {
+    "country": "LK",
+    "id": 1242170,
+    "coord": {
+      "lat": 7.7124,
+      "lon": 81.716301
+    },
+    "name": "Kallady"
+  },
+  {
+    "country": "LK",
+    "id": 1229554,
+    "coord": {
+      "lat": 7.71667,
+      "lon": 81.699997
+    },
+    "name": "Puliyadikuda"
+  },
+  {
+    "country": "LK",
+    "id": 1223738,
+    "coord": {
+      "lat": 5.96667,
+      "lon": 80.416672
+    },
+    "name": "Weligama"
+  },
+  {
+    "country": "LK",
+    "id": 1224085,
+    "coord": {
+      "lat": 6.9779,
+      "lon": 79.889801
+    },
+    "name": "Wattala"
+  },
+  {
+    "country": "LK",
+    "id": 1225018,
+    "coord": {
+      "lat": 8.7514,
+      "lon": 80.497101
+    },
+    "name": "Vavuniya"
+  },
+  {
+    "country": "LK",
+    "id": 1225142,
+    "coord": {
+      "lat": 9.81667,
+      "lon": 80.166672
+    },
+    "name": "Valvedditturai"
+  },
+  {
+    "country": "LK",
+    "id": 1229293,
+    "coord": {
+      "lat": 8.0362,
+      "lon": 79.8283
+    },
+    "name": "Puttalam"
+  },
+  {
+    "country": "LK",
+    "id": 1229989,
+    "coord": {
+      "lat": 9.81667,
+      "lon": 80.23333
+    },
+    "name": "Point Pedro"
+  },
+  {
+    "country": "LK",
+    "id": 1230089,
+    "coord": {
+      "lat": 6.8905,
+      "lon": 79.901497
+    },
+    "name": "Pita Kotte"
+  },
+  {
+    "country": "LK",
+    "id": 1230613,
+    "coord": {
+      "lat": 6.9685,
+      "lon": 79.883598
+    },
+    "name": "Peliyagoda"
+  },
+  {
+    "country": "LK",
+    "id": 1231410,
+    "coord": {
+      "lat": 6.7132,
+      "lon": 79.902603
+    },
+    "name": "Panadura"
+  },
+  {
+    "country": "LK",
+    "id": 1232783,
+    "coord": {
+      "lat": 6.97078,
+      "lon": 80.78286
+    },
+    "name": "Nuwara Eliya"
+  },
+  {
+    "country": "LK",
+    "id": 1234378,
+    "coord": {
+      "lat": 6.933,
+      "lon": 79.929703
+    },
+    "name": "Mulleriyawa"
+  },
+  {
+    "country": "LK",
+    "id": 1234633,
+    "coord": {
+      "lat": 6.773,
+      "lon": 79.881599
+    },
+    "name": "Moratuwa"
+  },
+  {
+    "country": "LK",
+    "id": 1236854,
+    "coord": {
+      "lat": 6.848,
+      "lon": 79.926498
+    },
+    "name": "Maharagama"
+  },
+  {
+    "country": "LK",
+    "id": 1239047,
+    "coord": {
+      "lat": 6.9269,
+      "lon": 79.9095
+    },
+    "name": "Kotikawatta"
+  },
+  {
+    "country": "LK",
+    "id": 1239593,
+    "coord": {
+      "lat": 6.9329,
+      "lon": 79.884804
+    },
+    "name": "Kolonnawa"
+  },
+  {
+    "country": "LK",
+    "id": 1240622,
+    "coord": {
+      "lat": 6.9553,
+      "lon": 79.921997
+    },
+    "name": "Kelaniya"
+  },
+  {
+    "country": "LK",
+    "id": 1240935,
+    "coord": {
+      "lat": 7.1643,
+      "lon": 79.875702
+    },
+    "name": "Katunayaka North"
+  },
+  {
+    "country": "LK",
+    "id": 1241750,
+    "coord": {
+      "lat": 7.048,
+      "lon": 79.8937
+    },
+    "name": "Kandana"
+  },
+  {
+    "country": "LK",
+    "id": 1242110,
+    "coord": {
+      "lat": 7.41667,
+      "lon": 81.816673
+    },
+    "name": "Kalmunai"
+  },
+  {
+    "country": "LK",
+    "id": 1242833,
+    "coord": {
+      "lat": 9.66845,
+      "lon": 80.007423
+    },
+    "name": "Jaffna"
+  },
+  {
+    "country": "LK",
+    "id": 1242835,
+    "coord": {
+      "lat": 7.0744,
+      "lon": 79.891899
+    },
+    "name": "Ja Ela"
+  },
+  {
+    "country": "LK",
+    "id": 1243936,
+    "coord": {
+      "lat": 6.844,
+      "lon": 80.002403
+    },
+    "name": "Homagama"
+  },
+  {
+    "country": "LK",
+    "id": 1244397,
+    "coord": {
+      "lat": 6.9909,
+      "lon": 79.883003
+    },
+    "name": "Hendala"
+  },
+  {
+    "country": "LK",
+    "id": 1244773,
+    "coord": {
+      "lat": 6.9012,
+      "lon": 80.085197
+    },
+    "name": "Hanwella Ihala"
+  },
+  {
+    "country": "LK",
+    "id": 1246000,
+    "coord": {
+      "lat": 7.1643,
+      "lon": 80.569603
+    },
+    "name": "Gampola"
+  },
+  {
+    "country": "LK",
+    "id": 1246294,
+    "coord": {
+      "lat": 6.0367,
+      "lon": 80.217003
+    },
+    "name": "Galle"
+  },
+  {
+    "country": "LK",
+    "id": 1246321,
+    "coord": {
+      "lat": 6.8293,
+      "lon": 79.862999
+    },
+    "name": "Galkissa"
+  },
+  {
+    "country": "LK",
+    "id": 1246924,
+    "coord": {
+      "lat": 7.7782,
+      "lon": 81.603798
+    },
+    "name": "Eravur Town"
+  },
+  {
+    "country": "LK",
+    "id": 1249145,
+    "coord": {
+      "lat": 7.57583,
+      "lon": 79.79528
+    },
+    "name": "Chilaw"
+  },
+  {
+    "country": "LK",
+    "id": 1249931,
+    "coord": {
+      "lat": 6.4788,
+      "lon": 79.982803
+    },
+    "name": "Beruwala"
+  },
+  {
+    "country": "LK",
+    "id": 1249978,
+    "coord": {
+      "lat": 6.4254,
+      "lon": 79.994797
+    },
+    "name": "Bentota"
+  },
+  {
+    "country": "LK",
+    "id": 1250164,
+    "coord": {
+      "lat": 6.8964,
+      "lon": 79.918098
+    },
+    "name": "Battaramulla South"
+  },
+  {
+    "country": "LK",
+    "id": 1250615,
+    "coord": {
+      "lat": 6.9895,
+      "lon": 81.055702
+    },
+    "name": "Badulla"
+  },
+  {
+    "country": "LK",
+    "id": 1251574,
+    "coord": {
+      "lat": 6.2355,
+      "lon": 80.053802
+    },
+    "name": "Ambalangoda"
+  },
+  {
+    "country": "LK",
+    "id": 1223421,
+    "coord": {
+      "lat": 6.83333,
+      "lon": 80.083328
+    },
+    "name": "Western Province"
+  },
+  {
+    "country": "LK",
+    "id": 1248991,
+    "coord": {
+      "lat": 6.93194,
+      "lon": 79.847778
+    },
+    "name": "Colombo"
+  },
+  {
+    "country": "LK",
+    "id": 1232870,
+    "coord": {
+      "lat": 8.33333,
+      "lon": 80.5
+    },
+    "name": "North Central Province"
+  },
+  {
+    "country": "LK",
+    "id": 7440466,
+    "coord": {
+      "lat": 8.3623,
+      "lon": 80.387001
+    },
+    "name": "Bandara Bulankulama"
+  },
+  {
+    "country": "LK",
+    "id": 1227618,
+    "coord": {
+      "lat": 6.16667,
+      "lon": 80.75
+    },
+    "name": "Southern Province"
+  },
+  {
+    "country": "LK",
+    "id": 1238367,
+    "coord": {
+      "lat": 6.0565,
+      "lon": 80.210098
+    },
+    "name": "Kumbalwella"
+  },
+  {
+    "country": "LK",
+    "id": 1233369,
+    "coord": {
+      "lat": 7.2083,
+      "lon": 79.8358
+    },
+    "name": "Negombo"
+  },
+  {
+    "country": "LK",
+    "id": 1249296,
+    "coord": {
+      "lat": 7.33333,
+      "lon": 80.75
+    },
+    "name": "Central Province"
+  },
+  {
+    "country": "LK",
+    "id": 1241622,
+    "coord": {
+      "lat": 7.2955,
+      "lon": 80.635597
+    },
+    "name": "Kandy"
+  },
+  {
+    "country": "LK",
+    "id": 1228435,
+    "coord": {
+      "lat": 6.75,
+      "lon": 80.5
+    },
+    "name": "Province of Sabaragamuwa"
+  },
+  {
+    "country": "LK",
+    "id": 1223648,
+    "coord": {
+      "lat": 7.0281,
+      "lon": 79.901398
+    },
+    "name": "Welisara"
+  },
+  {
+    "country": "LK",
+    "id": 1225265,
+    "coord": {
+      "lat": 7,
+      "lon": 81.25
+    },
+    "name": "Province of Uva"
+  },
+  {
+    "country": "LK",
+    "id": 1251459,
+    "coord": {
+      "lat": 7.28333,
+      "lon": 81.666672
+    },
+    "name": "Ampara"
+  },
+  {
+    "country": "LK",
+    "id": 1227603,
+    "coord": {
+      "lat": 7,
+      "lon": 81
+    },
+    "name": "Democratic Socialist Republic of Sri Lanka"
+  },
+  {
+    "country": "LK",
+    "id": 1244596,
+    "coord": {
+      "lat": 6.8916,
+      "lon": 80.595497
+    },
+    "name": "Hatton"
+  },
+  {
+    "country": "LK",
+    "id": 1240372,
+    "coord": {
+      "lat": 9.3961,
+      "lon": 80.398201
+    },
+    "name": "Kilinochchi"
+  },
+  {
+    "country": "LK",
+    "id": 1234846,
+    "coord": {
+      "lat": 6.2681,
+      "lon": 80.037804
+    },
+    "name": "Mohottiwatta"
+  },
+  {
+    "country": "LK",
+    "id": 1229901,
+    "coord": {
+      "lat": 7.93333,
+      "lon": 81
+    },
+    "name": "Polonnaruwa"
+  },
+  {
+    "country": "LK",
+    "id": 7546468,
+    "coord": {
+      "lat": 6.8303,
+      "lon": 80.607498
+    },
+    "name": "Venture Colony"
+  },
+  {
+    "country": "LK",
+    "id": 1226494,
+    "coord": {
+      "lat": 6.8888,
+      "lon": 79.865501
+    },
+    "name": "Timbirigasyaya"
+  },
+  {
+    "country": "LK",
+    "id": 1233163,
+    "coord": {
+      "lat": 7.91667,
+      "lon": 81
+    },
+    "name": "New Town"
+  },
+  {
+    "country": "LK",
+    "id": 1244108,
+    "coord": {
+      "lat": 8.03333,
+      "lon": 80.949997
+    },
+    "name": "Hingurakgoda"
+  },
+  {
+    "country": "LK",
+    "id": 1226391,
+    "coord": {
+      "lat": 8.5421,
+      "lon": 81.188698
+    },
+    "name": "Thirukkaikuda"
+  },
+  {
+    "country": "LK",
+    "id": 7441574,
+    "coord": {
+      "lat": 7.7031,
+      "lon": 81.676598
+    },
+    "name": "Puthoor"
+  },
+  {
+    "country": "LK",
+    "id": 1227109,
+    "coord": {
+      "lat": 8.3,
+      "lon": 80.433327
+    },
+    "name": "Tammannekulama"
+  },
+  {
+    "country": "LK",
+    "id": 7542695,
+    "coord": {
+      "lat": 7.1898,
+      "lon": 79.874199
+    },
+    "name": "Goluwapokuna"
+  },
+  {
+    "country": "LK",
+    "id": 7433819,
+    "coord": {
+      "lat": 7.3029,
+      "lon": 80.721298
+    },
+    "name": "Nekathkumbura"
+  },
+  {
+    "country": "LK",
+    "id": 1248749,
+    "coord": {
+      "lat": 7.86,
+      "lon": 80.651672
+    },
+    "name": "Dambulla"
+  },
+  {
+    "country": "LK",
+    "id": 1250161,
+    "coord": {
+      "lat": 7.7102,
+      "lon": 81.692398
+    },
+    "name": "Batticaloa"
+  },
+  {
+    "country": "LK",
+    "id": 1251081,
+    "coord": {
+      "lat": 8.35647,
+      "lon": 80.417259
+    },
+    "name": "Anuradhapura"
+  },
+  {
+    "country": "LK",
+    "id": 1224061,
+    "coord": {
+      "lat": 6.7989,
+      "lon": 81.480797
+    },
+    "name": "Wattegama"
+  },
+  {
+    "country": "LK",
+    "id": 1227037,
+    "coord": {
+      "lat": 6.024,
+      "lon": 80.7911
+    },
+    "name": "Tangalla"
+  },
+  {
+    "country": "LK",
+    "id": 1227300,
+    "coord": {
+      "lat": 6.9371,
+      "lon": 80.658096
+    },
+    "name": "Talawakele"
+  },
+  {
+    "country": "LK",
+    "id": 1228051,
+    "coord": {
+      "lat": 7.9518,
+      "lon": 80.742599
+    },
+    "name": "Sigiriya"
+  },
+  {
+    "country": "LK",
+    "id": 1234808,
+    "coord": {
+      "lat": 6.8714,
+      "lon": 81.348701
+    },
+    "name": "Monaragala"
+  },
+  {
+    "country": "LK",
+    "id": 1235000,
+    "coord": {
+      "lat": 7.1663,
+      "lon": 79.9533
+    },
+    "name": "Minuwangoda"
+  },
+  {
+    "country": "LK",
+    "id": 1238427,
+    "coord": {
+      "lat": 7.4688,
+      "lon": 80.0401
+    },
+    "name": "Kuliyapitiya"
+  },
+  {
+    "country": "LK",
+    "id": 1242571,
+    "coord": {
+      "lat": 7.2547,
+      "lon": 80.5242
+    },
+    "name": "Kadugannawa"
+  },
+  {
+    "country": "LK",
+    "id": 1243867,
+    "coord": {
+      "lat": 6.7159,
+      "lon": 80.062599
+    },
+    "name": "Horana South"
+  },
+  {
+    "country": "LK",
+    "id": 1244178,
+    "coord": {
+      "lat": 6.1407,
+      "lon": 80.101196
+    },
+    "name": "Hikkaduwa"
+  },
+  {
+    "country": "LK",
+    "id": 1244713,
+    "coord": {
+      "lat": 6.76812,
+      "lon": 80.959541
+    },
+    "name": "Haputale"
+  },
+  {
+    "country": "LK",
+    "id": 1246007,
+    "coord": {
+      "lat": 7.0897,
+      "lon": 79.9925
+    },
+    "name": "Gampaha"
+  },
+  {
+    "country": "LK",
+    "id": 6285792,
+    "coord": {
+      "lat": 6.48088,
+      "lon": 80.127083
+    },
+    "name": "Horawala Junction"
+  },
+  {
+    "country": "LK",
+    "id": 8260318,
+    "coord": {
+      "lat": 7.38216,
+      "lon": 81.84198
+    },
+    "name": "Shanjeev Home"
+  }
+
+]

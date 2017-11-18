@@ -1,0 +1,643 @@
+[
+
+  {
+    "country": "MQ",
+    "id": 6690681,
+    "coord": {
+      "lat": 14.7386,
+      "lon": -60.9631
+    },
+    "name": "La Trinité"
+  },
+  {
+    "country": "MQ",
+    "id": 6690660,
+    "coord": {
+      "lat": 14.6072,
+      "lon": -61.069401
+    },
+    "name": "Fort-de-France"
+  },
+  {
+    "country": "MQ",
+    "id": 3570785,
+    "coord": {
+      "lat": 14.57529,
+      "lon": -60.974529
+    },
+    "name": "Ducos"
+  },
+  {
+    "country": "MQ",
+    "id": 6690603,
+    "coord": {
+      "lat": 14.66655,
+      "lon": -60.999611
+    },
+    "name": "Martinique"
+  },
+  {
+    "country": "MQ",
+    "id": 3570440,
+    "coord": {
+      "lat": 14.71499,
+      "lon": -61.021332
+    },
+    "name": "La Vierge"
+  },
+  {
+    "country": "MQ",
+    "id": 6690673,
+    "coord": {
+      "lat": 14.6775,
+      "lon": -60.939201
+    },
+    "name": "Le Robert"
+  },
+  {
+    "country": "MQ",
+    "id": 6690664,
+    "coord": {
+      "lat": 14.6153,
+      "lon": -61.0019
+    },
+    "name": "Le Lamentin"
+  },
+  {
+    "country": "MQ",
+    "id": 6690661,
+    "coord": {
+      "lat": 14.6153,
+      "lon": -60.902802
+    },
+    "name": "Le François"
+  },
+  {
+    "country": "MQ",
+    "id": 6690658,
+    "coord": {
+      "lat": 14.5761,
+      "lon": -60.9758
+    },
+    "name": "Ducos"
+  },
+  {
+    "country": "MQ",
+    "id": 3570311,
+    "coord": {
+      "lat": 14.66667,
+      "lon": -61
+    },
+    "name": "Martinique"
+  },
+  {
+    "country": "MQ",
+    "id": 3570668,
+    "coord": {
+      "lat": 14.6,
+      "lon": -61
+    },
+    "name": "Four à Chaux"
+  },
+  {
+    "country": "MQ",
+    "id": 6690604,
+    "coord": {
+      "lat": 14.66639,
+      "lon": -60.999851
+    },
+    "name": "Martinique"
+  },
+  {
+    "country": "MQ",
+    "id": 3570445,
+    "coord": {
+      "lat": 14.73333,
+      "lon": -60.966671
+    },
+    "name": "Arrondissement de La Trinité"
+  },
+  {
+    "country": "MQ",
+    "id": 6690663,
+    "coord": {
+      "lat": 14.7081,
+      "lon": -61.0075
+    },
+    "name": "Le Gros-Morne"
+  },
+  {
+    "country": "MQ",
+    "id": 3570584,
+    "coord": {
+      "lat": 14.7,
+      "lon": -61
+    },
+    "name": "Le Gros-Morne"
+  },
+  {
+    "country": "MQ",
+    "id": 3570874,
+    "coord": {
+      "lat": 14.6,
+      "lon": -61.083328
+    },
+    "name": "Clairière"
+  },
+  {
+    "country": "MQ",
+    "id": 3570691,
+    "coord": {
+      "lat": 14.57747,
+      "lon": -60.986389
+    },
+    "name": "Fond Panier"
+  },
+  {
+    "country": "MQ",
+    "id": 3570058,
+    "coord": {
+      "lat": 14.6,
+      "lon": -60.900002
+    },
+    "name": "Quartier Gillot"
+  },
+  {
+    "country": "MQ",
+    "id": 6690665,
+    "coord": {
+      "lat": 14.8328,
+      "lon": -61.055599
+    },
+    "name": "Le Lorrain"
+  },
+  {
+    "country": "MQ",
+    "id": 3570427,
+    "coord": {
+      "lat": 14.83292,
+      "lon": -61.056671
+    },
+    "name": "Le Lorrain"
+  },
+  {
+    "country": "MQ",
+    "id": 3571130,
+    "coord": {
+      "lat": 14.46241,
+      "lon": -60.913589
+    },
+    "name": "Anse Figuiers"
+  },
+  {
+    "country": "MQ",
+    "id": 3569906,
+    "coord": {
+      "lat": 14.75,
+      "lon": -61.183331
+    },
+    "name": "Arrondissement de Saint-Pierre"
+  },
+  {
+    "country": "MQ",
+    "id": 6690670,
+    "coord": {
+      "lat": 14.8011,
+      "lon": -61.224701
+    },
+    "name": "Le Prêcheur"
+  },
+  {
+    "country": "MQ",
+    "id": 3570416,
+    "coord": {
+      "lat": 14.80169,
+      "lon": -61.224659
+    },
+    "name": "Le Prêcheur"
+  },
+  {
+    "country": "MQ",
+    "id": 3570186,
+    "coord": {
+      "lat": 14.73333,
+      "lon": -60.966671
+    },
+    "name": "Petit Brésil"
+  },
+  {
+    "country": "MQ",
+    "id": 3570547,
+    "coord": {
+      "lat": 14.46667,
+      "lon": -60.866669
+    },
+    "name": "La Berry"
+  },
+  {
+    "country": "MQ",
+    "id": 3569970,
+    "coord": {
+      "lat": 14.47746,
+      "lon": -60.9035
+    },
+    "name": "Riviere-Pilote"
+  },
+  {
+    "country": "MQ",
+    "id": 3570749,
+    "coord": {
+      "lat": 14.48333,
+      "lon": -60.900002
+    },
+    "name": "Faubourg Schœlcher"
+  },
+  {
+    "country": "MQ",
+    "id": 3570319,
+    "coord": {
+      "lat": 14.46667,
+      "lon": -60.866669
+    },
+    "name": "Arrondissement du Marin"
+  },
+  {
+    "country": "MQ",
+    "id": 6690672,
+    "coord": {
+      "lat": 14.5289,
+      "lon": -60.9814
+    },
+    "name": "Rivière-Salée"
+  },
+  {
+    "country": "MQ",
+    "id": 3569967,
+    "coord": {
+      "lat": 14.52724,
+      "lon": -60.97813
+    },
+    "name": "Rivière-Salée"
+  },
+  {
+    "country": "MQ",
+    "id": 3570780,
+    "coord": {
+      "lat": 14.81555,
+      "lon": -61.03677
+    },
+    "name": "Duhamelin"
+  },
+  {
+    "country": "MQ",
+    "id": 3570407,
+    "coord": {
+      "lat": 14.43333,
+      "lon": -60.883331
+    },
+    "name": "Les Boucaniers"
+  },
+  {
+    "country": "MQ",
+    "id": 3570401,
+    "coord": {
+      "lat": 14.43333,
+      "lon": -60.883331
+    },
+    "name": "Les Flamboyants"
+  },
+  {
+    "country": "MQ",
+    "id": 3570550,
+    "coord": {
+      "lat": 14.63333,
+      "lon": -61.133331
+    },
+    "name": "La Batterie"
+  },
+  {
+    "country": "MQ",
+    "id": 6690685,
+    "coord": {
+      "lat": 14.6739,
+      "lon": -61.164398
+    },
+    "name": "Bellefontaine"
+  },
+  {
+    "country": "MQ",
+    "id": 3571063,
+    "coord": {
+      "lat": 14.67079,
+      "lon": -61.169418
+    },
+    "name": "Bellefontaine"
+  },
+  {
+    "country": "MQ",
+    "id": 6690674,
+    "coord": {
+      "lat": 14.5606,
+      "lon": -60.937199
+    },
+    "name": "Saint-Esprit"
+  },
+  {
+    "country": "MQ",
+    "id": 3570410,
+    "coord": {
+      "lat": 14.55,
+      "lon": -60.933331
+    },
+    "name": "Saint-Esprit"
+  },
+  {
+    "country": "MQ",
+    "id": 3570431,
+    "coord": {
+      "lat": 14.7,
+      "lon": -61.183331
+    },
+    "name": "Le Coin"
+  },
+  {
+    "country": "MQ",
+    "id": 6690652,
+    "coord": {
+      "lat": 14.8247,
+      "lon": -61.114399
+    },
+    "name": "Ajoupa-Bouillon"
+  },
+  {
+    "country": "MQ",
+    "id": 3570501,
+    "coord": {
+      "lat": 14.81667,
+      "lon": -61.116669
+    },
+    "name": "Ajoupa-Bouillon"
+  },
+  {
+    "country": "MQ",
+    "id": 6690666,
+    "coord": {
+      "lat": 14.8761,
+      "lon": -61.145
+    },
+    "name": "Macouba"
+  },
+  {
+    "country": "MQ",
+    "id": 3570363,
+    "coord": {
+      "lat": 14.86885,
+      "lon": -61.156929
+    },
+    "name": "Macouba"
+  },
+  {
+    "country": "MQ",
+    "id": 3569976,
+    "coord": {
+      "lat": 14.46667,
+      "lon": -60.849998
+    },
+    "name": "Rivière"
+  },
+  {
+    "country": "MQ",
+    "id": 6690662,
+    "coord": {
+      "lat": 14.8733,
+      "lon": -61.1814
+    },
+    "name": "Grand'Rivière"
+  },
+  {
+    "country": "MQ",
+    "id": 3570591,
+    "coord": {
+      "lat": 14.87354,
+      "lon": -61.179459
+    },
+    "name": "Grand'Rivière"
+  },
+  {
+    "country": "MQ",
+    "id": 6690653,
+    "coord": {
+      "lat": 14.4911,
+      "lon": -61.080299
+    },
+    "name": "Les Anses-d'Arlet"
+  },
+  {
+    "country": "MQ",
+    "id": 3570408,
+    "coord": {
+      "lat": 14.48333,
+      "lon": -61.083328
+    },
+    "name": "Les Anses-d'Arlet"
+  },
+  {
+    "country": "MQ",
+    "id": 3570158,
+    "coord": {
+      "lat": 14.54301,
+      "lon": -60.969349
+    },
+    "name": "Petit Morne"
+  },
+  {
+    "country": "MQ",
+    "id": 3570236,
+    "coord": {
+      "lat": 14.70518,
+      "lon": -61.151691
+    },
+    "name": "Morne-Vert"
+  },
+  {
+    "country": "MQ",
+    "id": 3570674,
+    "coord": {
+      "lat": 14.6,
+      "lon": -61.083328
+    },
+    "name": "Arrondissement de Fort-de-France"
+  },
+  {
+    "country": "MQ",
+    "id": 6690680,
+    "coord": {
+      "lat": 14.6161,
+      "lon": -61.101398
+    },
+    "name": "Schœlcher"
+  },
+  {
+    "country": "MQ",
+    "id": 3569886,
+    "coord": {
+      "lat": 14.61774,
+      "lon": -61.098999
+    },
+    "name": "Schœlcher"
+  },
+  {
+    "country": "MQ",
+    "id": 6690675,
+    "coord": {
+      "lat": 14.6708,
+      "lon": -61.038101
+    },
+    "name": "Saint-Joseph"
+  },
+  {
+    "country": "MQ",
+    "id": 3569915,
+    "coord": {
+      "lat": 14.66792,
+      "lon": -61.045582
+    },
+    "name": "Saint-Joseph"
+  },
+  {
+    "country": "MQ",
+    "id": 6690679,
+    "coord": {
+      "lat": 14.7814,
+      "lon": -60.993599
+    },
+    "name": "Sainte-Marie"
+  },
+  {
+    "country": "MQ",
+    "id": 3569926,
+    "coord": {
+      "lat": 14.78392,
+      "lon": -60.992741
+    },
+    "name": "Sainte-Marie"
+  },
+  {
+    "country": "MQ",
+    "id": 3570166,
+    "coord": {
+      "lat": 14.75,
+      "lon": -60.966671
+    },
+    "name": "Petite Riviere Salee"
+  },
+  {
+    "country": "MQ",
+    "id": 3570412,
+    "coord": {
+      "lat": 14.67751,
+      "lon": -60.94228
+    },
+    "name": "Le Robert"
+  },
+  {
+    "country": "MQ",
+    "id": 3570428,
+    "coord": {
+      "lat": 14.608,
+      "lon": -61.009331
+    },
+    "name": "Le Lamentin"
+  },
+  {
+    "country": "MQ",
+    "id": 3570429,
+    "coord": {
+      "lat": 14.61557,
+      "lon": -60.90308
+    },
+    "name": "Le Francois"
+  },
+  {
+    "country": "MQ",
+    "id": 3570446,
+    "coord": {
+      "lat": 14.73758,
+      "lon": -60.96286
+    },
+    "name": "La Trinite"
+  },
+  {
+    "country": "MQ",
+    "id": 3570675,
+    "coord": {
+      "lat": 14.60892,
+      "lon": -61.073341
+    },
+    "name": "Fort-de-France"
+  },
+  {
+    "country": "MQ",
+    "id": 3569907,
+    "coord": {
+      "lat": 14.74383,
+      "lon": -61.175331
+    },
+    "name": "Saint-Pierre"
+  },
+  {
+    "country": "MQ",
+    "id": 3569928,
+    "coord": {
+      "lat": 14.46733,
+      "lon": -60.927078
+    },
+    "name": "Sainte-Luce"
+  },
+  {
+    "country": "MQ",
+    "id": 3570392,
+    "coord": {
+      "lat": 14.54524,
+      "lon": -60.838829
+    },
+    "name": "Le Vauclin"
+  },
+  {
+    "country": "MQ",
+    "id": 3570396,
+    "coord": {
+      "lat": 14.539,
+      "lon": -61.036079
+    },
+    "name": "Les Trois-Ilets"
+  },
+  {
+    "country": "MQ",
+    "id": 3570423,
+    "coord": {
+      "lat": 14.76667,
+      "lon": -61.133331
+    },
+    "name": "Le Morne-Rouge"
+  },
+  {
+    "country": "MQ",
+    "id": 3570426,
+    "coord": {
+      "lat": 14.47212,
+      "lon": -60.869732
+    },
+    "name": "Le Marin"
+  },
+  {
+    "country": "MQ",
+    "id": 3571097,
+    "coord": {
+      "lat": 14.86954,
+      "lon": -61.11504
+    },
+    "name": "Basse-Pointe"
+  }
+
+]

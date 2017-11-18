@@ -1,0 +1,193 @@
+[
+
+  {
+    "country": "LS",
+    "id": 932184,
+    "coord": {
+      "lat": -30.41667,
+      "lon": 28
+    },
+    "name": "Quthing District"
+  },
+  {
+    "country": "LS",
+    "id": 932700,
+    "coord": {
+      "lat": -29.03651,
+      "lon": 28.252661
+    },
+    "name": "Leribe District"
+  },
+  {
+    "country": "LS",
+    "id": 932521,
+    "coord": {
+      "lat": -28.883329,
+      "lon": 27.9
+    },
+    "name": "Maputsoe"
+  },
+  {
+    "country": "LS",
+    "id": 932698,
+    "coord": {
+      "lat": -28.871849,
+      "lon": 28.04501
+    },
+    "name": "Leribe"
+  },
+  {
+    "country": "LS",
+    "id": 932218,
+    "coord": {
+      "lat": -30.11537,
+      "lon": 28.68936
+    },
+    "name": "Qachas Nek"
+  },
+  {
+    "country": "LS",
+    "id": 932439,
+    "coord": {
+      "lat": -30.16667,
+      "lon": 27.66667
+    },
+    "name": "Mohale’s Hoek District"
+  },
+  {
+    "country": "LS",
+    "id": 932438,
+    "coord": {
+      "lat": -30.151369,
+      "lon": 27.47691
+    },
+    "name": "Mohales Hoek"
+  },
+  {
+    "country": "LS",
+    "id": 932615,
+    "coord": {
+      "lat": -29.8041,
+      "lon": 27.502621
+    },
+    "name": "Mafeteng District"
+  },
+  {
+    "country": "LS",
+    "id": 932614,
+    "coord": {
+      "lat": -29.823,
+      "lon": 27.23744
+    },
+    "name": "Mafeteng"
+  },
+  {
+    "country": "LS",
+    "id": 932886,
+    "coord": {
+      "lat": -28.76659,
+      "lon": 28.249359
+    },
+    "name": "Butha-Buthe"
+  },
+  {
+    "country": "LS",
+    "id": 932692,
+    "coord": {
+      "lat": -29.5,
+      "lon": 28.25
+    },
+    "name": "Kingdom of Lesotho"
+  },
+  {
+    "country": "LS",
+    "id": 931975,
+    "coord": {
+      "lat": -30.35,
+      "lon": 27.9
+    },
+    "name": "Tosing"
+  },
+  {
+    "country": "LS",
+    "id": 932183,
+    "coord": {
+      "lat": -30.400009,
+      "lon": 27.70027
+    },
+    "name": "Quthing"
+  },
+  {
+    "country": "LS",
+    "id": 932219,
+    "coord": {
+      "lat": -30,
+      "lon": 28.75
+    },
+    "name": "Qacha’s Nek District"
+  },
+  {
+    "country": "LS",
+    "id": 932506,
+    "coord": {
+      "lat": -29.5,
+      "lon": 28
+    },
+    "name": "Maseru District"
+  },
+  {
+    "country": "LS",
+    "id": 932505,
+    "coord": {
+      "lat": -29.316669,
+      "lon": 27.48333
+    },
+    "name": "Maseru"
+  },
+  {
+    "country": "LS",
+    "id": 932618,
+    "coord": {
+      "lat": -29.43532,
+      "lon": 27.545
+    },
+    "name": "Machekoaneng"
+  },
+  {
+    "country": "LS",
+    "id": 932888,
+    "coord": {
+      "lat": -28.83333,
+      "lon": 28.5
+    },
+    "name": "Butha-Buthe District"
+  },
+  {
+    "country": "LS",
+    "id": 932035,
+    "coord": {
+      "lat": -29.14719,
+      "lon": 27.748949
+    },
+    "name": "Teyateyaneng"
+  },
+  {
+    "country": "LS",
+    "id": 932416,
+    "coord": {
+      "lat": -29.289391,
+      "lon": 29.067511
+    },
+    "name": "Mokhotlong"
+  },
+  {
+    "country": "LS",
+    "id": 1106835,
+    "coord": {
+      "lat": -29.522039,
+      "lon": 28.6084
+    },
+    "name": "Thaba-Tseka"
+  }
+
+]

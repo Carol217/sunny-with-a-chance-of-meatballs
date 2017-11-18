@@ -1,0 +1,256 @@
+[
+
+  {
+    "country": "QA",
+    "id": 389472,
+    "coord": {
+      "lat": 24.85,
+      "lon": 51.333328
+    },
+    "name": "Baladīyat al Wakrah"
+  },
+  {
+    "country": "QA",
+    "id": 389465,
+    "coord": {
+      "lat": 25.76667,
+      "lon": 51.316669
+    },
+    "name": "Baladīyat al Khawr wa adh Dhakhīrah"
+  },
+  {
+    "country": "QA",
+    "id": 389470,
+    "coord": {
+      "lat": 25.25,
+      "lon": 51.5
+    },
+    "name": "Baladīyat ad Dawḩah"
+  },
+  {
+    "country": "QA",
+    "id": 289698,
+    "coord": {
+      "lat": 25.252501,
+      "lon": 51.559166
+    },
+    "name": "Nu‘ayjah"
+  },
+  {
+    "country": "QA",
+    "id": 289688,
+    "coord": {
+      "lat": 25.5,
+      "lon": 51.25
+    },
+    "name": "State of Qatar"
+  },
+  {
+    "country": "QA",
+    "id": 290030,
+    "coord": {
+      "lat": 25.286667,
+      "lon": 51.533333
+    },
+    "name": "Doha"
+  },
+  {
+    "country": "QA",
+    "id": 411795,
+    "coord": {
+      "lat": 25.277222,
+      "lon": 51.547779
+    },
+    "name": "Umm Ghuwaylīnah"
+  },
+  {
+    "country": "QA",
+    "id": 389469,
+    "coord": {
+      "lat": 25.200001,
+      "lon": 51.049999
+    },
+    "name": "Baladīyat ar Rayyān"
+  },
+  {
+    "country": "QA",
+    "id": 442553,
+    "coord": {
+      "lat": 25.121941,
+      "lon": 51.21833
+    },
+    "name": "Mukaynis"
+  },
+  {
+    "country": "QA",
+    "id": 289813,
+    "coord": {
+      "lat": 25.42972,
+      "lon": 50.785831
+    },
+    "name": "Dukhan"
+  },
+  {
+    "country": "QA",
+    "id": 411804,
+    "coord": {
+      "lat": 25.28611,
+      "lon": 51.534168
+    },
+    "name": "Al Jasrah"
+  },
+  {
+    "country": "QA",
+    "id": 8030540,
+    "coord": {
+      "lat": 25.51667,
+      "lon": 51.450001
+    },
+    "name": "Baladīyat az̧ Z̧a‘āyin"
+  },
+  {
+    "country": "QA",
+    "id": 289911,
+    "coord": {
+      "lat": 25.497499,
+      "lon": 51.485279
+    },
+    "name": "Al Wusayl"
+  },
+  {
+    "country": "QA",
+    "id": 389467,
+    "coord": {
+      "lat": 25.466669,
+      "lon": 51.333328
+    },
+    "name": "Baladīyat Umm Şalāl"
+  },
+  {
+    "country": "QA",
+    "id": 289523,
+    "coord": {
+      "lat": 25.416941,
+      "lon": 51.403889
+    },
+    "name": "Umm Salal Muhammad"
+  },
+  {
+    "country": "QA",
+    "id": 289888,
+    "coord": {
+      "lat": 25.291941,
+      "lon": 51.424438
+    },
+    "name": "Ar Rayyan"
+  },
+  {
+    "country": "QA",
+    "id": 289915,
+    "coord": {
+      "lat": 25.171511,
+      "lon": 51.603371
+    },
+    "name": "Al Wakrah"
+  },
+  {
+    "country": "QA",
+    "id": 289962,
+    "coord": {
+      "lat": 25.683889,
+      "lon": 51.505829
+    },
+    "name": "Al Khawr"
+  },
+  {
+    "country": "QA",
+    "id": 289524,
+    "coord": {
+      "lat": 25.469721,
+      "lon": 51.397499
+    },
+    "name": "Umm Salal Ali"
+  },
+  {
+    "country": "QA",
+    "id": 289548,
+    "coord": {
+      "lat": 25.21417,
+      "lon": 50.80722
+    },
+    "name": "Umm Bab"
+  },
+  {
+    "country": "QA",
+    "id": 289739,
+    "coord": {
+      "lat": 26.12933,
+      "lon": 51.200901
+    },
+    "name": "Madinat ash Shamal"
+  },
+  {
+    "country": "QA",
+    "id": 289847,
+    "coord": {
+      "lat": 25.57744,
+      "lon": 51.483059
+    },
+    "name": "Az Zaayin"
+  },
+  {
+    "country": "QA",
+    "id": 289877,
+    "coord": {
+      "lat": 25.36861,
+      "lon": 51.226391
+    },
+    "name": "Ash Shahaniyah"
+  },
+  {
+    "country": "QA",
+    "id": 289884,
+    "coord": {
+      "lat": 26.133329,
+      "lon": 51.216671
+    },
+    "name": "Ar Ruays"
+  },
+  {
+    "country": "QA",
+    "id": 289913,
+    "coord": {
+      "lat": 25.150829,
+      "lon": 51.537781
+    },
+    "name": "Al Wukayr"
+  },
+  {
+    "country": "QA",
+    "id": 289975,
+    "coord": {
+      "lat": 25.60944,
+      "lon": 51.09222
+    },
+    "name": "Al Jumayliyah"
+  },
+  {
+    "country": "QA",
+    "id": 289993,
+    "coord": {
+      "lat": 25.82972,
+      "lon": 51.245281
+    },
+    "name": "Al Ghuwayriyah"
+  },
+  {
+    "country": "QA",
+    "id": 406787,
+    "coord": {
+      "lat": 26.021669,
+      "lon": 51.36694
+    },
+    "name": "Fuwayrit"
+  }
+
+]

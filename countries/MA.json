@@ -1,0 +1,3559 @@
+[
+
+  {
+    "country": "MA",
+    "id": 2538470,
+    "coord": {
+      "lat": 33.75,
+      "lon": -6.33333
+    },
+    "name": "Région de Rabat-Salé-Zemmour-Zaër"
+  },
+  {
+    "country": "MA",
+    "id": 2565327,
+    "coord": {
+      "lat": 34.169998,
+      "lon": -6.01
+    },
+    "name": "Al Haïmriyine"
+  },
+  {
+    "country": "MA",
+    "id": 2526435,
+    "coord": {
+      "lat": 34.942822,
+      "lon": -2.7329
+    },
+    "name": "Zaio"
+  },
+  {
+    "country": "MA",
+    "id": 2527645,
+    "coord": {
+      "lat": 35.236191,
+      "lon": -3.95453
+    },
+    "name": "Tirhanimine"
+  },
+  {
+    "country": "MA",
+    "id": 2528659,
+    "coord": {
+      "lat": 33.894691,
+      "lon": -6.3065
+    },
+    "name": "Tiflet"
+  },
+  {
+    "country": "MA",
+    "id": 2538474,
+    "coord": {
+      "lat": 33.991112,
+      "lon": -6.84006
+    },
+    "name": "Rabat"
+  },
+  {
+    "country": "MA",
+    "id": 6545495,
+    "coord": {
+      "lat": 32.6828,
+      "lon": -4.74077
+    },
+    "name": "Midelt"
+  },
+  {
+    "country": "MA",
+    "id": 6547296,
+    "coord": {
+      "lat": 33.728828,
+      "lon": -5.46119
+    },
+    "name": "El-Hajeb"
+  },
+  {
+    "country": "MA",
+    "id": 2550252,
+    "coord": {
+      "lat": 33.687859,
+      "lon": -5.371
+    },
+    "name": "El Hajeb"
+  },
+  {
+    "country": "MA",
+    "id": 2569452,
+    "coord": {
+      "lat": 33.854198,
+      "lon": -6.95192
+    },
+    "name": "Oulad Kerroum"
+  },
+  {
+    "country": "MA",
+    "id": 2531480,
+    "coord": {
+      "lat": 34.04845,
+      "lon": -4.42795
+    },
+    "name": "Tahala"
+  },
+  {
+    "country": "MA",
+    "id": 2540689,
+    "coord": {
+      "lat": 32.862701,
+      "lon": -6.57359
+    },
+    "name": "Oued Zem"
+  },
+  {
+    "country": "MA",
+    "id": 2542866,
+    "coord": {
+      "lat": 34.573959,
+      "lon": -5.95372
+    },
+    "name": "Mechra Belqsiri"
+  },
+  {
+    "country": "MA",
+    "id": 2545985,
+    "coord": {
+      "lat": 35.150002,
+      "lon": -3.86
+    },
+    "name": "Imzourene"
+  },
+  {
+    "country": "MA",
+    "id": 6546955,
+    "coord": {
+      "lat": 33.6828,
+      "lon": -5.36835
+    },
+    "name": "El Hajeb"
+  },
+  {
+    "country": "MA",
+    "id": 6546378,
+    "coord": {
+      "lat": 33.43824,
+      "lon": -5.22079
+    },
+    "name": "Azrou"
+  },
+  {
+    "country": "MA",
+    "id": 2542007,
+    "coord": {
+      "lat": 32,
+      "lon": -5
+    },
+    "name": "Kingdom of Morocco"
+  },
+  {
+    "country": "MA",
+    "id": 2597554,
+    "coord": {
+      "lat": 30.66667,
+      "lon": -7.5
+    },
+    "name": "Région de Souss-Massa-Drâa"
+  },
+  {
+    "country": "MA",
+    "id": 2560237,
+    "coord": {
+      "lat": 30.18,
+      "lon": -5.55
+    },
+    "name": "Aït Bou Mezrag"
+  },
+  {
+    "country": "MA",
+    "id": 2527825,
+    "coord": {
+      "lat": 30.23579,
+      "lon": -9.33218
+    },
+    "name": "Ti n’ Salah"
+  },
+  {
+    "country": "MA",
+    "id": 2542710,
+    "coord": {
+      "lat": 32.583328,
+      "lon": -5
+    },
+    "name": "Région de Meknès-Tafilalet"
+  },
+  {
+    "country": "MA",
+    "id": 2554988,
+    "coord": {
+      "lat": 33.259022,
+      "lon": -5.03785
+    },
+    "name": "Bou Dra"
+  },
+  {
+    "country": "MA",
+    "id": 2597548,
+    "coord": {
+      "lat": 33,
+      "lon": -7.16667
+    },
+    "name": "Région de Chaouia-Ouardigha"
+  },
+  {
+    "country": "MA",
+    "id": 2536792,
+    "coord": {
+      "lat": 33.366421,
+      "lon": -7.23519
+    },
+    "name": "Sidi Ahmed el Rhandour"
+  },
+  {
+    "country": "MA",
+    "id": 2529665,
+    "coord": {
+      "lat": 33.386829,
+      "lon": -6.1078
+    },
+    "name": "Tarmilet"
+  },
+  {
+    "country": "MA",
+    "id": 2597557,
+    "coord": {
+      "lat": 34.5,
+      "lon": -4.16667
+    },
+    "name": "Région de Taza-Al Hoceima-Taounate"
+  },
+  {
+    "country": "MA",
+    "id": 2538396,
+    "coord": {
+      "lat": 34.150002,
+      "lon": -4
+    },
+    "name": "Ras el Oued"
+  },
+  {
+    "country": "MA",
+    "id": 2597550,
+    "coord": {
+      "lat": 34.5,
+      "lon": -6
+    },
+    "name": "Région de Gharb-Chrarda-Beni Hssen"
+  },
+  {
+    "country": "MA",
+    "id": 2597553,
+    "coord": {
+      "lat": 33.666672,
+      "lon": -2.5
+    },
+    "name": "Région de l’ Oriental"
+  },
+  {
+    "country": "MA",
+    "id": 2546536,
+    "coord": {
+      "lat": 35.092892,
+      "lon": -2.48701
+    },
+    "name": "Ijertsal"
+  },
+  {
+    "country": "MA",
+    "id": 2549626,
+    "coord": {
+      "lat": 33.896278,
+      "lon": -5.54328
+    },
+    "name": "El Menzeh"
+  },
+  {
+    "country": "MA",
+    "id": 2550479,
+    "coord": {
+      "lat": 30.61496,
+      "lon": -8.21466
+    },
+    "name": "El Faïd"
+  },
+  {
+    "country": "MA",
+    "id": 2597556,
+    "coord": {
+      "lat": 35.25,
+      "lon": -5.91667
+    },
+    "name": "Région de Tanger-Tétouan"
+  },
+  {
+    "country": "MA",
+    "id": 2530333,
+    "coord": {
+      "lat": 35.583328,
+      "lon": -5.75
+    },
+    "name": "Tanger-Assilah"
+  },
+  {
+    "country": "MA",
+    "id": 6546249,
+    "coord": {
+      "lat": 35.771309,
+      "lon": -5.80936
+    },
+    "name": "Tanger-Medina"
+  },
+  {
+    "country": "MA",
+    "id": 2530335,
+    "coord": {
+      "lat": 35.780579,
+      "lon": -5.81365
+    },
+    "name": "Tangier"
+  },
+  {
+    "country": "MA",
+    "id": 7456416,
+    "coord": {
+      "lat": 34.025421,
+      "lon": -6.8359
+    },
+    "name": "Medina De Rabat"
+  },
+  {
+    "country": "MA",
+    "id": 2537405,
+    "coord": {
+      "lat": 33.083328,
+      "lon": -7.41667
+    },
+    "name": "Settat"
+  },
+  {
+    "country": "MA",
+    "id": 6546109,
+    "coord": {
+      "lat": 33.011459,
+      "lon": -7.62452
+    },
+    "name": "Settat"
+  },
+  {
+    "country": "MA",
+    "id": 2537406,
+    "coord": {
+      "lat": 33.000702,
+      "lon": -7.62035
+    },
+    "name": "Settat"
+  },
+  {
+    "country": "MA",
+    "id": 2553603,
+    "coord": {
+      "lat": 33.533329,
+      "lon": -7.58333
+    },
+    "name": "Région du Grand Casablanca"
+  },
+  {
+    "country": "MA",
+    "id": 6547294,
+    "coord": {
+      "lat": 33.588402,
+      "lon": -7.55785
+    },
+    "name": "Casablanca"
+  },
+  {
+    "country": "MA",
+    "id": 2553604,
+    "coord": {
+      "lat": 33.592781,
+      "lon": -7.61916
+    },
+    "name": "Casablanca"
+  },
+  {
+    "country": "MA",
+    "id": 2540482,
+    "coord": {
+      "lat": 34.666672,
+      "lon": -2.08333
+    },
+    "name": "Oujda-Angad"
+  },
+  {
+    "country": "MA",
+    "id": 6545974,
+    "coord": {
+      "lat": 34.68288,
+      "lon": -1.9108
+    },
+    "name": "Oujda"
+  },
+  {
+    "country": "MA",
+    "id": 2540483,
+    "coord": {
+      "lat": 34.680519,
+      "lon": -1.90764
+    },
+    "name": "Oujda"
+  },
+  {
+    "country": "MA",
+    "id": 2542995,
+    "coord": {
+      "lat": 31.5,
+      "lon": -8.33333
+    },
+    "name": "Région de Marrakech-Tensift-Al Haouz"
+  },
+  {
+    "country": "MA",
+    "id": 2551646,
+    "coord": {
+      "lat": 31.280001,
+      "lon": -8.86
+    },
+    "name": "Douar Jdida"
+  },
+  {
+    "country": "MA",
+    "id": 2561655,
+    "coord": {
+      "lat": 30.58333,
+      "lon": -9.5
+    },
+    "name": "Agadir-Ida-ou-Tnan"
+  },
+  {
+    "country": "MA",
+    "id": 6545515,
+    "coord": {
+      "lat": 30.42013,
+      "lon": -9.59802
+    },
+    "name": "Agadir"
+  },
+  {
+    "country": "MA",
+    "id": 2561668,
+    "coord": {
+      "lat": 30.420179,
+      "lon": -9.59815
+    },
+    "name": "Agadir"
+  },
+  {
+    "country": "MA",
+    "id": 6547301,
+    "coord": {
+      "lat": 33.647511,
+      "lon": -7.37699
+    },
+    "name": "Mohammedia"
+  },
+  {
+    "country": "MA",
+    "id": 6546783,
+    "coord": {
+      "lat": 33.69474,
+      "lon": -7.38502
+    },
+    "name": "Mohammedia"
+  },
+  {
+    "country": "MA",
+    "id": 2542051,
+    "coord": {
+      "lat": 33.706589,
+      "lon": -7.39442
+    },
+    "name": "Mohammedia"
+  },
+  {
+    "country": "MA",
+    "id": 2528910,
+    "coord": {
+      "lat": 35.571091,
+      "lon": -5.37242
+    },
+    "name": "Tetouan"
+  },
+  {
+    "country": "MA",
+    "id": 6547285,
+    "coord": {
+      "lat": 31.63623,
+      "lon": -8.01041
+    },
+    "name": "Marrakech"
+  },
+  {
+    "country": "MA",
+    "id": 6546896,
+    "coord": {
+      "lat": 31.601669,
+      "lon": -7.99117
+    },
+    "name": "Marrakech-Medina"
+  },
+  {
+    "country": "MA",
+    "id": 2542997,
+    "coord": {
+      "lat": 31.631479,
+      "lon": -8.00828
+    },
+    "name": "Marrakesh"
+  },
+  {
+    "country": "MA",
+    "id": 2544568,
+    "coord": {
+      "lat": 34.583328,
+      "lon": -6.33333
+    },
+    "name": "Kenitra"
+  },
+  {
+    "country": "MA",
+    "id": 6546897,
+    "coord": {
+      "lat": 34.26593,
+      "lon": -6.57719
+    },
+    "name": "Kenitra"
+  },
+  {
+    "country": "MA",
+    "id": 2544571,
+    "coord": {
+      "lat": 34.261009,
+      "lon": -6.5802
+    },
+    "name": "Kenitra"
+  },
+  {
+    "country": "MA",
+    "id": 2556145,
+    "coord": {
+      "lat": 34.049999,
+      "lon": -6.80356
+    },
+    "name": "Bel Aroussi"
+  },
+  {
+    "country": "MA",
+    "id": 2544363,
+    "coord": {
+      "lat": 33.666672,
+      "lon": -6.25
+    },
+    "name": "Khemisset"
+  },
+  {
+    "country": "MA",
+    "id": 6546130,
+    "coord": {
+      "lat": 33.82449,
+      "lon": -6.07048
+    },
+    "name": "Khemisset"
+  },
+  {
+    "country": "MA",
+    "id": 2558470,
+    "coord": {
+      "lat": 33.824039,
+      "lon": -6.06627
+    },
+    "name": "Khemisset"
+  },
+  {
+    "country": "MA",
+    "id": 2541472,
+    "coord": {
+      "lat": 35,
+      "lon": -3
+    },
+    "name": "Nador"
+  },
+  {
+    "country": "MA",
+    "id": 6547050,
+    "coord": {
+      "lat": 35.17498,
+      "lon": -2.93621
+    },
+    "name": "Nador"
+  },
+  {
+    "country": "MA",
+    "id": 2541479,
+    "coord": {
+      "lat": 35.174042,
+      "lon": -2.92866
+    },
+    "name": "Nador"
+  },
+  {
+    "country": "MA",
+    "id": 2562055,
+    "coord": {
+      "lat": 33.849838,
+      "lon": -7.04037
+    },
+    "name": "Skhirat"
+  },
+  {
+    "country": "MA",
+    "id": 2565228,
+    "coord": {
+      "lat": 33.861382,
+      "lon": -7.06182
+    },
+    "name": "Kasba Skhirat"
+  },
+  {
+    "country": "MA",
+    "id": 2551808,
+    "coord": {
+      "lat": 31.82439,
+      "lon": -8.30246
+    },
+    "name": "Douar el Hajra"
+  },
+  {
+    "country": "MA",
+    "id": 2548882,
+    "coord": {
+      "lat": 33.333328,
+      "lon": -4.25
+    },
+    "name": "Région de Fès-Boulemane"
+  },
+  {
+    "country": "MA",
+    "id": 6547286,
+    "coord": {
+      "lat": 33.799789,
+      "lon": -4.68
+    },
+    "name": "Sefrou"
+  },
+  {
+    "country": "MA",
+    "id": 6546442,
+    "coord": {
+      "lat": 33.822521,
+      "lon": -4.83005
+    },
+    "name": "Sefrou"
+  },
+  {
+    "country": "MA",
+    "id": 2537545,
+    "coord": {
+      "lat": 33.83186,
+      "lon": -4.828
+    },
+    "name": "Sefrou"
+  },
+  {
+    "country": "MA",
+    "id": 2597549,
+    "coord": {
+      "lat": 32.5,
+      "lon": -8.75
+    },
+    "name": "Région de Doukkala-Abda"
+  },
+  {
+    "country": "MA",
+    "id": 2537878,
+    "coord": {
+      "lat": 32.166672,
+      "lon": -8.83333
+    },
+    "name": "Safi"
+  },
+  {
+    "country": "MA",
+    "id": 6546086,
+    "coord": {
+      "lat": 32.269241,
+      "lon": -9.23478
+    },
+    "name": "Safi"
+  },
+  {
+    "country": "MA",
+    "id": 2537881,
+    "coord": {
+      "lat": 32.299389,
+      "lon": -9.23718
+    },
+    "name": "Safi"
+  },
+  {
+    "country": "MA",
+    "id": 2562053,
+    "coord": {
+      "lat": 33.883331,
+      "lon": -6.98333
+    },
+    "name": "Skhirate-Temara"
+  },
+  {
+    "country": "MA",
+    "id": 6545720,
+    "coord": {
+      "lat": 33.927799,
+      "lon": -6.90704
+    },
+    "name": "Temara"
+  },
+  {
+    "country": "MA",
+    "id": 2529013,
+    "coord": {
+      "lat": 33.928661,
+      "lon": -6.90656
+    },
+    "name": "Temara"
+  },
+  {
+    "country": "MA",
+    "id": 2528907,
+    "coord": {
+      "lat": 35.583328,
+      "lon": -5.5
+    },
+    "name": "Tetouan"
+  },
+  {
+    "country": "MA",
+    "id": 6546337,
+    "coord": {
+      "lat": 35.64341,
+      "lon": -5.30265
+    },
+    "name": "Martil"
+  },
+  {
+    "country": "MA",
+    "id": 2542987,
+    "coord": {
+      "lat": 35.616619,
+      "lon": -5.27522
+    },
+    "name": "Martil"
+  },
+  {
+    "country": "MA",
+    "id": 2549259,
+    "coord": {
+      "lat": 31.50675,
+      "lon": -9.75655
+    },
+    "name": "Essaouira"
+  },
+  {
+    "country": "MA",
+    "id": 6546650,
+    "coord": {
+      "lat": 31.44845,
+      "lon": -9.76954
+    },
+    "name": "Essaouira"
+  },
+  {
+    "country": "MA",
+    "id": 2549263,
+    "coord": {
+      "lat": 31.512501,
+      "lon": -9.77
+    },
+    "name": "Essaouira"
+  },
+  {
+    "country": "MA",
+    "id": 2551043,
+    "coord": {
+      "lat": 29.709999,
+      "lon": -9.73
+    },
+    "name": "Dou Tourga"
+  },
+  {
+    "country": "MA",
+    "id": 2555519,
+    "coord": {
+      "lat": 33.612968,
+      "lon": -7.12079
+    },
+    "name": "Ben Slimane"
+  },
+  {
+    "country": "MA",
+    "id": 2529374,
+    "coord": {
+      "lat": 30.9212,
+      "lon": -6.92965
+    },
+    "name": "Tassoumat"
+  },
+  {
+    "country": "MA",
+    "id": 2597555,
+    "coord": {
+      "lat": 32.166672,
+      "lon": -6.41667
+    },
+    "name": "Région de Tadla-Azilal"
+  },
+  {
+    "country": "MA",
+    "id": 2555742,
+    "coord": {
+      "lat": 32.5,
+      "lon": -6.33333
+    },
+    "name": "Beni-Mellal"
+  },
+  {
+    "country": "MA",
+    "id": 6546831,
+    "coord": {
+      "lat": 32.544239,
+      "lon": -6.52976
+    },
+    "name": "Alkhalfia"
+  },
+  {
+    "country": "MA",
+    "id": 2555745,
+    "coord": {
+      "lat": 32.33725,
+      "lon": -6.34984
+    },
+    "name": "Beni Mellal"
+  },
+  {
+    "country": "MA",
+    "id": 2550076,
+    "coord": {
+      "lat": 32.900002,
+      "lon": -8.5
+    },
+    "name": "El-Jadida"
+  },
+  {
+    "country": "MA",
+    "id": 6546785,
+    "coord": {
+      "lat": 33.295219,
+      "lon": -8.35027
+    },
+    "name": "Azemmour"
+  },
+  {
+    "country": "MA",
+    "id": 2556657,
+    "coord": {
+      "lat": 33.28952,
+      "lon": -8.3425
+    },
+    "name": "Azemmour"
+  },
+  {
+    "country": "MA",
+    "id": 2544246,
+    "coord": {
+      "lat": 32.933331,
+      "lon": -6.6
+    },
+    "name": "Khouribga"
+  },
+  {
+    "country": "MA",
+    "id": 6546695,
+    "coord": {
+      "lat": 32.886768,
+      "lon": -6.91356
+    },
+    "name": "Khouribga"
+  },
+  {
+    "country": "MA",
+    "id": 2544248,
+    "coord": {
+      "lat": 32.881081,
+      "lon": -6.9063
+    },
+    "name": "Khouribga"
+  },
+  {
+    "country": "MA",
+    "id": 2543546,
+    "coord": {
+      "lat": 35.166672,
+      "lon": -5.83333
+    },
+    "name": "Larache"
+  },
+  {
+    "country": "MA",
+    "id": 6545687,
+    "coord": {
+      "lat": 35.18811,
+      "lon": -6.13848
+    },
+    "name": "Larache"
+  },
+  {
+    "country": "MA",
+    "id": 2543549,
+    "coord": {
+      "lat": 35.193211,
+      "lon": -6.15572
+    },
+    "name": "Larache"
+  },
+  {
+    "country": "MA",
+    "id": 2545956,
+    "coord": {
+      "lat": 30.1,
+      "lon": -9.03333
+    },
+    "name": "Inezgane-Ait Mellou"
+  },
+  {
+    "country": "MA",
+    "id": 6545936,
+    "coord": {
+      "lat": 30.353451,
+      "lon": -9.5417
+    },
+    "name": "Inezgane"
+  },
+  {
+    "country": "MA",
+    "id": 2545957,
+    "coord": {
+      "lat": 30.35535,
+      "lon": -9.53639
+    },
+    "name": "Inezgane"
+  },
+  {
+    "country": "MA",
+    "id": 2550554,
+    "coord": {
+      "lat": 35.131279,
+      "lon": -2.42292
+    },
+    "name": "El Borj"
+  },
+  {
+    "country": "MA",
+    "id": 2542828,
+    "coord": {
+      "lat": 34.21035,
+      "lon": -4.01909
+    },
+    "name": "Medina"
+  },
+  {
+    "country": "MA",
+    "id": 2548818,
+    "coord": {
+      "lat": 35.84906,
+      "lon": -5.35747
+    },
+    "name": "Fnidek"
+  },
+  {
+    "country": "MA",
+    "id": 2548830,
+    "coord": {
+      "lat": 32.500931,
+      "lon": -6.69062
+    },
+    "name": "Fkih Ben Salah"
+  },
+  {
+    "country": "MA",
+    "id": 6546705,
+    "coord": {
+      "lat": 33.273129,
+      "lon": -7.5871
+    },
+    "name": "Berrechid"
+  },
+  {
+    "country": "MA",
+    "id": 2556272,
+    "coord": {
+      "lat": 33.26553,
+      "lon": -7.58754
+    },
+    "name": "Berrechid"
+  },
+  {
+    "country": "MA",
+    "id": 2556569,
+    "coord": {
+      "lat": 31.91667,
+      "lon": -6.5
+    },
+    "name": "Azilal"
+  },
+  {
+    "country": "MA",
+    "id": 6546525,
+    "coord": {
+      "lat": 31.734579,
+      "lon": -7.01216
+    },
+    "name": "Demnate"
+  },
+  {
+    "country": "MA",
+    "id": 2552317,
+    "coord": {
+      "lat": 31.73443,
+      "lon": -7.00505
+    },
+    "name": "Demnate"
+  },
+  {
+    "country": "MA",
+    "id": 2597551,
+    "coord": {
+      "lat": 28.83333,
+      "lon": -9.16667
+    },
+    "name": "Région de Guelmim-Es Smara"
+  },
+  {
+    "country": "MA",
+    "id": 2530241,
+    "coord": {
+      "lat": 28.43799,
+      "lon": -11.10321
+    },
+    "name": "Tan-Tan"
+  },
+  {
+    "country": "MA",
+    "id": 2553455,
+    "coord": {
+      "lat": 35.168781,
+      "lon": -5.2636
+    },
+    "name": "Chefchaouene"
+  },
+  {
+    "country": "MA",
+    "id": 2548525,
+    "coord": {
+      "lat": 28.75,
+      "lon": -10
+    },
+    "name": "Guelmim"
+  },
+  {
+    "country": "MA",
+    "id": 6546501,
+    "coord": {
+      "lat": 28.986349,
+      "lon": -10.06345
+    },
+    "name": "Guelmim"
+  },
+  {
+    "country": "MA",
+    "id": 2548526,
+    "coord": {
+      "lat": 28.986959,
+      "lon": -10.05738
+    },
+    "name": "Guelmim"
+  },
+  {
+    "country": "MA",
+    "id": 2560841,
+    "coord": {
+      "lat": 33.63736,
+      "lon": -7.44971
+    },
+    "name": "Aïn Harrouda"
+  },
+  {
+    "country": "MA",
+    "id": 2529723,
+    "coord": {
+      "lat": 30.69282,
+      "lon": -8.14793
+    },
+    "name": "Tarhzout"
+  },
+  {
+    "country": "MA",
+    "id": 2557055,
+    "coord": {
+      "lat": 35.465019,
+      "lon": -6.0348
+    },
+    "name": "Asilah"
+  },
+  {
+    "country": "MA",
+    "id": 2529313,
+    "coord": {
+      "lat": 34.25,
+      "lon": -3.75
+    },
+    "name": "Taza"
+  },
+  {
+    "country": "MA",
+    "id": 6547086,
+    "coord": {
+      "lat": 34.22514,
+      "lon": -3.35235
+    },
+    "name": "Guercif"
+  },
+  {
+    "country": "MA",
+    "id": 2548489,
+    "coord": {
+      "lat": 34.225681,
+      "lon": -3.35361
+    },
+    "name": "Guercif"
+  },
+  {
+    "country": "MA",
+    "id": 2542473,
+    "coord": {
+      "lat": 32.636341,
+      "lon": -8.69351
+    },
+    "name": "Mers el Hajer"
+  },
+  {
+    "country": "MA",
+    "id": 2549340,
+    "coord": {
+      "lat": 31.75,
+      "lon": -4.5
+    },
+    "name": "Errachidia"
+  },
+  {
+    "country": "MA",
+    "id": 2549356,
+    "coord": {
+      "lat": 31.43482,
+      "lon": -4.23752
+    },
+    "name": "Erfoud"
+  },
+  {
+    "country": "MA",
+    "id": 2538027,
+    "coord": {
+      "lat": 31.284639,
+      "lon": -4.26883
+    },
+    "name": "Rissani"
+  },
+  {
+    "country": "MA",
+    "id": 2546906,
+    "coord": {
+      "lat": 33.333328,
+      "lon": -5.25
+    },
+    "name": "Ifrane"
+  },
+  {
+    "country": "MA",
+    "id": 6546079,
+    "coord": {
+      "lat": 33.526852,
+      "lon": -5.10912
+    },
+    "name": "Ifrane"
+  },
+  {
+    "country": "MA",
+    "id": 2546917,
+    "coord": {
+      "lat": 33.526661,
+      "lon": -5.11019
+    },
+    "name": "Ifrane"
+  },
+  {
+    "country": "MA",
+    "id": 2544331,
+    "coord": {
+      "lat": 32.933331,
+      "lon": -5.66667
+    },
+    "name": "Khenifra"
+  },
+  {
+    "country": "MA",
+    "id": 6546573,
+    "coord": {
+      "lat": 32.932072,
+      "lon": -5.66629
+    },
+    "name": "Khenifra"
+  },
+  {
+    "country": "MA",
+    "id": 2544333,
+    "coord": {
+      "lat": 32.939098,
+      "lon": -5.6686
+    },
+    "name": "Khenifra"
+  },
+  {
+    "country": "MA",
+    "id": 2537538,
+    "coord": {
+      "lat": 35.156891,
+      "lon": -3.00175
+    },
+    "name": "Segangane"
+  },
+  {
+    "country": "MA",
+    "id": 2540409,
+    "coord": {
+      "lat": 33.928501,
+      "lon": -5.46625
+    },
+    "name": "Oulad Abdallah Barraho"
+  },
+  {
+    "country": "MA",
+    "id": 6547284,
+    "coord": {
+      "lat": 31.263651,
+      "lon": -8.84411
+    },
+    "name": "Chichaoua"
+  },
+  {
+    "country": "MA",
+    "id": 6546616,
+    "coord": {
+      "lat": 31.55006,
+      "lon": -8.76493
+    },
+    "name": "Chichaoua"
+  },
+  {
+    "country": "MA",
+    "id": 2553303,
+    "coord": {
+      "lat": 31.54351,
+      "lon": -8.76274
+    },
+    "name": "Chichaoua"
+  },
+  {
+    "country": "MA",
+    "id": 2535530,
+    "coord": {
+      "lat": 34.122169,
+      "lon": -6.71965
+    },
+    "name": "Sidi Bouqnadel"
+  },
+  {
+    "country": "MA",
+    "id": 6546821,
+    "coord": {
+      "lat": 32.596088,
+      "lon": -6.265
+    },
+    "name": "Kasba Tadla"
+  },
+  {
+    "country": "MA",
+    "id": 2544720,
+    "coord": {
+      "lat": 32.597698,
+      "lon": -6.26844
+    },
+    "name": "Kasba Tadla"
+  },
+  {
+    "country": "MA",
+    "id": 2564788,
+    "coord": {
+      "lat": 34.919998,
+      "lon": -2.43
+    },
+    "name": "Aklim"
+  },
+  {
+    "country": "MA",
+    "id": 2529647,
+    "coord": {
+      "lat": 30.5,
+      "lon": -8.41667
+    },
+    "name": "Taroudannt"
+  },
+  {
+    "country": "MA",
+    "id": 6545834,
+    "coord": {
+      "lat": 30.4702,
+      "lon": -8.87549
+    },
+    "name": "Taroudant"
+  },
+  {
+    "country": "MA",
+    "id": 2529649,
+    "coord": {
+      "lat": 30.47028,
+      "lon": -8.87695
+    },
+    "name": "Taroudant"
+  },
+  {
+    "country": "MA",
+    "id": 2548881,
+    "coord": {
+      "lat": 34.547749,
+      "lon": -5.12505
+    },
+    "name": "Fès al Bali"
+  },
+  {
+    "country": "MA",
+    "id": 2544001,
+    "coord": {
+      "lat": 35.00174,
+      "lon": -5.90534
+    },
+    "name": "Ksar el Kebir"
+  },
+  {
+    "country": "MA",
+    "id": 2532822,
+    "coord": {
+      "lat": 34.306519,
+      "lon": -6.30618
+    },
+    "name": "Sidi Yahia el Gharb"
+  },
+  {
+    "country": "MA",
+    "id": 2550985,
+    "coord": {
+      "lat": 34.977051,
+      "lon": -3.37902
+    },
+    "name": "Driouch"
+  },
+  {
+    "country": "MA",
+    "id": 2555885,
+    "coord": {
+      "lat": 34.82,
+      "lon": -1.99
+    },
+    "name": "Beni Drar"
+  },
+  {
+    "country": "MA",
+    "id": 6547299,
+    "coord": {
+      "lat": 33.458389,
+      "lon": -7.64726
+    },
+    "name": "Nouaceur"
+  },
+  {
+    "country": "MA",
+    "id": 6546277,
+    "coord": {
+      "lat": 33.476292,
+      "lon": -7.64711
+    },
+    "name": "Bouskoura"
+  },
+  {
+    "country": "MA",
+    "id": 2554006,
+    "coord": {
+      "lat": 33.44976,
+      "lon": -7.65239
+    },
+    "name": "Bouskoura"
+  },
+  {
+    "country": "MA",
+    "id": 6546898,
+    "coord": {
+      "lat": 34.26194,
+      "lon": -5.92184
+    },
+    "name": "Sidi Slimane"
+  },
+  {
+    "country": "MA",
+    "id": 2532945,
+    "coord": {
+      "lat": 34.264778,
+      "lon": -5.92598
+    },
+    "name": "Sidi Slimane"
+  },
+  {
+    "country": "MA",
+    "id": 2542898,
+    "coord": {
+      "lat": 35.681561,
+      "lon": -5.32285
+    },
+    "name": "M’dik"
+  },
+  {
+    "country": "MA",
+    "id": 6547287,
+    "coord": {
+      "lat": 34.908371,
+      "lon": -2.3461
+    },
+    "name": "Berkane"
+  },
+  {
+    "country": "MA",
+    "id": 6545678,
+    "coord": {
+      "lat": 34.920189,
+      "lon": -2.33179
+    },
+    "name": "Berkane"
+  },
+  {
+    "country": "MA",
+    "id": 2555467,
+    "coord": {
+      "lat": 34.919998,
+      "lon": -2.32
+    },
+    "name": "Berkane"
+  },
+  {
+    "country": "MA",
+    "id": 2541833,
+    "coord": {
+      "lat": 34.878681,
+      "lon": -6.2948
+    },
+    "name": "Moulay Bou Selham"
+  },
+  {
+    "country": "MA",
+    "id": 6547288,
+    "coord": {
+      "lat": 34.236622,
+      "lon": -2.04284
+    },
+    "name": "Jerada"
+  },
+  {
+    "country": "MA",
+    "id": 6545872,
+    "coord": {
+      "lat": 34.300629,
+      "lon": -2.18847
+    },
+    "name": "Jerada"
+  },
+  {
+    "country": "MA",
+    "id": 2545017,
+    "coord": {
+      "lat": 34.310001,
+      "lon": -2.16
+    },
+    "name": "Jerada"
+  },
+  {
+    "country": "MA",
+    "id": 2548885,
+    "coord": {
+      "lat": 34.037151,
+      "lon": -4.9998
+    },
+    "name": "Fes"
+  },
+  {
+    "country": "MA",
+    "id": 2548880,
+    "coord": {
+      "lat": 34.070099,
+      "lon": -4.95473
+    },
+    "name": "Fès al Bali"
+  },
+  {
+    "country": "MA",
+    "id": 2527087,
+    "coord": {
+      "lat": 29.58333,
+      "lon": -9.5
+    },
+    "name": "Tiznit"
+  },
+  {
+    "country": "MA",
+    "id": 6545624,
+    "coord": {
+      "lat": 29.37075,
+      "lon": -10.16328
+    },
+    "name": "Sidi Ifni"
+  },
+  {
+    "country": "MA",
+    "id": 2534515,
+    "coord": {
+      "lat": 29.379749,
+      "lon": -10.17299
+    },
+    "name": "Sidi Ifni"
+  },
+  {
+    "country": "MA",
+    "id": 6545434,
+    "coord": {
+      "lat": 31.96419,
+      "lon": -6.57429
+    },
+    "name": "Azilal"
+  },
+  {
+    "country": "MA",
+    "id": 2556570,
+    "coord": {
+      "lat": 31.961559,
+      "lon": -6.57109
+    },
+    "name": "Azilal"
+  },
+  {
+    "country": "MA",
+    "id": 2528867,
+    "coord": {
+      "lat": 31.689171,
+      "lon": -4.95748
+    },
+    "name": "Tiaouanine"
+  },
+  {
+    "country": "MA",
+    "id": 2527915,
+    "coord": {
+      "lat": 31.515711,
+      "lon": -5.53428
+    },
+    "name": "Tineghir"
+  },
+  {
+    "country": "MA",
+    "id": 2558545,
+    "coord": {
+      "lat": 35.243328,
+      "lon": -3.93092
+    },
+    "name": "Al Hoceima"
+  },
+  {
+    "country": "MA",
+    "id": 2555086,
+    "coord": {
+      "lat": 33.35894,
+      "lon": -4.75505
+    },
+    "name": "Bou Beker"
+  },
+  {
+    "country": "MA",
+    "id": 2565364,
+    "coord": {
+      "lat": 33.509998,
+      "lon": -7.73
+    },
+    "name": "Dar Ben Abdallah Ben Dehbi"
+  },
+  {
+    "country": "MA",
+    "id": 2569308,
+    "coord": {
+      "lat": 33.564861,
+      "lon": -7.69421
+    },
+    "name": "Oulfa"
+  },
+  {
+    "country": "MA",
+    "id": 2552471,
+    "coord": {
+      "lat": 35.72863,
+      "lon": -5.90086
+    },
+    "name": "Dar Sultan"
+  },
+  {
+    "country": "MA",
+    "id": 2571955,
+    "coord": {
+      "lat": 35.610649,
+      "lon": -5.33099
+    },
+    "name": "Souani"
+  },
+  {
+    "country": "MA",
+    "id": 2546295,
+    "coord": {
+      "lat": 35.186779,
+      "lon": -3.84713
+    },
+    "name": "Imejoudene"
+  },
+  {
+    "country": "MA",
+    "id": 2530066,
+    "coord": {
+      "lat": 30.918289,
+      "lon": -6.90026
+    },
+    "name": "Taourirt"
+  },
+  {
+    "country": "MA",
+    "id": 2532759,
+    "coord": {
+      "lat": 34.310001,
+      "lon": -6.58
+    },
+    "name": "Sidi Youssef"
+  },
+  {
+    "country": "MA",
+    "id": 2554221,
+    "coord": {
+      "lat": 31.59339,
+      "lon": -8.0243
+    },
+    "name": "Bou-Okkaz"
+  },
+  {
+    "country": "MA",
+    "id": 2542013,
+    "coord": {
+      "lat": 35.011848,
+      "lon": -3.00453
+    },
+    "name": "Monte ’Arrouit"
+  },
+  {
+    "country": "MA",
+    "id": 2541210,
+    "coord": {
+      "lat": 33.380199,
+      "lon": -7.62105
+    },
+    "name": "Nouaseur"
+  },
+  {
+    "country": "MA",
+    "id": 2559658,
+    "coord": {
+      "lat": 31.414339,
+      "lon": -9.66981
+    },
+    "name": "Aït Lahsene"
+  },
+  {
+    "country": "MA",
+    "id": 2543412,
+    "coord": {
+      "lat": 33.549999,
+      "lon": -7.6
+    },
+    "name": "Le Polo"
+  },
+  {
+    "country": "MA",
+    "id": 2543342,
+    "coord": {
+      "lat": 33.554272,
+      "lon": -7.64108
+    },
+    "name": "L'Oasis"
+  },
+  {
+    "country": "MA",
+    "id": 2551117,
+    "coord": {
+      "lat": 34.80991,
+      "lon": -1.90974
+    },
+    "name": "Douba"
+  },
+  {
+    "country": "MA",
+    "id": 2539875,
+    "coord": {
+      "lat": 31.93026,
+      "lon": -4.40272
+    },
+    "name": "Oulad el Haj"
+  },
+  {
+    "country": "MA",
+    "id": 2546466,
+    "coord": {
+      "lat": 30.33642,
+      "lon": -9.40845
+    },
+    "name": "Ikhorbane"
+  },
+  {
+    "country": "MA",
+    "id": 6547302,
+    "coord": {
+      "lat": 30.348391,
+      "lon": -5.83649
+    },
+    "name": "Zagora"
+  },
+  {
+    "country": "MA",
+    "id": 6545905,
+    "coord": {
+      "lat": 30.30452,
+      "lon": -5.83517
+    },
+    "name": "Zagora"
+  },
+  {
+    "country": "MA",
+    "id": 2526452,
+    "coord": {
+      "lat": 30.332411,
+      "lon": -5.8384
+    },
+    "name": "Zagora"
+  },
+  {
+    "country": "MA",
+    "id": 6546087,
+    "coord": {
+      "lat": 32.253941,
+      "lon": -8.53351
+    },
+    "name": "Youssoufia"
+  },
+  {
+    "country": "MA",
+    "id": 2526488,
+    "coord": {
+      "lat": 32.246342,
+      "lon": -8.52941
+    },
+    "name": "Youssoufia"
+  },
+  {
+    "country": "MA",
+    "id": 6547047,
+    "coord": {
+      "lat": 29.68638,
+      "lon": -9.69927
+    },
+    "name": "Tiznit"
+  },
+  {
+    "country": "MA",
+    "id": 2527089,
+    "coord": {
+      "lat": 29.69742,
+      "lon": -9.73162
+    },
+    "name": "Tiznit"
+  },
+  {
+    "country": "MA",
+    "id": 6546939,
+    "coord": {
+      "lat": 33.895168,
+      "lon": -6.31519
+    },
+    "name": "Tiflet"
+  },
+  {
+    "country": "MA",
+    "id": 6547088,
+    "coord": {
+      "lat": 34.215,
+      "lon": -4.0088
+    },
+    "name": "Taza"
+  },
+  {
+    "country": "MA",
+    "id": 2529317,
+    "coord": {
+      "lat": 34.209999,
+      "lon": -4.01
+    },
+    "name": "Taza"
+  },
+  {
+    "country": "MA",
+    "id": 6545983,
+    "coord": {
+      "lat": 34.403431,
+      "lon": -2.90029
+    },
+    "name": "Taourirt"
+  },
+  {
+    "country": "MA",
+    "id": 2530048,
+    "coord": {
+      "lat": 34.407299,
+      "lon": -2.89732
+    },
+    "name": "Taourirt"
+  },
+  {
+    "country": "MA",
+    "id": 2530153,
+    "coord": {
+      "lat": 34.5,
+      "lon": -4.83333
+    },
+    "name": "Taounate"
+  },
+  {
+    "country": "MA",
+    "id": 6547002,
+    "coord": {
+      "lat": 34.523209,
+      "lon": -4.65322
+    },
+    "name": "Taounate"
+  },
+  {
+    "country": "MA",
+    "id": 2530155,
+    "coord": {
+      "lat": 34.538219,
+      "lon": -4.64143
+    },
+    "name": "Taounate"
+  },
+  {
+    "country": "MA",
+    "id": 2532394,
+    "coord": {
+      "lat": 34.686642,
+      "lon": -6.00272
+    },
+    "name": "Souq Larba al Gharb"
+  },
+  {
+    "country": "MA",
+    "id": 2533191,
+    "coord": {
+      "lat": 34.221489,
+      "lon": -5.70775
+    },
+    "name": "Sidi Qacem"
+  },
+  {
+    "country": "MA",
+    "id": 6546787,
+    "coord": {
+      "lat": 32.661362,
+      "lon": -8.42819
+    },
+    "name": "Sidi Bennour"
+  },
+  {
+    "country": "MA",
+    "id": 2536074,
+    "coord": {
+      "lat": 32.652359,
+      "lon": -8.42769
+    },
+    "name": "Sidi Bennour"
+  },
+  {
+    "country": "MA",
+    "id": 2537763,
+    "coord": {
+      "lat": 34.038921,
+      "lon": -6.8166
+    },
+    "name": "Sale"
+  },
+  {
+    "country": "MA",
+    "id": 2538475,
+    "coord": {
+      "lat": 34.013248,
+      "lon": -6.83255
+    },
+    "name": "Rabat"
+  },
+  {
+    "country": "MA",
+    "id": 2539134,
+    "coord": {
+      "lat": 30.39467,
+      "lon": -9.20897
+    },
+    "name": "Oulad Teima"
+  },
+  {
+    "country": "MA",
+    "id": 6545669,
+    "coord": {
+      "lat": 32.869499,
+      "lon": -6.56605
+    },
+    "name": "Oued Zem"
+  },
+  {
+    "country": "MA",
+    "id": 2540810,
+    "coord": {
+      "lat": 34.797112,
+      "lon": -5.58224
+    },
+    "name": "Ouazzane"
+  },
+  {
+    "country": "MA",
+    "id": 2540846,
+    "coord": {
+      "lat": 30.941299,
+      "lon": -6.90285
+    },
+    "name": "Ouarzazate"
+  },
+  {
+    "country": "MA",
+    "id": 2540850,
+    "coord": {
+      "lat": 30.91894,
+      "lon": -6.89341
+    },
+    "name": "Ouarzazat"
+  },
+  {
+    "country": "MA",
+    "id": 2542227,
+    "coord": {
+      "lat": 32.6852,
+      "lon": -4.74512
+    },
+    "name": "Midelt"
+  },
+  {
+    "country": "MA",
+    "id": 6547283,
+    "coord": {
+      "lat": 33.977612,
+      "lon": -5.52496
+    },
+    "name": "Meknes"
+  },
+  {
+    "country": "MA",
+    "id": 6546578,
+    "coord": {
+      "lat": 33.882339,
+      "lon": -5.53329
+    },
+    "name": "Meknes"
+  },
+  {
+    "country": "MA",
+    "id": 2542715,
+    "coord": {
+      "lat": 33.89352,
+      "lon": -5.54727
+    },
+    "name": "Meknes"
+  },
+  {
+    "country": "MA",
+    "id": 2550078,
+    "coord": {
+      "lat": 33.254921,
+      "lon": -8.50602
+    },
+    "name": "El Jadida"
+  },
+  {
+    "country": "MA",
+    "id": 2550806,
+    "coord": {
+      "lat": 34.583191,
+      "lon": -2.50612
+    },
+    "name": "El Aioun"
+  },
+  {
+    "country": "MA",
+    "id": 2555517,
+    "coord": {
+      "lat": 33.5,
+      "lon": -7.16667
+    },
+    "name": "Benslimane"
+  },
+  {
+    "country": "MA",
+    "id": 6546124,
+    "coord": {
+      "lat": 33.764839,
+      "lon": -7.20881
+    },
+    "name": "Bouznika"
+  },
+  {
+    "country": "MA",
+    "id": 2553751,
+    "coord": {
+      "lat": 33.789421,
+      "lon": -7.15968
+    },
+    "name": "Bouznika"
+  },
+  {
+    "country": "MA",
+    "id": 2556464,
+    "coord": {
+      "lat": 33.434429,
+      "lon": -5.22126
+    },
+    "name": "Azrou"
+  },
+  {
+    "country": "MA",
+    "id": 6545532,
+    "coord": {
+      "lat": 34.95274,
+      "lon": -2.10665
+    },
+    "name": "Ahfir"
+  },
+  {
+    "country": "MA",
+    "id": 2561124,
+    "coord": {
+      "lat": 34.953678,
+      "lon": -2.10027
+    },
+    "name": "Ahfir"
+  },
+  {
+    "country": "MA",
+    "id": 6546693,
+    "coord": {
+      "lat": 32.900459,
+      "lon": -6.77464
+    },
+    "name": "Boujniba"
+  },
+  {
+    "country": "MA",
+    "id": 2552439,
+    "coord": {
+      "lat": 33.990002,
+      "lon": -6.87
+    },
+    "name": "Dbagh"
+  },
+  {
+    "country": "MA",
+    "id": 2525874,
+    "coord": {
+      "lat": 34.803211,
+      "lon": -5.34458
+    },
+    "name": "Zoumi"
+  },
+  {
+    "country": "MA",
+    "id": 2525973,
+    "coord": {
+      "lat": 35.43,
+      "lon": -5.4
+    },
+    "name": "Zinat"
+  },
+  {
+    "country": "MA",
+    "id": 2526159,
+    "coord": {
+      "lat": 35.614101,
+      "lon": -5.45191
+    },
+    "name": "Saddina"
+  },
+  {
+    "country": "MA",
+    "id": 2526924,
+    "coord": {
+      "lat": 31.535009,
+      "lon": -7.49291
+    },
+    "name": "Touama"
+  },
+  {
+    "country": "MA",
+    "id": 2527055,
+    "coord": {
+      "lat": 34.971588,
+      "lon": -3.15273
+    },
+    "name": "Tiztoutine"
+  },
+  {
+    "country": "MA",
+    "id": 2527184,
+    "coord": {
+      "lat": 31.228359,
+      "lon": -8.31611
+    },
+    "name": "Tizguine"
+  },
+  {
+    "country": "MA",
+    "id": 2527271,
+    "coord": {
+      "lat": 33.558079,
+      "lon": -7.48647
+    },
+    "name": "Tit Mellil"
+  },
+  {
+    "country": "MA",
+    "id": 2527366,
+    "coord": {
+      "lat": 34.28791,
+      "lon": -4.66372
+    },
+    "name": "Tissa"
+  },
+  {
+    "country": "MA",
+    "id": 2527695,
+    "coord": {
+      "lat": 30.3887,
+      "lon": -8.69572
+    },
+    "name": "Tiout"
+  },
+  {
+    "country": "MA",
+    "id": 2527749,
+    "coord": {
+      "lat": 34.366791,
+      "lon": -1.83705
+    },
+    "name": "Tiouli"
+  },
+  {
+    "country": "MA",
+    "id": 2528013,
+    "coord": {
+      "lat": 32.203678,
+      "lon": -6.4666
+    },
+    "name": "Timoulilt"
+  },
+  {
+    "country": "MA",
+    "id": 2528129,
+    "coord": {
+      "lat": 34.580002,
+      "lon": -4.73
+    },
+    "name": "Timezgana"
+  },
+  {
+    "country": "MA",
+    "id": 2528130,
+    "coord": {
+      "lat": 30.883659,
+      "lon": -9.04548
+    },
+    "name": "Timezgadiouine"
+  },
+  {
+    "country": "MA",
+    "id": 2528258,
+    "coord": {
+      "lat": 31.81794,
+      "lon": -5.76812
+    },
+    "name": "Tilmi"
+  },
+  {
+    "country": "MA",
+    "id": 2528650,
+    "coord": {
+      "lat": 31.627769,
+      "lon": -6.94093
+    },
+    "name": "Tifni"
+  },
+  {
+    "country": "MA",
+    "id": 2529019,
+    "coord": {
+      "lat": 31.28924,
+      "lon": -7.23789
+    },
+    "name": "Telouet"
+  },
+  {
+    "country": "MA",
+    "id": 2529133,
+    "coord": {
+      "lat": 33.66991,
+      "lon": -4.63392
+    },
+    "name": "Tazouta"
+  },
+  {
+    "country": "MA",
+    "id": 2529245,
+    "coord": {
+      "lat": 30.57836,
+      "lon": -7.20341
+    },
+    "name": "Taznakht"
+  },
+  {
+    "country": "MA",
+    "id": 2529251,
+    "coord": {
+      "lat": 30.408541,
+      "lon": -8.829
+    },
+    "name": "Tazemmourt"
+  },
+  {
+    "country": "MA",
+    "id": 2529286,
+    "coord": {
+      "lat": 33.88306,
+      "lon": -4.1862
+    },
+    "name": "Tazarine"
+  },
+  {
+    "country": "MA",
+    "id": 2529362,
+    "coord": {
+      "lat": 29.744089,
+      "lon": -7.973
+    },
+    "name": "Tata"
+  },
+  {
+    "country": "MA",
+    "id": 2529621,
+    "coord": {
+      "lat": 29.58153,
+      "lon": -9.02664
+    },
+    "name": "Tarsouat"
+  },
+  {
+    "country": "MA",
+    "id": 2529656,
+    "coord": {
+      "lat": 34.674519,
+      "lon": -5.27331
+    },
+    "name": "Teroual"
+  },
+  {
+    "country": "MA",
+    "id": 2529872,
+    "coord": {
+      "lat": 34.937691,
+      "lon": -4.31856
+    },
+    "name": "Targuist"
+  },
+  {
+    "country": "MA",
+    "id": 2529923,
+    "coord": {
+      "lat": 27.93578,
+      "lon": -12.92184
+    },
+    "name": "Tarfaya"
+  },
+  {
+    "country": "MA",
+    "id": 2530148,
+    "coord": {
+      "lat": 32.093681,
+      "lon": -6.60607
+    },
+    "name": "Taounza"
+  },
+  {
+    "country": "MA",
+    "id": 2530160,
+    "coord": {
+      "lat": 31.222179,
+      "lon": -9.07943
+    },
+    "name": "Taouloukoult"
+  },
+  {
+    "country": "MA",
+    "id": 2530188,
+    "coord": {
+      "lat": 35.129902,
+      "lon": -2.9279
+    },
+    "name": "Taouima"
+  },
+  {
+    "country": "MA",
+    "id": 2530395,
+    "coord": {
+      "lat": 29.77548,
+      "lon": -9.16796
+    },
+    "name": "Tanalt"
+  },
+  {
+    "country": "MA",
+    "id": 2530516,
+    "coord": {
+      "lat": 34.936321,
+      "lon": -4.7794
+    },
+    "name": "Tamorot"
+  },
+  {
+    "country": "MA",
+    "id": 2530843,
+    "coord": {
+      "lat": 31.00087,
+      "lon": -9.67802
+    },
+    "name": "Tamanar"
+  },
+  {
+    "country": "MA",
+    "id": 2530906,
+    "coord": {
+      "lat": 33.59,
+      "lon": -4.19
+    },
+    "name": "Talzemt"
+  },
+  {
+    "country": "MA",
+    "id": 2530978,
+    "coord": {
+      "lat": 31.809999,
+      "lon": -9.33
+    },
+    "name": "Talmest"
+  },
+  {
+    "country": "MA",
+    "id": 2531014,
+    "coord": {
+      "lat": 30.529169,
+      "lon": -7.91262
+    },
+    "name": "Taliouine"
+  },
+  {
+    "country": "MA",
+    "id": 2531877,
+    "coord": {
+      "lat": 29.724489,
+      "lon": -8.9747
+    },
+    "name": "Tafraout"
+  },
+  {
+    "country": "MA",
+    "id": 2531994,
+    "coord": {
+      "lat": 30.774771,
+      "lon": -9.45951
+    },
+    "name": "Tadrart"
+  },
+  {
+    "country": "MA",
+    "id": 2532195,
+    "coord": {
+      "lat": 34.719231,
+      "lon": -5.1403
+    },
+    "name": "Tabouda"
+  },
+  {
+    "country": "MA",
+    "id": 2532214,
+    "coord": {
+      "lat": 32.03009,
+      "lon": -6.79985
+    },
+    "name": "Tabia"
+  },
+  {
+    "country": "MA",
+    "id": 2532230,
+    "coord": {
+      "lat": 30.03462,
+      "lon": -8.87688
+    },
+    "name": "Tabia"
+  },
+  {
+    "country": "MA",
+    "id": 2532270,
+    "coord": {
+      "lat": 31.65255,
+      "lon": -6.41049
+    },
+    "name": "Tabant"
+  },
+  {
+    "country": "MA",
+    "id": 2532542,
+    "coord": {
+      "lat": 35.07452,
+      "lon": -4.21583
+    },
+    "name": "Senada"
+  },
+  {
+    "country": "MA",
+    "id": 2532628,
+    "coord": {
+      "lat": 31.06262,
+      "lon": -6.5525
+    },
+    "name": "Skoura"
+  },
+  {
+    "country": "MA",
+    "id": 2532797,
+    "coord": {
+      "lat": 32.680111,
+      "lon": -5.57738
+    },
+    "name": "Sidi Yahya Ou Saad"
+  },
+  {
+    "country": "MA",
+    "id": 2532918,
+    "coord": {
+      "lat": 32.822681,
+      "lon": -8.5081
+    },
+    "name": "Sidi Smail"
+  },
+  {
+    "country": "MA",
+    "id": 2533158,
+    "coord": {
+      "lat": 34.68692,
+      "lon": -5.44538
+    },
+    "name": "Sidi Redouane"
+  },
+  {
+    "country": "MA",
+    "id": 2533178,
+    "coord": {
+      "lat": 31.650311,
+      "lon": -7.47288
+    },
+    "name": "Sidi Rahhal"
+  },
+  {
+    "country": "MA",
+    "id": 2533339,
+    "coord": {
+      "lat": 32.272091,
+      "lon": -7.20095
+    },
+    "name": "Sidi Moussa"
+  },
+  {
+    "country": "MA",
+    "id": 2534315,
+    "coord": {
+      "lat": 32.907829,
+      "lon": -6.05069
+    },
+    "name": "Sidi Lamine"
+  },
+  {
+    "country": "MA",
+    "id": 2534496,
+    "coord": {
+      "lat": 32.389519,
+      "lon": -6.42095
+    },
+    "name": "Sidi Jaber"
+  },
+  {
+    "country": "MA",
+    "id": 2534572,
+    "coord": {
+      "lat": 34.027328,
+      "lon": -4.88343
+    },
+    "name": "Sidi Harazem"
+  },
+  {
+    "country": "MA",
+    "id": 2535477,
+    "coord": {
+      "lat": 34.56284,
+      "lon": -5.36208
+    },
+    "name": "Sidi Bousber"
+  },
+  {
+    "country": "MA",
+    "id": 2535534,
+    "coord": {
+      "lat": 31.90226,
+      "lon": -7.94169
+    },
+    "name": "Sidi Bou Othmane"
+  },
+  {
+    "country": "MA",
+    "id": 2536370,
+    "coord": {
+      "lat": 32.949871,
+      "lon": -5.83225
+    },
+    "name": "Sidi Amar"
+  },
+  {
+    "country": "MA",
+    "id": 2537320,
+    "coord": {
+      "lat": 32.535439,
+      "lon": -7.83243
+    },
+    "name": "Sidi Abdallah"
+  },
+  {
+    "country": "MA",
+    "id": 2537469,
+    "coord": {
+      "lat": 35.073132,
+      "lon": -2.9423
+    },
+    "name": "Selouane"
+  },
+  {
+    "country": "MA",
+    "id": 2537965,
+    "coord": {
+      "lat": 35.14119,
+      "lon": -4.13631
+    },
+    "name": "Rouadi"
+  },
+  {
+    "country": "MA",
+    "id": 2538028,
+    "coord": {
+      "lat": 34.769871,
+      "lon": -2.46034
+    },
+    "name": "Rislane"
+  },
+  {
+    "country": "MA",
+    "id": 2538099,
+    "coord": {
+      "lat": 34.477371,
+      "lon": -5.30235
+    },
+    "name": "Ghouazi"
+  },
+  {
+    "country": "MA",
+    "id": 2538332,
+    "coord": {
+      "lat": 29.58016,
+      "lon": -9.70086
+    },
+    "name": "Reggada"
+  },
+  {
+    "country": "MA",
+    "id": 2538385,
+    "coord": {
+      "lat": 34.777721,
+      "lon": -4.9399
+    },
+    "name": "Ratba"
+  },
+  {
+    "country": "MA",
+    "id": 2538652,
+    "coord": {
+      "lat": 34.534771,
+      "lon": -4.96878
+    },
+    "name": "Ourtzagh"
+  },
+  {
+    "country": "MA",
+    "id": 2538898,
+    "coord": {
+      "lat": 33.42585,
+      "lon": -6.00137
+    },
+    "name": "Oulmes"
+  },
+  {
+    "country": "MA",
+    "id": 2539139,
+    "coord": {
+      "lat": 33.946331,
+      "lon": -4.99509
+    },
+    "name": "Oulad Tayeb"
+  },
+  {
+    "country": "MA",
+    "id": 2539936,
+    "coord": {
+      "lat": 34.404381,
+      "lon": -4.69342
+    },
+    "name": "Oulad Daoud"
+  },
+  {
+    "country": "MA",
+    "id": 2540207,
+    "coord": {
+      "lat": 32.200001,
+      "lon": -6.8
+    },
+    "name": "Oulad Ayad"
+  },
+  {
+    "country": "MA",
+    "id": 2540512,
+    "coord": {
+      "lat": 31.17766,
+      "lon": -8.07329
+    },
+    "name": "Ouirgane"
+  },
+  {
+    "country": "MA",
+    "id": 2540554,
+    "coord": {
+      "lat": 29.627781,
+      "lon": -9.53959
+    },
+    "name": "Ouijjane"
+  },
+  {
+    "country": "MA",
+    "id": 2540698,
+    "coord": {
+      "lat": 35.448399,
+      "lon": -5.09627
+    },
+    "name": "Oued Laou"
+  },
+  {
+    "country": "MA",
+    "id": 2540716,
+    "coord": {
+      "lat": 34.200001,
+      "lon": -4.28
+    },
+    "name": "Oued Amlil"
+  },
+  {
+    "country": "MA",
+    "id": 2541779,
+    "coord": {
+      "lat": 34.087929,
+      "lon": -5.18171
+    },
+    "name": "Moulay Yacoub"
+  },
+  {
+    "country": "MA",
+    "id": 2541830,
+    "coord": {
+      "lat": 31.287849,
+      "lon": -7.9683
+    },
+    "name": "Moulay Brahim"
+  },
+  {
+    "country": "MA",
+    "id": 2541840,
+    "coord": {
+      "lat": 34.48922,
+      "lon": -5.13023
+    },
+    "name": "Moulay Bouchta"
+  },
+  {
+    "country": "MA",
+    "id": 2541906,
+    "coord": {
+      "lat": 33.19664,
+      "lon": -8.58811
+    },
+    "name": "Moulay Abdallah"
+  },
+  {
+    "country": "MA",
+    "id": 2542147,
+    "coord": {
+      "lat": 33.048931,
+      "lon": -3.98946
+    },
+    "name": "Missour"
+  },
+  {
+    "country": "MA",
+    "id": 2542230,
+    "coord": {
+      "lat": 34.94025,
+      "lon": -3.53311
+    },
+    "name": "Midar"
+  },
+  {
+    "country": "MA",
+    "id": 2542826,
+    "coord": {
+      "lat": 33.451611,
+      "lon": -7.51995
+    },
+    "name": "Mediouna"
+  },
+  {
+    "country": "MA",
+    "id": 2542957,
+    "coord": {
+      "lat": 34.09914,
+      "lon": -4.55219
+    },
+    "name": "Matmata"
+  },
+  {
+    "country": "MA",
+    "id": 2543231,
+    "coord": {
+      "lat": 35.010319,
+      "lon": -2.33701
+    },
+    "name": "Madagh"
+  },
+  {
+    "country": "MA",
+    "id": 2543394,
+    "coord": {
+      "lat": 31.702169,
+      "lon": -6.3494
+    },
+    "name": "Ifrane"
+  },
+  {
+    "country": "MA",
+    "id": 2543667,
+    "coord": {
+      "lat": 34.846062,
+      "lon": -6.06645
+    },
+    "name": "Lalla Mimouna"
+  },
+  {
+    "country": "MA",
+    "id": 2544510,
+    "coord": {
+      "lat": 32.796391,
+      "lon": -5.3188
+    },
+    "name": "Kerrouchen"
+  },
+  {
+    "country": "MA",
+    "id": 2544815,
+    "coord": {
+      "lat": 35.107101,
+      "lon": -2.74693
+    },
+    "name": "Kariat Arkmane"
+  },
+  {
+    "country": "MA",
+    "id": 2544821,
+    "coord": {
+      "lat": 34.370941,
+      "lon": -5.2138
+    },
+    "name": "Karia Ba Mohamed"
+  },
+  {
+    "country": "MA",
+    "id": 2544968,
+    "coord": {
+      "lat": 31.494419,
+      "lon": -4.40598
+    },
+    "name": "Jorf"
+  },
+  {
+    "country": "MA",
+    "id": 2545346,
+    "coord": {
+      "lat": 32.8783,
+      "lon": -5.0515
+    },
+    "name": "Itzer"
+  },
+  {
+    "country": "MA",
+    "id": 2545436,
+    "coord": {
+      "lat": 32.229809,
+      "lon": -6.27661
+    },
+    "name": "Isseksi"
+  },
+  {
+    "country": "MA",
+    "id": 2546081,
+    "coord": {
+      "lat": 31.37324,
+      "lon": -5.79384
+    },
+    "name": "Imider"
+  },
+  {
+    "country": "MA",
+    "id": 2546187,
+    "coord": {
+      "lat": 32.153091,
+      "lon": -5.62453
+    },
+    "name": "Imilchil"
+  },
+  {
+    "country": "MA",
+    "id": 2546627,
+    "coord": {
+      "lat": 30.838261,
+      "lon": -7.90294
+    },
+    "name": "Iguidi"
+  },
+  {
+    "country": "MA",
+    "id": 2547782,
+    "coord": {
+      "lat": 34.838982,
+      "lon": -2.86699
+    },
+    "name": "Hassi Berkane"
+  },
+  {
+    "country": "MA",
+    "id": 2548313,
+    "coord": {
+      "lat": 31.4447,
+      "lon": -7.39224
+    },
+    "name": "Zerkten"
+  },
+  {
+    "country": "MA",
+    "id": 2548320,
+    "coord": {
+      "lat": 34.615879,
+      "lon": -5.7404
+    },
+    "name": "Had Kourt"
+  },
+  {
+    "country": "MA",
+    "id": 2548343,
+    "coord": {
+      "lat": 32.95956,
+      "lon": -8.2274
+    },
+    "name": "Oulad Frej"
+  },
+  {
+    "country": "MA",
+    "id": 2548420,
+    "coord": {
+      "lat": 32.766449,
+      "lon": -7.49818
+    },
+    "name": "Guisser"
+  },
+  {
+    "country": "MA",
+    "id": 2548503,
+    "coord": {
+      "lat": 34.483608,
+      "lon": -2.04562
+    },
+    "name": "Guenfouda"
+  },
+  {
+    "country": "MA",
+    "id": 2548623,
+    "coord": {
+      "lat": 31.69227,
+      "lon": -4.95256
+    },
+    "name": "Goulmima"
+  },
+  {
+    "country": "MA",
+    "id": 2548713,
+    "coord": {
+      "lat": 34.544239,
+      "lon": -4.80355
+    },
+    "name": "Galaz"
+  },
+  {
+    "country": "MA",
+    "id": 2548851,
+    "coord": {
+      "lat": 32.10891,
+      "lon": -1.22855
+    },
+    "name": "Figuig (Centre)"
+  },
+  {
+    "country": "MA",
+    "id": 2548855,
+    "coord": {
+      "lat": 34.94873,
+      "lon": -5.24798
+    },
+    "name": "Fifi"
+  },
+  {
+    "country": "MA",
+    "id": 2548869,
+    "coord": {
+      "lat": 31.529209,
+      "lon": -4.45562
+    },
+    "name": "Fezna"
+  },
+  {
+    "country": "MA",
+    "id": 2549076,
+    "coord": {
+      "lat": 33.299999,
+      "lon": -6.53
+    },
+    "name": "Ezzhiliga"
+  },
+  {
+    "country": "MA",
+    "id": 2549750,
+    "coord": {
+      "lat": 32.572861,
+      "lon": -6.01947
+    },
+    "name": "El Ksiba"
+  },
+  {
+    "country": "MA",
+    "id": 2550684,
+    "coord": {
+      "lat": 31.870001,
+      "lon": -6.75
+    },
+    "name": "Ouaoula"
+  },
+  {
+    "country": "MA",
+    "id": 2552306,
+    "coord": {
+      "lat": 35.110409,
+      "lon": -5.29015
+    },
+    "name": "Derdara"
+  },
+  {
+    "country": "MA",
+    "id": 2552407,
+    "coord": {
+      "lat": 33.982281,
+      "lon": -3.04263
+    },
+    "name": "Debdou"
+  },
+  {
+    "country": "MA",
+    "id": 2552531,
+    "coord": {
+      "lat": 33.151218,
+      "lon": -7.37504
+    },
+    "name": "Riah"
+  },
+  {
+    "country": "MA",
+    "id": 2552545,
+    "coord": {
+      "lat": 32.312469,
+      "lon": -6.90494
+    },
+    "name": "Dar Ould Zidouh"
+  },
+  {
+    "country": "MA",
+    "id": 2552615,
+    "coord": {
+      "lat": 33.51535,
+      "lon": -7.81677
+    },
+    "name": "Dar Bouazza"
+  },
+  {
+    "country": "MA",
+    "id": 2552886,
+    "coord": {
+      "lat": 35.537701,
+      "lon": -5.71742
+    },
+    "name": "Dar Chaoui"
+  },
+  {
+    "country": "MA",
+    "id": 2553654,
+    "coord": {
+      "lat": 32.091709,
+      "lon": -7.04786
+    },
+    "name": "Bzou"
+  },
+  {
+    "country": "MA",
+    "id": 2553694,
+    "coord": {
+      "lat": 34.967319,
+      "lon": -5.57295
+    },
+    "name": "Brikcha"
+  },
+  {
+    "country": "MA",
+    "id": 2554281,
+    "coord": {
+      "lat": 32.723598,
+      "lon": -5.1025
+    },
+    "name": "Boumia"
+  },
+  {
+    "country": "MA",
+    "id": 2554389,
+    "coord": {
+      "lat": 33.363762,
+      "lon": -4.72896
+    },
+    "name": "Boulemane"
+  },
+  {
+    "country": "MA",
+    "id": 2554409,
+    "coord": {
+      "lat": 32.859951,
+      "lon": -8.05555
+    },
+    "name": "Boulaouane"
+  },
+  {
+    "country": "MA",
+    "id": 2554997,
+    "coord": {
+      "lat": 35.15601,
+      "lon": -3.62358
+    },
+    "name": "Boudinar"
+  },
+  {
+    "country": "MA",
+    "id": 2555157,
+    "coord": {
+      "lat": 32.529999,
+      "lon": -1.95
+    },
+    "name": "Bouarfa"
+  },
+  {
+    "country": "MA",
+    "id": 2555262,
+    "coord": {
+      "lat": 31.265539,
+      "lon": -9.17865
+    },
+    "name": "Bouabout"
+  },
+  {
+    "country": "MA",
+    "id": 2555372,
+    "coord": {
+      "lat": 30.723761,
+      "lon": -9.21097
+    },
+    "name": "Bigoudine"
+  },
+  {
+    "country": "MA",
+    "id": 2555395,
+    "coord": {
+      "lat": 33.85194,
+      "lon": -4.87228
+    },
+    "name": "Bhalil"
+  },
+  {
+    "country": "MA",
+    "id": 2556377,
+    "coord": {
+      "lat": 35.061661,
+      "lon": -5.19828
+    },
+    "name": "Bab Taza"
+  },
+  {
+    "country": "MA",
+    "id": 2556629,
+    "coord": {
+      "lat": 31.137529,
+      "lon": -8.31488
+    },
+    "name": "Azgour"
+  },
+  {
+    "country": "MA",
+    "id": 2556835,
+    "coord": {
+      "lat": 31.95286,
+      "lon": -5.20812
+    },
+    "name": "Assoul"
+  },
+  {
+    "country": "MA",
+    "id": 2556991,
+    "coord": {
+      "lat": 30.23,
+      "lon": -8.86
+    },
+    "name": "Assads"
+  },
+  {
+    "country": "MA",
+    "id": 2557347,
+    "coord": {
+      "lat": 30.782499,
+      "lon": -9.11968
+    },
+    "name": "Argana"
+  },
+  {
+    "country": "MA",
+    "id": 2557391,
+    "coord": {
+      "lat": 34.90239,
+      "lon": -5.94871
+    },
+    "name": "Arbaoua"
+  },
+  {
+    "country": "MA",
+    "id": 2557415,
+    "coord": {
+      "lat": 30.50346,
+      "lon": -8.60637
+    },
+    "name": "Arazane"
+  },
+  {
+    "country": "MA",
+    "id": 2557500,
+    "coord": {
+      "lat": 30.49238,
+      "lon": -9.6355
+    },
+    "name": "Aourir"
+  },
+  {
+    "country": "MA",
+    "id": 2557533,
+    "coord": {
+      "lat": 30.673071,
+      "lon": -8.18087
+    },
+    "name": "Aoulouz"
+  },
+  {
+    "country": "MA",
+    "id": 2557595,
+    "coord": {
+      "lat": 31.68,
+      "lon": -4.17
+    },
+    "name": "Aoufous"
+  },
+  {
+    "country": "MA",
+    "id": 2557995,
+    "coord": {
+      "lat": 32.27491,
+      "lon": -4.93535
+    },
+    "name": "Amouguer"
+  },
+  {
+    "country": "MA",
+    "id": 2558052,
+    "coord": {
+      "lat": 31.21673,
+      "lon": -8.23184
+    },
+    "name": "Amizmiz"
+  },
+  {
+    "country": "MA",
+    "id": 2558118,
+    "coord": {
+      "lat": 31.043699,
+      "lon": -7.21037
+    },
+    "name": "Amerzgane"
+  },
+  {
+    "country": "MA",
+    "id": 2558122,
+    "coord": {
+      "lat": 32.749828,
+      "lon": -4.47063
+    },
+    "name": "Amersid"
+  },
+  {
+    "country": "MA",
+    "id": 2558337,
+    "coord": {
+      "lat": 30.19153,
+      "lon": -8.74873
+    },
+    "name": "Amalou"
+  },
+  {
+    "country": "MA",
+    "id": 2558398,
+    "coord": {
+      "lat": 31.114111,
+      "lon": -5.17154
+    },
+    "name": "Alnif"
+  },
+  {
+    "country": "MA",
+    "id": 2558415,
+    "coord": {
+      "lat": 33.32,
+      "lon": -4.18
+    },
+    "name": "Almis Marmoucha"
+  },
+  {
+    "country": "MA",
+    "id": 2558633,
+    "coord": {
+      "lat": 34.653709,
+      "lon": -3.86754
+    },
+    "name": "Aknoul"
+  },
+  {
+    "country": "MA",
+    "id": 2558768,
+    "coord": {
+      "lat": 34.743469,
+      "lon": -3.97582
+    },
+    "name": "Ajdir"
+  },
+  {
+    "country": "MA",
+    "id": 2559366,
+    "coord": {
+      "lat": 32.069141,
+      "lon": -5.93961
+    },
+    "name": "Anergui"
+  },
+  {
+    "country": "MA",
+    "id": 2561290,
+    "coord": {
+      "lat": 33.161388,
+      "lon": -5.84626
+    },
+    "name": "Aguelmous"
+  },
+  {
+    "country": "MA",
+    "id": 2561291,
+    "coord": {
+      "lat": 33.150002,
+      "lon": -5.83
+    },
+    "name": "Aguelmous"
+  },
+  {
+    "country": "MA",
+    "id": 2561539,
+    "coord": {
+      "lat": 30.69356,
+      "lon": -6.44628
+    },
+    "name": "Agdz"
+  },
+  {
+    "country": "MA",
+    "id": 2561614,
+    "coord": {
+      "lat": 30.22492,
+      "lon": -7.79601
+    },
+    "name": "Agadir Melloul"
+  },
+  {
+    "country": "MA",
+    "id": 2561957,
+    "coord": {
+      "lat": 31.10783,
+      "lon": -8.49083
+    },
+    "name": "Adassil"
+  },
+  {
+    "country": "MA",
+    "id": 2561978,
+    "coord": {
+      "lat": 30.141109,
+      "lon": -8.37221
+    },
+    "name": "Adar"
+  },
+  {
+    "country": "MA",
+    "id": 2562202,
+    "coord": {
+      "lat": 31.57917,
+      "lon": -7.31308
+    },
+    "name": "Abadou"
+  },
+  {
+    "country": "MA",
+    "id": 2565241,
+    "coord": {
+      "lat": 33.380001,
+      "lon": -7.14
+    },
+    "name": "Mellila"
+  },
+  {
+    "country": "MA",
+    "id": 2565258,
+    "coord": {
+      "lat": 31.46586,
+      "lon": -7.61199
+    },
+    "name": "Tidili Mesfioua"
+  },
+  {
+    "country": "MA",
+    "id": 2565267,
+    "coord": {
+      "lat": 29.82,
+      "lon": -5.72
+    },
+    "name": "Mhamid"
+  },
+  {
+    "country": "MA",
+    "id": 2565337,
+    "coord": {
+      "lat": 33.470001,
+      "lon": -7.53
+    },
+    "name": "Mediouna"
+  },
+  {
+    "country": "MA",
+    "id": 2568012,
+    "coord": {
+      "lat": 30.542589,
+      "lon": -9.71115
+    },
+    "name": "Taghazout"
+  },
+  {
+    "country": "MA",
+    "id": 2568400,
+    "coord": {
+      "lat": 30.69602,
+      "lon": -9.82972
+    },
+    "name": "Tamri"
+  },
+  {
+    "country": "MA",
+    "id": 2569052,
+    "coord": {
+      "lat": 31.21014,
+      "lon": -9.70864
+    },
+    "name": "Smimou"
+  },
+  {
+    "country": "MA",
+    "id": 2571059,
+    "coord": {
+      "lat": 35.412109,
+      "lon": -5.06836
+    },
+    "name": "Tizgane"
+  },
+  {
+    "country": "MA",
+    "id": 2571909,
+    "coord": {
+      "lat": 34.360001,
+      "lon": -4.81
+    },
+    "name": "Bouarouss"
+  },
+  {
+    "country": "MA",
+    "id": 2571932,
+    "coord": {
+      "lat": 35.553028,
+      "lon": -5.24472
+    },
+    "name": "Azla"
+  },
+  {
+    "country": "MA",
+    "id": 2572146,
+    "coord": {
+      "lat": 35.7328,
+      "lon": -5.89954
+    },
+    "name": "Boukhalef"
+  },
+  {
+    "country": "MA",
+    "id": 2596325,
+    "coord": {
+      "lat": 31.02722,
+      "lon": -5.11643
+    },
+    "name": "Jebel Tiskaouine"
+  },
+  {
+    "country": "MA",
+    "id": 7280528,
+    "coord": {
+      "lat": 31.92754,
+      "lon": -4.42852
+    },
+    "name": "Errachidia"
+  },
+  {
+    "country": "MA",
+    "id": 2534249,
+    "coord": {
+      "lat": 33.514019,
+      "lon": -7.65384
+    },
+    "name": "Sidi Ma’rouf"
+  }
+
+]

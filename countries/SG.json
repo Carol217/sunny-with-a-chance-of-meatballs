@@ -1,0 +1,130 @@
+[
+
+  {
+    "country": "SG",
+    "id": 1880251,
+    "coord": {
+      "lat": 1.36667,
+      "lon": 103.800003
+    },
+    "name": "Republic of Singapore"
+  },
+  {
+    "country": "SG",
+    "id": 1880755,
+    "coord": {
+      "lat": 1.35,
+      "lon": 103.833328
+    },
+    "name": "Bright Hill Crescent"
+  },
+  {
+    "country": "SG",
+    "id": 1882558,
+    "coord": {
+      "lat": 1.35722,
+      "lon": 103.836388
+    },
+    "name": "Thomson Park"
+  },
+  {
+    "country": "SG",
+    "id": 1880252,
+    "coord": {
+      "lat": 1.28967,
+      "lon": 103.850067
+    },
+    "name": "Singapore"
+  },
+  {
+    "country": "SG",
+    "id": 1882316,
+    "coord": {
+      "lat": 1.44444,
+      "lon": 103.776672
+    },
+    "name": "Woodlands New Town"
+  },
+  {
+    "country": "SG",
+    "id": 1880574,
+    "coord": {
+      "lat": 1.37833,
+      "lon": 103.931938
+    },
+    "name": "Kampong Pasir Ris"
+  },
+  {
+    "country": "SG",
+    "id": 1880216,
+    "coord": {
+      "lat": 1.35806,
+      "lon": 103.940277
+    },
+    "name": "Tampines Estate"
+  },
+  {
+    "country": "SG",
+    "id": 1880294,
+    "coord": {
+      "lat": 1.41,
+      "lon": 103.874168
+    },
+    "name": "Seletar"
+  },
+  {
+    "country": "SG",
+    "id": 1882749,
+    "coord": {
+      "lat": 1.35222,
+      "lon": 103.898064
+    },
+    "name": "Kampong Siren"
+  },
+  {
+    "country": "SG",
+    "id": 1882753,
+    "coord": {
+      "lat": 1.36278,
+      "lon": 103.908333
+    },
+    "name": "Punggol Estate"
+  },
+  {
+    "country": "SG",
+    "id": 1882118,
+    "coord": {
+      "lat": 1.30139,
+      "lon": 103.797501
+    },
+    "name": "Tanglin Halt"
+  },
+  {
+    "country": "SG",
+    "id": 1882707,
+    "coord": {
+      "lat": 1.31139,
+      "lon": 103.797783
+    },
+    "name": "Chinese Gardens"
+  },
+  {
+    "country": "SG",
+    "id": 1880701,
+    "coord": {
+      "lat": 1.42611,
+      "lon": 103.824173
+    },
+    "name": "Chye Kay"
+  },
+  {
+    "country": "SG",
+    "id": 1880242,
+    "coord": {
+      "lat": 1.36667,
+      "lon": 103.883331
+    },
+    "name": "Somapah Serangoon"
+  }
+
+]

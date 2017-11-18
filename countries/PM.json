@@ -1,0 +1,40 @@
+[
+
+  {
+    "country": "PM",
+    "id": 3424934,
+    "coord": {
+      "lat": 46.765442,
+      "lon": -56.169491
+    },
+    "name": "Saint-Pierre"
+  },
+  {
+    "country": "PM",
+    "id": 3424932,
+    "coord": {
+      "lat": 46.833328,
+      "lon": -56.333328
+    },
+    "name": "Saint-Pierre et Miquelon"
+  },
+  {
+    "country": "PM",
+    "id": 3424935,
+    "coord": {
+      "lat": 46.783329,
+      "lon": -56.200001
+    },
+    "name": "Commune de Saint-Pierre"
+  },
+  {
+    "country": "PM",
+    "id": 3424941,
+    "coord": {
+      "lat": 47.0975,
+      "lon": -56.38139
+    },
+    "name": "Miquelon"
+  }
+
+]

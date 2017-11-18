@@ -1,0 +1,175 @@
+[
+
+  {
+    "country": "LI",
+    "id": 3042058,
+    "coord": {
+      "lat": 47.166672,
+      "lon": 9.53333
+    },
+    "name": "Principality of Liechtenstein"
+  },
+  {
+    "country": "LI",
+    "id": 3042031,
+    "coord": {
+      "lat": 47.133331,
+      "lon": 9.51667
+    },
+    "name": "Gemeinde Vaduz"
+  },
+  {
+    "country": "LI",
+    "id": 3042030,
+    "coord": {
+      "lat": 47.14151,
+      "lon": 9.52154
+    },
+    "name": "Vaduz"
+  },
+  {
+    "country": "LI",
+    "id": 3042052,
+    "coord": {
+      "lat": 47.19846,
+      "lon": 9.543
+    },
+    "name": "Nendeln"
+  },
+  {
+    "country": "LI",
+    "id": 3042056,
+    "coord": {
+      "lat": 47.216671,
+      "lon": 9.53333
+    },
+    "name": "Gemeinde Mauren"
+  },
+  {
+    "country": "LI",
+    "id": 3042040,
+    "coord": {
+      "lat": 47.211868,
+      "lon": 9.5624
+    },
+    "name": "Schaanwald"
+  },
+  {
+    "country": "LI",
+    "id": 3042074,
+    "coord": {
+      "lat": 47.066669,
+      "lon": 9.5
+    },
+    "name": "Gemeinde Balzers"
+  },
+  {
+    "country": "LI",
+    "id": 3042069,
+    "coord": {
+      "lat": 47.216671,
+      "lon": 9.51667
+    },
+    "name": "Gemeinde Eschen"
+  },
+  {
+    "country": "LI",
+    "id": 3315349,
+    "coord": {
+      "lat": 47.049999,
+      "lon": 9.5
+    },
+    "name": "Mäls"
+  },
+  {
+    "country": "LI",
+    "id": 3042033,
+    "coord": {
+      "lat": 47.118149,
+      "lon": 9.54197
+    },
+    "name": "Triesenberg"
+  },
+  {
+    "country": "LI",
+    "id": 3042035,
+    "coord": {
+      "lat": 47.099998,
+      "lon": 9.53333
+    },
+    "name": "Triesen"
+  },
+  {
+    "country": "LI",
+    "id": 3042037,
+    "coord": {
+      "lat": 47.231232,
+      "lon": 9.54678
+    },
+    "name": "Schellenberg"
+  },
+  {
+    "country": "LI",
+    "id": 3042041,
+    "coord": {
+      "lat": 47.164982,
+      "lon": 9.50867
+    },
+    "name": "Schaan"
+  },
+  {
+    "country": "LI",
+    "id": 3042046,
+    "coord": {
+      "lat": 47.23333,
+      "lon": 9.51667
+    },
+    "name": "Ruggell"
+  },
+  {
+    "country": "LI",
+    "id": 3042049,
+    "coord": {
+      "lat": 47.185162,
+      "lon": 9.54437
+    },
+    "name": "Planken"
+  },
+  {
+    "country": "LI",
+    "id": 3042055,
+    "coord": {
+      "lat": 47.218048,
+      "lon": 9.5442
+    },
+    "name": "Mauren"
+  },
+  {
+    "country": "LI",
+    "id": 3042062,
+    "coord": {
+      "lat": 47.220379,
+      "lon": 9.50935
+    },
+    "name": "Gamprin"
+  },
+  {
+    "country": "LI",
+    "id": 3042068,
+    "coord": {
+      "lat": 47.210709,
+      "lon": 9.52223
+    },
+    "name": "Eschen"
+  },
+  {
+    "country": "LI",
+    "id": 3042073,
+    "coord": {
+      "lat": 47.066669,
+      "lon": 9.5
+    },
+    "name": "Balzers"
+  }
+
+]

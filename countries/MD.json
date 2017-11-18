@@ -1,0 +1,1687 @@
+[
+
+  {
+    "country": "MD",
+    "id": 618382,
+    "coord": {
+      "lat": 48.24268,
+      "lon": 27.6101
+    },
+    "name": "Donduseni"
+  },
+  {
+    "country": "MD",
+    "id": 617381,
+    "coord": {
+      "lat": 46.728062,
+      "lon": 29.707781
+    },
+    "name": "Slobozia"
+  },
+  {
+    "country": "MD",
+    "id": 617991,
+    "coord": {
+      "lat": 46.833328,
+      "lon": 28.83333
+    },
+    "name": "Raionul Ialoveni"
+  },
+  {
+    "country": "MD",
+    "id": 617182,
+    "coord": {
+      "lat": 47.02,
+      "lon": 28.54583
+    },
+    "name": "Ulmu"
+  },
+  {
+    "country": "MD",
+    "id": 617914,
+    "coord": {
+      "lat": 47.64056,
+      "lon": 28.141939
+    },
+    "name": "Singerei"
+  },
+  {
+    "country": "MD",
+    "id": 617790,
+    "coord": {
+      "lat": 47,
+      "lon": 29
+    },
+    "name": "Republic of Moldova"
+  },
+  {
+    "country": "MD",
+    "id": 617345,
+    "coord": {
+      "lat": 47.656391,
+      "lon": 28.04722
+    },
+    "name": "Bilicenii Vechi"
+  },
+  {
+    "country": "MD",
+    "id": 618069,
+    "coord": {
+      "lat": 47,
+      "lon": 28.83333
+    },
+    "name": "Municipiul Chişinău"
+  },
+  {
+    "country": "MD",
+    "id": 824153,
+    "coord": {
+      "lat": 47.12944,
+      "lon": 28.885559
+    },
+    "name": "Ciorescu"
+  },
+  {
+    "country": "MD",
+    "id": 618426,
+    "coord": {
+      "lat": 47.005562,
+      "lon": 28.8575
+    },
+    "name": "Chisinau"
+  },
+  {
+    "country": "MD",
+    "id": 858889,
+    "coord": {
+      "lat": 47.366669,
+      "lon": 29.25
+    },
+    "name": "Unitatea Teritorială din Stînga Nistrului"
+  },
+  {
+    "country": "MD",
+    "id": 617239,
+    "coord": {
+      "lat": 46.840279,
+      "lon": 29.64333
+    },
+    "name": "Tiraspol"
+  },
+  {
+    "country": "MD",
+    "id": 861487,
+    "coord": {
+      "lat": 46.833328,
+      "lon": 29.450001
+    },
+    "name": "Municipiul Bender"
+  },
+  {
+    "country": "MD",
+    "id": 618577,
+    "coord": {
+      "lat": 46.830559,
+      "lon": 29.471109
+    },
+    "name": "Bender"
+  },
+  {
+    "country": "MD",
+    "id": 618387,
+    "coord": {
+      "lat": 46.622219,
+      "lon": 29.91333
+    },
+    "name": "Dnestrovsc"
+  },
+  {
+    "country": "MD",
+    "id": 617486,
+    "coord": {
+      "lat": 47.766392,
+      "lon": 29.00111
+    },
+    "name": "Ribnita"
+  },
+  {
+    "country": "MD",
+    "id": 618365,
+    "coord": {
+      "lat": 47.263062,
+      "lon": 29.16083
+    },
+    "name": "Dubasari"
+  },
+  {
+    "country": "MD",
+    "id": 618430,
+    "coord": {
+      "lat": 46.583328,
+      "lon": 28.83333
+    },
+    "name": "Raionul Cimişlia"
+  },
+  {
+    "country": "MD",
+    "id": 618406,
+    "coord": {
+      "lat": 46.52,
+      "lon": 28.78417
+    },
+    "name": "Cimislia"
+  },
+  {
+    "country": "MD",
+    "id": 617301,
+    "coord": {
+      "lat": 47.166672,
+      "lon": 28.58333
+    },
+    "name": "Raionul Străşeni"
+  },
+  {
+    "country": "MD",
+    "id": 617302,
+    "coord": {
+      "lat": 47.141392,
+      "lon": 28.610279
+    },
+    "name": "Straseni"
+  },
+  {
+    "country": "MD",
+    "id": 617077,
+    "coord": {
+      "lat": 48.166672,
+      "lon": 27.25
+    },
+    "name": "Raionul Edineţ"
+  },
+  {
+    "country": "MD",
+    "id": 617076,
+    "coord": {
+      "lat": 48.16806,
+      "lon": 27.305
+    },
+    "name": "Edinet"
+  },
+  {
+    "country": "MD",
+    "id": 618331,
+    "coord": {
+      "lat": 47.873981,
+      "lon": 28.377741
+    },
+    "name": "Raionul Floreşti"
+  },
+  {
+    "country": "MD",
+    "id": 618329,
+    "coord": {
+      "lat": 47.89333,
+      "lon": 28.30139
+    },
+    "name": "Floresti"
+  },
+  {
+    "country": "MD",
+    "id": 618162,
+    "coord": {
+      "lat": 47.293652,
+      "lon": 28.308359
+    },
+    "name": "Raionul Călăraşi"
+  },
+  {
+    "country": "MD",
+    "id": 618454,
+    "coord": {
+      "lat": 47.25444,
+      "lon": 28.30806
+    },
+    "name": "Calarasi"
+  },
+  {
+    "country": "MD",
+    "id": 617366,
+    "coord": {
+      "lat": 48.166672,
+      "lon": 28.25
+    },
+    "name": "Raionul Soroca"
+  },
+  {
+    "country": "MD",
+    "id": 617367,
+    "coord": {
+      "lat": 48.15583,
+      "lon": 28.297501
+    },
+    "name": "Soroca"
+  },
+  {
+    "country": "MD",
+    "id": 617639,
+    "coord": {
+      "lat": 47.416672,
+      "lon": 28.83333
+    },
+    "name": "Raionul Orhei"
+  },
+  {
+    "country": "MD",
+    "id": 617638,
+    "coord": {
+      "lat": 47.38306,
+      "lon": 28.823059
+    },
+    "name": "Orhei"
+  },
+  {
+    "country": "MD",
+    "id": 873909,
+    "coord": {
+      "lat": 47.783329,
+      "lon": 27.91667
+    },
+    "name": "Municipiul Bălţi"
+  },
+  {
+    "country": "MD",
+    "id": 618605,
+    "coord": {
+      "lat": 47.761669,
+      "lon": 27.92889
+    },
+    "name": "Balti"
+  },
+  {
+    "country": "MD",
+    "id": 618511,
+    "coord": {
+      "lat": 48.25,
+      "lon": 27
+    },
+    "name": "Raionul Briceni"
+  },
+  {
+    "country": "MD",
+    "id": 617961,
+    "coord": {
+      "lat": 48.271111,
+      "lon": 26.67222
+    },
+    "name": "Criva"
+  },
+  {
+    "country": "MD",
+    "id": 617903,
+    "coord": {
+      "lat": 46.5,
+      "lon": 28.41667
+    },
+    "name": "Raionul Leova"
+  },
+  {
+    "country": "MD",
+    "id": 617904,
+    "coord": {
+      "lat": 46.478611,
+      "lon": 28.25528
+    },
+    "name": "Leova"
+  },
+  {
+    "country": "MD",
+    "id": 858895,
+    "coord": {
+      "lat": 46.166672,
+      "lon": 28.66667
+    },
+    "name": "Unitate Teritorială Autonomă Găgăuzia"
+  },
+  {
+    "country": "MD",
+    "id": 618405,
+    "coord": {
+      "lat": 46.300282,
+      "lon": 28.657221
+    },
+    "name": "Comrat"
+  },
+  {
+    "country": "MD",
+    "id": 617181,
+    "coord": {
+      "lat": 47.333328,
+      "lon": 27.91667
+    },
+    "name": "Raionul Ungheni"
+  },
+  {
+    "country": "MD",
+    "id": 617180,
+    "coord": {
+      "lat": 47.20417,
+      "lon": 27.79583
+    },
+    "name": "Ungheni"
+  },
+  {
+    "country": "MD",
+    "id": 617715,
+    "coord": {
+      "lat": 46.916672,
+      "lon": 29.25
+    },
+    "name": "Raionul Anenii Noi"
+  },
+  {
+    "country": "MD",
+    "id": 617702,
+    "coord": {
+      "lat": 46.878891,
+      "lon": 29.22472
+    },
+    "name": "Anenii Noi"
+  },
+  {
+    "country": "MD",
+    "id": 618260,
+    "coord": {
+      "lat": 47.75,
+      "lon": 27.5
+    },
+    "name": "Raionul Glodeni"
+  },
+  {
+    "country": "MD",
+    "id": 618261,
+    "coord": {
+      "lat": 47.770828,
+      "lon": 27.514441
+    },
+    "name": "Glodeni"
+  },
+  {
+    "country": "MD",
+    "id": 618597,
+    "coord": {
+      "lat": 46.901939,
+      "lon": 28.668329
+    },
+    "name": "Bardar"
+  },
+  {
+    "country": "MD",
+    "id": 617864,
+    "coord": {
+      "lat": 46.785831,
+      "lon": 28.778061
+    },
+    "name": "Moleşti"
+  },
+  {
+    "country": "MD",
+    "id": 618078,
+    "coord": {
+      "lat": 46.922501,
+      "lon": 29.109171
+    },
+    "name": "Chirca"
+  },
+  {
+    "country": "MD",
+    "id": 617656,
+    "coord": {
+      "lat": 48.416672,
+      "lon": 27.5
+    },
+    "name": "Raionul Ocniţa"
+  },
+  {
+    "country": "MD",
+    "id": 617659,
+    "coord": {
+      "lat": 48.385281,
+      "lon": 27.439171
+    },
+    "name": "Ocnita"
+  },
+  {
+    "country": "MD",
+    "id": 618196,
+    "coord": {
+      "lat": 46.943062,
+      "lon": 28.777781
+    },
+    "name": "Ialoveni"
+  },
+  {
+    "country": "MD",
+    "id": 617754,
+    "coord": {
+      "lat": 47.083328,
+      "lon": 28.16667
+    },
+    "name": "Raionul Nisporeni"
+  },
+  {
+    "country": "MD",
+    "id": 617753,
+    "coord": {
+      "lat": 47.08139,
+      "lon": 28.178329
+    },
+    "name": "Nisporeni"
+  },
+  {
+    "country": "MD",
+    "id": 618164,
+    "coord": {
+      "lat": 45.833328,
+      "lon": 28.33333
+    },
+    "name": "Raionul Cahul"
+  },
+  {
+    "country": "MD",
+    "id": 618456,
+    "coord": {
+      "lat": 45.907501,
+      "lon": 28.194441
+    },
+    "name": "Cahul"
+  },
+  {
+    "country": "MD",
+    "id": 618450,
+    "coord": {
+      "lat": 46.055,
+      "lon": 28.83028
+    },
+    "name": "Ceadir-Lunga"
+  },
+  {
+    "country": "MD",
+    "id": 618119,
+    "coord": {
+      "lat": 46.618839,
+      "lon": 29.313499
+    },
+    "name": "Raionul Căuşeni"
+  },
+  {
+    "country": "MD",
+    "id": 618586,
+    "coord": {
+      "lat": 46.590832,
+      "lon": 29.092779
+    },
+    "name": "Baimaclia"
+  },
+  {
+    "country": "MD",
+    "id": 618565,
+    "coord": {
+      "lat": 46.416672,
+      "lon": 28.91667
+    },
+    "name": "Raionul Basarabeasca"
+  },
+  {
+    "country": "MD",
+    "id": 618594,
+    "coord": {
+      "lat": 46.331108,
+      "lon": 28.97278
+    },
+    "name": "Basarabeasca"
+  },
+  {
+    "country": "MD",
+    "id": 617962,
+    "coord": {
+      "lat": 47.158611,
+      "lon": 29.030649
+    },
+    "name": "Raionul Criuleni"
+  },
+  {
+    "country": "MD",
+    "id": 618403,
+    "coord": {
+      "lat": 47.214439,
+      "lon": 29.16139
+    },
+    "name": "Criuleni"
+  },
+  {
+    "country": "MD",
+    "id": 618369,
+    "coord": {
+      "lat": 48.083328,
+      "lon": 27.83333
+    },
+    "name": "Raionul Drochia"
+  },
+  {
+    "country": "MD",
+    "id": 618370,
+    "coord": {
+      "lat": 48.035,
+      "lon": 27.816111
+    },
+    "name": "Drochia"
+  },
+  {
+    "country": "MD",
+    "id": 618381,
+    "coord": {
+      "lat": 48.2677,
+      "lon": 27.686159
+    },
+    "name": "Raionul Donduşeni"
+  },
+  {
+    "country": "MD",
+    "id": 618512,
+    "coord": {
+      "lat": 48.35722,
+      "lon": 27.703609
+    },
+    "name": "Briceni"
+  },
+  {
+    "country": "MD",
+    "id": 617866,
+    "coord": {
+      "lat": 47.009998,
+      "lon": 29.012779
+    },
+    "name": "Maximovca"
+  },
+  {
+    "country": "MD",
+    "id": 858803,
+    "coord": {
+      "lat": 46.833328,
+      "lon": 28.41667
+    },
+    "name": "Raionul Hînceşti"
+  },
+  {
+    "country": "MD",
+    "id": 617993,
+    "coord": {
+      "lat": 46.825829,
+      "lon": 28.593611
+    },
+    "name": "Hincesti"
+  },
+  {
+    "country": "MD",
+    "id": 618345,
+    "coord": {
+      "lat": 47.583328,
+      "lon": 27.75
+    },
+    "name": "Raionul Făleşti"
+  },
+  {
+    "country": "MD",
+    "id": 618344,
+    "coord": {
+      "lat": 47.573608,
+      "lon": 27.709169
+    },
+    "name": "Falesti"
+  },
+  {
+    "country": "MD",
+    "id": 617279,
+    "coord": {
+      "lat": 46.913059,
+      "lon": 28.977501
+    },
+    "name": "Singera"
+  },
+  {
+    "country": "MD",
+    "id": 617501,
+    "coord": {
+      "lat": 47.666672,
+      "lon": 28.83333
+    },
+    "name": "Raionul Rezina"
+  },
+  {
+    "country": "MD",
+    "id": 617502,
+    "coord": {
+      "lat": 47.749168,
+      "lon": 28.962219
+    },
+    "name": "Rezina"
+  },
+  {
+    "country": "MD",
+    "id": 618120,
+    "coord": {
+      "lat": 46.644169,
+      "lon": 29.413891
+    },
+    "name": "Causeni"
+  },
+  {
+    "country": "MD",
+    "id": 617483,
+    "coord": {
+      "lat": 47.92778,
+      "lon": 27.535089
+    },
+    "name": "Raionul Rîşcani"
+  },
+  {
+    "country": "MD",
+    "id": 617482,
+    "coord": {
+      "lat": 47.957218,
+      "lon": 27.55389
+    },
+    "name": "Riscani"
+  },
+  {
+    "country": "MD",
+    "id": 617283,
+    "coord": {
+      "lat": 46.5,
+      "lon": 29.66667
+    },
+    "name": "Raionul Ştefan Vodă"
+  },
+  {
+    "country": "MD",
+    "id": 617633,
+    "coord": {
+      "lat": 46.408611,
+      "lon": 30.096109
+    },
+    "name": "Palanca"
+  },
+  {
+    "country": "MD",
+    "id": 618009,
+    "coord": {
+      "lat": 47.938061,
+      "lon": 28.464439
+    },
+    "name": "Coşerniţa"
+  },
+  {
+    "country": "MD",
+    "id": 617284,
+    "coord": {
+      "lat": 46.515282,
+      "lon": 29.663059
+    },
+    "name": "Stefan Voda"
+  },
+  {
+    "country": "MD",
+    "id": 824134,
+    "coord": {
+      "lat": 47.073891,
+      "lon": 28.735001
+    },
+    "name": "Vatra"
+  },
+  {
+    "country": "MD",
+    "id": 617317,
+    "coord": {
+      "lat": 47.087502,
+      "lon": 28.870279
+    },
+    "name": "Stauceni"
+  },
+  {
+    "country": "MD",
+    "id": 617824,
+    "coord": {
+      "lat": 46.674721,
+      "lon": 28.64917
+    },
+    "name": "Mereni"
+  },
+  {
+    "country": "MD",
+    "id": 617851,
+    "coord": {
+      "lat": 46.899441,
+      "lon": 28.80472
+    },
+    "name": "Mileştii Mici"
+  },
+  {
+    "country": "MD",
+    "id": 618455,
+    "coord": {
+      "lat": 46.67889,
+      "lon": 29.04611
+    },
+    "name": "Căinari"
+  },
+  {
+    "country": "MD",
+    "id": 617982,
+    "coord": {
+      "lat": 47.092781,
+      "lon": 28.65806
+    },
+    "name": "Cojuşna"
+  },
+  {
+    "country": "MD",
+    "id": 617913,
+    "coord": {
+      "lat": 47.666672,
+      "lon": 28.16667
+    },
+    "name": "Raionul Sîngerei"
+  },
+  {
+    "country": "MD",
+    "id": 617902,
+    "coord": {
+      "lat": 46.80917,
+      "lon": 28.19944
+    },
+    "name": "Leuşeni"
+  },
+  {
+    "country": "MD",
+    "id": 617965,
+    "coord": {
+      "lat": 47.138889,
+      "lon": 28.86194
+    },
+    "name": "Cricova"
+  },
+  {
+    "country": "MD",
+    "id": 617879,
+    "coord": {
+      "lat": 47.246109,
+      "lon": 29.16667
+    },
+    "name": "Lunga"
+  },
+  {
+    "country": "MD",
+    "id": 617094,
+    "coord": {
+      "lat": 47.1525,
+      "lon": 28.191669
+    },
+    "name": "Vulcăneşti"
+  },
+  {
+    "country": "MD",
+    "id": 617897,
+    "coord": {
+      "lat": 48.265282,
+      "lon": 26.80389
+    },
+    "name": "Lipcani"
+  },
+  {
+    "country": "MD",
+    "id": 618267,
+    "coord": {
+      "lat": 48.04472,
+      "lon": 27.75083
+    },
+    "name": "Ţarigrad"
+  },
+  {
+    "country": "MD",
+    "id": 618054,
+    "coord": {
+      "lat": 46.975281,
+      "lon": 28.819441
+    },
+    "name": "Codru"
+  },
+  {
+    "country": "MD",
+    "id": 617341,
+    "coord": {
+      "lat": 47.133888,
+      "lon": 29.197781
+    },
+    "name": "Dubăsarii Vechi"
+  },
+  {
+    "country": "MD",
+    "id": 617461,
+    "coord": {
+      "lat": 46.727501,
+      "lon": 28.514999
+    },
+    "name": "Sărata-Galbenă"
+  },
+  {
+    "country": "MD",
+    "id": 617480,
+    "coord": {
+      "lat": 46.449169,
+      "lon": 28.878611
+    },
+    "name": "Sadaclia"
+  },
+  {
+    "country": "MD",
+    "id": 617264,
+    "coord": {
+      "lat": 45.916672,
+      "lon": 28.58333
+    },
+    "name": "Raionul Taraclia"
+  },
+  {
+    "country": "MD",
+    "id": 617187,
+    "coord": {
+      "lat": 46.15472,
+      "lon": 28.965561
+    },
+    "name": "Tvardiţa"
+  },
+  {
+    "country": "MD",
+    "id": 618240,
+    "coord": {
+      "lat": 47.099171,
+      "lon": 28.816669
+    },
+    "name": "Grătieşti"
+  },
+  {
+    "country": "MD",
+    "id": 617206,
+    "coord": {
+      "lat": 48.215832,
+      "lon": 27.672779
+    },
+    "name": "Ţaul"
+  },
+  {
+    "country": "MD",
+    "id": 618015,
+    "coord": {
+      "lat": 48.222778,
+      "lon": 27.042219
+    },
+    "name": "Corjeuţi"
+  },
+  {
+    "country": "MD",
+    "id": 617149,
+    "coord": {
+      "lat": 46.866058,
+      "lon": 29.46636
+    },
+    "name": "Varnita"
+  },
+  {
+    "country": "MD",
+    "id": 618207,
+    "coord": {
+      "lat": 46.842499,
+      "lon": 29.35833
+    },
+    "name": "Hîrbovăţ"
+  },
+  {
+    "country": "MD",
+    "id": 617164,
+    "coord": {
+      "lat": 47.091671,
+      "lon": 29.07556
+    },
+    "name": "Vadul lui Voda"
+  },
+  {
+    "country": "MD",
+    "id": 618234,
+    "coord": {
+      "lat": 47.15361,
+      "lon": 29.296391
+    },
+    "name": "Grigoriopol"
+  },
+  {
+    "country": "MD",
+    "id": 618349,
+    "coord": {
+      "lat": 45.48167,
+      "lon": 28.19722
+    },
+    "name": "Giurgiulesti"
+  },
+  {
+    "country": "MD",
+    "id": 618558,
+    "coord": {
+      "lat": 47.51556,
+      "lon": 28.861389
+    },
+    "name": "Bieşti"
+  },
+  {
+    "country": "MD",
+    "id": 617081,
+    "coord": {
+      "lat": 46.427502,
+      "lon": 28.43667
+    },
+    "name": "Iargara"
+  },
+  {
+    "country": "MD",
+    "id": 617609,
+    "coord": {
+      "lat": 47.25222,
+      "lon": 28.76889
+    },
+    "name": "Peresecina"
+  },
+  {
+    "country": "MD",
+    "id": 617648,
+    "coord": {
+      "lat": 46.49556,
+      "lon": 29.91806
+    },
+    "name": "Olăneşti"
+  },
+  {
+    "country": "MD",
+    "id": 618140,
+    "coord": {
+      "lat": 46.387218,
+      "lon": 29.871389
+    },
+    "name": "Căplani"
+  },
+  {
+    "country": "MD",
+    "id": 618136,
+    "coord": {
+      "lat": 46.467499,
+      "lon": 29.81222
+    },
+    "name": "Carahasani"
+  },
+  {
+    "country": "MD",
+    "id": 617837,
+    "coord": {
+      "lat": 47.86861,
+      "lon": 28.247499
+    },
+    "name": "Marculesti"
+  },
+  {
+    "country": "MD",
+    "id": 618373,
+    "coord": {
+      "lat": 47.15556,
+      "lon": 28.780001
+    },
+    "name": "Drăsliceni"
+  },
+  {
+    "country": "MD",
+    "id": 829862,
+    "coord": {
+      "lat": 47.805,
+      "lon": 27.5625
+    },
+    "name": "Soroka"
+  },
+  {
+    "country": "MD",
+    "id": 829938,
+    "coord": {
+      "lat": 47.311668,
+      "lon": 29.25
+    },
+    "name": "Calinovca"
+  },
+  {
+    "country": "MD",
+    "id": 617975,
+    "coord": {
+      "lat": 46.961391,
+      "lon": 29.465281
+    },
+    "name": "Crasnogorca"
+  },
+  {
+    "country": "MD",
+    "id": 618469,
+    "coord": {
+      "lat": 47.041389,
+      "lon": 29.40444
+    },
+    "name": "Butor"
+  },
+  {
+    "country": "MD",
+    "id": 617202,
+    "coord": {
+      "lat": 47.93528,
+      "lon": 28.61417
+    },
+    "name": "Ţipordei"
+  },
+  {
+    "country": "MD",
+    "id": 829868,
+    "coord": {
+      "lat": 47.634171,
+      "lon": 27.791109
+    },
+    "name": "Ciuluc"
+  },
+  {
+    "country": "MD",
+    "id": 831188,
+    "coord": {
+      "lat": 47.658058,
+      "lon": 28.29611
+    },
+    "name": "Romanovca"
+  },
+  {
+    "country": "MD",
+    "id": 617874,
+    "coord": {
+      "lat": 47.875832,
+      "lon": 27.55389
+    },
+    "name": "Lupăria"
+  },
+  {
+    "country": "MD",
+    "id": 618422,
+    "coord": {
+      "lat": 46.358059,
+      "lon": 28.821939
+    },
+    "name": "Cioc Maidan"
+  },
+  {
+    "country": "MD",
+    "id": 618024,
+    "coord": {
+      "lat": 47.852219,
+      "lon": 27.975
+    },
+    "name": "Cotovca"
+  },
+  {
+    "country": "MD",
+    "id": 618142,
+    "coord": {
+      "lat": 46.25,
+      "lon": 28.33333
+    },
+    "name": "Raionul Cantemir"
+  },
+  {
+    "country": "MD",
+    "id": 618056,
+    "coord": {
+      "lat": 46.35778,
+      "lon": 28.414721
+    },
+    "name": "Cociulia"
+  },
+  {
+    "country": "MD",
+    "id": 617916,
+    "coord": {
+      "lat": 47.366669,
+      "lon": 28.894171
+    },
+    "name": "Piatra"
+  },
+  {
+    "country": "MD",
+    "id": 617544,
+    "coord": {
+      "lat": 47.08889,
+      "lon": 29.34667
+    },
+    "name": "Puhăceni"
+  },
+  {
+    "country": "MD",
+    "id": 617426,
+    "coord": {
+      "lat": 47.020828,
+      "lon": 29.34972
+    },
+    "name": "Şerpeni"
+  },
+  {
+    "country": "MD",
+    "id": 618589,
+    "coord": {
+      "lat": 46.093891,
+      "lon": 28.675831
+    },
+    "name": "Baurci"
+  },
+  {
+    "country": "MD",
+    "id": 831037,
+    "coord": {
+      "lat": 47.345558,
+      "lon": 28.15333
+    },
+    "name": "Leordoaia"
+  },
+  {
+    "country": "MD",
+    "id": 617481,
+    "coord": {
+      "lat": 47.252499,
+      "lon": 28.846109
+    },
+    "name": "Rîşcova"
+  },
+  {
+    "country": "MD",
+    "id": 617467,
+    "coord": {
+      "lat": 46.595001,
+      "lon": 29.24444
+    },
+    "name": "Sălcuţa"
+  },
+  {
+    "country": "MD",
+    "id": 618093,
+    "coord": {
+      "lat": 46.71278,
+      "lon": 28.34944
+    },
+    "name": "Horjeşti"
+  },
+  {
+    "country": "MD",
+    "id": 618312,
+    "coord": {
+      "lat": 46.787498,
+      "lon": 28.6875
+    },
+    "name": "Fîrlădeni"
+  },
+  {
+    "country": "MD",
+    "id": 617055,
+    "coord": {
+      "lat": 46.619438,
+      "lon": 29.34639
+    },
+    "name": "Zaim"
+  },
+  {
+    "country": "MD",
+    "id": 617096,
+    "coord": {
+      "lat": 45.68417,
+      "lon": 28.402781
+    },
+    "name": "Vulcanesti"
+  },
+  {
+    "country": "MD",
+    "id": 617255,
+    "coord": {
+      "lat": 47.583328,
+      "lon": 28.5
+    },
+    "name": "Raionul Teleneşti"
+  },
+  {
+    "country": "MD",
+    "id": 617137,
+    "coord": {
+      "lat": 47.534168,
+      "lon": 28.47056
+    },
+    "name": "Verejeni"
+  },
+  {
+    "country": "MD",
+    "id": 618409,
+    "coord": {
+      "lat": 45.782219,
+      "lon": 28.569719
+    },
+    "name": "Ciumai"
+  },
+  {
+    "country": "MD",
+    "id": 617288,
+    "coord": {
+      "lat": 46.982498,
+      "lon": 28.66861
+    },
+    "name": "Suruceni"
+  },
+  {
+    "country": "MD",
+    "id": 617923,
+    "coord": {
+      "lat": 47.563889,
+      "lon": 29.019171
+    },
+    "name": "Lalova"
+  },
+  {
+    "country": "MD",
+    "id": 618416,
+    "coord": {
+      "lat": 47.021671,
+      "lon": 28.41333
+    },
+    "name": "Ciuciuleni"
+  },
+  {
+    "country": "MD",
+    "id": 618572,
+    "coord": {
+      "lat": 46.172779,
+      "lon": 28.648331
+    },
+    "name": "Beşalma"
+  },
+  {
+    "country": "MD",
+    "id": 618620,
+    "coord": {
+      "lat": 46.691109,
+      "lon": 29.28056
+    },
+    "name": "Baccealia"
+  },
+  {
+    "country": "MD",
+    "id": 617441,
+    "coord": {
+      "lat": 48.012218,
+      "lon": 28.68222
+    },
+    "name": "Sănătăuca"
+  },
+  {
+    "country": "MD",
+    "id": 617234,
+    "coord": {
+      "lat": 47.0625,
+      "lon": 28.94528
+    },
+    "name": "Tohatin"
+  },
+  {
+    "country": "MD",
+    "id": 618229,
+    "coord": {
+      "lat": 48.389439,
+      "lon": 27.08972
+    },
+    "name": "Grimăncăuţi"
+  },
+  {
+    "country": "MD",
+    "id": 618045,
+    "coord": {
+      "lat": 47.037781,
+      "lon": 28.95833
+    },
+    "name": "Coloniţa"
+  },
+  {
+    "country": "MD",
+    "id": 618629,
+    "coord": {
+      "lat": 46.254169,
+      "lon": 28.839439
+    },
+    "name": "Avdarma"
+  },
+  {
+    "country": "MD",
+    "id": 617891,
+    "coord": {
+      "lat": 46.903889,
+      "lon": 28.54528
+    },
+    "name": "Logăneşti"
+  },
+  {
+    "country": "MD",
+    "id": 617252,
+    "coord": {
+      "lat": 47.266109,
+      "lon": 28.708059
+    },
+    "name": "Teleşeu"
+  },
+  {
+    "country": "MD",
+    "id": 618281,
+    "coord": {
+      "lat": 47.09306,
+      "lon": 28.76861
+    },
+    "name": "Ghidighici"
+  },
+  {
+    "country": "MD",
+    "id": 617406,
+    "coord": {
+      "lat": 47.133888,
+      "lon": 28.71417
+    },
+    "name": "Sireţi"
+  },
+  {
+    "country": "MD",
+    "id": 618522,
+    "coord": {
+      "lat": 47.305279,
+      "lon": 28.92667
+    },
+    "name": "Brăneşti"
+  },
+  {
+    "country": "MD",
+    "id": 618323,
+    "coord": {
+      "lat": 46.556938,
+      "lon": 28.42861
+    },
+    "name": "Frumuşica"
+  },
+  {
+    "country": "MD",
+    "id": 618554,
+    "coord": {
+      "lat": 46.985001,
+      "lon": 28.462219
+    },
+    "name": "Bobeica"
+  },
+  {
+    "country": "MD",
+    "id": 617795,
+    "coord": {
+      "lat": 47.895,
+      "lon": 28.006941
+    },
+    "name": "Moara de Piatră"
+  },
+  {
+    "country": "MD",
+    "id": 824137,
+    "coord": {
+      "lat": 46.998058,
+      "lon": 28.329439
+    },
+    "name": "Corneşti"
+  },
+  {
+    "country": "MD",
+    "id": 617922,
+    "coord": {
+      "lat": 46.884171,
+      "lon": 28.41194
+    },
+    "name": "Lăpuşna"
+  },
+  {
+    "country": "MD",
+    "id": 618324,
+    "coord": {
+      "lat": 47.328892,
+      "lon": 28.402781
+    },
+    "name": "Frumoasa"
+  },
+  {
+    "country": "MD",
+    "id": 617251,
+    "coord": {
+      "lat": 46.95694,
+      "lon": 29.30389
+    },
+    "name": "Teliţa"
+  },
+  {
+    "country": "MD",
+    "id": 617363,
+    "coord": {
+      "lat": 46.98167,
+      "lon": 29.32333
+    },
+    "name": "Speia"
+  },
+  {
+    "country": "MD",
+    "id": 617873,
+    "coord": {
+      "lat": 47.82806,
+      "lon": 27.83917
+    },
+    "name": "Corlăteni"
+  },
+  {
+    "country": "MD",
+    "id": 617507,
+    "coord": {
+      "lat": 46.908611,
+      "lon": 28.944719
+    },
+    "name": "Revaca"
+  },
+  {
+    "country": "MD",
+    "id": 617053,
+    "coord": {
+      "lat": 46.83194,
+      "lon": 29.57667
+    },
+    "name": "Tiraspolul Nou"
+  },
+  {
+    "country": "MD",
+    "id": 617118,
+    "coord": {
+      "lat": 46.333328,
+      "lon": 28.44944
+    },
+    "name": "Visniovca"
+  },
+  {
+    "country": "MD",
+    "id": 617254,
+    "coord": {
+      "lat": 47.499722,
+      "lon": 28.365561
+    },
+    "name": "Telenesti"
+  },
+  {
+    "country": "MD",
+    "id": 617270,
+    "coord": {
+      "lat": 45.900002,
+      "lon": 28.66889
+    },
+    "name": "Taraclia"
+  },
+  {
+    "country": "MD",
+    "id": 617372,
+    "coord": {
+      "lat": 47.815281,
+      "lon": 28.796671
+    },
+    "name": "Soldanesti"
+  },
+  {
+    "country": "MD",
+    "id": 617471,
+    "coord": {
+      "lat": 47.693611,
+      "lon": 28.97028
+    },
+    "name": "Saharna"
+  },
+  {
+    "country": "MD",
+    "id": 617602,
+    "coord": {
+      "lat": 46.733891,
+      "lon": 29.958611
+    },
+    "name": "Pervomaisc"
+  },
+  {
+    "country": "MD",
+    "id": 617778,
+    "coord": {
+      "lat": 47.507221,
+      "lon": 28.276939
+    },
+    "name": "Mindresti"
+  },
+  {
+    "country": "MD",
+    "id": 617830,
+    "coord": {
+      "lat": 47.237499,
+      "lon": 29.38583
+    },
+    "name": "Maiac"
+  },
+  {
+    "country": "MD",
+    "id": 617909,
+    "coord": {
+      "lat": 47.863892,
+      "lon": 28.389441
+    },
+    "name": "Leninskiy"
+  },
+  {
+    "country": "MD",
+    "id": 617973,
+    "coord": {
+      "lat": 46.65139,
+      "lon": 29.80472
+    },
+    "name": "Crasnoe"
+  },
+  {
+    "country": "MD",
+    "id": 618057,
+    "coord": {
+      "lat": 47.307499,
+      "lon": 29.110279
+    },
+    "name": "Cocieri"
+  },
+  {
+    "country": "MD",
+    "id": 618067,
+    "coord": {
+      "lat": 46.782959,
+      "lon": 29.616819
+    },
+    "name": "Chitcani"
+  },
+  {
+    "country": "MD",
+    "id": 618452,
+    "coord": {
+      "lat": 46.278061,
+      "lon": 28.20083
+    },
+    "name": "Cantemir"
+  },
+  {
+    "country": "MD",
+    "id": 618453,
+    "coord": {
+      "lat": 48.03194,
+      "lon": 28.697781
+    },
+    "name": "Camenca"
+  },
+  {
+    "country": "MD",
+    "id": 618459,
+    "coord": {
+      "lat": 47.18861,
+      "lon": 28.45694
+    },
+    "name": "Bucovat"
+  },
+  {
+    "country": "MD",
+    "id": 618491,
+    "coord": {
+      "lat": 46.365829,
+      "lon": 28.66333
+    },
+    "name": "Bugeac"
+  },
+  {
+    "country": "MD",
+    "id": 618510,
+    "coord": {
+      "lat": 48.362782,
+      "lon": 27.084999
+    },
+    "name": "Briceni"
+  },
+  {
+    "country": "MD",
+    "id": 618631,
+    "coord": {
+      "lat": 48.43,
+      "lon": 27.79389
+    },
+    "name": "Otaci"
+  },
+  {
+    "country": "MD",
+    "id": 830975,
+    "coord": {
+      "lat": 47.816109,
+      "lon": 28.068609
+    },
+    "name": "Biruinta"
+  }
+
+]

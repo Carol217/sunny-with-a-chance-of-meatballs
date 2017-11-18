@@ -1,0 +1,112 @@
+[
+
+  {
+    "country": "MP",
+    "id": 4041650,
+    "coord": {
+      "lat": 15.029,
+      "lon": 145.615997
+    },
+    "name": "Tinian Municipality"
+  },
+  {
+    "country": "MP",
+    "id": 7798576,
+    "coord": {
+      "lat": 14.97974,
+      "lon": 145.636871
+    },
+    "name": "Marpo Heights Hamlet"
+  },
+  {
+    "country": "MP",
+    "id": 4041552,
+    "coord": {
+      "lat": 15.1355,
+      "lon": 145.701004
+    },
+    "name": "Saipan Municipality"
+  },
+  {
+    "country": "MP",
+    "id": 7838875,
+    "coord": {
+      "lat": 15.12963,
+      "lon": 145.72377
+    },
+    "name": "As Lito Hamlet"
+  },
+  {
+    "country": "MP",
+    "id": 4041468,
+    "coord": {
+      "lat": 15.214,
+      "lon": 145.755997
+    },
+    "name": "Commonwealth of the Northern Mariana Islands"
+  },
+  {
+    "country": "MP",
+    "id": 7838880,
+    "coord": {
+      "lat": 15.17358,
+      "lon": 145.747025
+    },
+    "name": "Papago Hamlet"
+  },
+  {
+    "country": "MP",
+    "id": 4041530,
+    "coord": {
+      "lat": 14.154,
+      "lon": 145.201004
+    },
+    "name": "Rota Municipality"
+  },
+  {
+    "country": "MP",
+    "id": 4041576,
+    "coord": {
+      "lat": 14.16608,
+      "lon": 145.231705
+    },
+    "name": "Sinapalo Village"
+  },
+  {
+    "country": "MP",
+    "id": 4041171,
+    "coord": {
+      "lat": 15.21217,
+      "lon": 145.753723
+    },
+    "name": "CNMI Governor's Office"
+  },
+  {
+    "country": "MP",
+    "id": 7828758,
+    "coord": {
+      "lat": 15.21233,
+      "lon": 145.754501
+    },
+    "name": "Saipan"
+  },
+  {
+    "country": "MP",
+    "id": 4041558,
+    "coord": {
+      "lat": 14.96874,
+      "lon": 145.624374
+    },
+    "name": "JP Tinian Town pre-WW2"
+  },
+  {
+    "country": "MP",
+    "id": 7828739,
+    "coord": {
+      "lat": 15.20833,
+      "lon": 145.716644
+    },
+    "name": "Northern Islands Municipality - Mayors Office"
+  }
+
+]

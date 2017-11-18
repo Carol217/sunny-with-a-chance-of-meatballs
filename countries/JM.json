@@ -1,0 +1,1246 @@
+[
+
+  {
+    "country": "JM",
+    "id": 3489227,
+    "coord": {
+      "lat": 17.941441,
+      "lon": -77.108978
+    },
+    "name": "Old Harbour"
+  },
+  {
+    "country": "JM",
+    "id": 3489297,
+    "coord": {
+      "lat": 18.007469,
+      "lon": -76.783188
+    },
+    "name": "New Kingston"
+  },
+  {
+    "country": "JM",
+    "id": 3489882,
+    "coord": {
+      "lat": 17.999161,
+      "lon": -76.796982
+    },
+    "name": "Kencot"
+  },
+  {
+    "country": "JM",
+    "id": 3488465,
+    "coord": {
+      "lat": 17.99107,
+      "lon": -76.95742
+    },
+    "name": "Spanish Town"
+  },
+  {
+    "country": "JM",
+    "id": 3489586,
+    "coord": {
+      "lat": 18.049999,
+      "lon": -77.533333
+    },
+    "name": "Parish of Manchester"
+  },
+  {
+    "country": "JM",
+    "id": 3489577,
+    "coord": {
+      "lat": 18.041679,
+      "lon": -77.507141
+    },
+    "name": "Mandeville"
+  },
+  {
+    "country": "JM",
+    "id": 3489760,
+    "coord": {
+      "lat": 18.136829,
+      "lon": -77.031708
+    },
+    "name": "Linstead"
+  },
+  {
+    "country": "JM",
+    "id": 3490165,
+    "coord": {
+      "lat": 18.01248,
+      "lon": -76.799278
+    },
+    "name": "Half Way Tree"
+  },
+  {
+    "country": "JM",
+    "id": 3489523,
+    "coord": {
+      "lat": 17.96454,
+      "lon": -77.245148
+    },
+    "name": "May Pen"
+  },
+  {
+    "country": "JM",
+    "id": 3489940,
+    "coord": {
+      "lat": 18.25,
+      "lon": -77.5
+    },
+    "name": "Jamaica"
+  },
+  {
+    "country": "JM",
+    "id": 3488716,
+    "coord": {
+      "lat": 18.066669,
+      "lon": -76.75
+    },
+    "name": "Parish of Saint Andrew"
+  },
+  {
+    "country": "JM",
+    "id": 3489854,
+    "coord": {
+      "lat": 17.997021,
+      "lon": -76.793579
+    },
+    "name": "Kingston"
+  },
+  {
+    "country": "JM",
+    "id": 3488700,
+    "coord": {
+      "lat": 18.383329,
+      "lon": -77.883331
+    },
+    "name": "Parish of Saint James"
+  },
+  {
+    "country": "JM",
+    "id": 3489460,
+    "coord": {
+      "lat": 18.471161,
+      "lon": -77.918831
+    },
+    "name": "Montego Bay"
+  },
+  {
+    "country": "JM",
+    "id": 3488081,
+    "coord": {
+      "lat": 18.23333,
+      "lon": -78.150002
+    },
+    "name": "Parish of Westmoreland"
+  },
+  {
+    "country": "JM",
+    "id": 3488063,
+    "coord": {
+      "lat": 18.274401,
+      "lon": -78.345421
+    },
+    "name": "Whitehall"
+  },
+  {
+    "country": "JM",
+    "id": 3488711,
+    "coord": {
+      "lat": 18.066669,
+      "lon": -77.01667
+    },
+    "name": "Parish of Saint Catherine"
+  },
+  {
+    "country": "JM",
+    "id": 3488867,
+    "coord": {
+      "lat": 17.933331,
+      "lon": -77.116669
+    },
+    "name": "Rest Pen"
+  },
+  {
+    "country": "JM",
+    "id": 3488981,
+    "coord": {
+      "lat": 17.97024,
+      "lon": -76.867218
+    },
+    "name": "Portmore"
+  },
+  {
+    "country": "JM",
+    "id": 3491443,
+    "coord": {
+      "lat": 17.98333,
+      "lon": -76.949997
+    },
+    "name": "Beacon Hill"
+  },
+  {
+    "country": "JM",
+    "id": 3488222,
+    "coord": {
+      "lat": 18.383329,
+      "lon": -77.633331
+    },
+    "name": "Parish of Trelawny"
+  },
+  {
+    "country": "JM",
+    "id": 3491602,
+    "coord": {
+      "lat": 18.29434,
+      "lon": -77.542389
+    },
+    "name": "Albert Town"
+  },
+  {
+    "country": "JM",
+    "id": 3488715,
+    "coord": {
+      "lat": 18.35,
+      "lon": -77.26667
+    },
+    "name": "Parish of Saint Ann"
+  },
+  {
+    "country": "JM",
+    "id": 3491487,
+    "coord": {
+      "lat": 18.39216,
+      "lon": -77.26429
+    },
+    "name": "Bamboo"
+  },
+  {
+    "country": "JM",
+    "id": 3490952,
+    "coord": {
+      "lat": 17.98333,
+      "lon": -77.300003
+    },
+    "name": "Parish of Clarendon"
+  },
+  {
+    "country": "JM",
+    "id": 3491187,
+    "coord": {
+      "lat": 17.966669,
+      "lon": -77.23333
+    },
+    "name": "Bryans Pen"
+  },
+  {
+    "country": "JM",
+    "id": 3490145,
+    "coord": {
+      "lat": 18.41667,
+      "lon": -78.133331
+    },
+    "name": "Parish of Hanover"
+  },
+  {
+    "country": "JM",
+    "id": 3489657,
+    "coord": {
+      "lat": 18.450951,
+      "lon": -78.173561
+    },
+    "name": "Lucea"
+  },
+  {
+    "country": "JM",
+    "id": 3489054,
+    "coord": {
+      "lat": 18.216669,
+      "lon": -78.133331
+    },
+    "name": "Phoenix Park"
+  },
+  {
+    "country": "JM",
+    "id": 3488997,
+    "coord": {
+      "lat": 18.133329,
+      "lon": -76.533333
+    },
+    "name": "Parish of Portland"
+  },
+  {
+    "country": "JM",
+    "id": 3489005,
+    "coord": {
+      "lat": 18.179979,
+      "lon": -76.461212
+    },
+    "name": "Port Antonio"
+  },
+  {
+    "country": "JM",
+    "id": 3488693,
+    "coord": {
+      "lat": 18.316669,
+      "lon": -76.900002
+    },
+    "name": "Parish of Saint Mary"
+  },
+  {
+    "country": "JM",
+    "id": 3489572,
+    "coord": {
+      "lat": 18.367929,
+      "lon": -76.894859
+    },
+    "name": "Mannings Town"
+  },
+  {
+    "country": "JM",
+    "id": 3491169,
+    "coord": {
+      "lat": 17.94372,
+      "lon": -76.666023
+    },
+    "name": "Bull Bay"
+  },
+  {
+    "country": "JM",
+    "id": 3488637,
+    "coord": {
+      "lat": 17.816669,
+      "lon": -77.183327
+    },
+    "name": "Sandy Bay"
+  },
+  {
+    "country": "JM",
+    "id": 3491519,
+    "coord": {
+      "lat": 17.99522,
+      "lon": -76.741562
+    },
+    "name": "August Town"
+  },
+  {
+    "country": "JM",
+    "id": 3490205,
+    "coord": {
+      "lat": 17.995581,
+      "lon": -76.88134
+    },
+    "name": "Gregory Park"
+  },
+  {
+    "country": "JM",
+    "id": 3488708,
+    "coord": {
+      "lat": 18.049999,
+      "lon": -77.783333
+    },
+    "name": "Parish of Saint Elizabeth"
+  },
+  {
+    "country": "JM",
+    "id": 3490020,
+    "coord": {
+      "lat": 17.94945,
+      "lon": -77.778069
+    },
+    "name": "Hopewell"
+  },
+  {
+    "country": "JM",
+    "id": 3491379,
+    "coord": {
+      "lat": 17.966669,
+      "lon": -77.699997
+    },
+    "name": "Bethlehem"
+  },
+  {
+    "country": "JM",
+    "id": 3489741,
+    "coord": {
+      "lat": 18.248301,
+      "lon": -78.216408
+    },
+    "name": "Little London"
+  },
+  {
+    "country": "JM",
+    "id": 3491603,
+    "coord": {
+      "lat": 18.049999,
+      "lon": -77.699997
+    },
+    "name": "Albert Arms"
+  },
+  {
+    "country": "JM",
+    "id": 3489758,
+    "coord": {
+      "lat": 17.81007,
+      "lon": -77.240608
+    },
+    "name": "Lionel Town"
+  },
+  {
+    "country": "JM",
+    "id": 3490136,
+    "coord": {
+      "lat": 17.95336,
+      "lon": -76.717102
+    },
+    "name": "Harbour View"
+  },
+  {
+    "country": "JM",
+    "id": 3490945,
+    "coord": {
+      "lat": 18.4,
+      "lon": -77.216667
+    },
+    "name": "Clarks Town"
+  },
+  {
+    "country": "JM",
+    "id": 3491293,
+    "coord": {
+      "lat": 18.102051,
+      "lon": -77.005409
+    },
+    "name": "Bog Walk"
+  },
+  {
+    "country": "JM",
+    "id": 3489113,
+    "coord": {
+      "lat": 17.976,
+      "lon": -76.868668
+    },
+    "name": "Passage Fort"
+  },
+  {
+    "country": "JM",
+    "id": 3489480,
+    "coord": {
+      "lat": 18.133329,
+      "lon": -77.333328
+    },
+    "name": "Minho"
+  },
+  {
+    "country": "JM",
+    "id": 3489016,
+    "coord": {
+      "lat": 18.41667,
+      "lon": -77.48333
+    },
+    "name": "Plum Corner"
+  },
+  {
+    "country": "JM",
+    "id": 3489782,
+    "coord": {
+      "lat": 18.4,
+      "lon": -77.366669
+    },
+    "name": "Liberty Valley"
+  },
+  {
+    "country": "JM",
+    "id": 3488379,
+    "coord": {
+      "lat": 18.18088,
+      "lon": -76.480453
+    },
+    "name": "Stony Hill"
+  },
+  {
+    "country": "JM",
+    "id": 3488164,
+    "coord": {
+      "lat": 17.99415,
+      "lon": -76.779602
+    },
+    "name": "Up Park Camp"
+  },
+  {
+    "country": "JM",
+    "id": 3488618,
+    "coord": {
+      "lat": 18.075251,
+      "lon": -76.877899
+    },
+    "name": "Santa Maria"
+  },
+  {
+    "country": "JM",
+    "id": 3488688,
+    "coord": {
+      "lat": 17.9,
+      "lon": -76.433327
+    },
+    "name": "Parish of Saint Thomas"
+  },
+  {
+    "country": "JM",
+    "id": 3489218,
+    "coord": {
+      "lat": 17.950001,
+      "lon": -76.466667
+    },
+    "name": "Old Lee Gate"
+  },
+  {
+    "country": "JM",
+    "id": 3489387,
+    "coord": {
+      "lat": 18.08333,
+      "lon": -77.349998
+    },
+    "name": "Mount Nebo"
+  },
+  {
+    "country": "JM",
+    "id": 3491013,
+    "coord": {
+      "lat": 17.99757,
+      "lon": -76.920959
+    },
+    "name": "Central Village"
+  },
+  {
+    "country": "JM",
+    "id": 3490950,
+    "coord": {
+      "lat": 17.99354,
+      "lon": -77.371597
+    },
+    "name": "Clarendon Park"
+  },
+  {
+    "country": "JM",
+    "id": 3489534,
+    "coord": {
+      "lat": 18.033331,
+      "lon": -76.76667
+    },
+    "name": "Matildas Corner"
+  },
+  {
+    "country": "JM",
+    "id": 3489781,
+    "coord": {
+      "lat": 18.017611,
+      "lon": -76.764351
+    },
+    "name": "Liguanea"
+  },
+  {
+    "country": "JM",
+    "id": 3489135,
+    "coord": {
+      "lat": 18.011999,
+      "lon": -76.737534
+    },
+    "name": "Papine"
+  },
+  {
+    "country": "JM",
+    "id": 3489467,
+    "coord": {
+      "lat": 18.01375,
+      "lon": -76.751862
+    },
+    "name": "Mona Heights"
+  },
+  {
+    "country": "JM",
+    "id": 6690260,
+    "coord": {
+      "lat": 18.146009,
+      "lon": -76.890053
+    },
+    "name": "Glengoffe"
+  },
+  {
+    "country": "JM",
+    "id": 3490639,
+    "coord": {
+      "lat": 17.883329,
+      "lon": -77.73333
+    },
+    "name": "Dumblane"
+  },
+  {
+    "country": "JM",
+    "id": 3490890,
+    "coord": {
+      "lat": 17.947969,
+      "lon": -77.326317
+    },
+    "name": "Comfort Village"
+  },
+  {
+    "country": "JM",
+    "id": 3488894,
+    "coord": {
+      "lat": 18.066669,
+      "lon": -77.883331
+    },
+    "name": "Rectory"
+  },
+  {
+    "country": "JM",
+    "id": 3488302,
+    "coord": {
+      "lat": 18.01667,
+      "lon": -77.316673
+    },
+    "name": "Thatch Pen"
+  },
+  {
+    "country": "JM",
+    "id": 3490994,
+    "coord": {
+      "lat": 18.49264,
+      "lon": -77.918968
+    },
+    "name": "Chatham"
+  },
+  {
+    "country": "JM",
+    "id": 3487963,
+    "coord": {
+      "lat": 17.8748,
+      "lon": -76.562447
+    },
+    "name": "Yallahs"
+  },
+  {
+    "country": "JM",
+    "id": 3488020,
+    "coord": {
+      "lat": 18.066669,
+      "lon": -77.466667
+    },
+    "name": "Williamsfield"
+  },
+  {
+    "country": "JM",
+    "id": 3488133,
+    "coord": {
+      "lat": 18.412109,
+      "lon": -77.721832
+    },
+    "name": "Wakefield"
+  },
+  {
+    "country": "JM",
+    "id": 3488180,
+    "coord": {
+      "lat": 18.314819,
+      "lon": -77.520668
+    },
+    "name": "Ulster Spring"
+  },
+  {
+    "country": "JM",
+    "id": 3488217,
+    "coord": {
+      "lat": 17.96076,
+      "lon": -76.514267
+    },
+    "name": "Trinity Ville"
+  },
+  {
+    "country": "JM",
+    "id": 3488380,
+    "coord": {
+      "lat": 18.075371,
+      "lon": -76.791092
+    },
+    "name": "Stony Hill"
+  },
+  {
+    "country": "JM",
+    "id": 3488479,
+    "coord": {
+      "lat": 17.8878,
+      "lon": -77.66713
+    },
+    "name": "Southfield"
+  },
+  {
+    "country": "JM",
+    "id": 3488540,
+    "coord": {
+      "lat": 18.167089,
+      "lon": -77.703484
+    },
+    "name": "Siloah"
+  },
+  {
+    "country": "JM",
+    "id": 3488597,
+    "coord": {
+      "lat": 17.93578,
+      "lon": -76.457298
+    },
+    "name": "Seaforth"
+  },
+  {
+    "country": "JM",
+    "id": 3488613,
+    "coord": {
+      "lat": 18.21895,
+      "lon": -78.133202
+    },
+    "name": "Savanna-la-Mar"
+  },
+  {
+    "country": "JM",
+    "id": 3488620,
+    "coord": {
+      "lat": 18.05336,
+      "lon": -77.698357
+    },
+    "name": "Santa Cruz"
+  },
+  {
+    "country": "JM",
+    "id": 3488635,
+    "coord": {
+      "lat": 18.44854,
+      "lon": -78.073212
+    },
+    "name": "Sandy Bay"
+  },
+  {
+    "country": "JM",
+    "id": 3488713,
+    "coord": {
+      "lat": 18.43581,
+      "lon": -77.200981
+    },
+    "name": "Saint Anns Bay"
+  },
+  {
+    "country": "JM",
+    "id": 3488726,
+    "coord": {
+      "lat": 18.45962,
+      "lon": -77.335701
+    },
+    "name": "Runaway Bay"
+  },
+  {
+    "country": "JM",
+    "id": 3488777,
+    "coord": {
+      "lat": 17.774,
+      "lon": -77.26107
+    },
+    "name": "Rocky Point"
+  },
+  {
+    "country": "JM",
+    "id": 3488809,
+    "coord": {
+      "lat": 18.165859,
+      "lon": -76.964172
+    },
+    "name": "Riversdale"
+  },
+  {
+    "country": "JM",
+    "id": 3488834,
+    "coord": {
+      "lat": 18.2439,
+      "lon": -76.890778
+    },
+    "name": "Richmond"
+  },
+  {
+    "country": "JM",
+    "id": 3488914,
+    "coord": {
+      "lat": 17.840191,
+      "lon": -77.282227
+    },
+    "name": "Race Course"
+  },
+  {
+    "country": "JM",
+    "id": 3488977,
+    "coord": {
+      "lat": 18.035351,
+      "lon": -77.411659
+    },
+    "name": "Porus"
+  },
+  {
+    "country": "JM",
+    "id": 3488980,
+    "coord": {
+      "lat": 17.93712,
+      "lon": -76.840813
+    },
+    "name": "Port Royal"
+  },
+  {
+    "country": "JM",
+    "id": 3488985,
+    "coord": {
+      "lat": 18.36849,
+      "lon": -76.889458
+    },
+    "name": "Port Maria"
+  },
+  {
+    "country": "JM",
+    "id": 3489011,
+    "coord": {
+      "lat": 18.08988,
+      "lon": -77.10759
+    },
+    "name": "Point Hill"
+  },
+  {
+    "country": "JM",
+    "id": 3489062,
+    "coord": {
+      "lat": 18.26158,
+      "lon": -78.071167
+    },
+    "name": "Petersfield"
+  },
+  {
+    "country": "JM",
+    "id": 3489200,
+    "coord": {
+      "lat": 18.403191,
+      "lon": -76.946411
+    },
+    "name": "Oracabessa"
+  },
+  {
+    "country": "JM",
+    "id": 3489225,
+    "coord": {
+      "lat": 17.90918,
+      "lon": -77.097183
+    },
+    "name": "Old Harbour Bay"
+  },
+  {
+    "country": "JM",
+    "id": 3489239,
+    "coord": {
+      "lat": 18.4025,
+      "lon": -77.104797
+    },
+    "name": "Ocho Rios"
+  },
+  {
+    "country": "JM",
+    "id": 3489331,
+    "coord": {
+      "lat": 18.278179,
+      "lon": -78.351799
+    },
+    "name": "Negril"
+  },
+  {
+    "country": "JM",
+    "id": 3489344,
+    "coord": {
+      "lat": 17.961201,
+      "lon": -77.598679
+    },
+    "name": "Nain"
+  },
+  {
+    "country": "JM",
+    "id": 3489440,
+    "coord": {
+      "lat": 17.881451,
+      "lon": -76.409271
+    },
+    "name": "Morant Bay"
+  },
+  {
+    "country": "JM",
+    "id": 3489445,
+    "coord": {
+      "lat": 18.077669,
+      "lon": -76.425774
+    },
+    "name": "Moore Town"
+  },
+  {
+    "country": "JM",
+    "id": 3489464,
+    "coord": {
+      "lat": 18.27556,
+      "lon": -77.111771
+    },
+    "name": "Moneague"
+  },
+  {
+    "country": "JM",
+    "id": 3489531,
+    "coord": {
+      "lat": 18.033331,
+      "lon": -76.666672
+    },
+    "name": "Mavis Bank"
+  },
+  {
+    "country": "JM",
+    "id": 3489555,
+    "coord": {
+      "lat": 18.344641,
+      "lon": -77.795441
+    },
+    "name": "Maroon Town"
+  },
+  {
+    "country": "JM",
+    "id": 3489582,
+    "coord": {
+      "lat": 18.03969,
+      "lon": -76.282654
+    },
+    "name": "Manchioneal"
+  },
+  {
+    "country": "JM",
+    "id": 3489603,
+    "coord": {
+      "lat": 17.97291,
+      "lon": -77.70108
+    },
+    "name": "Malvern"
+  },
+  {
+    "country": "JM",
+    "id": 3489633,
+    "coord": {
+      "lat": 18.16069,
+      "lon": -77.763489
+    },
+    "name": "Maggotty"
+  },
+  {
+    "country": "JM",
+    "id": 3489714,
+    "coord": {
+      "lat": 18.12784,
+      "lon": -77.147636
+    },
+    "name": "Lluidas Vale"
+  },
+  {
+    "country": "JM",
+    "id": 3489829,
+    "coord": {
+      "lat": 18.075001,
+      "lon": -77.754784
+    },
+    "name": "Lacovia"
+  },
+  {
+    "country": "JM",
+    "id": 3489888,
+    "coord": {
+      "lat": 18.15,
+      "lon": -77.23333
+    },
+    "name": "Kellits"
+  },
+  {
+    "country": "JM",
+    "id": 3489962,
+    "coord": {
+      "lat": 18.309219,
+      "lon": -76.85482
+    },
+    "name": "Islington"
+  },
+  {
+    "country": "JM",
+    "id": 3490031,
+    "coord": {
+      "lat": 18.20195,
+      "lon": -76.562881
+    },
+    "name": "Hope Bay"
+  },
+  {
+    "country": "JM",
+    "id": 3490106,
+    "coord": {
+      "lat": 17.87569,
+      "lon": -77.237106
+    },
+    "name": "Hayes"
+  },
+  {
+    "country": "JM",
+    "id": 3490293,
+    "coord": {
+      "lat": 18.03578,
+      "lon": -76.717819
+    },
+    "name": "Gordon Town"
+  },
+  {
+    "country": "JM",
+    "id": 3490318,
+    "coord": {
+      "lat": 17.93362,
+      "lon": -76.272537
+    },
+    "name": "Golden Grove"
+  },
+  {
+    "country": "JM",
+    "id": 3490368,
+    "coord": {
+      "lat": 18.32642,
+      "lon": -77.009712
+    },
+    "name": "Gayle"
+  },
+  {
+    "country": "JM",
+    "id": 3490520,
+    "coord": {
+      "lat": 18.49358,
+      "lon": -77.655869
+    },
+    "name": "Falmouth"
+  },
+  {
+    "country": "JM",
+    "id": 3490539,
+    "coord": {
+      "lat": 18.18084,
+      "lon": -77.076637
+    },
+    "name": "Ewarton"
+  },
+  {
+    "country": "JM",
+    "id": 3490616,
+    "coord": {
+      "lat": 17.923969,
+      "lon": -76.588242
+    },
+    "name": "Easington"
+  },
+  {
+    "country": "JM",
+    "id": 3490633,
+    "coord": {
+      "lat": 18.468,
+      "lon": -77.536331
+    },
+    "name": "Duncans"
+  },
+  {
+    "country": "JM",
+    "id": 3490716,
+    "coord": {
+      "lat": 18.45986,
+      "lon": -77.392448
+    },
+    "name": "Discovery Bay"
+  },
+  {
+    "country": "JM",
+    "id": 3490758,
+    "coord": {
+      "lat": 18.23731,
+      "lon": -77.976257
+    },
+    "name": "Darliston"
+  },
+  {
+    "country": "JM",
+    "id": 3490768,
+    "coord": {
+      "lat": 17.91184,
+      "lon": -76.248642
+    },
+    "name": "Dalvey"
+  },
+  {
+    "country": "JM",
+    "id": 3490880,
+    "coord": {
+      "lat": 18.050779,
+      "lon": -76.793716
+    },
+    "name": "Constant Spring"
+  },
+  {
+    "country": "JM",
+    "id": 3490899,
+    "coord": {
+      "lat": 18.20783,
+      "lon": -77.507538
+    },
+    "name": "Coleyville"
+  },
+  {
+    "country": "JM",
+    "id": 3491007,
+    "coord": {
+      "lat": 18.08333,
+      "lon": -77.26667
+    },
+    "name": "Chapelton"
+  },
+  {
+    "country": "JM",
+    "id": 3491055,
+    "coord": {
+      "lat": 18.39747,
+      "lon": -78.103378
+    },
+    "name": "Cascade"
+  },
+  {
+    "country": "JM",
+    "id": 3491102,
+    "coord": {
+      "lat": 18.313259,
+      "lon": -77.902519
+    },
+    "name": "Cambridge"
+  },
+  {
+    "country": "JM",
+    "id": 3491161,
+    "coord": {
+      "lat": 17.88678,
+      "lon": -77.590218
+    },
+    "name": "Bull Savanna"
+  },
+  {
+    "country": "JM",
+    "id": 3491175,
+    "coord": {
+      "lat": 18.23288,
+      "lon": -76.661179
+    },
+    "name": "Buff Bay"
+  },
+  {
+    "country": "JM",
+    "id": 3491327,
+    "coord": {
+      "lat": 18.166019,
+      "lon": -78.027023
+    },
+    "name": "Bluefields"
+  },
+  {
+    "country": "JM",
+    "id": 3491355,
+    "coord": {
+      "lat": 18.02636,
+      "lon": -77.848732
+    },
+    "name": "Black River"
+  },
+  {
+    "country": "JM",
+    "id": 3491381,
+    "coord": {
+      "lat": 18.29504,
+      "lon": -77.951118
+    },
+    "name": "Bethel Town"
+  },
+  {
+    "country": "JM",
+    "id": 3491448,
+    "coord": {
+      "lat": 17.9482,
+      "lon": -76.349159
+    },
+    "name": "Bath"
+  },
+  {
+    "country": "JM",
+    "id": 3491501,
+    "coord": {
+      "lat": 18.172279,
+      "lon": -77.643753
+    },
+    "name": "Balaclava"
+  },
+  {
+    "country": "JM",
+    "id": 3491556,
+    "coord": {
+      "lat": 18.2717,
+      "lon": -76.765228
+    },
+    "name": "Annotto Bay"
+  },
+  {
+    "country": "JM",
+    "id": 3491570,
+    "coord": {
+      "lat": 18.410299,
+      "lon": -77.931664
+    },
+    "name": "Anchovy"
+  },
+  {
+    "country": "JM",
+    "id": 3491586,
+    "coord": {
+      "lat": 17.87002,
+      "lon": -77.566673
+    },
+    "name": "Alligator Pond"
+  },
+  {
+    "country": "JM",
+    "id": 3491593,
+    "coord": {
+      "lat": 18.30768,
+      "lon": -77.353348
+    },
+    "name": "Alexandria"
+  },
+  {
+    "country": "JM",
+    "id": 8062858,
+    "coord": {
+      "lat": 18.15287,
+      "lon": -77.471207
+    },
+    "name": "Limit"
+  },
+  {
+    "country": "JM",
+    "id": 3490446,
+    "coord": {
+      "lat": 17.96953,
+      "lon": -77.291687
+    },
+    "name": "Four Paths"
+  }
+
+]

@@ -1,0 +1,121 @@
+[
+
+  {
+    "country": "SB",
+    "id": 2102985,
+    "coord": {
+      "lat": -9.43333,
+      "lon": 159.949997
+    },
+    "name": "Tamatangga"
+  },
+  {
+    "country": "SB",
+    "id": 2107200,
+    "coord": {
+      "lat": -8.76667,
+      "lon": 160.699997
+    },
+    "name": "Kukumu"
+  },
+  {
+    "country": "SB",
+    "id": 2103350,
+    "coord": {
+      "lat": -8,
+      "lon": 159
+    },
+    "name": "Solomon Islands"
+  },
+  {
+    "country": "SB",
+    "id": 2105575,
+    "coord": {
+      "lat": -8.32799,
+      "lon": 157.266525
+    },
+    "name": "Munda"
+  },
+  {
+    "country": "SB",
+    "id": 2178603,
+    "coord": {
+      "lat": -10.72484,
+      "lon": 165.787537
+    },
+    "name": "Nele"
+  },
+  {
+    "country": "SB",
+    "id": 2105596,
+    "coord": {
+      "lat": -9.41667,
+      "lon": 160.050003
+    },
+    "name": "Motombulu"
+  },
+  {
+    "country": "SB",
+    "id": 2108831,
+    "coord": {
+      "lat": -9.75,
+      "lon": 160
+    },
+    "name": "Guadalcanal Province"
+  },
+  {
+    "country": "SB",
+    "id": 2108502,
+    "coord": {
+      "lat": -9.43333,
+      "lon": 159.949997
+    },
+    "name": "Honiara"
+  },
+  {
+    "country": "SB",
+    "id": 2102384,
+    "coord": {
+      "lat": -9.09958,
+      "lon": 160.147583
+    },
+    "name": "Tulaghi"
+  },
+  {
+    "country": "SB",
+    "id": 2108857,
+    "coord": {
+      "lat": -8.10303,
+      "lon": 156.841858
+    },
+    "name": "Gizo"
+  },
+  {
+    "country": "SB",
+    "id": 2109528,
+    "coord": {
+      "lat": -8.14497,
+      "lon": 159.592117
+    },
+    "name": "Buala"
+  },
+  {
+    "country": "SB",
+    "id": 2109701,
+    "coord": {
+      "lat": -8.76761,
+      "lon": 160.703354
+    },
+    "name": "Auki"
+  },
+  {
+    "country": "SB",
+    "id": 2178753,
+    "coord": {
+      "lat": -10.45442,
+      "lon": 161.920456
+    },
+    "name": "Kirakira"
+  }
+
+]

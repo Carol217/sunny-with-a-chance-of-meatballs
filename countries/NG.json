@@ -1,0 +1,4693 @@
+[
+
+  {
+    "country": "NG",
+    "id": 2347078,
+    "coord": {
+      "lat": 10.062094,
+      "lon": 9.997027
+    },
+    "name": "Birim"
+  },
+  {
+    "country": "NG",
+    "id": 2337542,
+    "coord": {
+      "lat": 5.5,
+      "lon": 7.16667
+    },
+    "name": "Imo State"
+  },
+  {
+    "country": "NG",
+    "id": 2343508,
+    "coord": {
+      "lat": 5.26566,
+      "lon": 7.14768
+    },
+    "name": "Elelem"
+  },
+  {
+    "country": "NG",
+    "id": 2343379,
+    "coord": {
+      "lat": 9.06667,
+      "lon": 6.03333
+    },
+    "name": "Emagiti"
+  },
+  {
+    "country": "NG",
+    "id": 2597367,
+    "coord": {
+      "lat": 12,
+      "lon": 11.5
+    },
+    "name": "Yobe State"
+  },
+  {
+    "country": "NG",
+    "id": 2344838,
+    "coord": {
+      "lat": 13.108,
+      "lon": 11.5703
+    },
+    "name": "Dillala"
+  },
+  {
+    "country": "NG",
+    "id": 2318933,
+    "coord": {
+      "lat": 11.81067,
+      "lon": 8.84505
+    },
+    "name": "Wudil"
+  },
+  {
+    "country": "NG",
+    "id": 2319257,
+    "coord": {
+      "lat": 8.93333,
+      "lon": 8.6
+    },
+    "name": "Wamba"
+  },
+  {
+    "country": "NG",
+    "id": 2324960,
+    "coord": {
+      "lat": 8.73333,
+      "lon": 5.75
+    },
+    "name": "Pategi"
+  },
+  {
+    "country": "NG",
+    "id": 2346951,
+    "coord": {
+      "lat": 8.93333,
+      "lon": 4.78333
+    },
+    "name": "Bode Sadu"
+  },
+  {
+    "country": "NG",
+    "id": 2591159,
+    "coord": {
+      "lat": 4.76254,
+      "lon": 6.752
+    },
+    "name": "Degema Hulk"
+  },
+  {
+    "country": "NG",
+    "id": 2347468,
+    "coord": {
+      "lat": 10.5,
+      "lon": 10
+    },
+    "name": "Bauchi State"
+  },
+  {
+    "country": "NG",
+    "id": 2351358,
+    "coord": {
+      "lat": 7.46667,
+      "lon": 4.28333
+    },
+    "name": "Ajibo"
+  },
+  {
+    "country": "NG",
+    "id": 2595349,
+    "coord": {
+      "lat": 12.16667,
+      "lon": 6.25
+    },
+    "name": "Zamfara State"
+  },
+  {
+    "country": "NG",
+    "id": 2340788,
+    "coord": {
+      "lat": 12.07433,
+      "lon": 6.405
+    },
+    "name": "Gidan Sarkin Gardi"
+  },
+  {
+    "country": "NG",
+    "id": 2325330,
+    "coord": {
+      "lat": 5.48333,
+      "lon": 7.03041
+    },
+    "name": "Owerri"
+  },
+  {
+    "country": "NG",
+    "id": 2317548,
+    "coord": {
+      "lat": 11.42406,
+      "lon": 5.22879
+    },
+    "name": "Zuru"
+  },
+  {
+    "country": "NG",
+    "id": 2324857,
+    "coord": {
+      "lat": 9.98333,
+      "lon": 10.93333
+    },
+    "name": "Pindiga"
+  },
+  {
+    "country": "NG",
+    "id": 2353099,
+    "coord": {
+      "lat": 6.31625,
+      "lon": 8.11691
+    },
+    "name": "Abakaliki"
+  },
+  {
+    "country": "NG",
+    "id": 2327494,
+    "coord": {
+      "lat": 5.61455,
+      "lon": 7.81191
+    },
+    "name": "Ohafia-Ifigh"
+  },
+  {
+    "country": "NG",
+    "id": 2328926,
+    "coord": {
+      "lat": 10,
+      "lon": 8
+    },
+    "name": "Federal Republic of Nigeria"
+  },
+  {
+    "country": "NG",
+    "id": 2335722,
+    "coord": {
+      "lat": 10.33333,
+      "lon": 7.75
+    },
+    "name": "Kaduna State"
+  },
+  {
+    "country": "NG",
+    "id": 2335502,
+    "coord": {
+      "lat": 10.03176,
+      "lon": 7.9981
+    },
+    "name": "Kajul"
+  },
+  {
+    "country": "NG",
+    "id": 2348389,
+    "coord": {
+      "lat": 10.54648,
+      "lon": 10.01186
+    },
+    "name": "Badakoshi"
+  },
+  {
+    "country": "NG",
+    "id": 2339937,
+    "coord": {
+      "lat": 12.16278,
+      "lon": 6.66135
+    },
+    "name": "Gusau"
+  },
+  {
+    "country": "NG",
+    "id": 2335727,
+    "coord": {
+      "lat": 10.52224,
+      "lon": 7.43828
+    },
+    "name": "Kaduna"
+  },
+  {
+    "country": "NG",
+    "id": 2332453,
+    "coord": {
+      "lat": 6.58333,
+      "lon": 3.75
+    },
+    "name": "Lagos State"
+  },
+  {
+    "country": "NG",
+    "id": 2332459,
+    "coord": {
+      "lat": 6.45306,
+      "lon": 3.39583
+    },
+    "name": "Lagos"
+  },
+  {
+    "country": "NG",
+    "id": 2322794,
+    "coord": {
+      "lat": 9.17583,
+      "lon": 7.18083
+    },
+    "name": "Suleja"
+  },
+  {
+    "country": "NG",
+    "id": 2347266,
+    "coord": {
+      "lat": 7.33333,
+      "lon": 8.75
+    },
+    "name": "Benue State"
+  },
+  {
+    "country": "NG",
+    "id": 2319268,
+    "coord": {
+      "lat": 7.7315,
+      "lon": 8.5441
+    },
+    "name": "Walmayo"
+  },
+  {
+    "country": "NG",
+    "id": 2326171,
+    "coord": {
+      "lat": 7.1,
+      "lon": 4.83333
+    },
+    "name": "Ondo"
+  },
+  {
+    "country": "NG",
+    "id": 2324433,
+    "coord": {
+      "lat": 4.74974,
+      "lon": 6.82766
+    },
+    "name": "Rivers State"
+  },
+  {
+    "country": "NG",
+    "id": 2591746,
+    "coord": {
+      "lat": 4.79071,
+      "lon": 7.01174
+    },
+    "name": "Orogbum"
+  },
+  {
+    "country": "NG",
+    "id": 2325190,
+    "coord": {
+      "lat": 8,
+      "lon": 4
+    },
+    "name": "Oyo State"
+  },
+  {
+    "country": "NG",
+    "id": 2339354,
+    "coord": {
+      "lat": 7.38778,
+      "lon": 3.89639
+    },
+    "name": "Ibadan"
+  },
+  {
+    "country": "NG",
+    "id": 2565344,
+    "coord": {
+      "lat": 6.5,
+      "lon": 7.5
+    },
+    "name": "Enugu State"
+  },
+  {
+    "country": "NG",
+    "id": 2343279,
+    "coord": {
+      "lat": 6.4402,
+      "lon": 7.4943
+    },
+    "name": "Enugu"
+  },
+  {
+    "country": "NG",
+    "id": 2332785,
+    "coord": {
+      "lat": 8.5,
+      "lon": 5
+    },
+    "name": "Kwara State"
+  },
+  {
+    "country": "NG",
+    "id": 2337639,
+    "coord": {
+      "lat": 8.5,
+      "lon": 4.55
+    },
+    "name": "Ilorin"
+  },
+  {
+    "country": "NG",
+    "id": 2335196,
+    "coord": {
+      "lat": 11.5,
+      "lon": 8.5
+    },
+    "name": "Kano State"
+  },
+  {
+    "country": "NG",
+    "id": 2335204,
+    "coord": {
+      "lat": 12.00012,
+      "lon": 8.51672
+    },
+    "name": "Kano"
+  },
+  {
+    "country": "NG",
+    "id": 2327735,
+    "coord": {
+      "lat": 8.13333,
+      "lon": 4.26667
+    },
+    "name": "Ogbomoso"
+  },
+  {
+    "country": "NG",
+    "id": 2565343,
+    "coord": {
+      "lat": 6.5,
+      "lon": 6
+    },
+    "name": "Edo"
+  },
+  {
+    "country": "NG",
+    "id": 2347283,
+    "coord": {
+      "lat": 6.33504,
+      "lon": 5.62749
+    },
+    "name": "Benin City"
+  },
+  {
+    "country": "NG",
+    "id": 2327546,
+    "coord": {
+      "lat": 7,
+      "lon": 3.58333
+    },
+    "name": "Ogun State"
+  },
+  {
+    "country": "NG",
+    "id": 2352947,
+    "coord": {
+      "lat": 7.15,
+      "lon": 3.35
+    },
+    "name": "Abeokuta"
+  },
+  {
+    "country": "NG",
+    "id": 2597365,
+    "coord": {
+      "lat": 7.5,
+      "lon": 4.5
+    },
+    "name": "Osun State"
+  },
+  {
+    "country": "NG",
+    "id": 2325590,
+    "coord": {
+      "lat": 7.76667,
+      "lon": 4.56667
+    },
+    "name": "Osogbo"
+  },
+  {
+    "country": "NG",
+    "id": 2326168,
+    "coord": {
+      "lat": 7.16667,
+      "lon": 5.08333
+    },
+    "name": "Ondo State"
+  },
+  {
+    "country": "NG",
+    "id": 2350841,
+    "coord": {
+      "lat": 7.25256,
+      "lon": 5.19312
+    },
+    "name": "Akure"
+  },
+  {
+    "country": "NG",
+    "id": 2347470,
+    "coord": {
+      "lat": 10.31344,
+      "lon": 9.84327
+    },
+    "name": "Bauchi"
+  },
+  {
+    "country": "NG",
+    "id": 2595347,
+    "coord": {
+      "lat": 10.25,
+      "lon": 11.16667
+    },
+    "name": "Gombe State"
+  },
+  {
+    "country": "NG",
+    "id": 2340451,
+    "coord": {
+      "lat": 10.28969,
+      "lon": 11.16729
+    },
+    "name": "Gombe"
+  },
+  {
+    "country": "NG",
+    "id": 2345891,
+    "coord": {
+      "lat": 5.75,
+      "lon": 8.5
+    },
+    "name": "Cross River State"
+  },
+  {
+    "country": "NG",
+    "id": 2338242,
+    "coord": {
+      "lat": 5.96669,
+      "lon": 8.70632
+    },
+    "name": "Ikom"
+  },
+  {
+    "country": "NG",
+    "id": 2334797,
+    "coord": {
+      "lat": 12.25,
+      "lon": 7.5
+    },
+    "name": "Katsina State"
+  },
+  {
+    "country": "NG",
+    "id": 2334802,
+    "coord": {
+      "lat": 12.98943,
+      "lon": 7.60063
+    },
+    "name": "Katsina"
+  },
+  {
+    "country": "NG",
+    "id": 2597364,
+    "coord": {
+      "lat": 7.75,
+      "lon": 6.75
+    },
+    "name": "Kogi State"
+  },
+  {
+    "country": "NG",
+    "id": 2331939,
+    "coord": {
+      "lat": 7.80236,
+      "lon": 6.743
+    },
+    "name": "Lokoja"
+  },
+  {
+    "country": "NG",
+    "id": 2346794,
+    "coord": {
+      "lat": 11.5,
+      "lon": 13
+    },
+    "name": "Borno State"
+  },
+  {
+    "country": "NG",
+    "id": 2331447,
+    "coord": {
+      "lat": 11.84644,
+      "lon": 13.16027
+    },
+    "name": "Maiduguri"
+  },
+  {
+    "country": "NG",
+    "id": 2328925,
+    "coord": {
+      "lat": 10,
+      "lon": 6
+    },
+    "name": "Niger State"
+  },
+  {
+    "country": "NG",
+    "id": 2330100,
+    "coord": {
+      "lat": 9.61389,
+      "lon": 6.55694
+    },
+    "name": "Minna"
+  },
+  {
+    "country": "NG",
+    "id": 2349961,
+    "coord": {
+      "lat": 6.33333,
+      "lon": 7
+    },
+    "name": "Anambra State"
+  },
+  {
+    "country": "NG",
+    "id": 2326016,
+    "coord": {
+      "lat": 6.14543,
+      "lon": 6.78845
+    },
+    "name": "Onitsha"
+  },
+  {
+    "country": "NG",
+    "id": 2322907,
+    "coord": {
+      "lat": 13.08333,
+      "lon": 5.25
+    },
+    "name": "Sokoto State"
+  },
+  {
+    "country": "NG",
+    "id": 2322911,
+    "coord": {
+      "lat": 13.06092,
+      "lon": 5.23902
+    },
+    "name": "Sokoto"
+  },
+  {
+    "country": "NG",
+    "id": 2565341,
+    "coord": {
+      "lat": 5.5,
+      "lon": 6
+    },
+    "name": "Delta State"
+  },
+  {
+    "country": "NG",
+    "id": 2319133,
+    "coord": {
+      "lat": 5.51667,
+      "lon": 5.75
+    },
+    "name": "Warri"
+  },
+  {
+    "country": "NG",
+    "id": 2565342,
+    "coord": {
+      "lat": 9.33333,
+      "lon": 12.5
+    },
+    "name": "Adamawa State"
+  },
+  {
+    "country": "NG",
+    "id": 2318044,
+    "coord": {
+      "lat": 9.2,
+      "lon": 12.48333
+    },
+    "name": "Yola"
+  },
+  {
+    "country": "NG",
+    "id": 2318560,
+    "coord": {
+      "lat": 11.07543,
+      "lon": 7.67925
+    },
+    "name": "Wusasa"
+  },
+  {
+    "country": "NG",
+    "id": 2327879,
+    "coord": {
+      "lat": 8.15,
+      "lon": 4.71667
+    },
+    "name": "Offa"
+  },
+  {
+    "country": "NG",
+    "id": 2336905,
+    "coord": {
+      "lat": 7.63333,
+      "lon": 4.18333
+    },
+    "name": "Iwo"
+  },
+  {
+    "country": "NG",
+    "id": 2324828,
+    "coord": {
+      "lat": 9.16667,
+      "lon": 9.75
+    },
+    "name": "Plateau State"
+  },
+  {
+    "country": "NG",
+    "id": 2335953,
+    "coord": {
+      "lat": 9.91667,
+      "lon": 8.9
+    },
+    "name": "Jos"
+  },
+  {
+    "country": "NG",
+    "id": 2350813,
+    "coord": {
+      "lat": 5,
+      "lon": 7.83333
+    },
+    "name": "Akwa Ibom State"
+  },
+  {
+    "country": "NG",
+    "id": 7074978,
+    "coord": {
+      "lat": 5.04827,
+      "lon": 7.9217
+    },
+    "name": "Afaha Oku"
+  },
+  {
+    "country": "NG",
+    "id": 2565340,
+    "coord": {
+      "lat": 5.41667,
+      "lon": 7.5
+    },
+    "name": "Abia State"
+  },
+  {
+    "country": "NG",
+    "id": 2353151,
+    "coord": {
+      "lat": 5.10658,
+      "lon": 7.36667
+    },
+    "name": "Aba"
+  },
+  {
+    "country": "NG",
+    "id": 2325200,
+    "coord": {
+      "lat": 7.85,
+      "lon": 3.93333
+    },
+    "name": "Oyo"
+  },
+  {
+    "country": "NG",
+    "id": 2338900,
+    "coord": {
+      "lat": 7.46667,
+      "lon": 4.56667
+    },
+    "name": "Ife"
+  },
+  {
+    "country": "NG",
+    "id": 2347209,
+    "coord": {
+      "lat": 9.08333,
+      "lon": 6.01667
+    },
+    "name": "Bida"
+  },
+  {
+    "country": "NG",
+    "id": 2331303,
+    "coord": {
+      "lat": 9.10306,
+      "lon": 7.49444
+    },
+    "name": "Maitama"
+  },
+  {
+    "country": "NG",
+    "id": 2334528,
+    "coord": {
+      "lat": 6.6,
+      "lon": 3.06667
+    },
+    "name": "Ketu Adieowe"
+  },
+  {
+    "country": "NG",
+    "id": 2595346,
+    "coord": {
+      "lat": 7.66667,
+      "lon": 5.25
+    },
+    "name": "Ekiti State"
+  },
+  {
+    "country": "NG",
+    "id": 2352379,
+    "coord": {
+      "lat": 7.621,
+      "lon": 5.2215
+    },
+    "name": "Ado-Ekiti"
+  },
+  {
+    "country": "NG",
+    "id": 2348395,
+    "coord": {
+      "lat": 6.41667,
+      "lon": 2.88333
+    },
+    "name": "Badagry"
+  },
+  {
+    "country": "NG",
+    "id": 2325458,
+    "coord": {
+      "lat": 6.66667,
+      "lon": 3.73333
+    },
+    "name": "Otta"
+  },
+  {
+    "country": "NG",
+    "id": 2342955,
+    "coord": {
+      "lat": 4.44253,
+      "lon": 7.16747
+    },
+    "name": "Eyamba Town"
+  },
+  {
+    "country": "NG",
+    "id": 2328151,
+    "coord": {
+      "lat": 6.66737,
+      "lon": 9.17157
+    },
+    "name": "Obudu"
+  },
+  {
+    "country": "NG",
+    "id": 2337181,
+    "coord": {
+      "lat": 7.96667,
+      "lon": 3.6
+    },
+    "name": "Iseyin"
+  },
+  {
+    "country": "NG",
+    "id": 2347954,
+    "coord": {
+      "lat": 11.5221,
+      "lon": 13.68558
+    },
+    "name": "Bama"
+  },
+  {
+    "country": "NG",
+    "id": 2325688,
+    "coord": {
+      "lat": 4.82561,
+      "lon": 8.23434
+    },
+    "name": "Oron"
+  },
+  {
+    "country": "NG",
+    "id": 2327445,
+    "coord": {
+      "lat": 7.46614,
+      "lon": 6.66587
+    },
+    "name": "Ohunene"
+  },
+  {
+    "country": "NG",
+    "id": 2346995,
+    "coord": {
+      "lat": 10.61285,
+      "lon": 12.19458
+    },
+    "name": "Biu"
+  },
+  {
+    "country": "NG",
+    "id": 7019842,
+    "coord": {
+      "lat": 11.11861,
+      "lon": 7.70193
+    },
+    "name": "Hanwa"
+  },
+  {
+    "country": "NG",
+    "id": 2319080,
+    "coord": {
+      "lat": 9.26667,
+      "lon": 12.41667
+    },
+    "name": "Wauro Jabbe"
+  },
+  {
+    "country": "NG",
+    "id": 7021662,
+    "coord": {
+      "lat": 12.9299,
+      "lon": 5.20428
+    },
+    "name": "Sire"
+  },
+  {
+    "country": "NG",
+    "id": 2591074,
+    "coord": {
+      "lat": 4.98174,
+      "lon": 6.94338
+    },
+    "name": "Imogwu-Agwa"
+  },
+  {
+    "country": "NG",
+    "id": 2333003,
+    "coord": {
+      "lat": 9.66667,
+      "lon": 6.45
+    },
+    "name": "Kuyi"
+  },
+  {
+    "country": "NG",
+    "id": 2566677,
+    "coord": {
+      "lat": 6.57806,
+      "lon": 3.33444
+    },
+    "name": "Shogunle"
+  },
+  {
+    "country": "NG",
+    "id": 2320909,
+    "coord": {
+      "lat": 7.7124,
+      "lon": 8.6137
+    },
+    "name": "Uga Soja"
+  },
+  {
+    "country": "NG",
+    "id": 2346853,
+    "coord": {
+      "lat": 11.88259,
+      "lon": 13.08901
+    },
+    "name": "Bolori"
+  },
+  {
+    "country": "NG",
+    "id": 2592493,
+    "coord": {
+      "lat": 12.06425,
+      "lon": 8.53179
+    },
+    "name": "Takurza"
+  },
+  {
+    "country": "NG",
+    "id": 2338883,
+    "coord": {
+      "lat": 10.70113,
+      "lon": 7.29455
+    },
+    "name": "Ifira"
+  },
+  {
+    "country": "NG",
+    "id": 2339530,
+    "coord": {
+      "lat": 9.63333,
+      "lon": 8.88333
+    },
+    "name": "Heipang"
+  },
+  {
+    "country": "NG",
+    "id": 2342616,
+    "coord": {
+      "lat": 8.43333,
+      "lon": 4.5
+    },
+    "name": "Fili"
+  },
+  {
+    "country": "NG",
+    "id": 2336648,
+    "coord": {
+      "lat": 7.35472,
+      "lon": 3.98333
+    },
+    "name": "Jagun Elesin"
+  },
+  {
+    "country": "NG",
+    "id": 2343356,
+    "coord": {
+      "lat": 6.4762,
+      "lon": 7.5851
+    },
+    "name": "Emene"
+  },
+  {
+    "country": "NG",
+    "id": 6915258,
+    "coord": {
+      "lat": 4.9936,
+      "lon": 8.3372
+    },
+    "name": "Ishie Town"
+  },
+  {
+    "country": "NG",
+    "id": 2327124,
+    "coord": {
+      "lat": 6.2995,
+      "lon": 5.59383
+    },
+    "name": "Oko"
+  },
+  {
+    "country": "NG",
+    "id": 6832960,
+    "coord": {
+      "lat": 7.2452,
+      "lon": 5.2956
+    },
+    "name": "Alodifi"
+  },
+  {
+    "country": "NG",
+    "id": 2352776,
+    "coord": {
+      "lat": 8.83333,
+      "lon": 7.16667
+    },
+    "name": "Abuja Federal Capital Territory"
+  },
+  {
+    "country": "NG",
+    "id": 2321429,
+    "coord": {
+      "lat": 9.00556,
+      "lon": 7.22194
+    },
+    "name": "Tungan Ali"
+  },
+  {
+    "country": "NG",
+    "id": 2597363,
+    "coord": {
+      "lat": 11.5,
+      "lon": 4
+    },
+    "name": "Kebbi State"
+  },
+  {
+    "country": "NG",
+    "id": 2317569,
+    "coord": {
+      "lat": 9.81278,
+      "lon": 6.15583
+    },
+    "name": "Zungeru"
+  },
+  {
+    "country": "NG",
+    "id": 2317765,
+    "coord": {
+      "lat": 11.11128,
+      "lon": 7.7227
+    },
+    "name": "Zaria"
+  },
+  {
+    "country": "NG",
+    "id": 2595344,
+    "coord": {
+      "lat": 4.75,
+      "lon": 6.08333
+    },
+    "name": "Bayelsa State"
+  },
+  {
+    "country": "NG",
+    "id": 2318123,
+    "coord": {
+      "lat": 4.92472,
+      "lon": 6.26417
+    },
+    "name": "Yenagoa"
+  },
+  {
+    "country": "NG",
+    "id": 2318921,
+    "coord": {
+      "lat": 7.85,
+      "lon": 9.78333
+    },
+    "name": "Wukari"
+  },
+  {
+    "country": "NG",
+    "id": 2319668,
+    "coord": {
+      "lat": 6.7,
+      "lon": 6.33333
+    },
+    "name": "Uromi"
+  },
+  {
+    "country": "NG",
+    "id": 2320576,
+    "coord": {
+      "lat": 5.52627,
+      "lon": 7.48959
+    },
+    "name": "Umuahia"
+  },
+  {
+    "country": "NG",
+    "id": 2320829,
+    "coord": {
+      "lat": 5.48986,
+      "lon": 6.00743
+    },
+    "name": "Ughelli"
+  },
+  {
+    "country": "NG",
+    "id": 2320831,
+    "coord": {
+      "lat": 5.8086,
+      "lon": 8.0812
+    },
+    "name": "Ugep"
+  },
+  {
+    "country": "NG",
+    "id": 2320920,
+    "coord": {
+      "lat": 5.93576,
+      "lon": 7.0793
+    },
+    "name": "Uga"
+  },
+  {
+    "country": "NG",
+    "id": 2321031,
+    "coord": {
+      "lat": 6.65504,
+      "lon": 6.38687
+    },
+    "name": "Ubiaja"
+  },
+  {
+    "country": "NG",
+    "id": 2322263,
+    "coord": {
+      "lat": 10.0706,
+      "lon": 6.1906
+    },
+    "name": "Tegina"
+  },
+  {
+    "country": "NG",
+    "id": 2322495,
+    "coord": {
+      "lat": 12.40386,
+      "lon": 4.64692
+    },
+    "name": "Tambawel"
+  },
+  {
+    "country": "NG",
+    "id": 2322529,
+    "coord": {
+      "lat": 12.57317,
+      "lon": 6.05971
+    },
+    "name": "Talata Mafara"
+  },
+  {
+    "country": "NG",
+    "id": 2322552,
+    "coord": {
+      "lat": 7.26667,
+      "lon": 9.98333
+    },
+    "name": "Takum"
+  },
+  {
+    "country": "NG",
+    "id": 2322957,
+    "coord": {
+      "lat": 10.98134,
+      "lon": 8.05749
+    },
+    "name": "Soba"
+  },
+  {
+    "country": "NG",
+    "id": 2323390,
+    "coord": {
+      "lat": 8.66667,
+      "lon": 3.38333
+    },
+    "name": "Saki"
+  },
+  {
+    "country": "NG",
+    "id": 2323411,
+    "coord": {
+      "lat": 6.84323,
+      "lon": 3.64776
+    },
+    "name": "Shagamu"
+  },
+  {
+    "country": "NG",
+    "id": 2323675,
+    "coord": {
+      "lat": 5.89405,
+      "lon": 5.67666
+    },
+    "name": "Sapele"
+  },
+  {
+    "country": "NG",
+    "id": 2324504,
+    "coord": {
+      "lat": 11.10298,
+      "lon": 5.25068
+    },
+    "name": "Rijau"
+  },
+  {
+    "country": "NG",
+    "id": 2324575,
+    "coord": {
+      "lat": 11.54912,
+      "lon": 8.57464
+    },
+    "name": "Rano"
+  },
+  {
+    "country": "NG",
+    "id": 2324767,
+    "coord": {
+      "lat": 11.7091,
+      "lon": 11.0694
+    },
+    "name": "Potiskum"
+  },
+  {
+    "country": "NG",
+    "id": 2324774,
+    "coord": {
+      "lat": 4.77742,
+      "lon": 7.0134
+    },
+    "name": "Port Harcourt"
+  },
+  {
+    "country": "NG",
+    "id": 2325060,
+    "coord": {
+      "lat": 9.33333,
+      "lon": 9.45
+    },
+    "name": "Pankshin"
+  },
+  {
+    "country": "NG",
+    "id": 2325161,
+    "coord": {
+      "lat": 5.95666,
+      "lon": 6.84904
+    },
+    "name": "Ozubulu"
+  },
+  {
+    "country": "NG",
+    "id": 2325249,
+    "coord": {
+      "lat": 8.05,
+      "lon": 4.76667
+    },
+    "name": "Oyan"
+  },
+  {
+    "country": "NG",
+    "id": 2325314,
+    "coord": {
+      "lat": 7.1962,
+      "lon": 5.58681
+    },
+    "name": "Owo"
+  },
+  {
+    "country": "NG",
+    "id": 2325437,
+    "coord": {
+      "lat": 7.08921,
+      "lon": 7.64989
+    },
+    "name": "Otukpa"
+  },
+  {
+    "country": "NG",
+    "id": 2325733,
+    "coord": {
+      "lat": 7.55,
+      "lon": 3.43333
+    },
+    "name": "Orita Eruwa"
+  },
+  {
+    "country": "NG",
+    "id": 2326302,
+    "coord": {
+      "lat": 7.6,
+      "lon": 4.18333
+    },
+    "name": "Olupona"
+  },
+  {
+    "country": "NG",
+    "id": 2326811,
+    "coord": {
+      "lat": 9.21667,
+      "lon": 3.18333
+    },
+    "name": "Okuta"
+  },
+  {
+    "country": "NG",
+    "id": 2326899,
+    "coord": {
+      "lat": 4.74159,
+      "lon": 7.08488
+    },
+    "name": "Okrika"
+  },
+  {
+    "country": "NG",
+    "id": 2327143,
+    "coord": {
+      "lat": 5.83523,
+      "lon": 7.35989
+    },
+    "name": "Okigwi"
+  },
+  {
+    "country": "NG",
+    "id": 2327223,
+    "coord": {
+      "lat": 7.81667,
+      "lon": 4.91667
+    },
+    "name": "Oke Mesi"
+  },
+  {
+    "country": "NG",
+    "id": 2327513,
+    "coord": {
+      "lat": 6.17818,
+      "lon": 6.52429
+    },
+    "name": "Ogwashi-Uku"
+  },
+  {
+    "country": "NG",
+    "id": 2327521,
+    "coord": {
+      "lat": 5.7089,
+      "lon": 6.81026
+    },
+    "name": "Oguta"
+  },
+  {
+    "country": "NG",
+    "id": 2327650,
+    "coord": {
+      "lat": 6.65471,
+      "lon": 8.79764
+    },
+    "name": "Ogoja"
+  },
+  {
+    "country": "NG",
+    "id": 2327827,
+    "coord": {
+      "lat": 7.59464,
+      "lon": 6.22476
+    },
+    "name": "Ogaminan"
+  },
+  {
+    "country": "NG",
+    "id": 2328090,
+    "coord": {
+      "lat": 7.7899,
+      "lon": 5.7117
+    },
+    "name": "Ode"
+  },
+  {
+    "country": "NG",
+    "id": 2328185,
+    "coord": {
+      "lat": 4.70844,
+      "lon": 6.79307
+    },
+    "name": "Obonoma"
+  },
+  {
+    "country": "NG",
+    "id": 2328617,
+    "coord": {
+      "lat": 9.46667,
+      "lon": 12.03333
+    },
+    "name": "Numan"
+  },
+  {
+    "country": "NG",
+    "id": 2328684,
+    "coord": {
+      "lat": 6.8561,
+      "lon": 7.3927
+    },
+    "name": "Nsukka"
+  },
+  {
+    "country": "NG",
+    "id": 2328765,
+    "coord": {
+      "lat": 6.01986,
+      "lon": 6.91478
+    },
+    "name": "Nnewi"
+  },
+  {
+    "country": "NG",
+    "id": 2328790,
+    "coord": {
+      "lat": 5.75555,
+      "lon": 7.10627
+    },
+    "name": "Nkwerre"
+  },
+  {
+    "country": "NG",
+    "id": 2328811,
+    "coord": {
+      "lat": 6.15164,
+      "lon": 6.84458
+    },
+    "name": "Nkpor"
+  },
+  {
+    "country": "NG",
+    "id": 2328952,
+    "coord": {
+      "lat": 12.8791,
+      "lon": 10.4526
+    },
+    "name": "Nguru"
+  },
+  {
+    "country": "NG",
+    "id": 2595348,
+    "coord": {
+      "lat": 8.5,
+      "lon": 8.25
+    },
+    "name": "Nassarawa State"
+  },
+  {
+    "country": "NG",
+    "id": 2329451,
+    "coord": {
+      "lat": 8.52944,
+      "lon": 7.72417
+    },
+    "name": "Nassarawa"
+  },
+  {
+    "country": "NG",
+    "id": 2329562,
+    "coord": {
+      "lat": 11.0956,
+      "lon": 11.3327
+    },
+    "name": "Nafada"
+  },
+  {
+    "country": "NG",
+    "id": 2329821,
+    "coord": {
+      "lat": 10.26761,
+      "lon": 13.26436
+    },
+    "name": "Mubi"
+  },
+  {
+    "country": "NG",
+    "id": 2329920,
+    "coord": {
+      "lat": 12.87405,
+      "lon": 6.48754
+    },
+    "name": "Moriki"
+  },
+  {
+    "country": "NG",
+    "id": 2329946,
+    "coord": {
+      "lat": 12.67863,
+      "lon": 13.60792
+    },
+    "name": "Mongonu"
+  },
+  {
+    "country": "NG",
+    "id": 2329981,
+    "coord": {
+      "lat": 9.28333,
+      "lon": 5.05
+    },
+    "name": "Mokwa"
+  },
+  {
+    "country": "NG",
+    "id": 2330028,
+    "coord": {
+      "lat": 7.38333,
+      "lon": 4.26667
+    },
+    "name": "Modakeke"
+  },
+  {
+    "country": "NG",
+    "id": 2330719,
+    "coord": {
+      "lat": 12.36113,
+      "lon": 13.8246
+    },
+    "name": "Marte"
+  },
+  {
+    "country": "NG",
+    "id": 2331005,
+    "coord": {
+      "lat": 11.78529,
+      "lon": 7.62175
+    },
+    "name": "Malumfashi"
+  },
+  {
+    "country": "NG",
+    "id": 2331140,
+    "coord": {
+      "lat": 7.7411,
+      "lon": 8.5121
+    },
+    "name": "Makurdi"
+  },
+  {
+    "country": "NG",
+    "id": 2331528,
+    "coord": {
+      "lat": 12.1131,
+      "lon": 12.8274
+    },
+    "name": "Magumeri"
+  },
+  {
+    "country": "NG",
+    "id": 2332079,
+    "coord": {
+      "lat": 10.38697,
+      "lon": 8.57262
+    },
+    "name": "Lere"
+  },
+  {
+    "country": "NG",
+    "id": 2332249,
+    "coord": {
+      "lat": 9.05,
+      "lon": 6.56667
+    },
+    "name": "Lapai"
+  },
+  {
+    "country": "NG",
+    "id": 2332357,
+    "coord": {
+      "lat": 7.46667,
+      "lon": 4.06667
+    },
+    "name": "Lalupon"
+  },
+  {
+    "country": "NG",
+    "id": 2332504,
+    "coord": {
+      "lat": 8.86667,
+      "lon": 5.41667
+    },
+    "name": "Lafiagi"
+  },
+  {
+    "country": "NG",
+    "id": 2332515,
+    "coord": {
+      "lat": 8.48333,
+      "lon": 8.51667
+    },
+    "name": "Lafia"
+  },
+  {
+    "country": "NG",
+    "id": 2332871,
+    "coord": {
+      "lat": 5.70632,
+      "lon": 6.43741
+    },
+    "name": "Kwale"
+  },
+  {
+    "country": "NG",
+    "id": 2333451,
+    "coord": {
+      "lat": 10.04469,
+      "lon": 11.21217
+    },
+    "name": "Kumo"
+  },
+  {
+    "country": "NG",
+    "id": 2333490,
+    "coord": {
+      "lat": 13.15514,
+      "lon": 10.63423
+    },
+    "name": "Kumagunnam"
+  },
+  {
+    "country": "NG",
+    "id": 2333563,
+    "coord": {
+      "lat": 12.92342,
+      "lon": 13.56058
+    },
+    "name": "Kukawa"
+  },
+  {
+    "country": "NG",
+    "id": 2334008,
+    "coord": {
+      "lat": 10.39989,
+      "lon": 5.46949
+    },
+    "name": "Kontagora"
+  },
+  {
+    "country": "NG",
+    "id": 2334327,
+    "coord": {
+      "lat": 9.08333,
+      "lon": 3.85
+    },
+    "name": "Kishi"
+  },
+  {
+    "country": "NG",
+    "id": 2334652,
+    "coord": {
+      "lat": 8.84861,
+      "lon": 7.87361
+    },
+    "name": "Keffi"
+  },
+  {
+    "country": "NG",
+    "id": 2334756,
+    "coord": {
+      "lat": 12.58979,
+      "lon": 6.57791
+    },
+    "name": "Kaura Namoda"
+  },
+  {
+    "country": "NG",
+    "id": 2334801,
+    "coord": {
+      "lat": 7.16667,
+      "lon": 9.28333
+    },
+    "name": "Katsina Ala"
+  },
+  {
+    "country": "NG",
+    "id": 2335015,
+    "coord": {
+      "lat": 11.2471,
+      "lon": 10.561
+    },
+    "name": "Kari"
+  },
+  {
+    "country": "NG",
+    "id": 2335333,
+    "coord": {
+      "lat": 11.84864,
+      "lon": 3.65761
+    },
+    "name": "Kamba"
+  },
+  {
+    "country": "NG",
+    "id": 2335596,
+    "coord": {
+      "lat": 9.6225,
+      "lon": 3.94806
+    },
+    "name": "Kaiama"
+  },
+  {
+    "country": "NG",
+    "id": 2335614,
+    "coord": {
+      "lat": 9.6,
+      "lon": 8.38333
+    },
+    "name": "Kagoro"
+  },
+  {
+    "country": "NG",
+    "id": 2335713,
+    "coord": {
+      "lat": 9.58333,
+      "lon": 8.3
+    },
+    "name": "Kafachan"
+  },
+  {
+    "country": "NG",
+    "id": 2335798,
+    "coord": {
+      "lat": 9.86667,
+      "lon": 7.95
+    },
+    "name": "Kachia"
+  },
+  {
+    "country": "NG",
+    "id": 2335843,
+    "coord": {
+      "lat": 7.82873,
+      "lon": 6.0731
+    },
+    "name": "Kabba"
+  },
+  {
+    "country": "NG",
+    "id": 2336056,
+    "coord": {
+      "lat": 9.28333,
+      "lon": 12.46667
+    },
+    "name": "Jimeta"
+  },
+  {
+    "country": "NG",
+    "id": 2336237,
+    "coord": {
+      "lat": 12.2175,
+      "lon": 4.37917
+    },
+    "name": "Jega"
+  },
+  {
+    "country": "NG",
+    "id": 2336251,
+    "coord": {
+      "lat": 9.13333,
+      "lon": 4.83333
+    },
+    "name": "Jebba"
+  },
+  {
+    "country": "NG",
+    "id": 2597366,
+    "coord": {
+      "lat": 8,
+      "lon": 10.5
+    },
+    "name": "Taraba State"
+  },
+  {
+    "country": "NG",
+    "id": 2336589,
+    "coord": {
+      "lat": 8.88333,
+      "lon": 11.36667
+    },
+    "name": "Jalingo"
+  },
+  {
+    "country": "NG",
+    "id": 2336985,
+    "coord": {
+      "lat": 5.2004,
+      "lon": 7.98475
+    },
+    "name": "Itu"
+  },
+  {
+    "country": "NG",
+    "id": 2595345,
+    "coord": {
+      "lat": 6.25,
+      "lon": 8.08333
+    },
+    "name": "Ebonyi State"
+  },
+  {
+    "country": "NG",
+    "id": 2337148,
+    "coord": {
+      "lat": 6.37831,
+      "lon": 8.03524
+    },
+    "name": "Isieke"
+  },
+  {
+    "country": "NG",
+    "id": 2337207,
+    "coord": {
+      "lat": 7.4632,
+      "lon": 5.4281
+    },
+    "name": "Ise-Ekiti"
+  },
+  {
+    "country": "NG",
+    "id": 2337235,
+    "coord": {
+      "lat": 8.26667,
+      "lon": 5.83333
+    },
+    "name": "Isanlu Itedoijowa"
+  },
+  {
+    "country": "NG",
+    "id": 2337352,
+    "coord": {
+      "lat": 7.87377,
+      "lon": 5.07692
+    },
+    "name": "Ipoti"
+  },
+  {
+    "country": "NG",
+    "id": 2337379,
+    "coord": {
+      "lat": 6.91002,
+      "lon": 3.66557
+    },
+    "name": "Iperu"
+  },
+  {
+    "country": "NG",
+    "id": 2337490,
+    "coord": {
+      "lat": 7.85,
+      "lon": 4.33333
+    },
+    "name": "Inisa"
+  },
+  {
+    "country": "NG",
+    "id": 2337659,
+    "coord": {
+      "lat": 7.83333,
+      "lon": 4.48333
+    },
+    "name": "Ilobu"
+  },
+  {
+    "country": "NG",
+    "id": 2337680,
+    "coord": {
+      "lat": 13.72918,
+      "lon": 5.29752
+    },
+    "name": "Illela"
+  },
+  {
+    "country": "NG",
+    "id": 2337704,
+    "coord": {
+      "lat": 7.61667,
+      "lon": 4.73333
+    },
+    "name": "Ilesa"
+  },
+  {
+    "country": "NG",
+    "id": 2337759,
+    "coord": {
+      "lat": 6.88653,
+      "lon": 3.0205
+    },
+    "name": "Ilaro"
+  },
+  {
+    "country": "NG",
+    "id": 2337765,
+    "coord": {
+      "lat": 8.01667,
+      "lon": 4.9
+    },
+    "name": "Ila Orangun"
+  },
+  {
+    "country": "NG",
+    "id": 2338106,
+    "coord": {
+      "lat": 5.17938,
+      "lon": 7.71082
+    },
+    "name": "Ikot-Ekpene"
+  },
+  {
+    "country": "NG",
+    "id": 2338269,
+    "coord": {
+      "lat": 7.91667,
+      "lon": 4.66667
+    },
+    "name": "Ikirun"
+  },
+  {
+    "country": "NG",
+    "id": 2338273,
+    "coord": {
+      "lat": 7.35,
+      "lon": 4.18333
+    },
+    "name": "Ikire"
+  },
+  {
+    "country": "NG",
+    "id": 2338287,
+    "coord": {
+      "lat": 7.49133,
+      "lon": 5.23225
+    },
+    "name": "Ikerre"
+  },
+  {
+    "country": "NG",
+    "id": 2338385,
+    "coord": {
+      "lat": 7.8139,
+      "lon": 5.0742
+    },
+    "name": "Ijero-Ekiti"
+  },
+  {
+    "country": "NG",
+    "id": 2338400,
+    "coord": {
+      "lat": 6.81609,
+      "lon": 3.91588
+    },
+    "name": "Ijebu-Ode"
+  },
+  {
+    "country": "NG",
+    "id": 2338401,
+    "coord": {
+      "lat": 7.68333,
+      "lon": 4.81667
+    },
+    "name": "Ijebu Ijesha"
+  },
+  {
+    "country": "NG",
+    "id": 2338403,
+    "coord": {
+      "lat": 6.9798,
+      "lon": 4.00329
+    },
+    "name": "Ijebu-Igbo"
+  },
+  {
+    "country": "NG",
+    "id": 2338497,
+    "coord": {
+      "lat": 5.85377,
+      "lon": 6.86026
+    },
+    "name": "Ihiala"
+  },
+  {
+    "country": "NG",
+    "id": 2338630,
+    "coord": {
+      "lat": 7.66676,
+      "lon": 5.13205
+    },
+    "name": "Igede-Ekiti"
+  },
+  {
+    "country": "NG",
+    "id": 2338640,
+    "coord": {
+      "lat": 6.01669,
+      "lon": 7.02654
+    },
+    "name": "Igbo-Ukwu"
+  },
+  {
+    "country": "NG",
+    "id": 2338660,
+    "coord": {
+      "lat": 7.4527,
+      "lon": 8.6098
+    },
+    "name": "Igbor"
+  },
+  {
+    "country": "NG",
+    "id": 2338669,
+    "coord": {
+      "lat": 7.43333,
+      "lon": 3.28333
+    },
+    "name": "Igbo Ora"
+  },
+  {
+    "country": "NG",
+    "id": 2338711,
+    "coord": {
+      "lat": 8.83333,
+      "lon": 3.75
+    },
+    "name": "Igboho"
+  },
+  {
+    "country": "NG",
+    "id": 2338772,
+    "coord": {
+      "lat": 8.75,
+      "lon": 4.13333
+    },
+    "name": "Igbeti"
+  },
+  {
+    "country": "NG",
+    "id": 2338810,
+    "coord": {
+      "lat": 7.50251,
+      "lon": 5.06258
+    },
+    "name": "Igbara-Odo"
+  },
+  {
+    "country": "NG",
+    "id": 2338876,
+    "coord": {
+      "lat": 6.81437,
+      "lon": 3.19575
+    },
+    "name": "Ifo"
+  },
+  {
+    "country": "NG",
+    "id": 2339150,
+    "coord": {
+      "lat": 7.1127,
+      "lon": 5.1159
+    },
+    "name": "Idanre"
+  },
+  {
+    "country": "NG",
+    "id": 2339156,
+    "coord": {
+      "lat": 7.10651,
+      "lon": 6.73415
+    },
+    "name": "Idah"
+  },
+  {
+    "country": "NG",
+    "id": 2339287,
+    "coord": {
+      "lat": 8.18333,
+      "lon": 9.75
+    },
+    "name": "Ibi"
+  },
+  {
+    "country": "NG",
+    "id": 2339293,
+    "coord": {
+      "lat": 10.48536,
+      "lon": 5.14502
+    },
+    "name": "Ibeto"
+  },
+  {
+    "country": "NG",
+    "id": 2565345,
+    "coord": {
+      "lat": 12,
+      "lon": 9.75
+    },
+    "name": "Jigawa State"
+  },
+  {
+    "country": "NG",
+    "id": 2339631,
+    "coord": {
+      "lat": 12.4498,
+      "lon": 10.0444
+    },
+    "name": "Hadejia"
+  },
+  {
+    "country": "NG",
+    "id": 2339665,
+    "coord": {
+      "lat": 11.10359,
+      "lon": 13.71298
+    },
+    "name": "Gwoza"
+  },
+  {
+    "country": "NG",
+    "id": 2339756,
+    "coord": {
+      "lat": 11.91521,
+      "lon": 7.9346
+    },
+    "name": "Gwarzo"
+  },
+  {
+    "country": "NG",
+    "id": 2339786,
+    "coord": {
+      "lat": 11.27639,
+      "lon": 9.88583
+    },
+    "name": "Gwaram"
+  },
+  {
+    "country": "NG",
+    "id": 2339892,
+    "coord": {
+      "lat": 13.35612,
+      "lon": 5.23664
+    },
+    "name": "Gwadabawa"
+  },
+  {
+    "country": "NG",
+    "id": 2340086,
+    "coord": {
+      "lat": 12.14358,
+      "lon": 5.10809
+    },
+    "name": "Gummi"
+  },
+  {
+    "country": "NG",
+    "id": 2340091,
+    "coord": {
+      "lat": 12.62791,
+      "lon": 9.39119
+    },
+    "name": "Gumel"
+  },
+  {
+    "country": "NG",
+    "id": 2340446,
+    "coord": {
+      "lat": 10.16138,
+      "lon": 12.7399
+    },
+    "name": "Little Gombi"
+  },
+  {
+    "country": "NG",
+    "id": 2341275,
+    "coord": {
+      "lat": 6.7,
+      "lon": 11.26667
+    },
+    "name": "Gembu"
+  },
+  {
+    "country": "NG",
+    "id": 2341294,
+    "coord": {
+      "lat": 12.897,
+      "lon": 11.9304
+    },
+    "name": "Geidam"
+  },
+  {
+    "country": "NG",
+    "id": 2341355,
+    "coord": {
+      "lat": 7.46667,
+      "lon": 4.35
+    },
+    "name": "Gbongan"
+  },
+  {
+    "country": "NG",
+    "id": 2341580,
+    "coord": {
+      "lat": 11.86136,
+      "lon": 8.99714
+    },
+    "name": "Gaya"
+  },
+  {
+    "country": "NG",
+    "id": 2341656,
+    "coord": {
+      "lat": 12.871,
+      "lon": 11.0482
+    },
+    "name": "Gashua"
+  },
+  {
+    "country": "NG",
+    "id": 2341758,
+    "coord": {
+      "lat": 10.17506,
+      "lon": 11.16458
+    },
+    "name": "Garko"
+  },
+  {
+    "country": "NG",
+    "id": 2341955,
+    "coord": {
+      "lat": 8.43333,
+      "lon": 12.06667
+    },
+    "name": "Ganye"
+  },
+  {
+    "country": "NG",
+    "id": 2342192,
+    "coord": {
+      "lat": 12.37066,
+      "lon": 14.21731
+    },
+    "name": "Gambaru"
+  },
+  {
+    "country": "NG",
+    "id": 2342490,
+    "coord": {
+      "lat": 11.52325,
+      "lon": 7.30813
+    },
+    "name": "Funtua"
+  },
+  {
+    "country": "NG",
+    "id": 2342628,
+    "coord": {
+      "lat": 7.71361,
+      "lon": 3.91722
+    },
+    "name": "Fiditi"
+  },
+  {
+    "country": "NG",
+    "id": 2342883,
+    "coord": {
+      "lat": 6.4373,
+      "lon": 8.0862
+    },
+    "name": "Ezza Ohu"
+  },
+  {
+    "country": "NG",
+    "id": 2343093,
+    "coord": {
+      "lat": 4.80293,
+      "lon": 8.25341
+    },
+    "name": "Esuk Oron"
+  },
+  {
+    "country": "NG",
+    "id": 2343252,
+    "coord": {
+      "lat": 6.58412,
+      "lon": 3.98336
+    },
+    "name": "Epe"
+  },
+  {
+    "country": "NG",
+    "id": 2343270,
+    "coord": {
+      "lat": 6.17851,
+      "lon": 7.01156
+    },
+    "name": "Enugu-Ukwu"
+  },
+  {
+    "country": "NG",
+    "id": 2343273,
+    "coord": {
+      "lat": 6.9825,
+      "lon": 7.457
+    },
+    "name": "Enugu-Ezike"
+  },
+  {
+    "country": "NG",
+    "id": 2343299,
+    "coord": {
+      "lat": 7.43614,
+      "lon": 5.45932
+    },
+    "name": "Emure-Ekiti"
+  },
+  {
+    "country": "NG",
+    "id": 2343512,
+    "coord": {
+      "lat": 5.1009,
+      "lon": 6.81411
+    },
+    "name": "Elele"
+  },
+  {
+    "country": "NG",
+    "id": 2343641,
+    "coord": {
+      "lat": 6.74206,
+      "lon": 6.139
+    },
+    "name": "Ekpoma"
+  },
+  {
+    "country": "NG",
+    "id": 2343720,
+    "coord": {
+      "lat": 4.64122,
+      "lon": 7.92092
+    },
+    "name": "Eket"
+  },
+  {
+    "country": "NG",
+    "id": 2343784,
+    "coord": {
+      "lat": 7.9,
+      "lon": 4.31667
+    },
+    "name": "Ejigbo"
+  },
+  {
+    "country": "NG",
+    "id": 2343822,
+    "coord": {
+      "lat": 6.65915,
+      "lon": 7.75961
+    },
+    "name": "Eha Amufu"
+  },
+  {
+    "country": "NG",
+    "id": 2343943,
+    "coord": {
+      "lat": 8.21667,
+      "lon": 5.51667
+    },
+    "name": "Egbe"
+  },
+  {
+    "country": "NG",
+    "id": 2343983,
+    "coord": {
+      "lat": 7.65,
+      "lon": 4.91667
+    },
+    "name": "Effon Alaiye"
+  },
+  {
+    "country": "NG",
+    "id": 2343985,
+    "coord": {
+      "lat": 6.62917,
+      "lon": 8.05925
+    },
+    "name": "Effium"
+  },
+  {
+    "country": "NG",
+    "id": 2344082,
+    "coord": {
+      "lat": 6.60086,
+      "lon": 3.48818
+    },
+    "name": "Ebute Ikorodu"
+  },
+  {
+    "country": "NG",
+    "id": 2344229,
+    "coord": {
+      "lat": 10.85009,
+      "lon": 8.199
+    },
+    "name": "Dutsen Wai"
+  },
+  {
+    "country": "NG",
+    "id": 2344245,
+    "coord": {
+      "lat": 11.7594,
+      "lon": 9.33921
+    },
+    "name": "Dutse"
+  },
+  {
+    "country": "NG",
+    "id": 2344418,
+    "coord": {
+      "lat": 10.82306,
+      "lon": 10.77167
+    },
+    "name": "Dukku"
+  },
+  {
+    "country": "NG",
+    "id": 2344600,
+    "coord": {
+      "lat": 8.38333,
+      "lon": 8.35
+    },
+    "name": "Doma"
+  },
+  {
+    "country": "NG",
+    "id": 2344854,
+    "coord": {
+      "lat": 12.02396,
+      "lon": 13.91646
+    },
+    "name": "Dikwa"
+  },
+  {
+    "country": "NG",
+    "id": 2345029,
+    "coord": {
+      "lat": 10.20864,
+      "lon": 11.38586
+    },
+    "name": "Deba Habe"
+  },
+  {
+    "country": "NG",
+    "id": 2345094,
+    "coord": {
+      "lat": 13.03594,
+      "lon": 8.31631
+    },
+    "name": "Daura"
+  },
+  {
+    "country": "NG",
+    "id": 2345096,
+    "coord": {
+      "lat": 11.5538,
+      "lon": 11.4085
+    },
+    "name": "Daura"
+  },
+  {
+    "country": "NG",
+    "id": 2345152,
+    "coord": {
+      "lat": 10.99375,
+      "lon": 10.41179
+    },
+    "name": "Darazo"
+  },
+  {
+    "country": "NG",
+    "id": 2345498,
+    "coord": {
+      "lat": 11.15604,
+      "lon": 12.75758
+    },
+    "name": "Damboa"
+  },
+  {
+    "country": "NG",
+    "id": 2345521,
+    "coord": {
+      "lat": 11.747,
+      "lon": 11.9608
+    },
+    "name": "Damaturu"
+  },
+  {
+    "country": "NG",
+    "id": 2346229,
+    "coord": {
+      "lat": 4.9517,
+      "lon": 8.322
+    },
+    "name": "Calabar"
+  },
+  {
+    "country": "NG",
+    "id": 2346317,
+    "coord": {
+      "lat": 5.35091,
+      "lon": 5.50758
+    },
+    "name": "Burutu"
+  },
+  {
+    "country": "NG",
+    "id": 2346561,
+    "coord": {
+      "lat": 9.8,
+      "lon": 8.86667
+    },
+    "name": "Bukuru"
+  },
+  {
+    "country": "NG",
+    "id": 2346615,
+    "coord": {
+      "lat": 4.73407,
+      "lon": 6.86345
+    },
+    "name": "Buguma"
+  },
+  {
+    "country": "NG",
+    "id": 2346812,
+    "coord": {
+      "lat": 4.4522,
+      "lon": 7.16808
+    },
+    "name": "Bonny"
+  },
+  {
+    "country": "NG",
+    "id": 2347057,
+    "coord": {
+      "lat": 11.44588,
+      "lon": 9.4984
+    },
+    "name": "Birnin Kudu"
+  },
+  {
+    "country": "NG",
+    "id": 2347059,
+    "coord": {
+      "lat": 12.45389,
+      "lon": 4.1975
+    },
+    "name": "Birnin Kebbi"
+  },
+  {
+    "country": "NG",
+    "id": 2347061,
+    "coord": {
+      "lat": 11.01537,
+      "lon": 6.78036
+    },
+    "name": "Sofo-Birnin-Gwari"
+  },
+  {
+    "country": "NG",
+    "id": 2347155,
+    "coord": {
+      "lat": 9.86472,
+      "lon": 11.22528
+    },
+    "name": "Biliri"
+  },
+  {
+    "country": "NG",
+    "id": 2347303,
+    "coord": {
+      "lat": 5.55718,
+      "lon": 7.63676
+    },
+    "name": "Bende"
+  },
+  {
+    "country": "NG",
+    "id": 2347330,
+    "coord": {
+      "lat": 7.85868,
+      "lon": 10.97187
+    },
+    "name": "Beli"
+  },
+  {
+    "country": "NG",
+    "id": 2347592,
+    "coord": {
+      "lat": 8.6,
+      "lon": 6.41667
+    },
+    "name": "Baro"
+  },
+  {
+    "country": "NG",
+    "id": 2348507,
+    "coord": {
+      "lat": 10.42949,
+      "lon": 3.81495
+    },
+    "name": "Babana"
+  },
+  {
+    "country": "NG",
+    "id": 2348595,
+    "coord": {
+      "lat": 11.6765,
+      "lon": 10.1948
+    },
+    "name": "Azare"
+  },
+  {
+    "country": "NG",
+    "id": 2348773,
+    "coord": {
+      "lat": 6.21009,
+      "lon": 7.07411
+    },
+    "name": "Awka"
+  },
+  {
+    "country": "NG",
+    "id": 2348783,
+    "coord": {
+      "lat": 6.0742,
+      "lon": 7.4786
+    },
+    "name": "Awgu"
+  },
+  {
+    "country": "NG",
+    "id": 2348892,
+    "coord": {
+      "lat": 7.06667,
+      "lon": 6.26667
+    },
+    "name": "Auchi"
+  },
+  {
+    "country": "NG",
+    "id": 2349276,
+    "coord": {
+      "lat": 6.20064,
+      "lon": 6.73384
+    },
+    "name": "Asaba"
+  },
+  {
+    "country": "NG",
+    "id": 2349431,
+    "coord": {
+      "lat": 12.74334,
+      "lon": 4.52687
+    },
+    "name": "Argungu"
+  },
+  {
+    "country": "NG",
+    "id": 2349529,
+    "coord": {
+      "lat": 7.70927,
+      "lon": 5.04474
+    },
+    "name": "Araomoko Ekiti"
+  },
+  {
+    "country": "NG",
+    "id": 2349558,
+    "coord": {
+      "lat": 7.33333,
+      "lon": 4.18333
+    },
+    "name": "Apomu"
+  },
+  {
+    "country": "NG",
+    "id": 2349951,
+    "coord": {
+      "lat": 10.95967,
+      "lon": 8.39155
+    },
+    "name": "Anchau"
+  },
+  {
+    "country": "NG",
+    "id": 2350249,
+    "coord": {
+      "lat": 5.78917,
+      "lon": 7.83829
+    },
+    "name": "Amaigbo"
+  },
+  {
+    "country": "NG",
+    "id": 2350806,
+    "coord": {
+      "lat": 8.91667,
+      "lon": 8.38333
+    },
+    "name": "Akwanga"
+  },
+  {
+    "country": "NG",
+    "id": 2350886,
+    "coord": {
+      "lat": 6.7081,
+      "lon": 7.3167
+    },
+    "name": "Aku"
+  },
+  {
+    "country": "NG",
+    "id": 2351470,
+    "coord": {
+      "lat": 7.56229,
+      "lon": 6.65497
+    },
+    "name": "Ajaokuta"
+  },
+  {
+    "country": "NG",
+    "id": 2351740,
+    "coord": {
+      "lat": 6.11,
+      "lon": 7.0724
+    },
+    "name": "Agulu"
+  },
+  {
+    "country": "NG",
+    "id": 2351979,
+    "coord": {
+      "lat": 6.25183,
+      "lon": 6.19337
+    },
+    "name": "Agbor"
+  },
+  {
+    "country": "NG",
+    "id": 2352250,
+    "coord": {
+      "lat": 5.89312,
+      "lon": 7.93735
+    },
+    "name": "Afikpo"
+  },
+  {
+    "country": "NG",
+    "id": 2352356,
+    "coord": {
+      "lat": 6.6,
+      "lon": 2.93333
+    },
+    "name": "Ado Odo"
+  },
+  {
+    "country": "NG",
+    "id": 2352778,
+    "coord": {
+      "lat": 9.05735,
+      "lon": 7.48976
+    },
+    "name": "Abuja"
+  },
+  {
+    "country": "NG",
+    "id": 2317818,
+    "coord": {
+      "lat": 13.05151,
+      "lon": 8.48765
+    },
+    "name": "Zango"
+  },
+  {
+    "country": "NG",
+    "id": 2317887,
+    "coord": {
+      "lat": 10.61432,
+      "lon": 10.17647
+    },
+    "name": "Zalanga"
+  },
+  {
+    "country": "NG",
+    "id": 2317899,
+    "coord": {
+      "lat": 7.51667,
+      "lon": 9.61667
+    },
+    "name": "Zaki Biam"
+  },
+  {
+    "country": "NG",
+    "id": 2317936,
+    "coord": {
+      "lat": 11.4496,
+      "lon": 10.3672
+    },
+    "name": "Zadawa"
+  },
+  {
+    "country": "NG",
+    "id": 2317982,
+    "coord": {
+      "lat": 9.69889,
+      "lon": 10.27444
+    },
+    "name": "Yuli"
+  },
+  {
+    "country": "NG",
+    "id": 2318166,
+    "coord": {
+      "lat": 8.83333,
+      "lon": 9.63333
+    },
+    "name": "Yelwa"
+  },
+  {
+    "country": "NG",
+    "id": 2318238,
+    "coord": {
+      "lat": 9.76667,
+      "lon": 3.4
+    },
+    "name": "Yashikera"
+  },
+  {
+    "country": "NG",
+    "id": 2318374,
+    "coord": {
+      "lat": 7.36667,
+      "lon": 9.05
+    },
+    "name": "Yandev"
+  },
+  {
+    "country": "NG",
+    "id": 2318383,
+    "coord": {
+      "lat": 11.5071,
+      "lon": 10.7459
+    },
+    "name": "Yanda Bayo"
+  },
+  {
+    "country": "NG",
+    "id": 2318399,
+    "coord": {
+      "lat": 10.11161,
+      "lon": 9.82604
+    },
+    "name": "Yamrat"
+  },
+  {
+    "country": "NG",
+    "id": 2318480,
+    "coord": {
+      "lat": 11.38385,
+      "lon": 12.7236
+    },
+    "name": "Yajiwa"
+  },
+  {
+    "country": "NG",
+    "id": 2318534,
+    "coord": {
+      "lat": 10.38522,
+      "lon": 11.69678
+    },
+    "name": "Wuyo"
+  },
+  {
+    "country": "NG",
+    "id": 2318858,
+    "coord": {
+      "lat": 13.28777,
+      "lon": 5.42326
+    },
+    "name": "Wurno"
+  },
+  {
+    "country": "NG",
+    "id": 2319078,
+    "coord": {
+      "lat": 9.90222,
+      "lon": 4.41917
+    },
+    "name": "Wawa"
+  },
+  {
+    "country": "NG",
+    "id": 2319123,
+    "coord": {
+      "lat": 11.3764,
+      "lon": 5.79536
+    },
+    "name": "Wasagu"
+  },
+  {
+    "country": "NG",
+    "id": 2319345,
+    "coord": {
+      "lat": 12.68781,
+      "lon": 7.19579
+    },
+    "name": "Wagini"
+  },
+  {
+    "country": "NG",
+    "id": 2319407,
+    "coord": {
+      "lat": 9.73333,
+      "lon": 8.78333
+    },
+    "name": "Vom"
+  },
+  {
+    "country": "NG",
+    "id": 2319480,
+    "coord": {
+      "lat": 5.03333,
+      "lon": 7.92657
+    },
+    "name": "Uyo"
+  },
+  {
+    "country": "NG",
+    "id": 2319642,
+    "coord": {
+      "lat": 5.90016,
+      "lon": 6.84312
+    },
+    "name": "Uruobo-Okija"
+  },
+  {
+    "country": "NG",
+    "id": 2320417,
+    "coord": {
+      "lat": 6.26374,
+      "lon": 6.31161
+    },
+    "name": "Umunede"
+  },
+  {
+    "country": "NG",
+    "id": 2320746,
+    "coord": {
+      "lat": 10.83122,
+      "lon": 5.82494
+    },
+    "name": "Ukata"
+  },
+  {
+    "country": "NG",
+    "id": 2320966,
+    "coord": {
+      "lat": 6.3144,
+      "lon": 7.4258
+    },
+    "name": "Udi"
+  },
+  {
+    "country": "NG",
+    "id": 2321057,
+    "coord": {
+      "lat": 10.45306,
+      "lon": 13.22139
+    },
+    "name": "Uba"
+  },
+  {
+    "country": "NG",
+    "id": 2321926,
+    "coord": {
+      "lat": 8.11667,
+      "lon": 12.05
+    },
+    "name": "Toungo"
+  },
+  {
+    "country": "NG",
+    "id": 2322021,
+    "coord": {
+      "lat": 11.22713,
+      "lon": 13.48581
+    },
+    "name": "Tokombere"
+  },
+  {
+    "country": "NG",
+    "id": 2322592,
+    "coord": {
+      "lat": 11.58333,
+      "lon": 9.11667
+    },
+    "name": "Takai"
+  },
+  {
+    "country": "NG",
+    "id": 2322722,
+    "coord": {
+      "lat": 9.46667,
+      "lon": 3.18333
+    },
+    "name": "Suya"
+  },
+  {
+    "country": "NG",
+    "id": 2323011,
+    "coord": {
+      "lat": 6.53858,
+      "lon": 5.1609
+    },
+    "name": "Siluko"
+  },
+  {
+    "country": "NG",
+    "id": 2323146,
+    "coord": {
+      "lat": 13.07534,
+      "lon": 6.51046
+    },
+    "name": "Shinkafe"
+  },
+  {
+    "country": "NG",
+    "id": 2323344,
+    "coord": {
+      "lat": 10.21617,
+      "lon": 12.06198
+    },
+    "name": "Shani"
+  },
+  {
+    "country": "NG",
+    "id": 2323349,
+    "coord": {
+      "lat": 11.21062,
+      "lon": 4.57878
+    },
+    "name": "Shanga"
+  },
+  {
+    "country": "NG",
+    "id": 2323418,
+    "coord": {
+      "lat": 10.50673,
+      "lon": 12.33315
+    },
+    "name": "Shaffa"
+  },
+  {
+    "country": "NG",
+    "id": 2323579,
+    "coord": {
+      "lat": 11.72655,
+      "lon": 6.78374
+    },
+    "name": "Sauri"
+  },
+  {
+    "country": "NG",
+    "id": 2323858,
+    "coord": {
+      "lat": 11.34873,
+      "lon": 9.63989
+    },
+    "name": "Samamiya"
+  },
+  {
+    "country": "NG",
+    "id": 2324024,
+    "coord": {
+      "lat": 11.3595,
+      "lon": 10.6732
+    },
+    "name": "Sade"
+  },
+  {
+    "country": "NG",
+    "id": 2324281,
+    "coord": {
+      "lat": 12.44788,
+      "lon": 7.30918
+    },
+    "name": "Runka"
+  },
+  {
+    "country": "NG",
+    "id": 2324325,
+    "coord": {
+      "lat": 12.8626,
+      "lon": 7.23469
+    },
+    "name": "Ruma"
+  },
+  {
+    "country": "NG",
+    "id": 2324439,
+    "coord": {
+      "lat": 7.91667,
+      "lon": 9.61667
+    },
+    "name": "Riti"
+  },
+  {
+    "country": "NG",
+    "id": 2324460,
+    "coord": {
+      "lat": 12.15482,
+      "lon": 9.16192
+    },
+    "name": "Ringim"
+  },
+  {
+    "country": "NG",
+    "id": 2324623,
+    "coord": {
+      "lat": 10.41403,
+      "lon": 8.68279
+    },
+    "name": "Rahama"
+  },
+  {
+    "country": "NG",
+    "id": 2324706,
+    "coord": {
+      "lat": 13.12133,
+      "lon": 5.50741
+    },
+    "name": "Rabah"
+  },
+  {
+    "country": "NG",
+    "id": 2324962,
+    "coord": {
+      "lat": 5.22724,
+      "lon": 6.19238
+    },
+    "name": "Patani"
+  },
+  {
+    "country": "NG",
+    "id": 2325032,
+    "coord": {
+      "lat": 9.41667,
+      "lon": 9.21667
+    },
+    "name": "Panyam"
+  },
+  {
+    "country": "NG",
+    "id": 2325307,
+    "coord": {
+      "lat": 6.94864,
+      "lon": 3.50511
+    },
+    "name": "Owode"
+  },
+  {
+    "country": "NG",
+    "id": 2325713,
+    "coord": {
+      "lat": 5.61667,
+      "lon": 7.03333
+    },
+    "name": "Orodo"
+  },
+  {
+    "country": "NG",
+    "id": 2325725,
+    "coord": {
+      "lat": 5.79464,
+      "lon": 7.03495
+    },
+    "name": "Orlu"
+  },
+  {
+    "country": "NG",
+    "id": 2325803,
+    "coord": {
+      "lat": 5.63506,
+      "lon": 5.88956
+    },
+    "name": "Orerokpe"
+  },
+  {
+    "country": "NG",
+    "id": 2325821,
+    "coord": {
+      "lat": 6.74569,
+      "lon": 4.87748
+    },
+    "name": "Ore"
+  },
+  {
+    "country": "NG",
+    "id": 2325902,
+    "coord": {
+      "lat": 6.7814,
+      "lon": 7.4365
+    },
+    "name": "Opi"
+  },
+  {
+    "country": "NG",
+    "id": 2326188,
+    "coord": {
+      "lat": 7.75833,
+      "lon": 5.72227
+    },
+    "name": "Omuo-Ekiti"
+  },
+  {
+    "country": "NG",
+    "id": 2326200,
+    "coord": {
+      "lat": 8.13333,
+      "lon": 5.1
+    },
+    "name": "Omu Aran"
+  },
+  {
+    "country": "NG",
+    "id": 2326221,
+    "coord": {
+      "lat": 5.3435,
+      "lon": 6.65321
+    },
+    "name": "Omoku"
+  },
+  {
+    "country": "NG",
+    "id": 2327236,
+    "coord": {
+      "lat": 8.03333,
+      "lon": 3.35
+    },
+    "name": "Oke Iho"
+  },
+  {
+    "country": "NG",
+    "id": 2327523,
+    "coord": {
+      "lat": 6.78558,
+      "lon": 6.95053
+    },
+    "name": "Ogurugu"
+  },
+  {
+    "country": "NG",
+    "id": 2328113,
+    "coord": {
+      "lat": 7.183,
+      "lon": 7.9769
+    },
+    "name": "Ochobo"
+  },
+  {
+    "country": "NG",
+    "id": 2328153,
+    "coord": {
+      "lat": 6.07525,
+      "lon": 8.32904
+    },
+    "name": "Obubra"
+  },
+  {
+    "country": "NG",
+    "id": 2328192,
+    "coord": {
+      "lat": 6.88333,
+      "lon": 7.63333
+    },
+    "name": "Obolo-Eke (1)"
+  },
+  {
+    "country": "NG",
+    "id": 2328276,
+    "coord": {
+      "lat": 5.84671,
+      "lon": 6.15257
+    },
+    "name": "Obiaruku Quarters"
+  },
+  {
+    "country": "NG",
+    "id": 2328960,
+    "coord": {
+      "lat": 9.28333,
+      "lon": 12.23333
+    },
+    "name": "Ngurore"
+  },
+  {
+    "country": "NG",
+    "id": 2329087,
+    "coord": {
+      "lat": 12.33772,
+      "lon": 14.18052
+    },
+    "name": "Ngala"
+  },
+  {
+    "country": "NG",
+    "id": 2329114,
+    "coord": {
+      "lat": 10.33957,
+      "lon": 4.4688
+    },
+    "name": "New Shagunnu"
+  },
+  {
+    "country": "NG",
+    "id": 2329639,
+    "coord": {
+      "lat": 8.63333,
+      "lon": 10.76667
+    },
+    "name": "Mutum Biyu"
+  },
+  {
+    "country": "NG",
+    "id": 2329664,
+    "coord": {
+      "lat": 12.12717,
+      "lon": 7.6698
+    },
+    "name": "Musawa"
+  },
+  {
+    "country": "NG",
+    "id": 2330082,
+    "coord": {
+      "lat": 11.3163,
+      "lon": 10.4703
+    },
+    "name": "Misau"
+  },
+  {
+    "country": "NG",
+    "id": 2330087,
+    "coord": {
+      "lat": 10.73115,
+      "lon": 12.14626
+    },
+    "name": "Miringa"
+  },
+  {
+    "country": "NG",
+    "id": 2330241,
+    "coord": {
+      "lat": 7.45,
+      "lon": 2.85
+    },
+    "name": "Mekkaw"
+  },
+  {
+    "country": "NG",
+    "id": 2330543,
+    "coord": {
+      "lat": 9.05,
+      "lon": 12.05
+    },
+    "name": "Mayo Belwa"
+  },
+  {
+    "country": "NG",
+    "id": 2330589,
+    "coord": {
+      "lat": 13.13639,
+      "lon": 10.04924
+    },
+    "name": "Matsena"
+  },
+  {
+    "country": "NG",
+    "id": 2330664,
+    "coord": {
+      "lat": 12.97844,
+      "lon": 7.95293
+    },
+    "name": "Mashi"
+  },
+  {
+    "country": "NG",
+    "id": 2330717,
+    "coord": {
+      "lat": 12.33417,
+      "lon": 6.40569
+    },
+    "name": "Maru"
+  },
+  {
+    "country": "NG",
+    "id": 2330937,
+    "coord": {
+      "lat": 10.71667,
+      "lon": 6.56667
+    },
+    "name": "Mando"
+  },
+  {
+    "country": "NG",
+    "id": 2331037,
+    "coord": {
+      "lat": 12.565,
+      "lon": 9.95729
+    },
+    "name": "Malummaduri"
+  },
+  {
+    "country": "NG",
+    "id": 2331267,
+    "coord": {
+      "lat": 12.08411,
+      "lon": 4.36766
+    },
+    "name": "Maiyema"
+  },
+  {
+    "country": "NG",
+    "id": 2331493,
+    "coord": {
+      "lat": 11.55254,
+      "lon": 4.98436
+    },
+    "name": "Mahuta"
+  },
+  {
+    "country": "NG",
+    "id": 2331686,
+    "coord": {
+      "lat": 11.7798,
+      "lon": 10.4479
+    },
+    "name": "Madara"
+  },
+  {
+    "country": "NG",
+    "id": 2331694,
+    "coord": {
+      "lat": 9.10444,
+      "lon": 7.21333
+    },
+    "name": "Madala"
+  },
+  {
+    "country": "NG",
+    "id": 2331715,
+    "coord": {
+      "lat": 10.89018,
+      "lon": 13.63121
+    },
+    "name": "Madagali"
+  },
+  {
+    "country": "NG",
+    "id": 2332080,
+    "coord": {
+      "lat": 9.70889,
+      "lon": 9.33833
+    },
+    "name": "Lere"
+  },
+  {
+    "country": "NG",
+    "id": 2332197,
+    "coord": {
+      "lat": 9.21667,
+      "lon": 11.28333
+    },
+    "name": "Lau"
+  },
+  {
+    "country": "NG",
+    "id": 2332280,
+    "coord": {
+      "lat": 9.13333,
+      "lon": 9.78333
+    },
+    "name": "Langtang"
+  },
+  {
+    "country": "NG",
+    "id": 2332337,
+    "coord": {
+      "lat": 10.44154,
+      "lon": 9.23955
+    },
+    "name": "Lame"
+  },
+  {
+    "country": "NG",
+    "id": 2332662,
+    "coord": {
+      "lat": 8.93333,
+      "lon": 9.28333
+    },
+    "name": "Kwolla"
+  },
+  {
+    "country": "NG",
+    "id": 2332733,
+    "coord": {
+      "lat": 12.14082,
+      "lon": 6.82196
+    },
+    "name": "Kwatarkwashi"
+  },
+  {
+    "country": "NG",
+    "id": 2332865,
+    "coord": {
+      "lat": 8.86722,
+      "lon": 7.005
+    },
+    "name": "Kwali"
+  },
+  {
+    "country": "NG",
+    "id": 2333064,
+    "coord": {
+      "lat": 9.86667,
+      "lon": 6.71667
+    },
+    "name": "Kuta"
+  },
+  {
+    "country": "NG",
+    "id": 2333096,
+    "coord": {
+      "lat": 10.53283,
+      "lon": 6.44222
+    },
+    "name": "Kusheriki"
+  },
+  {
+    "country": "NG",
+    "id": 2333312,
+    "coord": {
+      "lat": 11.76969,
+      "lon": 8.43033
+    },
+    "name": "Kura"
+  },
+  {
+    "country": "NG",
+    "id": 2333606,
+    "coord": {
+      "lat": 10.45418,
+      "lon": 7.63678
+    },
+    "name": "Kujama"
+  },
+  {
+    "country": "NG",
+    "id": 2333884,
+    "coord": {
+      "lat": 8.1,
+      "lon": 6.8
+    },
+    "name": "Koton Karifi"
+  },
+  {
+    "country": "NG",
+    "id": 2334018,
+    "coord": {
+      "lat": 10.84686,
+      "lon": 4.09835
+    },
+    "name": "Konkwesso"
+  },
+  {
+    "country": "NG",
+    "id": 2334044,
+    "coord": {
+      "lat": 11.65583,
+      "lon": 13.42133
+    },
+    "name": "Konduga"
+  },
+  {
+    "country": "NG",
+    "id": 2334502,
+    "coord": {
+      "lat": 11.52629,
+      "lon": 8.66227
+    },
+    "name": "Kibiya"
+  },
+  {
+    "country": "NG",
+    "id": 2334592,
+    "coord": {
+      "lat": 11.51966,
+      "lon": 4.2603
+    },
+    "name": "Kende"
+  },
+  {
+    "country": "NG",
+    "id": 2334649,
+    "coord": {
+      "lat": 12.23753,
+      "lon": 9.90798
+    },
+    "name": "Keffin Hausa"
+  },
+  {
+    "country": "NG",
+    "id": 2334674,
+    "coord": {
+      "lat": 12.65131,
+      "lon": 8.41615
+    },
+    "name": "Kazaure"
+  },
+  {
+    "country": "NG",
+    "id": 2334861,
+    "coord": {
+      "lat": 12.2867,
+      "lon": 10.3527
+    },
+    "name": "Katagum"
+  },
+  {
+    "country": "NG",
+    "id": 2335219,
+    "coord": {
+      "lat": 11.93016,
+      "lon": 7.41267
+    },
+    "name": "Kankara"
+  },
+  {
+    "country": "NG",
+    "id": 2335369,
+    "coord": {
+      "lat": 9.81417,
+      "lon": 11.30889
+    },
+    "name": "Kaltungo"
+  },
+  {
+    "country": "NG",
+    "id": 2335500,
+    "coord": {
+      "lat": 10.31921,
+      "lon": 7.68924
+    },
+    "name": "Kajuru"
+  },
+  {
+    "country": "NG",
+    "id": 2335568,
+    "coord": {
+      "lat": 12.55208,
+      "lon": 3.81867
+    },
+    "name": "Kaingiwa"
+  },
+  {
+    "country": "NG",
+    "id": 2335709,
+    "coord": {
+      "lat": 10.38304,
+      "lon": 11.09567
+    },
+    "name": "Kafarati"
+  },
+  {
+    "country": "NG",
+    "id": 2336092,
+    "coord": {
+      "lat": 12.17328,
+      "lon": 7.77424
+    },
+    "name": "Jikamshi"
+  },
+  {
+    "country": "NG",
+    "id": 2336137,
+    "coord": {
+      "lat": 13.09778,
+      "lon": 7.2225
+    },
+    "name": "Jibiya"
+  },
+  {
+    "country": "NG",
+    "id": 2336624,
+    "coord": {
+      "lat": 11.97969,
+      "lon": 11.44426
+    },
+    "name": "Jajere"
+  },
+  {
+    "country": "NG",
+    "id": 2337227,
+    "coord": {
+      "lat": 6.99281,
+      "lon": 3.68185
+    },
+    "name": "Isara"
+  },
+  {
+    "country": "NG",
+    "id": 2337666,
+    "coord": {
+      "lat": 6.6667,
+      "lon": 6.63076
+    },
+    "name": "Illushi"
+  },
+  {
+    "country": "NG",
+    "id": 2337762,
+    "coord": {
+      "lat": 7.35067,
+      "lon": 5.11333
+    },
+    "name": "Ilare"
+  },
+  {
+    "country": "NG",
+    "id": 2338305,
+    "coord": {
+      "lat": 6.77903,
+      "lon": 7.71685
+    },
+    "name": "Ikem"
+  },
+  {
+    "country": "NG",
+    "id": 2338313,
+    "coord": {
+      "lat": 6.59422,
+      "lon": 3.33748
+    },
+    "name": "Ikeja"
+  },
+  {
+    "country": "NG",
+    "id": 2338334,
+    "coord": {
+      "lat": 4.78978,
+      "lon": 8.5316
+    },
+    "name": "Ikang"
+  },
+  {
+    "country": "NG",
+    "id": 2338404,
+    "coord": {
+      "lat": 6.77837,
+      "lon": 4.03386
+    },
+    "name": "Ijebu-Ife"
+  },
+  {
+    "country": "NG",
+    "id": 2338469,
+    "coord": {
+      "lat": 5.56667,
+      "lon": 7.1
+    },
+    "name": "Ihuo"
+  },
+  {
+    "country": "NG",
+    "id": 2338840,
+    "coord": {
+      "lat": 7.2827,
+      "lon": 6.0878
+    },
+    "name": "Igarra"
+  },
+  {
+    "country": "NG",
+    "id": 2338863,
+    "coord": {
+      "lat": 10.78887,
+      "lon": 7.77493
+    },
+    "name": "Igabi"
+  },
+  {
+    "country": "NG",
+    "id": 2338873,
+    "coord": {
+      "lat": 6.92412,
+      "lon": 5.77603
+    },
+    "name": "Ifon"
+  },
+  {
+    "country": "NG",
+    "id": 2338908,
+    "coord": {
+      "lat": 7.78942,
+      "lon": 5.24852
+    },
+    "name": "Ifaki"
+  },
+  {
+    "country": "NG",
+    "id": 2339065,
+    "coord": {
+      "lat": 6.63333,
+      "lon": 2.73333
+    },
+    "name": "Idi Iroko"
+  },
+  {
+    "country": "NG",
+    "id": 2339170,
+    "coord": {
+      "lat": 7.7067,
+      "lon": 6.7718
+    },
+    "name": "Icheu"
+  },
+  {
+    "country": "NG",
+    "id": 2339403,
+    "coord": {
+      "lat": 11.26676,
+      "lon": 7.65118
+    },
+    "name": "Hunkuyi"
+  },
+  {
+    "country": "NG",
+    "id": 2339468,
+    "coord": {
+      "lat": 9.90083,
+      "lon": 13.05667
+    },
+    "name": "Holma"
+  },
+  {
+    "country": "NG",
+    "id": 2339483,
+    "coord": {
+      "lat": 10.30426,
+      "lon": 11.49905
+    },
+    "name": "Hinna"
+  },
+  {
+    "country": "NG",
+    "id": 2339706,
+    "coord": {
+      "lat": 12.6753,
+      "lon": 11.0682
+    },
+    "name": "Gwio Kura"
+  },
+  {
+    "country": "NG",
+    "id": 2339753,
+    "coord": {
+      "lat": 9.48333,
+      "lon": 3.5
+    },
+    "name": "Gwasero"
+  },
+  {
+    "country": "NG",
+    "id": 2339789,
+    "coord": {
+      "lat": 10.23295,
+      "lon": 10.28572
+    },
+    "name": "Gwaram"
+  },
+  {
+    "country": "NG",
+    "id": 2339811,
+    "coord": {
+      "lat": 12.49382,
+      "lon": 4.64227
+    },
+    "name": "Gwandu"
+  },
+  {
+    "country": "NG",
+    "id": 2340132,
+    "coord": {
+      "lat": 12.64231,
+      "lon": 4.35545
+    },
+    "name": "Gulma"
+  },
+  {
+    "country": "NG",
+    "id": 2340170,
+    "coord": {
+      "lat": 11.5032,
+      "lon": 11.9367
+    },
+    "name": "Gujba"
+  },
+  {
+    "country": "NG",
+    "id": 2340323,
+    "coord": {
+      "lat": 13.44232,
+      "lon": 5.67632
+    },
+    "name": "Goronyo"
+  },
+  {
+    "country": "NG",
+    "id": 2340350,
+    "coord": {
+      "lat": 12.6398,
+      "lon": 10.7039
+    },
+    "name": "Gorgoram"
+  },
+  {
+    "country": "NG",
+    "id": 2340389,
+    "coord": {
+      "lat": 11.91294,
+      "lon": 7.6653
+    },
+    "name": "Gora"
+  },
+  {
+    "country": "NG",
+    "id": 2340404,
+    "coord": {
+      "lat": 11.48333,
+      "lon": 12.31444
+    },
+    "name": "Goniri"
+  },
+  {
+    "country": "NG",
+    "id": 2341641,
+    "coord": {
+      "lat": 8.53333,
+      "lon": 10.46667
+    },
+    "name": "Gassol"
+  },
+  {
+    "country": "NG",
+    "id": 2342125,
+    "coord": {
+      "lat": 12.96358,
+      "lon": 5.74337
+    },
+    "name": "Gandi"
+  },
+  {
+    "country": "NG",
+    "id": 2342199,
+    "coord": {
+      "lat": 12.1343,
+      "lon": 10.5396
+    },
+    "name": "Gamawa"
+  },
+  {
+    "country": "NG",
+    "id": 2342291,
+    "coord": {
+      "lat": 6.76578,
+      "lon": 8.98813
+    },
+    "name": "Gakem"
+  },
+  {
+    "country": "NG",
+    "id": 2342340,
+    "coord": {
+      "lat": 12.40741,
+      "lon": 9.5277
+    },
+    "name": "Gagarawa"
+  },
+  {
+    "country": "NG",
+    "id": 2342439,
+    "coord": {
+      "lat": 11.1093,
+      "lon": 10.4441
+    },
+    "name": "Gabarin"
+  },
+  {
+    "country": "NG",
+    "id": 2343057,
+    "coord": {
+      "lat": 4.84262,
+      "lon": 7.85252
+    },
+    "name": "Etinan"
+  },
+  {
+    "country": "NG",
+    "id": 2343073,
+    "coord": {
+      "lat": 7.05,
+      "lon": 7.45
+    },
+    "name": "Ete"
+  },
+  {
+    "country": "NG",
+    "id": 2343776,
+    "coord": {
+      "lat": 6.61423,
+      "lon": 3.90019
+    },
+    "name": "Ejirin"
+  },
+  {
+    "country": "NG",
+    "id": 2344217,
+    "coord": {
+      "lat": 12.45167,
+      "lon": 7.49805
+    },
+    "name": "Dutsin Ma"
+  },
+  {
+    "country": "NG",
+    "id": 2344415,
+    "coord": {
+      "lat": 11.2361,
+      "lon": 4.90727
+    },
+    "name": "Duku"
+  },
+  {
+    "country": "NG",
+    "id": 2344760,
+    "coord": {
+      "lat": 11.48135,
+      "lon": 9.91903
+    },
+    "name": "Disina"
+  },
+  {
+    "country": "NG",
+    "id": 2344804,
+    "coord": {
+      "lat": 10.22629,
+      "lon": 10.15132
+    },
+    "name": "Dindima"
+  },
+  {
+    "country": "NG",
+    "id": 2344941,
+    "coord": {
+      "lat": 9.36667,
+      "lon": 9.95
+    },
+    "name": "Dengi"
+  },
+  {
+    "country": "NG",
+    "id": 2344981,
+    "coord": {
+      "lat": 7.69475,
+      "lon": 7.02218
+    },
+    "name": "Dekina"
+  },
+  {
+    "country": "NG",
+    "id": 2345172,
+    "coord": {
+      "lat": 12.4904,
+      "lon": 11.4944
+    },
+    "name": "Dapchi"
+  },
+  {
+    "country": "NG",
+    "id": 2345213,
+    "coord": {
+      "lat": 11.29621,
+      "lon": 6.4952
+    },
+    "name": "Dan Sadau"
+  },
+  {
+    "country": "NG",
+    "id": 2345282,
+    "coord": {
+      "lat": 13.29782,
+      "lon": 7.79492
+    },
+    "name": "Dankama"
+  },
+  {
+    "country": "NG",
+    "id": 2345283,
+    "coord": {
+      "lat": 11.7443,
+      "lon": 12.1867
+    },
+    "name": "Dankalwa"
+  },
+  {
+    "country": "NG",
+    "id": 2345306,
+    "coord": {
+      "lat": 11.37643,
+      "lon": 7.56249
+    },
+    "name": "Danja"
+  },
+  {
+    "country": "NG",
+    "id": 2345336,
+    "coord": {
+      "lat": 11.53485,
+      "lon": 8.15224
+    },
+    "name": "Dan Gora"
+  },
+  {
+    "country": "NG",
+    "id": 2345349,
+    "coord": {
+      "lat": 12.85128,
+      "lon": 5.34705
+    },
+    "name": "Dange"
+  },
+  {
+    "country": "NG",
+    "id": 2345505,
+    "coord": {
+      "lat": 12.43303,
+      "lon": 8.51541
+    },
+    "name": "Dambarta"
+  },
+  {
+    "country": "NG",
+    "id": 2345526,
+    "coord": {
+      "lat": 13.09771,
+      "lon": 12.4952
+    },
+    "name": "Damasak"
+  },
+  {
+    "country": "NG",
+    "id": 2345643,
+    "coord": {
+      "lat": 11.64511,
+      "lon": 4.06046
+    },
+    "name": "Dakingari"
+  },
+  {
+    "country": "NG",
+    "id": 2345785,
+    "coord": {
+      "lat": 9.61667,
+      "lon": 11.43333
+    },
+    "name": "Dadiya"
+  },
+  {
+    "country": "NG",
+    "id": 2345872,
+    "coord": {
+      "lat": 11.47652,
+      "lon": 5.20625
+    },
+    "name": "Dabai"
+  },
+  {
+    "country": "NG",
+    "id": 2346199,
+    "coord": {
+      "lat": 11.95527,
+      "lon": 6.92232
+    },
+    "name": "Chafe"
+  },
+  {
+    "country": "NG",
+    "id": 2346322,
+    "coord": {
+      "lat": 11.39106,
+      "lon": 8.72341
+    },
+    "name": "Burumburum"
+  },
+  {
+    "country": "NG",
+    "id": 2346396,
+    "coord": {
+      "lat": 12.08444,
+      "lon": 4.02111
+    },
+    "name": "Bunza"
+  },
+  {
+    "country": "NG",
+    "id": 2346399,
+    "coord": {
+      "lat": 9.86806,
+      "lon": 9.66278
+    },
+    "name": "Bununu Kasa"
+  },
+  {
+    "country": "NG",
+    "id": 2346401,
+    "coord": {
+      "lat": 10,
+      "lon": 9.51667
+    },
+    "name": "Bununu Dass"
+  },
+  {
+    "country": "NG",
+    "id": 2346632,
+    "coord": {
+      "lat": 8.49056,
+      "lon": 7.34139
+    },
+    "name": "Buga"
+  },
+  {
+    "country": "NG",
+    "id": 2346734,
+    "coord": {
+      "lat": 4.31506,
+      "lon": 6.24176
+    },
+    "name": "Brass"
+  },
+  {
+    "country": "NG",
+    "id": 2346788,
+    "coord": {
+      "lat": 12.2774,
+      "lon": 12.5552
+    },
+    "name": "Bornu Yassu"
+  },
+  {
+    "country": "NG",
+    "id": 2346800,
+    "coord": {
+      "lat": 4.67366,
+      "lon": 7.36201
+    },
+    "name": "Bori"
+  },
+  {
+    "country": "NG",
+    "id": 2346805,
+    "coord": {
+      "lat": 7.6565,
+      "lon": 7.8664
+    },
+    "name": "Bopo"
+  },
+  {
+    "country": "NG",
+    "id": 2346843,
+    "coord": {
+      "lat": 5.15931,
+      "lon": 5.92516
+    },
+    "name": "Bomadi"
+  },
+  {
+    "country": "NG",
+    "id": 2346887,
+    "coord": {
+      "lat": 9.3,
+      "lon": 9
+    },
+    "name": "Bokkos"
+  },
+  {
+    "country": "NG",
+    "id": 2346893,
+    "coord": {
+      "lat": 9.43333,
+      "lon": 5.2
+    },
+    "name": "Bokani"
+  },
+  {
+    "country": "NG",
+    "id": 2346896,
+    "coord": {
+      "lat": 7.37834,
+      "lon": 7.91119
+    },
+    "name": "Boju"
+  },
+  {
+    "country": "NG",
+    "id": 2346906,
+    "coord": {
+      "lat": 9.56833,
+      "lon": 9.49528
+    },
+    "name": "Boi"
+  },
+  {
+    "country": "NG",
+    "id": 2347041,
+    "coord": {
+      "lat": 12.7903,
+      "lon": 10.2348
+    },
+    "name": "Birniwa"
+  },
+  {
+    "country": "NG",
+    "id": 2347109,
+    "coord": {
+      "lat": 10.7823,
+      "lon": 4.81135
+    },
+    "name": "Bin Yauri"
+  },
+  {
+    "country": "NG",
+    "id": 2347116,
+    "coord": {
+      "lat": 13.22277,
+      "lon": 4.90955
+    },
+    "name": "Binji"
+  },
+  {
+    "country": "NG",
+    "id": 2347279,
+    "coord": {
+      "lat": 11.8072,
+      "lon": 12.4909
+    },
+    "name": "Benisheik"
+  },
+  {
+    "country": "NG",
+    "id": 2347304,
+    "coord": {
+      "lat": 11.28444,
+      "lon": 5.93472
+    },
+    "name": "Bena"
+  },
+  {
+    "country": "NG",
+    "id": 2347383,
+    "coord": {
+      "lat": 11.66726,
+      "lon": 8.26217
+    },
+    "name": "Bebeji"
+  },
+  {
+    "country": "NG",
+    "id": 2347483,
+    "coord": {
+      "lat": 12.75147,
+      "lon": 7.24472
+    },
+    "name": "Batsari"
+  },
+  {
+    "country": "NG",
+    "id": 2347758,
+    "coord": {
+      "lat": 10.37444,
+      "lon": 10.72884
+    },
+    "name": "Bara"
+  },
+  {
+    "country": "NG",
+    "id": 2348118,
+    "coord": {
+      "lat": 11.55445,
+      "lon": 7.42425
+    },
+    "name": "Bakori"
+  },
+  {
+    "country": "NG",
+    "id": 2348228,
+    "coord": {
+      "lat": 7.23333,
+      "lon": 10.63333
+    },
+    "name": "Baissa"
+  },
+  {
+    "country": "NG",
+    "id": 2348259,
+    "coord": {
+      "lat": 11.40329,
+      "lon": 4.22958
+    },
+    "name": "Bagudo"
+  },
+  {
+    "country": "NG",
+    "id": 2348298,
+    "coord": {
+      "lat": 7.99917,
+      "lon": 7.58361
+    },
+    "name": "Bugana"
+  },
+  {
+    "country": "NG",
+    "id": 2348365,
+    "coord": {
+      "lat": 9.05,
+      "lon": 6.15
+    },
+    "name": "Badeggi"
+  },
+  {
+    "country": "NG",
+    "id": 2348419,
+    "coord": {
+      "lat": 12.77305,
+      "lon": 9.01583
+    },
+    "name": "Babura"
+  },
+  {
+    "country": "NG",
+    "id": 2348874,
+    "coord": {
+      "lat": 10.18805,
+      "lon": 4.72318
+    },
+    "name": "Auna"
+  },
+  {
+    "country": "NG",
+    "id": 2349360,
+    "coord": {
+      "lat": 5.38979,
+      "lon": 7.91404
+    },
+    "name": "Arochukwu"
+  },
+  {
+    "country": "NG",
+    "id": 2349788,
+    "coord": {
+      "lat": 7.37058,
+      "lon": 7.6253
+    },
+    "name": "Ankpa"
+  },
+  {
+    "country": "NG",
+    "id": 2349797,
+    "coord": {
+      "lat": 12.11381,
+      "lon": 5.92427
+    },
+    "name": "Anka"
+  },
+  {
+    "country": "NG",
+    "id": 2350027,
+    "coord": {
+      "lat": 9.35,
+      "lon": 9.7
+    },
+    "name": "Amper"
+  },
+  {
+    "country": "NG",
+    "id": 2350172,
+    "coord": {
+      "lat": 4.96917,
+      "lon": 6.10972
+    },
+    "name": "Amassoma"
+  },
+  {
+    "country": "NG",
+    "id": 2350259,
+    "coord": {
+      "lat": 6.3267,
+      "lon": 7.6539
+    },
+    "name": "Amagunze"
+  },
+  {
+    "country": "NG",
+    "id": 2350436,
+    "coord": {
+      "lat": 7.2964,
+      "lon": 8.487
+    },
+    "name": "Aliade"
+  },
+  {
+    "country": "NG",
+    "id": 2350592,
+    "coord": {
+      "lat": 8.61667,
+      "lon": 4.38333
+    },
+    "name": "Alapa"
+  },
+  {
+    "country": "NG",
+    "id": 2351027,
+    "coord": {
+      "lat": 10.28899,
+      "lon": 10.9732
+    },
+    "name": "Akko"
+  },
+  {
+    "country": "NG",
+    "id": 2351156,
+    "coord": {
+      "lat": 5.91677,
+      "lon": 7.67615
+    },
+    "name": "Ake-Eze"
+  },
+  {
+    "country": "NG",
+    "id": 2351209,
+    "coord": {
+      "lat": 5.1264,
+      "lon": 8.1898
+    },
+    "name": "Akankpa"
+  },
+  {
+    "country": "NG",
+    "id": 2351461,
+    "coord": {
+      "lat": 8.23333,
+      "lon": 4.81667
+    },
+    "name": "Ajasse Ipo"
+  },
+  {
+    "country": "NG",
+    "id": 2351657,
+    "coord": {
+      "lat": 5.07395,
+      "lon": 6.65353
+    },
+    "name": "Ahoada"
+  },
+  {
+    "country": "NG",
+    "id": 2351850,
+    "coord": {
+      "lat": 8.5,
+      "lon": 3.41667
+    },
+    "name": "Ago Are"
+  },
+  {
+    "country": "NG",
+    "id": 2351927,
+    "coord": {
+      "lat": 7.106,
+      "lon": 6.6966
+    },
+    "name": "Agenebode"
+  },
+  {
+    "country": "NG",
+    "id": 2352110,
+    "coord": {
+      "lat": 6.58862,
+      "lon": 4.8343
+    },
+    "name": "Agbabu"
+  },
+  {
+    "country": "NG",
+    "id": 2352175,
+    "coord": {
+      "lat": 9.01667,
+      "lon": 6.31667
+    },
+    "name": "Agaie"
+  },
+  {
+    "country": "NG",
+    "id": 2352352,
+    "coord": {
+      "lat": 6.97661,
+      "lon": 7.16268
+    },
+    "name": "Adoru"
+  },
+  {
+    "country": "NG",
+    "id": 2352589,
+    "coord": {
+      "lat": 6.73971,
+      "lon": 7.01117
+    },
+    "name": "Adani"
+  },
+  {
+    "country": "NG",
+    "id": 2352804,
+    "coord": {
+      "lat": 5.79023,
+      "lon": 6.10473
+    },
+    "name": "Abraka"
+  },
+  {
+    "country": "NG",
+    "id": 2352857,
+    "coord": {
+      "lat": 7.5677,
+      "lon": 6.9863
+    },
+    "name": "Abocho"
+  },
+  {
+    "country": "NG",
+    "id": 2353100,
+    "coord": {
+      "lat": 4.9797,
+      "lon": 7.79171
+    },
+    "name": "Abak"
+  }
+
+]

@@ -1,0 +1,1282 @@
+[
+
+  {
+    "country": "LT",
+    "id": 598392,
+    "coord": {
+      "lat": 54.966671,
+      "lon": 24.066669
+    },
+    "name": "Karmelava"
+  },
+  {
+    "country": "LT",
+    "id": 864477,
+    "coord": {
+      "lat": 55.166672,
+      "lon": 24
+    },
+    "name": "Kauno Apskritis"
+  },
+  {
+    "country": "LT",
+    "id": 598316,
+    "coord": {
+      "lat": 54.900002,
+      "lon": 23.9
+    },
+    "name": "Kaunas"
+  },
+  {
+    "country": "LT",
+    "id": 6618486,
+    "coord": {
+      "lat": 54.915249,
+      "lon": 23.968309
+    },
+    "name": "Dainava (Kaunas)"
+  },
+  {
+    "country": "LT",
+    "id": 597427,
+    "coord": {
+      "lat": 56,
+      "lon": 24
+    },
+    "name": "Republic of Lithuania"
+  },
+  {
+    "country": "LT",
+    "id": 599570,
+    "coord": {
+      "lat": 54.900002,
+      "lon": 23.9
+    },
+    "name": "Freda"
+  },
+  {
+    "country": "LT",
+    "id": 593116,
+    "coord": {
+      "lat": 54.689159,
+      "lon": 25.2798
+    },
+    "name": "Vilnius"
+  },
+  {
+    "country": "LT",
+    "id": 6955406,
+    "coord": {
+      "lat": 54.681519,
+      "lon": 25.299971
+    },
+    "name": "Užupis"
+  },
+  {
+    "country": "LT",
+    "id": 864481,
+    "coord": {
+      "lat": 56,
+      "lon": 23.33333
+    },
+    "name": "Šiaulių Apskritis"
+  },
+  {
+    "country": "LT",
+    "id": 594739,
+    "coord": {
+      "lat": 55.933331,
+      "lon": 23.316669
+    },
+    "name": "Siauliai"
+  },
+  {
+    "country": "LT",
+    "id": 864478,
+    "coord": {
+      "lat": 55.666672,
+      "lon": 21.33333
+    },
+    "name": "Klaipėdos Apskritis"
+  },
+  {
+    "country": "LT",
+    "id": 598098,
+    "coord": {
+      "lat": 55.71722,
+      "lon": 21.1175
+    },
+    "name": "Klaipeda"
+  },
+  {
+    "country": "LT",
+    "id": 864389,
+    "coord": {
+      "lat": 54.166672,
+      "lon": 24.16667
+    },
+    "name": "Alytaus Apskritis"
+  },
+  {
+    "country": "LT",
+    "id": 601084,
+    "coord": {
+      "lat": 54.400002,
+      "lon": 24.049999
+    },
+    "name": "Alytus"
+  },
+  {
+    "country": "LT",
+    "id": 595213,
+    "coord": {
+      "lat": 55.966671,
+      "lon": 25.58333
+    },
+    "name": "Rokiskis"
+  },
+  {
+    "country": "LT",
+    "id": 864484,
+    "coord": {
+      "lat": 55.5,
+      "lon": 25.75
+    },
+    "name": "Utenos Apskritis"
+  },
+  {
+    "country": "LT",
+    "id": 593672,
+    "coord": {
+      "lat": 55.5,
+      "lon": 25.6
+    },
+    "name": "Utena"
+  },
+  {
+    "country": "LT",
+    "id": 864480,
+    "coord": {
+      "lat": 55.916672,
+      "lon": 24.83333
+    },
+    "name": "Panevėžio Apskritis"
+  },
+  {
+    "country": "LT",
+    "id": 596128,
+    "coord": {
+      "lat": 55.73333,
+      "lon": 24.35
+    },
+    "name": "Panevezys"
+  },
+  {
+    "country": "LT",
+    "id": 594805,
+    "coord": {
+      "lat": 54.76667,
+      "lon": 24.633329
+    },
+    "name": "Senosios Kietaviškės"
+  },
+  {
+    "country": "LT",
+    "id": 599504,
+    "coord": {
+      "lat": 54.816669,
+      "lon": 23.866671
+    },
+    "name": "Garliava"
+  },
+  {
+    "country": "LT",
+    "id": 597188,
+    "coord": {
+      "lat": 56.316669,
+      "lon": 22.33333
+    },
+    "name": "Mazeikiai"
+  },
+  {
+    "country": "LT",
+    "id": 596473,
+    "coord": {
+      "lat": 55,
+      "lon": 25.783331
+    },
+    "name": "Pabrade"
+  },
+  {
+    "country": "LT",
+    "id": 598818,
+    "coord": {
+      "lat": 55.083328,
+      "lon": 24.283331
+    },
+    "name": "Jonava"
+  },
+  {
+    "country": "LT",
+    "id": 594656,
+    "coord": {
+      "lat": 55.348888,
+      "lon": 21.483061
+    },
+    "name": "Silute"
+  },
+  {
+    "country": "LT",
+    "id": 864483,
+    "coord": {
+      "lat": 56.083328,
+      "lon": 22.16667
+    },
+    "name": "Telšių Apskritis"
+  },
+  {
+    "country": "LT",
+    "id": 593926,
+    "coord": {
+      "lat": 55.981392,
+      "lon": 22.247219
+    },
+    "name": "Telsiai"
+  },
+  {
+    "country": "LT",
+    "id": 864482,
+    "coord": {
+      "lat": 55.333328,
+      "lon": 22.5
+    },
+    "name": "Tauragės Apskritis"
+  },
+  {
+    "country": "LT",
+    "id": 593959,
+    "coord": {
+      "lat": 55.25222,
+      "lon": 22.289721
+    },
+    "name": "Taurage"
+  },
+  {
+    "country": "LT",
+    "id": 597806,
+    "coord": {
+      "lat": 55.833328,
+      "lon": 24.966669
+    },
+    "name": "Kupiskis"
+  },
+  {
+    "country": "LT",
+    "id": 595596,
+    "coord": {
+      "lat": 54.633331,
+      "lon": 23.950001
+    },
+    "name": "Prienai"
+  },
+  {
+    "country": "LT",
+    "id": 598272,
+    "coord": {
+      "lat": 55.28833,
+      "lon": 23.97472
+    },
+    "name": "Kedainiai"
+  },
+  {
+    "country": "LT",
+    "id": 595997,
+    "coord": {
+      "lat": 56.059441,
+      "lon": 24.40361
+    },
+    "name": "Pasvalys"
+  },
+  {
+    "country": "LT",
+    "id": 600438,
+    "coord": {
+      "lat": 56.200001,
+      "lon": 24.75
+    },
+    "name": "Birzai"
+  },
+  {
+    "country": "LT",
+    "id": 596867,
+    "coord": {
+      "lat": 55.23333,
+      "lon": 25.41667
+    },
+    "name": "Moletai"
+  },
+  {
+    "country": "LT",
+    "id": 864479,
+    "coord": {
+      "lat": 54.75,
+      "lon": 23.25
+    },
+    "name": "Marijampolės Apskritis"
+  },
+  {
+    "country": "LT",
+    "id": 597231,
+    "coord": {
+      "lat": 54.566669,
+      "lon": 23.35
+    },
+    "name": "Marijampole"
+  },
+  {
+    "country": "LT",
+    "id": 593063,
+    "coord": {
+      "lat": 55.599998,
+      "lon": 26.41667
+    },
+    "name": "Visaginas"
+  },
+  {
+    "country": "LT",
+    "id": 600202,
+    "coord": {
+      "lat": 55.816669,
+      "lon": 21.200001
+    },
+    "name": "Cartai"
+  },
+  {
+    "country": "LT",
+    "id": 593733,
+    "coord": {
+      "lat": 55.25,
+      "lon": 24.75
+    },
+    "name": "Ukmerge"
+  },
+  {
+    "country": "LT",
+    "id": 597596,
+    "coord": {
+      "lat": 54.23333,
+      "lon": 23.51667
+    },
+    "name": "Lazdijai"
+  },
+  {
+    "country": "LT",
+    "id": 598998,
+    "coord": {
+      "lat": 55.349998,
+      "lon": 26.16667
+    },
+    "name": "Ignalina"
+  },
+  {
+    "country": "LT",
+    "id": 598567,
+    "coord": {
+      "lat": 54.866669,
+      "lon": 24.450001
+    },
+    "name": "Kaisiadorys"
+  },
+  {
+    "country": "LT",
+    "id": 592891,
+    "coord": {
+      "lat": 55.73333,
+      "lon": 26.25
+    },
+    "name": "Zarasai"
+  },
+  {
+    "country": "LT",
+    "id": 596719,
+    "coord": {
+      "lat": 56.316669,
+      "lon": 22.9
+    },
+    "name": "Naujoji Akmene"
+  },
+  {
+    "country": "LT",
+    "id": 598286,
+    "coord": {
+      "lat": 54.76667,
+      "lon": 23.5
+    },
+    "name": "Kazlu Ruda"
+  },
+  {
+    "country": "LT",
+    "id": 598655,
+    "coord": {
+      "lat": 55.077782,
+      "lon": 22.76639
+    },
+    "name": "Jurbarkas"
+  },
+  {
+    "country": "LT",
+    "id": 598512,
+    "coord": {
+      "lat": 54.400002,
+      "lon": 23.23333
+    },
+    "name": "Kalvarija"
+  },
+  {
+    "country": "LT",
+    "id": 595016,
+    "coord": {
+      "lat": 54.299999,
+      "lon": 25.383329
+    },
+    "name": "Salcininkai"
+  },
+  {
+    "country": "LT",
+    "id": 594064,
+    "coord": {
+      "lat": 55.150002,
+      "lon": 26.16667
+    },
+    "name": "Svencionys"
+  },
+  {
+    "country": "LT",
+    "id": 599747,
+    "coord": {
+      "lat": 55.066669,
+      "lon": 25.450001
+    },
+    "name": "Dubingiai"
+  },
+  {
+    "country": "LT",
+    "id": 595378,
+    "coord": {
+      "lat": 55.373611,
+      "lon": 23.12167
+    },
+    "name": "Raseiniai"
+  },
+  {
+    "country": "LT",
+    "id": 598796,
+    "coord": {
+      "lat": 56.24028,
+      "lon": 23.61528
+    },
+    "name": "Joniskis"
+  },
+  {
+    "country": "LT",
+    "id": 596260,
+    "coord": {
+      "lat": 55.966671,
+      "lon": 23.866671
+    },
+    "name": "Pakruojis"
+  },
+  {
+    "country": "LT",
+    "id": 864516,
+    "coord": {
+      "lat": 55.533329,
+      "lon": 25.1
+    },
+    "name": "Anykščiai"
+  },
+  {
+    "country": "LT",
+    "id": 600994,
+    "coord": {
+      "lat": 55.52557,
+      "lon": 25.10264
+    },
+    "name": "Anyksciai"
+  },
+  {
+    "country": "LT",
+    "id": 593871,
+    "coord": {
+      "lat": 54.633331,
+      "lon": 24.933331
+    },
+    "name": "Trakai"
+  },
+  {
+    "country": "LT",
+    "id": 594607,
+    "coord": {
+      "lat": 55.049999,
+      "lon": 24.950001
+    },
+    "name": "Sirvintos"
+  },
+  {
+    "country": "LT",
+    "id": 595449,
+    "coord": {
+      "lat": 55.816669,
+      "lon": 23.533331
+    },
+    "name": "Radviliskis"
+  },
+  {
+    "country": "LT",
+    "id": 598257,
+    "coord": {
+      "lat": 55.633888,
+      "lon": 22.93417
+    },
+    "name": "Kelme"
+  },
+  {
+    "country": "LT",
+    "id": 599506,
+    "coord": {
+      "lat": 55.71278,
+      "lon": 21.40333
+    },
+    "name": "Gargzdai"
+  },
+  {
+    "country": "LT",
+    "id": 599757,
+    "coord": {
+      "lat": 54.01667,
+      "lon": 23.966669
+    },
+    "name": "Druskininkai"
+  },
+  {
+    "country": "LT",
+    "id": 596544,
+    "coord": {
+      "lat": 55.966671,
+      "lon": 25.15
+    },
+    "name": "Obeliai"
+  },
+  {
+    "country": "LT",
+    "id": 594693,
+    "coord": {
+      "lat": 55.490559,
+      "lon": 22.181391
+    },
+    "name": "Silale"
+  },
+  {
+    "country": "LT",
+    "id": 593406,
+    "coord": {
+      "lat": 54.216671,
+      "lon": 24.566669
+    },
+    "name": "Varena"
+  },
+  {
+    "country": "LT",
+    "id": 596238,
+    "coord": {
+      "lat": 55.9175,
+      "lon": 21.068609
+    },
+    "name": "Palanga"
+  },
+  {
+    "country": "LT",
+    "id": 595689,
+    "coord": {
+      "lat": 55.911388,
+      "lon": 21.84417
+    },
+    "name": "Plunge"
+  },
+  {
+    "country": "LT",
+    "id": 594488,
+    "coord": {
+      "lat": 56.26667,
+      "lon": 21.533331
+    },
+    "name": "Skuodas"
+  },
+  {
+    "country": "LT",
+    "id": 593153,
+    "coord": {
+      "lat": 54.651669,
+      "lon": 23.032221
+    },
+    "name": "Vilkaviskis"
+  },
+  {
+    "country": "LT",
+    "id": 600443,
+    "coord": {
+      "lat": 54.616669,
+      "lon": 24.033331
+    },
+    "name": "Birstonas"
+  },
+  {
+    "country": "LT",
+    "id": 595043,
+    "coord": {
+      "lat": 54.950001,
+      "lon": 23.049999
+    },
+    "name": "Šakiai"
+  },
+  {
+    "country": "LT",
+    "id": 601182,
+    "coord": {
+      "lat": 56.25,
+      "lon": 22.75
+    },
+    "name": "Akmene"
+  },
+  {
+    "country": "LT",
+    "id": 597532,
+    "coord": {
+      "lat": 54.650002,
+      "lon": 25.049999
+    },
+    "name": "Lentvaris"
+  },
+  {
+    "country": "LT",
+    "id": 597769,
+    "coord": {
+      "lat": 55.985001,
+      "lon": 22.91889
+    },
+    "name": "Kursenai"
+  },
+  {
+    "country": "LT",
+    "id": 593191,
+    "coord": {
+      "lat": 54.76667,
+      "lon": 24.799999
+    },
+    "name": "Vievis"
+  },
+  {
+    "country": "LT",
+    "id": 598854,
+    "coord": {
+      "lat": 54.599998,
+      "lon": 24.16667
+    },
+    "name": "Jieznas"
+  },
+  {
+    "country": "LT",
+    "id": 598304,
+    "coord": {
+      "lat": 55.433331,
+      "lon": 24.91667
+    },
+    "name": "Kavarskas"
+  },
+  {
+    "country": "LT",
+    "id": 593144,
+    "coord": {
+      "lat": 55.049999,
+      "lon": 23.58333
+    },
+    "name": "Vilkija"
+  },
+  {
+    "country": "LT",
+    "id": 599579,
+    "coord": {
+      "lat": 54.883331,
+      "lon": 23.616671
+    },
+    "name": "Ezerelis"
+  },
+  {
+    "country": "LT",
+    "id": 592778,
+    "coord": {
+      "lat": 54.799999,
+      "lon": 24.450001
+    },
+    "name": "Ziezmariai"
+  },
+  {
+    "country": "LT",
+    "id": 600962,
+    "coord": {
+      "lat": 55.26667,
+      "lon": 23.466669
+    },
+    "name": "Ariogala"
+  },
+  {
+    "country": "LT",
+    "id": 593378,
+    "coord": {
+      "lat": 55.740559,
+      "lon": 22.364441
+    },
+    "name": "Varniai"
+  },
+  {
+    "country": "LT",
+    "id": 595598,
+    "coord": {
+      "lat": 55.553612,
+      "lon": 21.32667
+    },
+    "name": "Priekule"
+  },
+  {
+    "country": "LT",
+    "id": 593821,
+    "coord": {
+      "lat": 55.599998,
+      "lon": 24.85
+    },
+    "name": "Troškūnai"
+  },
+  {
+    "country": "LT",
+    "id": 593303,
+    "coord": {
+      "lat": 56.200001,
+      "lon": 22.700001
+    },
+    "name": "Venta"
+  },
+  {
+    "country": "LT",
+    "id": 599420,
+    "coord": {
+      "lat": 55.07917,
+      "lon": 22.97583
+    },
+    "name": "Gelgaudiskis"
+  },
+  {
+    "country": "LT",
+    "id": 594861,
+    "coord": {
+      "lat": 55.76667,
+      "lon": 23.76667
+    },
+    "name": "Seduva"
+  },
+  {
+    "country": "LT",
+    "id": 595020,
+    "coord": {
+      "lat": 56.066669,
+      "lon": 21.566669
+    },
+    "name": "Salantai"
+  },
+  {
+    "country": "LT",
+    "id": 596664,
+    "coord": {
+      "lat": 54.849998,
+      "lon": 25.48333
+    },
+    "name": "Nemencine"
+  },
+  {
+    "country": "LT",
+    "id": 595160,
+    "coord": {
+      "lat": 54.51667,
+      "lon": 24.83333
+    },
+    "name": "Rudiskes"
+  },
+  {
+    "country": "LT",
+    "id": 595284,
+    "coord": {
+      "lat": 55.71944,
+      "lon": 21.93111
+    },
+    "name": "Rietavas"
+  },
+  {
+    "country": "LT",
+    "id": 594067,
+    "coord": {
+      "lat": 55.166672,
+      "lon": 26
+    },
+    "name": "Svencioneliai"
+  },
+  {
+    "country": "LT",
+    "id": 595387,
+    "coord": {
+      "lat": 55.51667,
+      "lon": 24.299999
+    },
+    "name": "Ramygala"
+  },
+  {
+    "country": "LT",
+    "id": 596612,
+    "coord": {
+      "lat": 55.30806,
+      "lon": 21.00667
+    },
+    "name": "Nida"
+  },
+  {
+    "country": "LT",
+    "id": 599808,
+    "coord": {
+      "lat": 55.349998,
+      "lon": 23.9
+    },
+    "name": "Dotnuva"
+  },
+  {
+    "country": "LT",
+    "id": 593748,
+    "coord": {
+      "lat": 55.599998,
+      "lon": 23.200001
+    },
+    "name": "Tytuvėnai"
+  },
+  {
+    "country": "LT",
+    "id": 593572,
+    "coord": {
+      "lat": 55.780281,
+      "lon": 22.65472
+    },
+    "name": "Užventis"
+  },
+  {
+    "country": "LT",
+    "id": 598787,
+    "coord": {
+      "lat": 55.25,
+      "lon": 23.83333
+    },
+    "name": "Josvainiai"
+  },
+  {
+    "country": "LT",
+    "id": 594867,
+    "coord": {
+      "lat": 56.166672,
+      "lon": 22.1
+    },
+    "name": "Seda"
+  },
+  {
+    "country": "LT",
+    "id": 593561,
+    "coord": {
+      "lat": 55.966671,
+      "lon": 24.75
+    },
+    "name": "Vabalninkas"
+  },
+  {
+    "country": "LT",
+    "id": 596399,
+    "coord": {
+      "lat": 55.138062,
+      "lon": 21.90889
+    },
+    "name": "Pagegiai"
+  },
+  {
+    "country": "LT",
+    "id": 592942,
+    "coord": {
+      "lat": 56.359169,
+      "lon": 23.25
+    },
+    "name": "Zagare"
+  },
+  {
+    "country": "LT",
+    "id": 599868,
+    "coord": {
+      "lat": 54.200001,
+      "lon": 25.616671
+    },
+    "name": "Dieveniškės"
+  },
+  {
+    "country": "LT",
+    "id": 598456,
+    "coord": {
+      "lat": 55.533329,
+      "lon": 26.33333
+    },
+    "name": "Kaniūkai"
+  },
+  {
+    "country": "LT",
+    "id": 599614,
+    "coord": {
+      "lat": 54.166672,
+      "lon": 25
+    },
+    "name": "Eisiskes"
+  },
+  {
+    "country": "LT",
+    "id": 597904,
+    "coord": {
+      "lat": 54.77306,
+      "lon": 22.86306
+    },
+    "name": "Kudirkos Naumiestis"
+  },
+  {
+    "country": "LT",
+    "id": 593218,
+    "coord": {
+      "lat": 56.23333,
+      "lon": 22.51667
+    },
+    "name": "Vieksniai"
+  },
+  {
+    "country": "LT",
+    "id": 597440,
+    "coord": {
+      "lat": 56.08556,
+      "lon": 23.9725
+    },
+    "name": "Linkuva"
+  },
+  {
+    "country": "LT",
+    "id": 594103,
+    "coord": {
+      "lat": 55.450001,
+      "lon": 24.033331
+    },
+    "name": "Surviliškis"
+  },
+  {
+    "country": "LT",
+    "id": 594050,
+    "coord": {
+      "lat": 56.033329,
+      "lon": 21.08333
+    },
+    "name": "Sventoji"
+  },
+  {
+    "country": "LT",
+    "id": 598803,
+    "coord": {
+      "lat": 56.02528,
+      "lon": 24.16889
+    },
+    "name": "Joniškėlis"
+  },
+  {
+    "country": "LT",
+    "id": 600213,
+    "coord": {
+      "lat": 54.5,
+      "lon": 24.25
+    },
+    "name": "Butrimonys"
+  },
+  {
+    "country": "LT",
+    "id": 593086,
+    "coord": {
+      "lat": 54.626671,
+      "lon": 22.81694
+    },
+    "name": "Virbalis"
+  },
+  {
+    "country": "LT",
+    "id": 593338,
+    "coord": {
+      "lat": 54.099998,
+      "lon": 23.700001
+    },
+    "name": "Veisiejai"
+  },
+  {
+    "country": "LT",
+    "id": 599686,
+    "coord": {
+      "lat": 55.75,
+      "lon": 25.85
+    },
+    "name": "Dusetos"
+  },
+  {
+    "country": "LT",
+    "id": 600480,
+    "coord": {
+      "lat": 54.799999,
+      "lon": 25.533331
+    },
+    "name": "Bezdonys"
+  },
+  {
+    "country": "LT",
+    "id": 598706,
+    "coord": {
+      "lat": 55.544441,
+      "lon": 21.122219
+    },
+    "name": "Juodkrantė"
+  },
+  {
+    "country": "LT",
+    "id": 596851,
+    "coord": {
+      "lat": 56.166672,
+      "lon": 21.58333
+    },
+    "name": "Mosėdis"
+  },
+  {
+    "country": "LT",
+    "id": 598114,
+    "coord": {
+      "lat": 54.633331,
+      "lon": 25.283331
+    },
+    "name": "Kirtimai"
+  },
+  {
+    "country": "LT",
+    "id": 601194,
+    "coord": {
+      "lat": 55.883331,
+      "lon": 23.383329
+    },
+    "name": "Akliniai"
+  },
+  {
+    "country": "LT",
+    "id": 596215,
+    "coord": {
+      "lat": 55.98333,
+      "lon": 21.1
+    },
+    "name": "Paliepgiriai"
+  },
+  {
+    "country": "LT",
+    "id": 597989,
+    "coord": {
+      "lat": 55.875832,
+      "lon": 21.25083
+    },
+    "name": "Kretinga"
+  },
+  {
+    "country": "LT",
+    "id": 597484,
+    "coord": {
+      "lat": 55.183331,
+      "lon": 24.299999
+    },
+    "name": "Liepiai"
+  },
+  {
+    "country": "LT",
+    "id": 592828,
+    "coord": {
+      "lat": 55.359169,
+      "lon": 21.702221
+    },
+    "name": "Zemaiciu Naumiestis"
+  },
+  {
+    "country": "LT",
+    "id": 593746,
+    "coord": {
+      "lat": 55.616669,
+      "lon": 23.183331
+    },
+    "name": "Tytuveneliai"
+  },
+  {
+    "country": "LT",
+    "id": 594562,
+    "coord": {
+      "lat": 55.416672,
+      "lon": 22.616671
+    },
+    "name": "Skaudvile"
+  },
+  {
+    "country": "LT",
+    "id": 594639,
+    "coord": {
+      "lat": 54.400002,
+      "lon": 23.65
+    },
+    "name": "Simnas"
+  },
+  {
+    "country": "LT",
+    "id": 595044,
+    "coord": {
+      "lat": 54.95472,
+      "lon": 23.03583
+    },
+    "name": "Sakiai"
+  },
+  {
+    "country": "LT",
+    "id": 595087,
+    "coord": {
+      "lat": 55.296391,
+      "lon": 21.37583
+    },
+    "name": "Rusne"
+  },
+  {
+    "country": "LT",
+    "id": 596643,
+    "coord": {
+      "lat": 55.371941,
+      "lon": 21.06472
+    },
+    "name": "Neringa"
+  },
+  {
+    "country": "LT",
+    "id": 597729,
+    "coord": {
+      "lat": 54.63858,
+      "lon": 22.763161
+    },
+    "name": "Kybartai"
+  },
+  {
+    "country": "LT",
+    "id": 597881,
+    "coord": {
+      "lat": 54.933331,
+      "lon": 23.6
+    },
+    "name": "Kulautuva"
+  },
+  {
+    "country": "LT",
+    "id": 598690,
+    "coord": {
+      "lat": 56.083328,
+      "lon": 25.616671
+    },
+    "name": "Juodupe"
+  },
+  {
+    "country": "LT",
+    "id": 599161,
+    "coord": {
+      "lat": 54.683331,
+      "lon": 25.08333
+    },
+    "name": "Grigiskes"
+  },
+  {
+    "country": "LT",
+    "id": 599602,
+    "coord": {
+      "lat": 54.76667,
+      "lon": 24.633329
+    },
+    "name": "Elektrenai"
+  },
+  {
+    "country": "LT",
+    "id": 599727,
+    "coord": {
+      "lat": 55.533329,
+      "lon": 26.33333
+    },
+    "name": "Dukstas"
+  },
+  {
+    "country": "LT",
+    "id": 600040,
+    "coord": {
+      "lat": 54.366669,
+      "lon": 24.33333
+    },
+    "name": "Daugai"
+  },
+  {
+    "country": "LT",
+    "id": 600688,
+    "coord": {
+      "lat": 54.599998,
+      "lon": 25.200001
+    },
+    "name": "Baltoji Voke"
+  },
+  {
+    "country": "LT",
+    "id": 600896,
+    "coord": {
+      "lat": 54.583328,
+      "lon": 24.533331
+    },
+    "name": "Aukstadvaris"
+  },
+  {
+    "country": "LT",
+    "id": 595115,
+    "coord": {
+      "lat": 55.700001,
+      "lon": 21.15
+    },
+    "name": "Rumpiškė"
+  },
+  {
+    "country": "LT",
+    "id": 593315,
+    "coord": {
+      "lat": 55.700001,
+      "lon": 24.433331
+    },
+    "name": "Velžys"
+  },
+  {
+    "country": "LT",
+    "id": 596826,
+    "coord": {
+      "lat": 54.916672,
+      "lon": 23.966669
+    },
+    "name": "Murava"
+  }
+
+]

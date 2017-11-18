@@ -1,0 +1,40 @@
+[
+
+  {
+    "country": "NR",
+    "id": 2110425,
+    "coord": {
+      "lat": -0.517,
+      "lon": 166.932999
+    },
+    "name": "Nauru"
+  },
+  {
+    "country": "NR",
+    "id": 2110418,
+    "coord": {
+      "lat": -0.54724,
+      "lon": 166.915985
+    },
+    "name": "Yaren"
+  },
+  {
+    "country": "NR",
+    "id": 7626465,
+    "coord": {
+      "lat": -0.54756,
+      "lon": 166.917297
+    },
+    "name": "Government Offices"
+  },
+  {
+    "country": "NR",
+    "id": 7626485,
+    "coord": {
+      "lat": -0.52545,
+      "lon": 166.912476
+    },
+    "name": "Arijejen"
+  }
+
+]

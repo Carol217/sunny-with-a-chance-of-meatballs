@@ -1,0 +1,175 @@
+[
+
+  {
+    "country": "PW",
+    "id": 4037930,
+    "coord": {
+      "lat": 7.494,
+      "lon": 134.634506
+    },
+    "name": "State of Melekeok"
+  },
+  {
+    "country": "PW",
+    "id": 7303944,
+    "coord": {
+      "lat": 7.50043,
+      "lon": 134.62355
+    },
+    "name": "Melekeok"
+  },
+  {
+    "country": "PW",
+    "id": 4037645,
+    "coord": {
+      "lat": 7.36698,
+      "lon": 134.518661
+    },
+    "name": "State of Airai"
+  },
+  {
+    "country": "PW",
+    "id": 4038353,
+    "coord": {
+      "lat": 7.36051,
+      "lon": 134.5457
+    },
+    "name": "Yelch - New Village"
+  },
+  {
+    "country": "PW",
+    "id": 1559582,
+    "coord": {
+      "lat": 7.503,
+      "lon": 134.621002
+    },
+    "name": "Republic of Palau"
+  },
+  {
+    "country": "PW",
+    "id": 1559446,
+    "coord": {
+      "lat": 7.33978,
+      "lon": 134.473267
+    },
+    "name": "Koror State"
+  },
+  {
+    "country": "PW",
+    "id": 1559543,
+    "coord": {
+      "lat": 7.62416,
+      "lon": 134.642075
+    },
+    "name": "Ulimang"
+  },
+  {
+    "country": "PW",
+    "id": 1559804,
+    "coord": {
+      "lat": 7.49567,
+      "lon": 134.636703
+    },
+    "name": "Melekeok Village"
+  },
+  {
+    "country": "PW",
+    "id": 1559820,
+    "coord": {
+      "lat": 7.48826,
+      "lon": 134.485626
+    },
+    "name": "Ngereklmadel"
+  },
+  {
+    "country": "PW",
+    "id": 1559864,
+    "coord": {
+      "lat": 7.53134,
+      "lon": 134.52713
+    },
+    "name": "Imeong Hamlet"
+  },
+  {
+    "country": "PW",
+    "id": 4038014,
+    "coord": {
+      "lat": 7.55456,
+      "lon": 134.636124
+    },
+    "name": "Ngerkeai"
+  },
+  {
+    "country": "PW",
+    "id": 4038170,
+    "coord": {
+      "lat": 7.6957,
+      "lon": 134.630539
+    },
+    "name": "Mengellang"
+  },
+  {
+    "country": "PW",
+    "id": 4038282,
+    "coord": {
+      "lat": 6.90601,
+      "lon": 134.129974
+    },
+    "name": "Angaur State"
+  },
+  {
+    "country": "PW",
+    "id": 7670994,
+    "coord": {
+      "lat": 8.08228,
+      "lon": 134.717255
+    },
+    "name": "Kayangel"
+  },
+  {
+    "country": "PW",
+    "id": 7671223,
+    "coord": {
+      "lat": 7.04192,
+      "lon": 134.255615
+    },
+    "name": "Kloulklubed"
+  },
+  {
+    "country": "PW",
+    "id": 7701549,
+    "coord": {
+      "lat": 7.36451,
+      "lon": 134.514847
+    },
+    "name": "Ngetkib"
+  },
+  {
+    "country": "PW",
+    "id": 7732276,
+    "coord": {
+      "lat": 7.44613,
+      "lon": 134.476776
+    },
+    "name": "Ngchemiangel"
+  },
+  {
+    "country": "PW",
+    "id": 7732297,
+    "coord": {
+      "lat": 7.60986,
+      "lon": 134.574402
+    },
+    "name": "Ngardmau"
+  },
+  {
+    "country": "PW",
+    "id": 7732415,
+    "coord": {
+      "lat": 7.34257,
+      "lon": 134.478882
+    },
+    "name": "Koror Town"
+  }
+
+]

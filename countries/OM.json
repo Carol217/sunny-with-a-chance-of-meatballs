@@ -1,0 +1,490 @@
+[
+
+  {
+    "country": "OM",
+    "id": 288721,
+    "coord": {
+      "lat": 23.40786,
+      "lon": 58.1283
+    },
+    "name": "Bidbid"
+  },
+  {
+    "country": "OM",
+    "id": 288764,
+    "coord": {
+      "lat": 23.55563,
+      "lon": 58.398899
+    },
+    "name": "Bawshar"
+  },
+  {
+    "country": "OM",
+    "id": 288902,
+    "coord": {
+      "lat": 22.450001,
+      "lon": 58.799999
+    },
+    "name": "Badiyah"
+  },
+  {
+    "country": "OM",
+    "id": 288955,
+    "coord": {
+      "lat": 23.84944,
+      "lon": 57.43861
+    },
+    "name": "As Suwayq"
+  },
+  {
+    "country": "OM",
+    "id": 411742,
+    "coord": {
+      "lat": 18.383329,
+      "lon": 54.066669
+    },
+    "name": "Muḩāfaz̧at Z̧ufār"
+  },
+  {
+    "country": "OM",
+    "id": 288131,
+    "coord": {
+      "lat": 17.354679,
+      "lon": 53.96524
+    },
+    "name": "Ḩalūf"
+  },
+  {
+    "country": "OM",
+    "id": 286281,
+    "coord": {
+      "lat": 24.267891,
+      "lon": 56.371059
+    },
+    "name": "Suhaylah"
+  },
+  {
+    "country": "OM",
+    "id": 286245,
+    "coord": {
+      "lat": 22.566669,
+      "lon": 59.528889
+    },
+    "name": "Sur"
+  },
+  {
+    "country": "OM",
+    "id": 286293,
+    "coord": {
+      "lat": 23.316669,
+      "lon": 58.01667
+    },
+    "name": "Sufalat Samail"
+  },
+  {
+    "country": "OM",
+    "id": 286402,
+    "coord": {
+      "lat": 24.74333,
+      "lon": 56.465832
+    },
+    "name": "Shinas"
+  },
+  {
+    "country": "OM",
+    "id": 287814,
+    "coord": {
+      "lat": 22.933331,
+      "lon": 57.76667
+    },
+    "name": "Izki"
+  },
+  {
+    "country": "OM",
+    "id": 287830,
+    "coord": {
+      "lat": 23.225731,
+      "lon": 56.51572
+    },
+    "name": "Ibri"
+  },
+  {
+    "country": "OM",
+    "id": 288789,
+    "coord": {
+      "lat": 23.70739,
+      "lon": 57.88908
+    },
+    "name": "Barka"
+  },
+  {
+    "country": "OM",
+    "id": 288899,
+    "coord": {
+      "lat": 22.973391,
+      "lon": 57.29958
+    },
+    "name": "Bahla"
+  },
+  {
+    "country": "OM",
+    "id": 288967,
+    "coord": {
+      "lat": 23.670271,
+      "lon": 58.18911
+    },
+    "name": "As Sib al Jadidah"
+  },
+  {
+    "country": "OM",
+    "id": 289011,
+    "coord": {
+      "lat": 23.390829,
+      "lon": 57.424438
+    },
+    "name": "Ar Rustaq"
+  },
+  {
+    "country": "OM",
+    "id": 289174,
+    "coord": {
+      "lat": 24.53611,
+      "lon": 56.565559
+    },
+    "name": "Al Liwa"
+  },
+  {
+    "country": "OM",
+    "id": 289199,
+    "coord": {
+      "lat": 23.98864,
+      "lon": 57.098381
+    },
+    "name": "Al Khaburah"
+  },
+  {
+    "country": "OM",
+    "id": 289317,
+    "coord": {
+      "lat": 24.250879,
+      "lon": 55.793121
+    },
+    "name": "Al Buraymi"
+  },
+  {
+    "country": "OM",
+    "id": 411849,
+    "coord": {
+      "lat": 23.590509,
+      "lon": 56.550079
+    },
+    "name": "Yanqul"
+  },
+  {
+    "country": "OM",
+    "id": 286963,
+    "coord": {
+      "lat": 21,
+      "lon": 57
+    },
+    "name": "Sultanate of Oman"
+  },
+  {
+    "country": "OM",
+    "id": 411737,
+    "coord": {
+      "lat": 19.950001,
+      "lon": 56.283329
+    },
+    "name": "Al Minţaqah al Wusţá"
+  },
+  {
+    "country": "OM",
+    "id": 287939,
+    "coord": {
+      "lat": 19.933331,
+      "lon": 56.316669
+    },
+    "name": "Hayma"
+  },
+  {
+    "country": "OM",
+    "id": 411739,
+    "coord": {
+      "lat": 22.93368,
+      "lon": 56.585232
+    },
+    "name": "Minţaqat az̧ Z̧āhirah"
+  },
+  {
+    "country": "OM",
+    "id": 289212,
+    "coord": {
+      "lat": 22.14431,
+      "lon": 56.01619
+    },
+    "name": "Al Jibāl"
+  },
+  {
+    "country": "OM",
+    "id": 289415,
+    "coord": {
+      "lat": 22.383881,
+      "lon": 58.213249
+    },
+    "name": "Aflāj"
+  },
+  {
+    "country": "OM",
+    "id": 288239,
+    "coord": {
+      "lat": 23.04838,
+      "lon": 57.41153
+    },
+    "name": "Ghubrat Ţanūf"
+  },
+  {
+    "country": "OM",
+    "id": 411720,
+    "coord": {
+      "lat": 23.195511,
+      "lon": 56.434052
+    },
+    "name": "Mu‘ askar ‘Ibrī"
+  },
+  {
+    "country": "OM",
+    "id": 287241,
+    "coord": {
+      "lat": 23.37361,
+      "lon": 58.14333
+    },
+    "name": "Mazra‘ Khuşayyin"
+  },
+  {
+    "country": "OM",
+    "id": 411740,
+    "coord": {
+      "lat": 23.5,
+      "lon": 58.51667
+    },
+    "name": "Muḩāfaz̧at Masqaţ"
+  },
+  {
+    "country": "OM",
+    "id": 287286,
+    "coord": {
+      "lat": 23.613871,
+      "lon": 58.592201
+    },
+    "name": "Muscat"
+  },
+  {
+    "country": "OM",
+    "id": 286621,
+    "coord": {
+      "lat": 17.015051,
+      "lon": 54.092369
+    },
+    "name": "Salalah"
+  },
+  {
+    "country": "OM",
+    "id": 411736,
+    "coord": {
+      "lat": 23.75,
+      "lon": 57
+    },
+    "name": "Minţaqat al Bāţinah"
+  },
+  {
+    "country": "OM",
+    "id": 286282,
+    "coord": {
+      "lat": 24.3643,
+      "lon": 56.746811
+    },
+    "name": "Al Sohar"
+  },
+  {
+    "country": "OM",
+    "id": 411735,
+    "coord": {
+      "lat": 22.4,
+      "lon": 57.533329
+    },
+    "name": "Al Minţaqah ad Dākhilīyah"
+  },
+  {
+    "country": "OM",
+    "id": 286987,
+    "coord": {
+      "lat": 22.933331,
+      "lon": 57.533329
+    },
+    "name": "Nizwa"
+  },
+  {
+    "country": "OM",
+    "id": 286239,
+    "coord": {
+      "lat": 23.881109,
+      "lon": 57.263611
+    },
+    "name": "Sūr Yāl Bū Rashīd"
+  },
+  {
+    "country": "OM",
+    "id": 411738,
+    "coord": {
+      "lat": 22,
+      "lon": 58.549999
+    },
+    "name": "Al Minţaqah ash Sharqīyah"
+  },
+  {
+    "country": "OM",
+    "id": 287832,
+    "coord": {
+      "lat": 22.690571,
+      "lon": 58.533371
+    },
+    "name": "Ibra"
+  },
+  {
+    "country": "OM",
+    "id": 286647,
+    "coord": {
+      "lat": 24.17222,
+      "lon": 56.888611
+    },
+    "name": "Saham"
+  },
+  {
+    "country": "OM",
+    "id": 287218,
+    "coord": {
+      "lat": 16.99638,
+      "lon": 54.690632
+    },
+    "name": "Mirbāţ"
+  },
+  {
+    "country": "OM",
+    "id": 289433,
+    "coord": {
+      "lat": 22.375601,
+      "lon": 57.523338
+    },
+    "name": "Adam"
+  },
+  {
+    "country": "OM",
+    "id": 411741,
+    "coord": {
+      "lat": 25.950001,
+      "lon": 56.26667
+    },
+    "name": "Muḩāfaz̧at Musandam"
+  },
+  {
+    "country": "OM",
+    "id": 287614,
+    "coord": {
+      "lat": 26.17993,
+      "lon": 56.247742
+    },
+    "name": "Khasab"
+  },
+  {
+    "country": "OM",
+    "id": 286140,
+    "coord": {
+      "lat": 17.67,
+      "lon": 54.033329
+    },
+    "name": "Thamarīt"
+  },
+  {
+    "country": "OM",
+    "id": 288712,
+    "coord": {
+      "lat": 22.55283,
+      "lon": 59.484871
+    },
+    "name": "Bilād aş Şūr"
+  },
+  {
+    "country": "OM",
+    "id": 7630442,
+    "coord": {
+      "lat": 17.01882,
+      "lon": 54.099201
+    },
+    "name": "Aş Şalālah al Jadīdah"
+  },
+  {
+    "country": "OM",
+    "id": 288602,
+    "coord": {
+      "lat": 20.66667,
+      "lon": 58.883331
+    },
+    "name": "Camp"
+  },
+  {
+    "country": "OM",
+    "id": 388692,
+    "coord": {
+      "lat": 26.1675,
+      "lon": 56.231392
+    },
+    "name": "‘Ashub"
+  },
+  {
+    "country": "OM",
+    "id": 7110710,
+    "coord": {
+      "lat": 24.10014,
+      "lon": 56.100269
+    },
+    "name": "Muḩāfaz̧at al Buraymī"
+  },
+  {
+    "country": "OM",
+    "id": 288979,
+    "coord": {
+      "lat": 24.25,
+      "lon": 55.78389
+    },
+    "name": "Aş Şa‘arah"
+  },
+  {
+    "country": "OM",
+    "id": 288507,
+    "coord": {
+      "lat": 26.197781,
+      "lon": 56.257778
+    },
+    "name": "Dib Dibba"
+  },
+  {
+    "country": "OM",
+    "id": 289142,
+    "coord": {
+      "lat": 22.570999,
+      "lon": 58.694721
+    },
+    "name": "Al Qabil"
+  },
+  {
+    "country": "OM",
+    "id": 412084,
+    "coord": {
+      "lat": 23.30324,
+      "lon": 57.52459
+    },
+    "name": "Bayt al Awabi"
+  }
+
+]

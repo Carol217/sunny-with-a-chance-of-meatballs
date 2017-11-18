@@ -1,0 +1,283 @@
+[
+
+  {
+    "country": "MR",
+    "id": 2378080,
+    "coord": {
+      "lat": 20,
+      "lon": -12
+    },
+    "name": "Islamic Republic of Mauritania"
+  },
+  {
+    "country": "MR",
+    "id": 2375989,
+    "coord": {
+      "lat": 24,
+      "lon": -9
+    },
+    "name": "Wilaya du Tiris Zemmour"
+  },
+  {
+    "country": "MR",
+    "id": 2380975,
+    "coord": {
+      "lat": 25.221251,
+      "lon": -11.57928
+    },
+    "name": "Bîr Mogreïn"
+  },
+  {
+    "country": "MR",
+    "id": 2377449,
+    "coord": {
+      "lat": 18.1,
+      "lon": -15.95
+    },
+    "name": "District de Nouakchott"
+  },
+  {
+    "country": "MR",
+    "id": 2377450,
+    "coord": {
+      "lat": 18.08581,
+      "lon": -15.9785
+    },
+    "name": "Nouakchott"
+  },
+  {
+    "country": "MR",
+    "id": 2380426,
+    "coord": {
+      "lat": 20.94833,
+      "lon": -16.23361
+    },
+    "name": "Wilaya de Dakhlet Nouadhibou"
+  },
+  {
+    "country": "MR",
+    "id": 2377457,
+    "coord": {
+      "lat": 20.930981,
+      "lon": -17.034651
+    },
+    "name": "Nouadhibou"
+  },
+  {
+    "country": "MR",
+    "id": 2381972,
+    "coord": {
+      "lat": 20.50222,
+      "lon": -10.07111
+    },
+    "name": "Wilaya de l'Adrar"
+  },
+  {
+    "country": "MR",
+    "id": 2381334,
+    "coord": {
+      "lat": 20.516859,
+      "lon": -13.04986
+    },
+    "name": "Atar"
+  },
+  {
+    "country": "MR",
+    "id": 2595352,
+    "coord": {
+      "lat": 18.099501,
+      "lon": -15.9574
+    },
+    "name": "Ksar"
+  },
+  {
+    "country": "MR",
+    "id": 2379384,
+    "coord": {
+      "lat": 16.053329,
+      "lon": -12.82444
+    },
+    "name": "Wilaya du Gorgol"
+  },
+  {
+    "country": "MR",
+    "id": 2378736,
+    "coord": {
+      "lat": 16.14653,
+      "lon": -13.50474
+    },
+    "name": "Kaedi"
+  },
+  {
+    "country": "MR",
+    "id": 2378903,
+    "coord": {
+      "lat": 20.0625,
+      "lon": -15.06833
+    },
+    "name": "Wilaya de l'Inchiri"
+  },
+  {
+    "country": "MR",
+    "id": 2381690,
+    "coord": {
+      "lat": 19.696939,
+      "lon": -14.41639
+    },
+    "name": "Akjoujt"
+  },
+  {
+    "country": "MR",
+    "id": 2379025,
+    "coord": {
+      "lat": 19,
+      "lon": -7.25
+    },
+    "name": "Wilaya du Hodh ech Chargui"
+  },
+  {
+    "country": "MR",
+    "id": 2377539,
+    "coord": {
+      "lat": 16.616199,
+      "lon": -7.2535
+    },
+    "name": "Nema"
+  },
+  {
+    "country": "MR",
+    "id": 2381344,
+    "coord": {
+      "lat": 16.59556,
+      "lon": -11.90917
+    },
+    "name": "Wilaya de l'Assaba"
+  },
+  {
+    "country": "MR",
+    "id": 2378538,
+    "coord": {
+      "lat": 16.61659,
+      "lon": -11.40453
+    },
+    "name": "Kiffa"
+  },
+  {
+    "country": "MR",
+    "id": 2376551,
+    "coord": {
+      "lat": 18.696671,
+      "lon": -10.2075
+    },
+    "name": "Wilaya du Tagant"
+  },
+  {
+    "country": "MR",
+    "id": 2376193,
+    "coord": {
+      "lat": 18.55644,
+      "lon": -11.42715
+    },
+    "name": "Tidjikja"
+  },
+  {
+    "country": "MR",
+    "id": 2375742,
+    "coord": {
+      "lat": 17.866501,
+      "lon": -14.65878
+    },
+    "name": "Wilaya du Trarza"
+  },
+  {
+    "country": "MR",
+    "id": 2380670,
+    "coord": {
+      "lat": 17.5467,
+      "lon": -14.6944
+    },
+    "name": "Boutilimit"
+  },
+  {
+    "country": "MR",
+    "id": 2379024,
+    "coord": {
+      "lat": 16.5,
+      "lon": -10
+    },
+    "name": "Wilaya du Hodh el Gharbi"
+  },
+  {
+    "country": "MR",
+    "id": 6914211,
+    "coord": {
+      "lat": 16.716801,
+      "lon": -9.5925
+    },
+    "name": "Boû Demgha"
+  },
+  {
+    "country": "MR",
+    "id": 2375558,
+    "coord": {
+      "lat": 22.718731,
+      "lon": -12.45205
+    },
+    "name": "Zouerate"
+  },
+  {
+    "country": "MR",
+    "id": 2376719,
+    "coord": {
+      "lat": 15.15895,
+      "lon": -12.1829
+    },
+    "name": "Selibabi"
+  },
+  {
+    "country": "MR",
+    "id": 2376898,
+    "coord": {
+      "lat": 16.520041,
+      "lon": -15.80727
+    },
+    "name": "Rosso"
+  },
+  {
+    "country": "MR",
+    "id": 2380519,
+    "coord": {
+      "lat": 20.440359,
+      "lon": -12.2622
+    },
+    "name": "Chinguetti"
+  },
+  {
+    "country": "MR",
+    "id": 2381163,
+    "coord": {
+      "lat": 16.64039,
+      "lon": -12.49849
+    },
+    "name": "Barkewol"
+  },
+  {
+    "country": "MR",
+    "id": 2381291,
+    "coord": {
+      "lat": 16.6614,
+      "lon": -9.6149
+    },
+    "name": "Ayoun el Atrous"
+  },
+  {
+    "country": "MR",
+    "id": 2381659,
+    "coord": {
+      "lat": 17.0481,
+      "lon": -13.9209
+    },
+    "name": "Aleg"
+  }
+
+]

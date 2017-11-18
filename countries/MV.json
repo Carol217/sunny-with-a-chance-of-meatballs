@@ -1,0 +1,166 @@
+[
+
+  {
+    "country": "MV",
+    "id": 1282028,
+    "coord": {
+      "lat": 3.2,
+      "lon": 73
+    },
+    "name": "Republic of Maldives"
+  },
+  {
+    "country": "MV",
+    "id": 1337624,
+    "coord": {
+      "lat": 4.175,
+      "lon": 73.508331
+    },
+    "name": "Maale"
+  },
+  {
+    "country": "MV",
+    "id": 1282027,
+    "coord": {
+      "lat": 4.1748,
+      "lon": 73.508881
+    },
+    "name": "Male"
+  },
+  {
+    "country": "MV",
+    "id": 1281980,
+    "coord": {
+      "lat": -0.58333,
+      "lon": 73.23333
+    },
+    "name": "Meedhoo"
+  },
+  {
+    "country": "MV",
+    "id": 1282256,
+    "coord": {
+      "lat": -0.6,
+      "lon": 73.083328
+    },
+    "name": "Hithadhoo"
+  },
+  {
+    "country": "MV",
+    "id": 1337605,
+    "coord": {
+      "lat": 3.78333,
+      "lon": 72.966667
+    },
+    "name": "Mahibadhoo"
+  },
+  {
+    "country": "MV",
+    "id": 1337606,
+    "coord": {
+      "lat": 5.10327,
+      "lon": 73.070778
+    },
+    "name": "Eydhafushi"
+  },
+  {
+    "country": "MV",
+    "id": 1337607,
+    "coord": {
+      "lat": 2.67075,
+      "lon": 72.894371
+    },
+    "name": "Kudahuvadhoo"
+  },
+  {
+    "country": "MV",
+    "id": 1337610,
+    "coord": {
+      "lat": 0.53333,
+      "lon": 72.933327
+    },
+    "name": "Thinadhoo"
+  },
+  {
+    "country": "MV",
+    "id": 1337612,
+    "coord": {
+      "lat": 6.88333,
+      "lon": 73.099998
+    },
+    "name": "Dhidhdhoo"
+  },
+  {
+    "country": "MV",
+    "id": 1337613,
+    "coord": {
+      "lat": 6.62207,
+      "lon": 73.069977
+    },
+    "name": "Kulhudhuffushi"
+  },
+  {
+    "country": "MV",
+    "id": 1337616,
+    "coord": {
+      "lat": 5.44438,
+      "lon": 73.365707
+    },
+    "name": "Naifaru"
+  },
+  {
+    "country": "MV",
+    "id": 1337617,
+    "coord": {
+      "lat": 2.91667,
+      "lon": 73.566673
+    },
+    "name": "Muli"
+  },
+  {
+    "country": "MV",
+    "id": 1337618,
+    "coord": {
+      "lat": 5.76667,
+      "lon": 73.383331
+    },
+    "name": "Manadhoo"
+  },
+  {
+    "country": "MV",
+    "id": 1337619,
+    "coord": {
+      "lat": 5.66667,
+      "lon": 73
+    },
+    "name": "Ugoofaaru"
+  },
+  {
+    "country": "MV",
+    "id": 1337620,
+    "coord": {
+      "lat": 6.15,
+      "lon": 73.26667
+    },
+    "name": "Funadhoo"
+  },
+  {
+    "country": "MV",
+    "id": 7910632,
+    "coord": {
+      "lat": 2.50306,
+      "lon": 73.308594
+    },
+    "name": "Vilufushi"
+  },
+  {
+    "country": "MV",
+    "id": 7911024,
+    "coord": {
+      "lat": 2.35582,
+      "lon": 73.354729
+    },
+    "name": "Madifushi"
+  }
+
+]

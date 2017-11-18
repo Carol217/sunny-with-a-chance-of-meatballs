@@ -1,0 +1,31 @@
+[
+
+  {
+    "country": "NF",
+    "id": 2159622,
+    "coord": {
+      "lat": -29.049999,
+      "lon": 167.933334
+    },
+    "name": "Longridge Station"
+  },
+  {
+    "country": "NF",
+    "id": 2155115,
+    "coord": {
+      "lat": -29.033331,
+      "lon": 167.949997
+    },
+    "name": "Territory of Norfolk Island"
+  },
+  {
+    "country": "NF",
+    "id": 2161314,
+    "coord": {
+      "lat": -29.05459,
+      "lon": 167.966278
+    },
+    "name": "Kingston"
+  }
+
+]

@@ -1,0 +1,661 @@
+[
+
+  {
+    "country": "PG",
+    "id": 2089470,
+    "coord": {
+      "lat": -6,
+      "lon": 155
+    },
+    "name": "Bougainville"
+  },
+  {
+    "country": "PG",
+    "id": 2100633,
+    "coord": {
+      "lat": -6.21319,
+      "lon": 155.536743
+    },
+    "name": "Arawa"
+  },
+  {
+    "country": "PG",
+    "id": 2083537,
+    "coord": {
+      "lat": -3.55342,
+      "lon": 143.626785
+    },
+    "name": "Wewak"
+  },
+  {
+    "country": "PG",
+    "id": 2088163,
+    "coord": {
+      "lat": -8.75367,
+      "lon": 148.253418
+    },
+    "name": "Popondetta"
+  },
+  {
+    "country": "PG",
+    "id": 2090990,
+    "coord": {
+      "lat": -6.17608,
+      "lon": 143.651337
+    },
+    "name": "Mendi"
+  },
+  {
+    "country": "PG",
+    "id": 2091996,
+    "coord": {
+      "lat": -5.22465,
+      "lon": 145.796555
+    },
+    "name": "Madang"
+  },
+  {
+    "country": "PG",
+    "id": 2092740,
+    "coord": {
+      "lat": -6.72208,
+      "lon": 146.984695
+    },
+    "name": "Lae"
+  },
+  {
+    "country": "PG",
+    "id": 2093685,
+    "coord": {
+      "lat": -4.35202,
+      "lon": 152.263275
+    },
+    "name": "Kokopo"
+  },
+  {
+    "country": "PG",
+    "id": 2083546,
+    "coord": {
+      "lat": -5.87833,
+      "lon": 149.82605
+    },
+    "name": "West New Britain Province"
+  },
+  {
+    "country": "PG",
+    "id": 2093967,
+    "coord": {
+      "lat": -5.55021,
+      "lon": 150.142853
+    },
+    "name": "Kimbe"
+  },
+  {
+    "country": "PG",
+    "id": 2098329,
+    "coord": {
+      "lat": -9.07628,
+      "lon": 143.209183
+    },
+    "name": "Daru"
+  },
+  {
+    "country": "PG",
+    "id": 2098869,
+    "coord": {
+      "lat": -7.2,
+      "lon": 146.649994
+    },
+    "name": "Bulolo"
+  },
+  {
+    "country": "PG",
+    "id": 2088628,
+    "coord": {
+      "lat": -6,
+      "lon": 147
+    },
+    "name": "Independent State of Papua New Guinea"
+  },
+  {
+    "country": "PG",
+    "id": 2097855,
+    "coord": {
+      "lat": -6.5,
+      "lon": 145.583328
+    },
+    "name": "Eastern Highlands Province"
+  },
+  {
+    "country": "PG",
+    "id": 2084598,
+    "coord": {
+      "lat": -6.38675,
+      "lon": 145.827866
+    },
+    "name": "Urara"
+  },
+  {
+    "country": "PG",
+    "id": 2089856,
+    "coord": {
+      "lat": -9.41667,
+      "lon": 147.166672
+    },
+    "name": "National Capital District"
+  },
+  {
+    "country": "PG",
+    "id": 2088122,
+    "coord": {
+      "lat": -9.44314,
+      "lon": 147.179718
+    },
+    "name": "Port Moresby"
+  },
+  {
+    "country": "PG",
+    "id": 2099101,
+    "coord": {
+      "lat": -9.46755,
+      "lon": 147.195816
+    },
+    "name": "Boroko"
+  },
+  {
+    "country": "PG",
+    "id": 2090468,
+    "coord": {
+      "lat": -7.0106,
+      "lon": 146.967194
+    },
+    "name": "Morobe Province"
+  },
+  {
+    "country": "PG",
+    "id": 2098899,
+    "coord": {
+      "lat": -6.73333,
+      "lon": 147.016663
+    },
+    "name": "Buko"
+  },
+  {
+    "country": "PG",
+    "id": 2082774,
+    "coord": {
+      "lat": -6.08333,
+      "lon": 145.383331
+    },
+    "name": "Zagomzuhu"
+  },
+  {
+    "country": "PG",
+    "id": 2083551,
+    "coord": {
+      "lat": -5.75,
+      "lon": 144.5
+    },
+    "name": "Western Highlands Province"
+  },
+  {
+    "country": "PG",
+    "id": 2090409,
+    "coord": {
+      "lat": -5.8581,
+      "lon": 144.227448
+    },
+    "name": "Mount Hagen"
+  },
+  {
+    "country": "PG",
+    "id": 2097853,
+    "coord": {
+      "lat": -4.61283,
+      "lon": 151.887756
+    },
+    "name": "East New Britain Province"
+  },
+  {
+    "country": "PG",
+    "id": 2087894,
+    "coord": {
+      "lat": -4.19671,
+      "lon": 152.17215
+    },
+    "name": "Rabaul"
+  },
+  {
+    "country": "PG",
+    "id": 2086331,
+    "coord": {
+      "lat": -6.25,
+      "lon": 143.416672
+    },
+    "name": "Southern Highlands Province"
+  },
+  {
+    "country": "PG",
+    "id": 2084734,
+    "coord": {
+      "lat": -6.15,
+      "lon": 143.649994
+    },
+    "name": "Umbimi"
+  },
+  {
+    "country": "PG",
+    "id": 2089478,
+    "coord": {
+      "lat": -9,
+      "lon": 148.5
+    },
+    "name": "Northern Province"
+  },
+  {
+    "country": "PG",
+    "id": 2094982,
+    "coord": {
+      "lat": -8.76667,
+      "lon": 148.233337
+    },
+    "name": "Kakandetta"
+  },
+  {
+    "country": "PG",
+    "id": 2132895,
+    "coord": {
+      "lat": -10.55262,
+      "lon": 150.314941
+    },
+    "name": "Milne Bay Province"
+  },
+  {
+    "country": "PG",
+    "id": 2087362,
+    "coord": {
+      "lat": -9.66027,
+      "lon": 150.785583
+    },
+    "name": "Salamo"
+  },
+  {
+    "country": "PG",
+    "id": 2087246,
+    "coord": {
+      "lat": -3.5,
+      "lon": 142
+    },
+    "name": "Sandaun Province"
+  },
+  {
+    "country": "PG",
+    "id": 2098322,
+    "coord": {
+      "lat": -2.7,
+      "lon": 141.300003
+    },
+    "name": "Dasi"
+  },
+  {
+    "country": "PG",
+    "id": 2090136,
+    "coord": {
+      "lat": -6.56729,
+      "lon": 146.739258
+    },
+    "name": "Nadzab"
+  },
+  {
+    "country": "PG",
+    "id": 2091495,
+    "coord": {
+      "lat": -2,
+      "lon": 147
+    },
+    "name": "Manus Province"
+  },
+  {
+    "country": "PG",
+    "id": 2090567,
+    "coord": {
+      "lat": -2.06622,
+      "lon": 147.421814
+    },
+    "name": "Momote"
+  },
+  {
+    "country": "PG",
+    "id": 2095101,
+    "coord": {
+      "lat": -5.82604,
+      "lon": 144.286728
+    },
+    "name": "Kagamuga"
+  },
+  {
+    "country": "PG",
+    "id": 2096742,
+    "coord": {
+      "lat": -6.08336,
+      "lon": 145.387344
+    },
+    "name": "Goroka"
+  },
+  {
+    "country": "PG",
+    "id": 2097846,
+    "coord": {
+      "lat": -4,
+      "lon": 143.75
+    },
+    "name": "East Sepik Province"
+  },
+  {
+    "country": "PG",
+    "id": 2099134,
+    "coord": {
+      "lat": -3.58164,
+      "lon": 143.663467
+    },
+    "name": "Boram"
+  },
+  {
+    "country": "PG",
+    "id": 2087178,
+    "coord": {
+      "lat": -9.45499,
+      "lon": 147.211227
+    },
+    "name": "Saraga"
+  },
+  {
+    "country": "PG",
+    "id": 2091993,
+    "coord": {
+      "lat": -5,
+      "lon": 145.5
+    },
+    "name": "Madang Province"
+  },
+  {
+    "country": "PG",
+    "id": 2093310,
+    "coord": {
+      "lat": -5.2,
+      "lon": 145.800003
+    },
+    "name": "Kranket"
+  },
+  {
+    "country": "PG",
+    "id": 2098584,
+    "coord": {
+      "lat": -6.58333,
+      "lon": 146.580566
+    },
+    "name": "Chivasing"
+  },
+  {
+    "country": "PG",
+    "id": 2083549,
+    "coord": {
+      "lat": -7.5,
+      "lon": 142
+    },
+    "name": "Western Province"
+  },
+  {
+    "country": "PG",
+    "id": 2094687,
+    "coord": {
+      "lat": -8.63333,
+      "lon": 142.850006
+    },
+    "name": "Kapal"
+  },
+  {
+    "country": "PG",
+    "id": 2089168,
+    "coord": {
+      "lat": -3.60986,
+      "lon": 141.051834
+    },
+    "name": "Old Kamberatoro"
+  },
+  {
+    "country": "PG",
+    "id": 2085203,
+    "coord": {
+      "lat": -4.02941,
+      "lon": 143.127914
+    },
+    "name": "Torembi"
+  },
+  {
+    "country": "PG",
+    "id": 2089693,
+    "coord": {
+      "lat": -3,
+      "lon": 151.5
+    },
+    "name": "New Ireland Province"
+  },
+  {
+    "country": "PG",
+    "id": 2098948,
+    "coord": {
+      "lat": -2.65968,
+      "lon": 152.0103
+    },
+    "name": "Bueri"
+  },
+  {
+    "country": "PG",
+    "id": 2099488,
+    "coord": {
+      "lat": -5.58333,
+      "lon": 146.333328
+    },
+    "name": "Biliau Mission"
+  },
+  {
+    "country": "PG",
+    "id": 2083653,
+    "coord": {
+      "lat": -7.33514,
+      "lon": 146.717987
+    },
+    "name": "Wau"
+  },
+  {
+    "country": "PG",
+    "id": 2084246,
+    "coord": {
+      "lat": -5.47808,
+      "lon": 143.702148
+    },
+    "name": "Wabag"
+  },
+  {
+    "country": "PG",
+    "id": 2084442,
+    "coord": {
+      "lat": -2.67408,
+      "lon": 141.302841
+    },
+    "name": "Vanimo"
+  },
+  {
+    "country": "PG",
+    "id": 2088143,
+    "coord": {
+      "lat": -5.46667,
+      "lon": 143.199997
+    },
+    "name": "Porgera"
+  },
+  {
+    "country": "PG",
+    "id": 2088659,
+    "coord": {
+      "lat": -6.3164,
+      "lon": 155.484833
+    },
+    "name": "Panguna"
+  },
+  {
+    "country": "PG",
+    "id": 2090021,
+    "coord": {
+      "lat": -3.66667,
+      "lon": 152.433334
+    },
+    "name": "Namatanai"
+  },
+  {
+    "country": "PG",
+    "id": 2090495,
+    "coord": {
+      "lat": -8.71066,
+      "lon": 141.636673
+    },
+    "name": "Morehead"
+  },
+  {
+    "country": "PG",
+    "id": 2092164,
+    "coord": {
+      "lat": -2.02259,
+      "lon": 147.271194
+    },
+    "name": "Lorengau"
+  },
+  {
+    "country": "PG",
+    "id": 2093059,
+    "coord": {
+      "lat": -6.01667,
+      "lon": 144.966675
+    },
+    "name": "Kundiawa"
+  },
+  {
+    "country": "PG",
+    "id": 2093691,
+    "coord": {
+      "lat": -8.87853,
+      "lon": 147.740723
+    },
+    "name": "Kokoda"
+  },
+  {
+    "country": "PG",
+    "id": 2093846,
+    "coord": {
+      "lat": -6.12193,
+      "lon": 141.290604
+    },
+    "name": "Kiunga"
+  },
+  {
+    "country": "PG",
+    "id": 2094027,
+    "coord": {
+      "lat": -6.21667,
+      "lon": 155.633331
+    },
+    "name": "Kieta"
+  },
+  {
+    "country": "PG",
+    "id": 2094144,
+    "coord": {
+      "lat": -7.96309,
+      "lon": 145.778503
+    },
+    "name": "Kerema"
+  },
+  {
+    "country": "PG",
+    "id": 2094342,
+    "coord": {
+      "lat": -2.57444,
+      "lon": 150.796692
+    },
+    "name": "Kavieng"
+  },
+  {
+    "country": "PG",
+    "id": 2094746,
+    "coord": {
+      "lat": -6.21667,
+      "lon": 149.550003
+    },
+    "name": "Kandrian"
+  },
+  {
+    "country": "PG",
+    "id": 2095038,
+    "coord": {
+      "lat": -6.28872,
+      "lon": 145.865479
+    },
+    "name": "Kainantu"
+  },
+  {
+    "country": "PG",
+    "id": 2095925,
+    "coord": {
+      "lat": -6.28208,
+      "lon": 143.993546
+    },
+    "name": "Ialibu"
+  },
+  {
+    "country": "PG",
+    "id": 2097418,
+    "coord": {
+      "lat": -6.60243,
+      "lon": 147.868134
+    },
+    "name": "Finschhafen"
+  },
+  {
+    "country": "PG",
+    "id": 2100765,
+    "coord": {
+      "lat": -4.06253,
+      "lon": 144.066086
+    },
+    "name": "Angoram"
+  },
+  {
+    "country": "PG",
+    "id": 2100933,
+    "coord": {
+      "lat": -4.23653,
+      "lon": 142.844849
+    },
+    "name": "Ambunti"
+  },
+  {
+    "country": "PG",
+    "id": 2101169,
+    "coord": {
+      "lat": -3.13744,
+      "lon": 142.347504
+    },
+    "name": "Aitape"
+  },
+  {
+    "country": "PG",
+    "id": 2132606,
+    "coord": {
+      "lat": -10.61667,
+      "lon": 150.666672
+    },
+    "name": "Samarai"
+  }
+
+]

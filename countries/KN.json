@@ -1,0 +1,211 @@
+[
+
+  {
+    "country": "KN",
+    "id": 3575514,
+    "coord": {
+      "lat": 17.299999,
+      "lon": -62.73333
+    },
+    "name": "Brumaire"
+  },
+  {
+    "country": "KN",
+    "id": 3575174,
+    "coord": {
+      "lat": 17.33333,
+      "lon": -62.75
+    },
+    "name": "Federation of Saint Kitts and Nevis"
+  },
+  {
+    "country": "KN",
+    "id": 3575180,
+    "coord": {
+      "lat": 17.26667,
+      "lon": -62.683331
+    },
+    "name": "Saint George Basseterre"
+  },
+  {
+    "country": "KN",
+    "id": 3575167,
+    "coord": {
+      "lat": 17.299999,
+      "lon": -62.716671
+    },
+    "name": "Saint Peter’s"
+  },
+  {
+    "country": "KN",
+    "id": 3575164,
+    "coord": {
+      "lat": 17.35,
+      "lon": -62.799999
+    },
+    "name": "Saint Thomas Middle Island"
+  },
+  {
+    "country": "KN",
+    "id": 3575384,
+    "coord": {
+      "lat": 17.33333,
+      "lon": -62.816669
+    },
+    "name": "Half Way Tree"
+  },
+  {
+    "country": "KN",
+    "id": 3575116,
+    "coord": {
+      "lat": 17.383329,
+      "lon": -62.849998
+    },
+    "name": "Trants"
+  },
+  {
+    "country": "KN",
+    "id": 3575476,
+    "coord": {
+      "lat": 17.35,
+      "lon": -62.76667
+    },
+    "name": "Christ Church Nichola Town"
+  },
+  {
+    "country": "KN",
+    "id": 3575316,
+    "coord": {
+      "lat": 17.35,
+      "lon": -62.75
+    },
+    "name": "Lodge"
+  },
+  {
+    "country": "KN",
+    "id": 3575165,
+    "coord": {
+      "lat": 17.16667,
+      "lon": -62.599998
+    },
+    "name": "Saint Thomas Lowland"
+  },
+  {
+    "country": "KN",
+    "id": 3575458,
+    "coord": {
+      "lat": 17.16667,
+      "lon": -62.616669
+    },
+    "name": "Cotton Ground"
+  },
+  {
+    "country": "KN",
+    "id": 3575175,
+    "coord": {
+      "lat": 17.116671,
+      "lon": -62.599998
+    },
+    "name": "Saint John Figtree"
+  },
+  {
+    "country": "KN",
+    "id": 3575516,
+    "coord": {
+      "lat": 17.116671,
+      "lon": -62.599998
+    },
+    "name": "Brown Hill"
+  },
+  {
+    "country": "KN",
+    "id": 3575177,
+    "coord": {
+      "lat": 17.16667,
+      "lon": -62.566669
+    },
+    "name": "Saint James Windward"
+  },
+  {
+    "country": "KN",
+    "id": 3575261,
+    "coord": {
+      "lat": 17.200001,
+      "lon": -62.583328
+    },
+    "name": "Newcastle"
+  },
+  {
+    "country": "KN",
+    "id": 3575168,
+    "coord": {
+      "lat": 17.316669,
+      "lon": -62.716671
+    },
+    "name": "Saint Peter Basseterre"
+  },
+  {
+    "country": "KN",
+    "id": 3575438,
+    "coord": {
+      "lat": 17.316669,
+      "lon": -62.716671
+    },
+    "name": "Douglas"
+  },
+  {
+    "country": "KN",
+    "id": 3575551,
+    "coord": {
+      "lat": 17.29484,
+      "lon": -62.726101
+    },
+    "name": "Basseterre"
+  },
+  {
+    "country": "KN",
+    "id": 3575156,
+    "coord": {
+      "lat": 17.35,
+      "lon": -62.833328
+    },
+    "name": "Sandy Point Town"
+  },
+  {
+    "country": "KN",
+    "id": 3575284,
+    "coord": {
+      "lat": 17.316669,
+      "lon": -62.716671
+    },
+    "name": "Monkey Hill"
+  },
+  {
+    "country": "KN",
+    "id": 3575441,
+    "coord": {
+      "lat": 17.41297,
+      "lon": -62.815281
+    },
+    "name": "Dieppe Bay Town"
+  },
+  {
+    "country": "KN",
+    "id": 3575479,
+    "coord": {
+      "lat": 17.133329,
+      "lon": -62.616669
+    },
+    "name": "Charlestown"
+  },
+  {
+    "country": "KN",
+    "id": 3575487,
+    "coord": {
+      "lat": 17.35,
+      "lon": -62.73333
+    },
+    "name": "Cayon"
+  }
+
+]

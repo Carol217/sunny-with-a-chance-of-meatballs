@@ -1,0 +1,1264 @@
+[
+
+  {
+    "country": "SA",
+    "id": 108210,
+    "coord": {
+      "lat": 24.253611,
+      "lon": 44.130001
+    },
+    "name": "Ash Shubramīyah"
+  },
+  {
+    "country": "SA",
+    "id": 108947,
+    "coord": {
+      "lat": 24.46747,
+      "lon": 46.421291
+    },
+    "name": "Qaşr al Quraynah"
+  },
+  {
+    "country": "SA",
+    "id": 392343,
+    "coord": {
+      "lat": 26.98016,
+      "lon": 49.174511
+    },
+    "name": "Al Fāḑilī"
+  },
+  {
+    "country": "SA",
+    "id": 101631,
+    "coord": {
+      "lat": 30.49987,
+      "lon": 38.21603
+    },
+    "name": "Tubarjal"
+  },
+  {
+    "country": "SA",
+    "id": 102451,
+    "coord": {
+      "lat": 16.59601,
+      "lon": 42.944351
+    },
+    "name": "Samitah"
+  },
+  {
+    "country": "SA",
+    "id": 108617,
+    "coord": {
+      "lat": 19.14547,
+      "lon": 42.120098
+    },
+    "name": "An Nimas"
+  },
+  {
+    "country": "SA",
+    "id": 109059,
+    "coord": {
+      "lat": 25.383329,
+      "lon": 49.666672
+    },
+    "name": "Al Munayzilah"
+  },
+  {
+    "country": "SA",
+    "id": 109101,
+    "coord": {
+      "lat": 25.41,
+      "lon": 49.58083
+    },
+    "name": "Al Mubarraz"
+  },
+  {
+    "country": "SA",
+    "id": 110250,
+    "coord": {
+      "lat": 23.9065,
+      "lon": 42.91724
+    },
+    "name": "Afif"
+  },
+  {
+    "country": "SA",
+    "id": 110314,
+    "coord": {
+      "lat": 23.991461,
+      "lon": 47.162659
+    },
+    "name": "Ad Dilam"
+  },
+  {
+    "country": "SA",
+    "id": 108411,
+    "coord": {
+      "lat": 23.33333,
+      "lon": 45.333328
+    },
+    "name": "Minţaqat ar Riyāḑ"
+  },
+  {
+    "country": "SA",
+    "id": 109353,
+    "coord": {
+      "lat": 24.15502,
+      "lon": 47.334599
+    },
+    "name": "Al Kharj"
+  },
+  {
+    "country": "SA",
+    "id": 108052,
+    "coord": {
+      "lat": 24.12361,
+      "lon": 47.295559
+    },
+    "name": "As Sulaymānīyah"
+  },
+  {
+    "country": "SA",
+    "id": 407308,
+    "coord": {
+      "lat": 24.191019,
+      "lon": 47.379662
+    },
+    "name": "As Sahbā’"
+  },
+  {
+    "country": "SA",
+    "id": 108241,
+    "coord": {
+      "lat": 22.5,
+      "lon": 51
+    },
+    "name": "Al Minţaqah ash Sharqīyah"
+  },
+  {
+    "country": "SA",
+    "id": 391749,
+    "coord": {
+      "lat": 26.10927,
+      "lon": 49.432049
+    },
+    "name": "‘Uşayfirāt"
+  },
+  {
+    "country": "SA",
+    "id": 100926,
+    "coord": {
+      "lat": 25.021259,
+      "lon": 37.268501
+    },
+    "name": "Umm Lajj"
+  },
+  {
+    "country": "SA",
+    "id": 101322,
+    "coord": {
+      "lat": 21.21406,
+      "lon": 41.633099
+    },
+    "name": "Turabah"
+  },
+  {
+    "country": "SA",
+    "id": 102651,
+    "coord": {
+      "lat": 17.1495,
+      "lon": 42.62537
+    },
+    "name": "Sabya"
+  },
+  {
+    "country": "SA",
+    "id": 107781,
+    "coord": {
+      "lat": 26.29945,
+      "lon": 44.815418
+    },
+    "name": "Az Zulfi"
+  },
+  {
+    "country": "SA",
+    "id": 102358,
+    "coord": {
+      "lat": 25,
+      "lon": 45
+    },
+    "name": "Kingdom of Saudi Arabia"
+  },
+  {
+    "country": "SA",
+    "id": 104514,
+    "coord": {
+      "lat": 20.66667,
+      "lon": 41.333328
+    },
+    "name": "Minţaqat Makkah"
+  },
+  {
+    "country": "SA",
+    "id": 411338,
+    "coord": {
+      "lat": 21.271589,
+      "lon": 39.962681
+    },
+    "name": "Al Mudawwarah"
+  },
+  {
+    "country": "SA",
+    "id": 101752,
+    "coord": {
+      "lat": 21.249649,
+      "lon": 39.157711
+    },
+    "name": "Şumaymah"
+  },
+  {
+    "country": "SA",
+    "id": 409950,
+    "coord": {
+      "lat": 22.09037,
+      "lon": 41.274559
+    },
+    "name": "Raḑwān"
+  },
+  {
+    "country": "SA",
+    "id": 108190,
+    "coord": {
+      "lat": 25.707081,
+      "lon": 39.282341
+    },
+    "name": "Ash Shurayf"
+  },
+  {
+    "country": "SA",
+    "id": 105343,
+    "coord": {
+      "lat": 21.516939,
+      "lon": 39.21917
+    },
+    "name": "Jeddah"
+  },
+  {
+    "country": "SA",
+    "id": 108410,
+    "coord": {
+      "lat": 24.687731,
+      "lon": 46.721851
+    },
+    "name": "Riyadh"
+  },
+  {
+    "country": "SA",
+    "id": 109435,
+    "coord": {
+      "lat": 27.011221,
+      "lon": 49.65826
+    },
+    "name": "Al Jubayl"
+  },
+  {
+    "country": "SA",
+    "id": 400685,
+    "coord": {
+      "lat": 24.64348,
+      "lon": 46.776981
+    },
+    "name": "Al Fayşalīyah"
+  },
+  {
+    "country": "SA",
+    "id": 107968,
+    "coord": {
+      "lat": 21.270281,
+      "lon": 40.415829
+    },
+    "name": "Taif"
+  },
+  {
+    "country": "SA",
+    "id": 110336,
+    "coord": {
+      "lat": 26.43442,
+      "lon": 50.10326
+    },
+    "name": "Ad Dammam"
+  },
+  {
+    "country": "SA",
+    "id": 389860,
+    "coord": {
+      "lat": 26.433889,
+      "lon": 50.11528
+    },
+    "name": "Ash Shu‘aybah"
+  },
+  {
+    "country": "SA",
+    "id": 102891,
+    "coord": {
+      "lat": 26.64389,
+      "lon": 50.159168
+    },
+    "name": "Ras Tanura"
+  },
+  {
+    "country": "SA",
+    "id": 101627,
+    "coord": {
+      "lat": 27.5,
+      "lon": 37.333328
+    },
+    "name": "Minţaqat Tabūk"
+  },
+  {
+    "country": "SA",
+    "id": 101628,
+    "coord": {
+      "lat": 28.383329,
+      "lon": 36.583328
+    },
+    "name": "Tabuk"
+  },
+  {
+    "country": "SA",
+    "id": 104515,
+    "coord": {
+      "lat": 21.42667,
+      "lon": 39.826111
+    },
+    "name": "Mecca"
+  },
+  {
+    "country": "SA",
+    "id": 108179,
+    "coord": {
+      "lat": 19.16667,
+      "lon": 43.166672
+    },
+    "name": "Minţaqat ‘Asīr"
+  },
+  {
+    "country": "SA",
+    "id": 110690,
+    "coord": {
+      "lat": 18.216391,
+      "lon": 42.50528
+    },
+    "name": "Abha"
+  },
+  {
+    "country": "SA",
+    "id": 109224,
+    "coord": {
+      "lat": 25.66667,
+      "lon": 39.666672
+    },
+    "name": "Minţaqat al Madīnah"
+  },
+  {
+    "country": "SA",
+    "id": 104308,
+    "coord": {
+      "lat": 24.027769,
+      "lon": 38.23246
+    },
+    "name": "Masāḩilī"
+  },
+  {
+    "country": "SA",
+    "id": 104625,
+    "coord": {
+      "lat": 23.999439,
+      "lon": 38.227501
+    },
+    "name": "Madīnat Yanbu‘ aş Şinā‘īyah"
+  },
+  {
+    "country": "SA",
+    "id": 103533,
+    "coord": {
+      "lat": 20,
+      "lon": 42.599998
+    },
+    "name": "Nimrān"
+  },
+  {
+    "country": "SA",
+    "id": 107304,
+    "coord": {
+      "lat": 26.325991,
+      "lon": 43.974972
+    },
+    "name": "Buraydah"
+  },
+  {
+    "country": "SA",
+    "id": 107312,
+    "coord": {
+      "lat": 25.937099,
+      "lon": 49.677608
+    },
+    "name": "Abqaiq"
+  },
+  {
+    "country": "SA",
+    "id": 108927,
+    "coord": {
+      "lat": 26.5208,
+      "lon": 50.024521
+    },
+    "name": "Al Qatif"
+  },
+  {
+    "country": "SA",
+    "id": 107797,
+    "coord": {
+      "lat": 26.30324,
+      "lon": 50.135281
+    },
+    "name": "Dhahran"
+  },
+  {
+    "country": "SA",
+    "id": 110737,
+    "coord": {
+      "lat": 17.466669,
+      "lon": 44.099998
+    },
+    "name": "Abā as Su‘ūd"
+  },
+  {
+    "country": "SA",
+    "id": 105072,
+    "coord": {
+      "lat": 18.306391,
+      "lon": 42.729172
+    },
+    "name": "Khamis Mushayt"
+  },
+  {
+    "country": "SA",
+    "id": 108933,
+    "coord": {
+      "lat": 27.08333,
+      "lon": 43.466671
+    },
+    "name": "Minţaqat al Qaşīm"
+  },
+  {
+    "country": "SA",
+    "id": 108435,
+    "coord": {
+      "lat": 25.86944,
+      "lon": 43.497299
+    },
+    "name": "Ar Rass"
+  },
+  {
+    "country": "SA",
+    "id": 109223,
+    "coord": {
+      "lat": 24.468611,
+      "lon": 39.61417
+    },
+    "name": "Medina"
+  },
+  {
+    "country": "SA",
+    "id": 105298,
+    "coord": {
+      "lat": 17.33333,
+      "lon": 42.666672
+    },
+    "name": "Minţaqat Jīzān"
+  },
+  {
+    "country": "SA",
+    "id": 105299,
+    "coord": {
+      "lat": 16.88917,
+      "lon": 42.551109
+    },
+    "name": "Jizan"
+  },
+  {
+    "country": "SA",
+    "id": 106297,
+    "coord": {
+      "lat": 28.432791,
+      "lon": 45.970772
+    },
+    "name": "Ḩafar al Bāţin"
+  },
+  {
+    "country": "SA",
+    "id": 103665,
+    "coord": {
+      "lat": 17.73333,
+      "lon": 42.25
+    },
+    "name": "Naghbī"
+  },
+  {
+    "country": "SA",
+    "id": 106280,
+    "coord": {
+      "lat": 27.5,
+      "lon": 42.5
+    },
+    "name": "Minţaqat Ḩā’il"
+  },
+  {
+    "country": "SA",
+    "id": 106281,
+    "coord": {
+      "lat": 27.521879,
+      "lon": 41.690731
+    },
+    "name": "Hayil"
+  },
+  {
+    "country": "SA",
+    "id": 110107,
+    "coord": {
+      "lat": 26.56324,
+      "lon": 49.94331
+    },
+    "name": "Al Awjam"
+  },
+  {
+    "country": "SA",
+    "id": 411398,
+    "coord": {
+      "lat": 21.09469,
+      "lon": 39.911419
+    },
+    "name": "Al Ābār"
+  },
+  {
+    "country": "SA",
+    "id": 100425,
+    "coord": {
+      "lat": 24.089121,
+      "lon": 38.06374
+    },
+    "name": "Yanbu al Bahr"
+  },
+  {
+    "country": "SA",
+    "id": 108773,
+    "coord": {
+      "lat": 26.24551,
+      "lon": 36.45248
+    },
+    "name": "Al Wajh"
+  },
+  {
+    "country": "SA",
+    "id": 101591,
+    "coord": {
+      "lat": 20.40843,
+      "lon": 45.433941
+    },
+    "name": "Tamrah"
+  },
+  {
+    "country": "SA",
+    "id": 101312,
+    "coord": {
+      "lat": 31.67252,
+      "lon": 38.663738
+    },
+    "name": "Turayf"
+  },
+  {
+    "country": "SA",
+    "id": 409515,
+    "coord": {
+      "lat": 21.447689,
+      "lon": 40.54842
+    },
+    "name": "Al ‘Awājīyah"
+  },
+  {
+    "country": "SA",
+    "id": 103331,
+    "coord": {
+      "lat": 29.87694,
+      "lon": 40.22694
+    },
+    "name": "Qārā"
+  },
+  {
+    "country": "SA",
+    "id": 8019123,
+    "coord": {
+      "lat": 17.48946,
+      "lon": 47.11488
+    },
+    "name": "Sharūrah"
+  },
+  {
+    "country": "SA",
+    "id": 109579,
+    "coord": {
+      "lat": 30,
+      "lon": 42.666672
+    },
+    "name": "Minţaqat al Ḩudūd ash Shamālīyah"
+  },
+  {
+    "country": "SA",
+    "id": 108512,
+    "coord": {
+      "lat": 30.975309,
+      "lon": 41.038078
+    },
+    "name": "Arar"
+  },
+  {
+    "country": "SA",
+    "id": 107684,
+    "coord": {
+      "lat": 25.001671,
+      "lon": 46.588058
+    },
+    "name": "Banbān"
+  },
+  {
+    "country": "SA",
+    "id": 103012,
+    "coord": {
+      "lat": 29.634251,
+      "lon": 43.519409
+    },
+    "name": "Rafḩā"
+  },
+  {
+    "country": "SA",
+    "id": 108918,
+    "coord": {
+      "lat": 28.311171,
+      "lon": 46.127289
+    },
+    "name": "Al Qaysumah"
+  },
+  {
+    "country": "SA",
+    "id": 109122,
+    "coord": {
+      "lat": 17.53957,
+      "lon": 44.213501
+    },
+    "name": "Al Mikhlāf"
+  },
+  {
+    "country": "SA",
+    "id": 101927,
+    "coord": {
+      "lat": 24.506149,
+      "lon": 39.615921
+    },
+    "name": "Sīdī Ḩamzah"
+  },
+  {
+    "country": "SA",
+    "id": 107392,
+    "coord": {
+      "lat": 18.25,
+      "lon": 42.783329
+    },
+    "name": "Birzayn"
+  },
+  {
+    "country": "SA",
+    "id": 104270,
+    "coord": {
+      "lat": 27.91667,
+      "lon": 45.400002
+    },
+    "name": "Masjid Ibn Rashīd"
+  },
+  {
+    "country": "SA",
+    "id": 395014,
+    "coord": {
+      "lat": 27.470261,
+      "lon": 41.674049
+    },
+    "name": "Sidīs"
+  },
+  {
+    "country": "SA",
+    "id": 109470,
+    "coord": {
+      "lat": 29.5,
+      "lon": 38.75
+    },
+    "name": "Minţaqat al Jawf"
+  },
+  {
+    "country": "SA",
+    "id": 108648,
+    "coord": {
+      "lat": 31.33176,
+      "lon": 37.342819
+    },
+    "name": "Al Qurayyat"
+  },
+  {
+    "country": "SA",
+    "id": 109923,
+    "coord": {
+      "lat": 26.285299,
+      "lon": 43.869732
+    },
+    "name": "Al Başar"
+  },
+  {
+    "country": "SA",
+    "id": 110325,
+    "coord": {
+      "lat": 24.507721,
+      "lon": 44.392368
+    },
+    "name": "Ad Dawadimi"
+  },
+  {
+    "country": "SA",
+    "id": 101810,
+    "coord": {
+      "lat": 19.98333,
+      "lon": 42.599998
+    },
+    "name": "Sufan"
+  },
+  {
+    "country": "SA",
+    "id": 110060,
+    "coord": {
+      "lat": 20.273581,
+      "lon": 41.664341
+    },
+    "name": "Al ‘Aqīq"
+  },
+  {
+    "country": "SA",
+    "id": 108384,
+    "coord": {
+      "lat": 25.35,
+      "lon": 49.566669
+    },
+    "name": "Ar Ruqayyiqah"
+  },
+  {
+    "country": "SA",
+    "id": 106261,
+    "coord": {
+      "lat": 18.25,
+      "lon": 42.633331
+    },
+    "name": "Ḩajlah"
+  },
+  {
+    "country": "SA",
+    "id": 396460,
+    "coord": {
+      "lat": 25.762119,
+      "lon": 43.283531
+    },
+    "name": "Khishaybī al Ḩaḑar"
+  },
+  {
+    "country": "SA",
+    "id": 101554,
+    "coord": {
+      "lat": 26.57332,
+      "lon": 50.036942
+    },
+    "name": "Tarut"
+  },
+  {
+    "country": "SA",
+    "id": 101760,
+    "coord": {
+      "lat": 24.49258,
+      "lon": 39.58572
+    },
+    "name": "Sultanah"
+  },
+  {
+    "country": "SA",
+    "id": 102318,
+    "coord": {
+      "lat": 26.48522,
+      "lon": 50.040459
+    },
+    "name": "Sayhat"
+  },
+  {
+    "country": "SA",
+    "id": 102527,
+    "coord": {
+      "lat": 29.96974,
+      "lon": 40.206409
+    },
+    "name": "Sakaka"
+  },
+  {
+    "country": "SA",
+    "id": 102585,
+    "coord": {
+      "lat": 26.64986,
+      "lon": 49.952229
+    },
+    "name": "Safwa"
+  },
+  {
+    "country": "SA",
+    "id": 102985,
+    "coord": {
+      "lat": 26.707911,
+      "lon": 50.061939
+    },
+    "name": "Rahimah"
+  },
+  {
+    "country": "SA",
+    "id": 103035,
+    "coord": {
+      "lat": 22.798559,
+      "lon": 39.034931
+    },
+    "name": "Rabigh"
+  },
+  {
+    "country": "SA",
+    "id": 103369,
+    "coord": {
+      "lat": 20.00054,
+      "lon": 42.605202
+    },
+    "name": "Qalat Bishah"
+  },
+  {
+    "country": "SA",
+    "id": 103630,
+    "coord": {
+      "lat": 17.492399,
+      "lon": 44.127659
+    },
+    "name": "Najran"
+  },
+  {
+    "country": "SA",
+    "id": 106909,
+    "coord": {
+      "lat": 27.351339,
+      "lon": 35.69014
+    },
+    "name": "Zbe"
+  },
+  {
+    "country": "SA",
+    "id": 107744,
+    "coord": {
+      "lat": 23.782921,
+      "lon": 38.79047
+    },
+    "name": "Badr Hunayn"
+  },
+  {
+    "country": "SA",
+    "id": 107959,
+    "coord": {
+      "lat": 25.362761,
+      "lon": 49.72504
+    },
+    "name": "At Taraf"
+  },
+  {
+    "country": "SA",
+    "id": 108048,
+    "coord": {
+      "lat": 20.46067,
+      "lon": 45.577919
+    },
+    "name": "As Sulayyil"
+  },
+  {
+    "country": "SA",
+    "id": 109323,
+    "coord": {
+      "lat": 26.27944,
+      "lon": 50.208328
+    },
+    "name": "Al Khubar"
+  },
+  {
+    "country": "SA",
+    "id": 109380,
+    "coord": {
+      "lat": 28.439051,
+      "lon": 48.491322
+    },
+    "name": "Al Khafji"
+  },
+  {
+    "country": "SA",
+    "id": 109417,
+    "coord": {
+      "lat": 21.61694,
+      "lon": 39.698059
+    },
+    "name": "Al Jumum"
+  },
+  {
+    "country": "SA",
+    "id": 109571,
+    "coord": {
+      "lat": 25.364571,
+      "lon": 49.565319
+    },
+    "name": "Al Hufuf"
+  },
+  {
+    "country": "SA",
+    "id": 109878,
+    "coord": {
+      "lat": 26.14422,
+      "lon": 43.659328
+    },
+    "name": "Al Bukayriyah"
+  },
+  {
+    "country": "SA",
+    "id": 109915,
+    "coord": {
+      "lat": 25.433331,
+      "lon": 49.633331
+    },
+    "name": "Al Battaliyah"
+  },
+  {
+    "country": "SA",
+    "id": 109953,
+    "coord": {
+      "lat": 20.01288,
+      "lon": 41.46767
+    },
+    "name": "Al Bahah"
+  },
+  {
+    "country": "SA",
+    "id": 110619,
+    "coord": {
+      "lat": 16.96887,
+      "lon": 42.832512
+    },
+    "name": "Abu Arish"
+  },
+  {
+    "country": "SA",
+    "id": 414980,
+    "coord": {
+      "lat": 26.56889,
+      "lon": 49.989441
+    },
+    "name": "Al Qudayḩ"
+  },
+  {
+    "country": "SA",
+    "id": 101035,
+    "coord": {
+      "lat": 26.65361,
+      "lon": 49.916389
+    },
+    "name": "Umm as Sahik"
+  },
+  {
+    "country": "SA",
+    "id": 101344,
+    "coord": {
+      "lat": 26.557779,
+      "lon": 49.991669
+    },
+    "name": "At Tubi"
+  },
+  {
+    "country": "SA",
+    "id": 101581,
+    "coord": {
+      "lat": 27.1,
+      "lon": 44.133331
+    },
+    "name": "Tanumah"
+  },
+  {
+    "country": "SA",
+    "id": 101633,
+    "coord": {
+      "lat": 19.950001,
+      "lon": 42.400002
+    },
+    "name": "Tabalah"
+  },
+  {
+    "country": "SA",
+    "id": 103922,
+    "coord": {
+      "lat": 27.27103,
+      "lon": 48.424191
+    },
+    "name": "Mulayjah"
+  },
+  {
+    "country": "SA",
+    "id": 104269,
+    "coord": {
+      "lat": 17.459881,
+      "lon": 42.557201
+    },
+    "name": "Misliyah"
+  },
+  {
+    "country": "SA",
+    "id": 104376,
+    "coord": {
+      "lat": 25.07007,
+      "lon": 45.461472
+    },
+    "name": "Marat"
+  },
+  {
+    "country": "SA",
+    "id": 105252,
+    "coord": {
+      "lat": 25.5,
+      "lon": 49.599998
+    },
+    "name": "Julayjilah"
+  },
+  {
+    "country": "SA",
+    "id": 106744,
+    "coord": {
+      "lat": 16.702221,
+      "lon": 42.118328
+    },
+    "name": "Farasan"
+  },
+  {
+    "country": "SA",
+    "id": 108121,
+    "coord": {
+      "lat": 25.18251,
+      "lon": 44.59964
+    },
+    "name": "Sajir"
+  },
+  {
+    "country": "SA",
+    "id": 108142,
+    "coord": {
+      "lat": 27.970831,
+      "lon": 48.73
+    },
+    "name": "As Saffaniyah"
+  },
+  {
+    "country": "SA",
+    "id": 108890,
+    "coord": {
+      "lat": 25.48333,
+      "lon": 49.599998
+    },
+    "name": "Al Qurayn"
+  },
+  {
+    "country": "SA",
+    "id": 108957,
+    "coord": {
+      "lat": 25.41667,
+      "lon": 49.666672
+    },
+    "name": "Al Qarah"
+  },
+  {
+    "country": "SA",
+    "id": 109008,
+    "coord": {
+      "lat": 25.47879,
+      "lon": 49.557629
+    },
+    "name": "Al Mutayrifi"
+  },
+  {
+    "country": "SA",
+    "id": 109118,
+    "coord": {
+      "lat": 20.1588,
+      "lon": 41.283371
+    },
+    "name": "Al Mindak"
+  },
+  {
+    "country": "SA",
+    "id": 109165,
+    "coord": {
+      "lat": 25.4,
+      "lon": 49.73333
+    },
+    "name": "Al Markaz"
+  },
+  {
+    "country": "SA",
+    "id": 109436,
+    "coord": {
+      "lat": 25.4,
+      "lon": 49.650002
+    },
+    "name": "Al Jubayl"
+  },
+  {
+    "country": "SA",
+    "id": 109481,
+    "coord": {
+      "lat": 16.57946,
+      "lon": 42.912399
+    },
+    "name": "Al Jaradiyah"
+  },
+  {
+    "country": "SA",
+    "id": 109502,
+    "coord": {
+      "lat": 25.37694,
+      "lon": 49.72361
+    },
+    "name": "Al Jafr"
+  },
+  {
+    "country": "SA",
+    "id": 110031,
+    "coord": {
+      "lat": 26.50526,
+      "lon": 45.344372
+    },
+    "name": "Al Artawiyah"
+  },
+  {
+    "country": "SA",
+    "id": 110328,
+    "coord": {
+      "lat": 17.722851,
+      "lon": 42.252609
+    },
+    "name": "Ad Darb"
+  },
+  {
+    "country": "SA",
+    "id": 391699,
+    "coord": {
+      "lat": 27.78248,
+      "lon": 45.036751
+    },
+    "name": "Hajrat al Khinbish"
+  },
+  {
+    "country": "SA",
+    "id": 392753,
+    "coord": {
+      "lat": 30.11713,
+      "lon": 40.389252
+    },
+    "name": "Suwayr"
+  },
+  {
+    "country": "SA",
+    "id": 396550,
+    "coord": {
+      "lat": 25.70393,
+      "lon": 45.867962
+    },
+    "name": "Tumayr"
+  },
+  {
+    "country": "SA",
+    "id": 397513,
+    "coord": {
+      "lat": 26.44322,
+      "lon": 43.253399
+    },
+    "name": "Al Fuwayliq"
+  },
+  {
+    "country": "SA",
+    "id": 399518,
+    "coord": {
+      "lat": 19.12361,
+      "lon": 41.91111
+    },
+    "name": "Al Majaridah"
+  },
+  {
+    "country": "SA",
+    "id": 409993,
+    "coord": {
+      "lat": 22.433331,
+      "lon": 41.758289
+    },
+    "name": "Al Muwayh"
+  },
+  {
+    "country": "SA",
+    "id": 410084,
+    "coord": {
+      "lat": 21.367531,
+      "lon": 40.286942
+    },
+    "name": "Al Hada"
+  },
+  {
+    "country": "SA",
+    "id": 410874,
+    "coord": {
+      "lat": 16.826111,
+      "lon": 42.73333
+    },
+    "name": "Mizhirah"
+  },
+  {
+    "country": "SA",
+    "id": 6692745,
+    "coord": {
+      "lat": 24.490231,
+      "lon": 46.268711
+    },
+    "name": "shokhaib"
+  },
+  {
+    "country": "SA",
+    "id": 109771,
+    "coord": {
+      "lat": 24.47649,
+      "lon": 46.249908
+    },
+    "name": "Al Ghaţghaţ"
+  },
+  {
+    "country": "SA",
+    "id": 448600,
+    "coord": {
+      "lat": 24.622219,
+      "lon": 46.759441
+    },
+    "name": "Al Khālidīyah"
+  }
+
+]

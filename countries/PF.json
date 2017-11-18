@@ -1,0 +1,355 @@
+[
+
+  {
+    "country": "PF",
+    "id": 4034561,
+    "coord": {
+      "lat": -17.549999,
+      "lon": -149.600006
+    },
+    "name": "Faaa"
+  },
+  {
+    "country": "PF",
+    "id": 4033936,
+    "coord": {
+      "lat": -17.533331,
+      "lon": -149.566666
+    },
+    "name": "Papeete"
+  },
+  {
+    "country": "PF",
+    "id": 4033683,
+    "coord": {
+      "lat": -17.533331,
+      "lon": -149.566666
+    },
+    "name": "Sainte Amélie"
+  },
+  {
+    "country": "PF",
+    "id": 4034636,
+    "coord": {
+      "lat": -17.51667,
+      "lon": -149.5
+    },
+    "name": "Arue"
+  },
+  {
+    "country": "PF",
+    "id": 4033779,
+    "coord": {
+      "lat": -17.633329,
+      "lon": -149.600006
+    },
+    "name": "Punaauia"
+  },
+  {
+    "country": "PF",
+    "id": 4034005,
+    "coord": {
+      "lat": -17.683331,
+      "lon": -149.583328
+    },
+    "name": "Paea"
+  },
+  {
+    "country": "PF",
+    "id": 4033951,
+    "coord": {
+      "lat": -17.75,
+      "lon": -149.550003
+    },
+    "name": "Papao"
+  },
+  {
+    "country": "PF",
+    "id": 4020109,
+    "coord": {
+      "lat": -9.8,
+      "lon": -139.033325
+    },
+    "name": "Atuona"
+  },
+  {
+    "country": "PF",
+    "id": 6620522,
+    "coord": {
+      "lat": -17.557631,
+      "lon": -149.605988
+    },
+    "name": "Faa'a"
+  },
+  {
+    "country": "PF",
+    "id": 4030656,
+    "coord": {
+      "lat": -15,
+      "lon": -140
+    },
+    "name": "Polynésie Française"
+  },
+  {
+    "country": "PF",
+    "id": 4033205,
+    "coord": {
+      "lat": -16.73333,
+      "lon": -151.433334
+    },
+    "name": "Uturoa"
+  },
+  {
+    "country": "PF",
+    "id": 4034036,
+    "coord": {
+      "lat": -18.116671,
+      "lon": -140.899994
+    },
+    "name": "Otepa"
+  },
+  {
+    "country": "PF",
+    "id": 4034551,
+    "coord": {
+      "lat": -16.48333,
+      "lon": -151.75
+    },
+    "name": "Faanui"
+  },
+  {
+    "country": "PF",
+    "id": 4034684,
+    "coord": {
+      "lat": -23.383329,
+      "lon": -149.5
+    },
+    "name": "Anua"
+  },
+  {
+    "country": "PF",
+    "id": 4030556,
+    "coord": {
+      "lat": -23.120279,
+      "lon": -134.969177
+    },
+    "name": "Rikitea"
+  },
+  {
+    "country": "PF",
+    "id": 4033077,
+    "coord": {
+      "lat": -16.51667,
+      "lon": -151.75
+    },
+    "name": "Vaitape"
+  },
+  {
+    "country": "PF",
+    "id": 4033094,
+    "coord": {
+      "lat": -17.783331,
+      "lon": -149.283325
+    },
+    "name": "Vairao"
+  },
+  {
+    "country": "PF",
+    "id": 4033295,
+    "coord": {
+      "lat": -17.75,
+      "lon": -149.316666
+    },
+    "name": "Tohautu"
+  },
+  {
+    "country": "PF",
+    "id": 4033356,
+    "coord": {
+      "lat": -17.533331,
+      "lon": -149.333328
+    },
+    "name": "Tiarei"
+  },
+  {
+    "country": "PF",
+    "id": 4033375,
+    "coord": {
+      "lat": -16.783331,
+      "lon": -151.5
+    },
+    "name": "Tevaitoa"
+  },
+  {
+    "country": "PF",
+    "id": 4033514,
+    "coord": {
+      "lat": -17.5,
+      "lon": -149.766663
+    },
+    "name": "Teavaro"
+  },
+  {
+    "country": "PF",
+    "id": 4033543,
+    "coord": {
+      "lat": -17.83333,
+      "lon": -149.266663
+    },
+    "name": "Teahupoo"
+  },
+  {
+    "country": "PF",
+    "id": 4033557,
+    "coord": {
+      "lat": -17.73333,
+      "lon": -149.149994
+    },
+    "name": "Tautira"
+  },
+  {
+    "country": "PF",
+    "id": 4033566,
+    "coord": {
+      "lat": -17.75,
+      "lon": -149.350006
+    },
+    "name": "Taunoa"
+  },
+  {
+    "country": "PF",
+    "id": 4033792,
+    "coord": {
+      "lat": -17.73333,
+      "lon": -149.216675
+    },
+    "name": "Pueu"
+  },
+  {
+    "country": "PF",
+    "id": 4033838,
+    "coord": {
+      "lat": -17.51667,
+      "lon": -149.533325
+    },
+    "name": "Pirae"
+  },
+  {
+    "country": "PF",
+    "id": 4033910,
+    "coord": {
+      "lat": -17.49613,
+      "lon": -149.87291
+    },
+    "name": "Papetoai"
+  },
+  {
+    "country": "PF",
+    "id": 4033958,
+    "coord": {
+      "lat": -17.5,
+      "lon": -149.816666
+    },
+    "name": "Paopao"
+  },
+  {
+    "country": "PF",
+    "id": 4034022,
+    "coord": {
+      "lat": -17.76667,
+      "lon": -149.416672
+    },
+    "name": "Otutara"
+  },
+  {
+    "country": "PF",
+    "id": 4034188,
+    "coord": {
+      "lat": -22.433331,
+      "lon": -151.333328
+    },
+    "name": "Moerai"
+  },
+  {
+    "country": "PF",
+    "id": 4034307,
+    "coord": {
+      "lat": -17.506479,
+      "lon": -149.488983
+    },
+    "name": "Mahina"
+  },
+  {
+    "country": "PF",
+    "id": 4034402,
+    "coord": {
+      "lat": -17.6,
+      "lon": -149.300003
+    },
+    "name": "Hitiaa"
+  },
+  {
+    "country": "PF",
+    "id": 4034438,
+    "coord": {
+      "lat": -17.566669,
+      "lon": -149.866669
+    },
+    "name": "Haapiti"
+  },
+  {
+    "country": "PF",
+    "id": 4034451,
+    "coord": {
+      "lat": -16.73333,
+      "lon": -151.033325
+    },
+    "name": "Fitii"
+  },
+  {
+    "country": "PF",
+    "id": 4034496,
+    "coord": {
+      "lat": -16.700001,
+      "lon": -151.016663
+    },
+    "name": "Fare"
+  },
+  {
+    "country": "PF",
+    "id": 4034548,
+    "coord": {
+      "lat": -17.66667,
+      "lon": -149.300003
+    },
+    "name": "Faaone"
+  },
+  {
+    "country": "PF",
+    "id": 4034688,
+    "coord": {
+      "lat": -16.51667,
+      "lon": -151.733337
+    },
+    "name": "Anau"
+  },
+  {
+    "country": "PF",
+    "id": 4034741,
+    "coord": {
+      "lat": -17.549999,
+      "lon": -149.783325
+    },
+    "name": "Afareaitu"
+  },
+  {
+    "country": "PF",
+    "id": 4034745,
+    "coord": {
+      "lat": -17.75,
+      "lon": -149.283325
+    },
+    "name": "Afaahiti"
+  }
+
+]

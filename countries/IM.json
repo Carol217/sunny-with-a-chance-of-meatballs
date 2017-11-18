@@ -1,0 +1,211 @@
+[
+
+  {
+    "country": "IM",
+    "id": 3042225,
+    "coord": {
+      "lat": 54.25,
+      "lon": -4.5
+    },
+    "name": "Isle of Man"
+  },
+  {
+    "country": "IM",
+    "id": 6620382,
+    "coord": {
+      "lat": 54.15052,
+      "lon": -4.4844
+    },
+    "name": "Isle of Man"
+  },
+  {
+    "country": "IM",
+    "id": 3042213,
+    "coord": {
+      "lat": 54.316669,
+      "lon": -4.41667
+    },
+    "name": "Lezayre"
+  },
+  {
+    "country": "IM",
+    "id": 3042237,
+    "coord": {
+      "lat": 54.150002,
+      "lon": -4.48333
+    },
+    "name": "Douglas"
+  },
+  {
+    "country": "IM",
+    "id": 3042255,
+    "coord": {
+      "lat": 54.074451,
+      "lon": -4.65365
+    },
+    "name": "Castletown"
+  },
+  {
+    "country": "IM",
+    "id": 3042201,
+    "coord": {
+      "lat": 54.17329,
+      "lon": -4.45324
+    },
+    "name": "Onchan"
+  },
+  {
+    "country": "IM",
+    "id": 3042217,
+    "coord": {
+      "lat": 54.230171,
+      "lon": -4.39985
+    },
+    "name": "Laxey"
+  },
+  {
+    "country": "IM",
+    "id": 3042264,
+    "coord": {
+      "lat": 54.095901,
+      "lon": -4.62962
+    },
+    "name": "Ballasalla"
+  },
+  {
+    "country": "IM",
+    "id": 3042245,
+    "coord": {
+      "lat": 54.183331,
+      "lon": -4.56667
+    },
+    "name": "Crosby"
+  },
+  {
+    "country": "IM",
+    "id": 3042251,
+    "coord": {
+      "lat": 54.096649,
+      "lon": -4.70592
+    },
+    "name": "Colby"
+  },
+  {
+    "country": "IM",
+    "id": 3042220,
+    "coord": {
+      "lat": 54.285622,
+      "lon": -4.58748
+    },
+    "name": "Kirkmichael"
+  },
+  {
+    "country": "IM",
+    "id": 3042244,
+    "coord": {
+      "lat": 54.168789,
+      "lon": -4.72923
+    },
+    "name": "Dalby"
+  },
+  {
+    "country": "IM",
+    "id": 3042221,
+    "coord": {
+      "lat": 54.166672,
+      "lon": -4.51667
+    },
+    "name": "Kirk Braddon"
+  },
+  {
+    "country": "IM",
+    "id": 3042231,
+    "coord": {
+      "lat": 54.166672,
+      "lon": -4.61667
+    },
+    "name": "Foxdale"
+  },
+  {
+    "country": "IM",
+    "id": 3042174,
+    "coord": {
+      "lat": 54.32283,
+      "lon": -4.47968
+    },
+    "name": "Sulby"
+  },
+  {
+    "country": "IM",
+    "id": 3042210,
+    "coord": {
+      "lat": 54.298771,
+      "lon": -4.31844
+    },
+    "name": "Maughold"
+  },
+  {
+    "country": "IM",
+    "id": 3042271,
+    "coord": {
+      "lat": 54.366669,
+      "lon": -4.43333
+    },
+    "name": "Andreas"
+  },
+  {
+    "country": "IM",
+    "id": 3042185,
+    "coord": {
+      "lat": 54.133331,
+      "lon": -4.6
+    },
+    "name": "Saint Marks"
+  },
+  {
+    "country": "IM",
+    "id": 3042267,
+    "coord": {
+      "lat": 54.099998,
+      "lon": -4.68333
+    },
+    "name": "Ballabeg"
+  },
+  {
+    "country": "IM",
+    "id": 3042259,
+    "coord": {
+      "lat": 54.382561,
+      "lon": -4.38921
+    },
+    "name": "Bride"
+  },
+  {
+    "country": "IM",
+    "id": 3042229,
+    "coord": {
+      "lat": 54.183331,
+      "lon": -4.7
+    },
+    "name": "Glen Maye"
+  },
+  {
+    "country": "IM",
+    "id": 3042189,
+    "coord": {
+      "lat": 54.083328,
+      "lon": -4.61667
+    },
+    "name": "Ronaldsway"
+  },
+  {
+    "country": "IM",
+    "id": 3042196,
+    "coord": {
+      "lat": 54.084869,
+      "lon": -4.75099
+    },
+    "name": "Port Erin"
+  }
+
+]

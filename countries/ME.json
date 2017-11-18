@@ -1,0 +1,463 @@
+[
+
+  {
+    "country": "ME",
+    "id": 3317741,
+    "coord": {
+      "lat": 42.216942,
+      "lon": 19.145281
+    },
+    "name": "Donja Seoca"
+  },
+  {
+    "country": "ME",
+    "id": 3202640,
+    "coord": {
+      "lat": 42.400002,
+      "lon": 18.91972
+    },
+    "name": "Opština Cetinje"
+  },
+  {
+    "country": "ME",
+    "id": 3194884,
+    "coord": {
+      "lat": 42.5,
+      "lon": 19.299999
+    },
+    "name": "Montenegro"
+  },
+  {
+    "country": "ME",
+    "id": 3199070,
+    "coord": {
+      "lat": 42.846668,
+      "lon": 19.8825
+    },
+    "name": "Opština Berane"
+  },
+  {
+    "country": "ME",
+    "id": 3199071,
+    "coord": {
+      "lat": 42.842499,
+      "lon": 19.873329
+    },
+    "name": "Berane"
+  },
+  {
+    "country": "ME",
+    "id": 3188514,
+    "coord": {
+      "lat": 41.95528,
+      "lon": 19.26833
+    },
+    "name": "Opština Ulcinj"
+  },
+  {
+    "country": "ME",
+    "id": 3188516,
+    "coord": {
+      "lat": 41.929359,
+      "lon": 19.22436
+    },
+    "name": "Ulcinj"
+  },
+  {
+    "country": "ME",
+    "id": 3189077,
+    "coord": {
+      "lat": 42.5,
+      "lon": 19.33333
+    },
+    "name": "Opština Podgorica"
+  },
+  {
+    "country": "ME",
+    "id": 3193044,
+    "coord": {
+      "lat": 42.441109,
+      "lon": 19.263611
+    },
+    "name": "Podgorica"
+  },
+  {
+    "country": "ME",
+    "id": 3203104,
+    "coord": {
+      "lat": 42.299999,
+      "lon": 18.841391
+    },
+    "name": "Opština Budva"
+  },
+  {
+    "country": "ME",
+    "id": 3203106,
+    "coord": {
+      "lat": 42.286388,
+      "lon": 18.84
+    },
+    "name": "Budva"
+  },
+  {
+    "country": "ME",
+    "id": 3194493,
+    "coord": {
+      "lat": 42.799438,
+      "lon": 18.92028
+    },
+    "name": "Opština Nikšić"
+  },
+  {
+    "country": "ME",
+    "id": 3194494,
+    "coord": {
+      "lat": 42.773102,
+      "lon": 18.94446
+    },
+    "name": "Niksic"
+  },
+  {
+    "country": "ME",
+    "id": 3199161,
+    "coord": {
+      "lat": 42.460072,
+      "lon": 18.50647
+    },
+    "name": "Igalo"
+  },
+  {
+    "country": "ME",
+    "id": 790037,
+    "coord": {
+      "lat": 42.836109,
+      "lon": 20.16194
+    },
+    "name": "Ibarac"
+  },
+  {
+    "country": "ME",
+    "id": 3189071,
+    "coord": {
+      "lat": 42.40556,
+      "lon": 18.653061
+    },
+    "name": "Opština Tivat"
+  },
+  {
+    "country": "ME",
+    "id": 3189073,
+    "coord": {
+      "lat": 42.43639,
+      "lon": 18.69611
+    },
+    "name": "Tivat"
+  },
+  {
+    "country": "ME",
+    "id": 3336171,
+    "coord": {
+      "lat": 42.397499,
+      "lon": 18.92667
+    },
+    "name": "Donji Kraj"
+  },
+  {
+    "country": "ME",
+    "id": 3193228,
+    "coord": {
+      "lat": 42.596939,
+      "lon": 19.94556
+    },
+    "name": "Plav"
+  },
+  {
+    "country": "ME",
+    "id": 3204388,
+    "coord": {
+      "lat": 42.28389,
+      "lon": 18.869169
+    },
+    "name": "Bečići"
+  },
+  {
+    "country": "ME",
+    "id": 3193160,
+    "coord": {
+      "lat": 43.333328,
+      "lon": 19.33333
+    },
+    "name": "Opština Pljevlja"
+  },
+  {
+    "country": "ME",
+    "id": 3193161,
+    "coord": {
+      "lat": 43.356701,
+      "lon": 19.358431
+    },
+    "name": "Pljevlja"
+  },
+  {
+    "country": "ME",
+    "id": 3193413,
+    "coord": {
+      "lat": 42.205559,
+      "lon": 18.942499
+    },
+    "name": "Petrovac na Moru"
+  },
+  {
+    "country": "ME",
+    "id": 3194247,
+    "coord": {
+      "lat": 43.028061,
+      "lon": 19.749439
+    },
+    "name": "Obrov"
+  },
+  {
+    "country": "ME",
+    "id": 3199393,
+    "coord": {
+      "lat": 42.506672,
+      "lon": 18.5375
+    },
+    "name": "Opština Herceg Novi"
+  },
+  {
+    "country": "ME",
+    "id": 3199394,
+    "coord": {
+      "lat": 42.45306,
+      "lon": 18.5375
+    },
+    "name": "Herceg-Novi"
+  },
+  {
+    "country": "ME",
+    "id": 3204816,
+    "coord": {
+      "lat": 42.733891,
+      "lon": 19.791941
+    },
+    "name": "Andrijevica"
+  },
+  {
+    "country": "ME",
+    "id": 3338539,
+    "coord": {
+      "lat": 42.548061,
+      "lon": 19.112221
+    },
+    "name": "Grlić"
+  },
+  {
+    "country": "ME",
+    "id": 3204508,
+    "coord": {
+      "lat": 42.166672,
+      "lon": 19.16667
+    },
+    "name": "Opština Bar"
+  },
+  {
+    "country": "ME",
+    "id": 3189429,
+    "coord": {
+      "lat": 42.14278,
+      "lon": 19.046671
+    },
+    "name": "Sutomore"
+  },
+  {
+    "country": "ME",
+    "id": 3197895,
+    "coord": {
+      "lat": 42.837219,
+      "lon": 19.51556
+    },
+    "name": "Opština Kolašin"
+  },
+  {
+    "country": "ME",
+    "id": 3197896,
+    "coord": {
+      "lat": 42.822289,
+      "lon": 19.516529
+    },
+    "name": "Kolasin"
+  },
+  {
+    "country": "ME",
+    "id": 3189979,
+    "coord": {
+      "lat": 42.09,
+      "lon": 19.13306
+    },
+    "name": "Stari Bar"
+  },
+  {
+    "country": "ME",
+    "id": 3194925,
+    "coord": {
+      "lat": 42.959171,
+      "lon": 19.588329
+    },
+    "name": "Opština Mojkovac"
+  },
+  {
+    "country": "ME",
+    "id": 3194926,
+    "coord": {
+      "lat": 42.960442,
+      "lon": 19.5833
+    },
+    "name": "Mojkovac"
+  },
+  {
+    "country": "ME",
+    "id": 3194750,
+    "coord": {
+      "lat": 42.419998,
+      "lon": 18.71806
+    },
+    "name": "Mrčevac"
+  },
+  {
+    "country": "ME",
+    "id": 3342186,
+    "coord": {
+      "lat": 42.3675,
+      "lon": 19.22611
+    },
+    "name": "Mitrovići"
+  },
+  {
+    "country": "ME",
+    "id": 3202641,
+    "coord": {
+      "lat": 42.390629,
+      "lon": 18.914169
+    },
+    "name": "Cetinje"
+  },
+  {
+    "country": "ME",
+    "id": 3186999,
+    "coord": {
+      "lat": 43.154228,
+      "lon": 19.123249
+    },
+    "name": "Zabljak"
+  },
+  {
+    "country": "ME",
+    "id": 3188584,
+    "coord": {
+      "lat": 42.365559,
+      "lon": 19.33139
+    },
+    "name": "Tuzi"
+  },
+  {
+    "country": "ME",
+    "id": 3190178,
+    "coord": {
+      "lat": 42.5075,
+      "lon": 19.19417
+    },
+    "name": "Spuz"
+  },
+  {
+    "country": "ME",
+    "id": 3191631,
+    "coord": {
+      "lat": 42.514999,
+      "lon": 18.69556
+    },
+    "name": "Risan"
+  },
+  {
+    "country": "ME",
+    "id": 3194928,
+    "coord": {
+      "lat": 42.341671,
+      "lon": 19.22139
+    },
+    "name": "Mojanovici"
+  },
+  {
+    "country": "ME",
+    "id": 3195390,
+    "coord": {
+      "lat": 42.323608,
+      "lon": 19.272779
+    },
+    "name": "Mataguzi"
+  },
+  {
+    "country": "ME",
+    "id": 3196540,
+    "coord": {
+      "lat": 42.497219,
+      "lon": 18.65806
+    },
+    "name": "Lipci"
+  },
+  {
+    "country": "ME",
+    "id": 3197538,
+    "coord": {
+      "lat": 42.42067,
+      "lon": 18.76825
+    },
+    "name": "Kotor"
+  },
+  {
+    "country": "ME",
+    "id": 3201903,
+    "coord": {
+      "lat": 42.45417,
+      "lon": 18.76833
+    },
+    "name": "Dobrota"
+  },
+  {
+    "country": "ME",
+    "id": 3202194,
+    "coord": {
+      "lat": 42.553841,
+      "lon": 19.14608
+    },
+    "name": "Danilovgrad"
+  },
+  {
+    "country": "ME",
+    "id": 3204214,
+    "coord": {
+      "lat": 42.453331,
+      "lon": 18.65556
+    },
+    "name": "Bijela"
+  },
+  {
+    "country": "ME",
+    "id": 3204509,
+    "coord": {
+      "lat": 42.09306,
+      "lon": 19.100281
+    },
+    "name": "Bar"
+  },
+  {
+    "country": "ME",
+    "id": 3318488,
+    "coord": {
+      "lat": 42.115559,
+      "lon": 19.088329
+    },
+    "name": "Susanj"
+  }
+
+]

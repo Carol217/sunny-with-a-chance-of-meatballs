@@ -1,0 +1,67 @@
+[
+
+  {
+    "country": "SH",
+    "id": 2411430,
+    "coord": {
+      "lat": -7.95,
+      "lon": -14.35
+    },
+    "name": "Ascension"
+  },
+  {
+    "country": "SH",
+    "id": 2572137,
+    "coord": {
+      "lat": -7.94466,
+      "lon": -14.37081
+    },
+    "name": "Two Boats Village"
+  },
+  {
+    "country": "SH",
+    "id": 6930057,
+    "coord": {
+      "lat": -15.93183,
+      "lon": -5.71817
+    },
+    "name": "Saint Helena"
+  },
+  {
+    "country": "SH",
+    "id": 3370751,
+    "coord": {
+      "lat": -15.95,
+      "lon": -5.7
+    },
+    "name": "Ascension, and Tristan da Cunha Saint Helena"
+  },
+  {
+    "country": "SH",
+    "id": 3370903,
+    "coord": {
+      "lat": -15.93872,
+      "lon": -5.71675
+    },
+    "name": "Jamestown"
+  },
+  {
+    "country": "SH",
+    "id": 2411397,
+    "coord": {
+      "lat": -7.93333,
+      "lon": -14.41667
+    },
+    "name": "Georgetown"
+  },
+  {
+    "country": "SH",
+    "id": 3370726,
+    "coord": {
+      "lat": -37.06757,
+      "lon": -12.31155
+    },
+    "name": "Edinburgh of the Seven Seas"
+  }
+
+]

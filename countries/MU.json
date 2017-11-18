@@ -1,0 +1,1201 @@
+[
+
+  {
+    "country": "MU",
+    "id": 934275,
+    "coord": {
+      "lat": -20.25,
+      "lon": 57.566669
+    },
+    "name": "Moka District"
+  },
+  {
+    "country": "MU",
+    "id": 934277,
+    "coord": {
+      "lat": -20.218889,
+      "lon": 57.495831
+    },
+    "name": "Moka"
+  },
+  {
+    "country": "MU",
+    "id": 934131,
+    "coord": {
+      "lat": -20.264441,
+      "lon": 57.471939
+    },
+    "name": "Quatre Bornes"
+  },
+  {
+    "country": "MU",
+    "id": 934333,
+    "coord": {
+      "lat": -20.143061,
+      "lon": 57.562222
+    },
+    "name": "Long Mountain"
+  },
+  {
+    "country": "MU",
+    "id": 1106809,
+    "coord": {
+      "lat": -20.135,
+      "lon": 57.521111
+    },
+    "name": "Le Hochet"
+  },
+  {
+    "country": "MU",
+    "id": 934153,
+    "coord": {
+      "lat": -20.16667,
+      "lon": 57.525002
+    },
+    "name": "Port Louis District"
+  },
+  {
+    "country": "MU",
+    "id": 1106819,
+    "coord": {
+      "lat": -20.15361,
+      "lon": 57.520279
+    },
+    "name": "Carreau Lalo"
+  },
+  {
+    "country": "MU",
+    "id": 1106806,
+    "coord": {
+      "lat": -20.164721,
+      "lon": 57.513062
+    },
+    "name": "Vallée Pitot"
+  },
+  {
+    "country": "MU",
+    "id": 934292,
+    "coord": {
+      "lat": -20.299999,
+      "lon": 57.583328
+    },
+    "name": "Republic of Mauritius"
+  },
+  {
+    "country": "MU",
+    "id": 934268,
+    "coord": {
+      "lat": -20.03278,
+      "lon": 57.619171
+    },
+    "name": "Mon Loisir"
+  },
+  {
+    "country": "MU",
+    "id": 934154,
+    "coord": {
+      "lat": -20.16194,
+      "lon": 57.49889
+    },
+    "name": "Port Louis"
+  },
+  {
+    "country": "MU",
+    "id": 934166,
+    "coord": {
+      "lat": -20.299999,
+      "lon": 57.48333
+    },
+    "name": "Plaines Wilhems District"
+  },
+  {
+    "country": "MU",
+    "id": 934570,
+    "coord": {
+      "lat": -20.31472,
+      "lon": 57.520279
+    },
+    "name": "Curepipe"
+  },
+  {
+    "country": "MU",
+    "id": 934212,
+    "coord": {
+      "lat": -20.095831,
+      "lon": 57.559719
+    },
+    "name": "Pamplemousses District"
+  },
+  {
+    "country": "MU",
+    "id": 933959,
+    "coord": {
+      "lat": -20.05472,
+      "lon": 57.54528
+    },
+    "name": "Triolet"
+  },
+  {
+    "country": "MU",
+    "id": 934765,
+    "coord": {
+      "lat": -20.21944,
+      "lon": 57.458328
+    },
+    "name": "Beau Bassin"
+  },
+  {
+    "country": "MU",
+    "id": 933945,
+    "coord": {
+      "lat": -20.298059,
+      "lon": 57.478329
+    },
+    "name": "Vacoas"
+  },
+  {
+    "country": "MU",
+    "id": 1106788,
+    "coord": {
+      "lat": -20.297501,
+      "lon": 57.595001
+    },
+    "name": "Dubreuil"
+  },
+  {
+    "country": "MU",
+    "id": 934718,
+    "coord": {
+      "lat": -20.33333,
+      "lon": 57.416672
+    },
+    "name": "Black River District"
+  },
+  {
+    "country": "MU",
+    "id": 934778,
+    "coord": {
+      "lat": -20.25667,
+      "lon": 57.406109
+    },
+    "name": "Bambous"
+  },
+  {
+    "country": "MU",
+    "id": 934090,
+    "coord": {
+      "lat": -20.058331,
+      "lon": 57.64167
+    },
+    "name": "Rivière du Rempart District"
+  },
+  {
+    "country": "MU",
+    "id": 1106771,
+    "coord": {
+      "lat": -20.07583,
+      "lon": 57.601391
+    },
+    "name": "Mapou"
+  },
+  {
+    "country": "MU",
+    "id": 934133,
+    "coord": {
+      "lat": -20.243891,
+      "lon": 57.589169
+    },
+    "name": "Quartier Militaire"
+  },
+  {
+    "country": "MU",
+    "id": 934032,
+    "coord": {
+      "lat": -20.217501,
+      "lon": 57.520828
+    },
+    "name": "Saint Pierre"
+  },
+  {
+    "country": "MU",
+    "id": 1106763,
+    "coord": {
+      "lat": -20.20722,
+      "lon": 57.43
+    },
+    "name": "Gros Cailloux"
+  },
+  {
+    "country": "MU",
+    "id": 1106782,
+    "coord": {
+      "lat": -20.225,
+      "lon": 57.587219
+    },
+    "name": "Espérance"
+  },
+  {
+    "country": "MU",
+    "id": 934195,
+    "coord": {
+      "lat": -20.18944,
+      "lon": 57.445278
+    },
+    "name": "Petite Riviere"
+  },
+  {
+    "country": "MU",
+    "id": 934466,
+    "coord": {
+      "lat": -20.41667,
+      "lon": 57.633331
+    },
+    "name": "Grand Port District"
+  },
+  {
+    "country": "MU",
+    "id": 934240,
+    "coord": {
+      "lat": -20.408609,
+      "lon": 57.613609
+    },
+    "name": "New Grove"
+  },
+  {
+    "country": "MU",
+    "id": 934072,
+    "coord": {
+      "lat": -20.40028,
+      "lon": 57.596668
+    },
+    "name": "Rose Belle"
+  },
+  {
+    "country": "MU",
+    "id": 1547449,
+    "coord": {
+      "lat": -19.700001,
+      "lon": 63.416672
+    },
+    "name": "Rodrigues"
+  },
+  {
+    "country": "MU",
+    "id": 1545752,
+    "coord": {
+      "lat": -19.683331,
+      "lon": 63.416672
+    },
+    "name": "Port Mathurin"
+  },
+  {
+    "country": "MU",
+    "id": 934262,
+    "coord": {
+      "lat": -20.28278,
+      "lon": 57.654442
+    },
+    "name": "Montagne Blanche"
+  },
+  {
+    "country": "MU",
+    "id": 934522,
+    "coord": {
+      "lat": -20.23333,
+      "lon": 57.716671
+    },
+    "name": "Flacq District"
+  },
+  {
+    "country": "MU",
+    "id": 934631,
+    "coord": {
+      "lat": -20.18972,
+      "lon": 57.714439
+    },
+    "name": "Centre de Flacq"
+  },
+  {
+    "country": "MU",
+    "id": 934693,
+    "coord": {
+      "lat": -20.17083,
+      "lon": 57.656391
+    },
+    "name": "Bon Accueil"
+  },
+  {
+    "country": "MU",
+    "id": 934739,
+    "coord": {
+      "lat": -20.120279,
+      "lon": 57.663609
+    },
+    "name": "Belle Vue Maurel"
+  },
+  {
+    "country": "MU",
+    "id": 934089,
+    "coord": {
+      "lat": -20.360279,
+      "lon": 57.366112
+    },
+    "name": "Grande Riviere Noire"
+  },
+  {
+    "country": "MU",
+    "id": 934091,
+    "coord": {
+      "lat": -20.10306,
+      "lon": 57.684719
+    },
+    "name": "Riviere du Rempart"
+  },
+  {
+    "country": "MU",
+    "id": 934017,
+    "coord": {
+      "lat": -20.466669,
+      "lon": 57.5
+    },
+    "name": "Savanne District"
+  },
+  {
+    "country": "MU",
+    "id": 934614,
+    "coord": {
+      "lat": -20.487221,
+      "lon": 57.465561
+    },
+    "name": "Chemin Grenier"
+  },
+  {
+    "country": "MU",
+    "id": 933995,
+    "coord": {
+      "lat": -20.51667,
+      "lon": 57.51667
+    },
+    "name": "Souillac"
+  },
+  {
+    "country": "MU",
+    "id": 934479,
+    "coord": {
+      "lat": -20.00639,
+      "lon": 57.660831
+    },
+    "name": "Grand Gaube"
+  },
+  {
+    "country": "MU",
+    "id": 934750,
+    "coord": {
+      "lat": -20.254169,
+      "lon": 57.745281
+    },
+    "name": "Bel Air"
+  },
+  {
+    "country": "MU",
+    "id": 934513,
+    "coord": {
+      "lat": -20.04306,
+      "lon": 57.578609
+    },
+    "name": "Fond du Sac"
+  },
+  {
+    "country": "MU",
+    "id": 934085,
+    "coord": {
+      "lat": -20.111111,
+      "lon": 57.712219
+    },
+    "name": "Roches Noire"
+  },
+  {
+    "country": "MU",
+    "id": 1106638,
+    "coord": {
+      "lat": -20.198059,
+      "lon": 57.749439
+    },
+    "name": "Mare La Chaux"
+  },
+  {
+    "country": "MU",
+    "id": 934303,
+    "coord": {
+      "lat": -20.435829,
+      "lon": 57.588612
+    },
+    "name": "Mare Tabac"
+  },
+  {
+    "country": "MU",
+    "id": 934740,
+    "coord": {
+      "lat": -20.261669,
+      "lon": 57.726391
+    },
+    "name": "Belle Rose"
+  },
+  {
+    "country": "MU",
+    "id": 1106642,
+    "coord": {
+      "lat": -20.195,
+      "lon": 57.76833
+    },
+    "name": "Belle Mare"
+  },
+  {
+    "country": "MU",
+    "id": 933953,
+    "coord": {
+      "lat": -20.045,
+      "lon": 57.546108
+    },
+    "name": "Trou aux Biches"
+  },
+  {
+    "country": "MU",
+    "id": 1106721,
+    "coord": {
+      "lat": -20.41028,
+      "lon": 57.553612
+    },
+    "name": "La Flora"
+  },
+  {
+    "country": "MU",
+    "id": 933970,
+    "coord": {
+      "lat": -20.02833,
+      "lon": 57.58778
+    },
+    "name": "The Vale"
+  },
+  {
+    "country": "MU",
+    "id": 1106815,
+    "coord": {
+      "lat": -20.166941,
+      "lon": 57.53056
+    },
+    "name": "Vallée des Prêtres"
+  },
+  {
+    "country": "MU",
+    "id": 934127,
+    "coord": {
+      "lat": -20.29917,
+      "lon": 57.770561
+    },
+    "name": "Quatre Soeurs"
+  },
+  {
+    "country": "MU",
+    "id": 933951,
+    "coord": {
+      "lat": -20.237221,
+      "lon": 57.7775
+    },
+    "name": "Trou d’Eau Douce"
+  },
+  {
+    "country": "MU",
+    "id": 1106693,
+    "coord": {
+      "lat": -20.386391,
+      "lon": 57.573608
+    },
+    "name": "Union Park"
+  },
+  {
+    "country": "MU",
+    "id": 1106625,
+    "coord": {
+      "lat": -20.12694,
+      "lon": 57.589169
+    },
+    "name": "D’Epinay"
+  },
+  {
+    "country": "MU",
+    "id": 934092,
+    "coord": {
+      "lat": -20.42417,
+      "lon": 57.56694
+    },
+    "name": "Rivière du Poste"
+  },
+  {
+    "country": "MU",
+    "id": 934076,
+    "coord": {
+      "lat": -20.01861,
+      "lon": 57.644718
+    },
+    "name": "Roche Terre"
+  },
+  {
+    "country": "MU",
+    "id": 934052,
+    "coord": {
+      "lat": -20.145,
+      "lon": 57.521389
+    },
+    "name": "Sainte Croix"
+  },
+  {
+    "country": "MU",
+    "id": 934343,
+    "coord": {
+      "lat": -20.469999,
+      "lon": 57.612221
+    },
+    "name": "L’Escalier"
+  },
+  {
+    "country": "MU",
+    "id": 934818,
+    "coord": {
+      "lat": -20.14806,
+      "lon": 57.516109
+    },
+    "name": "Abercrombie"
+  },
+  {
+    "country": "MU",
+    "id": 1106807,
+    "coord": {
+      "lat": -20.15361,
+      "lon": 57.507778
+    },
+    "name": "Plaine Verte"
+  },
+  {
+    "country": "MU",
+    "id": 934309,
+    "coord": {
+      "lat": -20.41861,
+      "lon": 57.62278
+    },
+    "name": "Mare d’Albert"
+  },
+  {
+    "country": "MU",
+    "id": 934159,
+    "coord": {
+      "lat": -20.16667,
+      "lon": 57.704441
+    },
+    "name": "Pont Blanc"
+  },
+  {
+    "country": "MU",
+    "id": 934442,
+    "coord": {
+      "lat": -20.33556,
+      "lon": 57.466389
+    },
+    "name": "Henrietta"
+  },
+  {
+    "country": "MU",
+    "id": 1106589,
+    "coord": {
+      "lat": -20.36694,
+      "lon": 57.603889
+    },
+    "name": "Cluny"
+  },
+  {
+    "country": "MU",
+    "id": 934749,
+    "coord": {
+      "lat": -20.406389,
+      "lon": 57.673611
+    },
+    "name": "Grand Bel Air"
+  },
+  {
+    "country": "MU",
+    "id": 1106585,
+    "coord": {
+      "lat": -20.488331,
+      "lon": 57.37056
+    },
+    "name": "Baie du Cap"
+  },
+  {
+    "country": "MU",
+    "id": 1106803,
+    "coord": {
+      "lat": -20.15917,
+      "lon": 57.475559
+    },
+    "name": "Bain des Dames"
+  },
+  {
+    "country": "MU",
+    "id": 934734,
+    "coord": {
+      "lat": -20.1675,
+      "lon": 57.479439
+    },
+    "name": "Bell Village"
+  },
+  {
+    "country": "MU",
+    "id": 934705,
+    "coord": {
+      "lat": -20.36306,
+      "lon": 57.73111
+    },
+    "name": "Bois des Amourettes"
+  },
+  {
+    "country": "MU",
+    "id": 1547511,
+    "coord": {
+      "lat": -19.758329,
+      "lon": 63.35833
+    },
+    "name": "Plaine Corail"
+  },
+  {
+    "country": "MU",
+    "id": 934753,
+    "coord": {
+      "lat": -20.41889,
+      "lon": 57.695278
+    },
+    "name": "Beau Vallon"
+  },
+  {
+    "country": "MU",
+    "id": 934322,
+    "coord": {
+      "lat": -20.40806,
+      "lon": 57.700001
+    },
+    "name": "Mahebourg"
+  },
+  {
+    "country": "MU",
+    "id": 934488,
+    "coord": {
+      "lat": -20.035,
+      "lon": 57.643059
+    },
+    "name": "Goodlands"
+  },
+  {
+    "country": "MU",
+    "id": 933933,
+    "coord": {
+      "lat": -20.228331,
+      "lon": 57.543892
+    },
+    "name": "Verdun"
+  },
+  {
+    "country": "MU",
+    "id": 933974,
+    "coord": {
+      "lat": -20.12611,
+      "lon": 57.524441
+    },
+    "name": "Terre Rouge"
+  },
+  {
+    "country": "MU",
+    "id": 933982,
+    "coord": {
+      "lat": -20.32556,
+      "lon": 57.37056
+    },
+    "name": "Tamarin"
+  },
+  {
+    "country": "MU",
+    "id": 933988,
+    "coord": {
+      "lat": -20.50972,
+      "lon": 57.50528
+    },
+    "name": "Surinam"
+  },
+  {
+    "country": "MU",
+    "id": 934013,
+    "coord": {
+      "lat": -20.288891,
+      "lon": 57.6875
+    },
+    "name": "Sebastopol"
+  },
+  {
+    "country": "MU",
+    "id": 934043,
+    "coord": {
+      "lat": -20.226391,
+      "lon": 57.636391
+    },
+    "name": "Saint Julien"
+  },
+  {
+    "country": "MU",
+    "id": 934047,
+    "coord": {
+      "lat": -20.36417,
+      "lon": 57.638329
+    },
+    "name": "Saint Hubert"
+  },
+  {
+    "country": "MU",
+    "id": 934056,
+    "coord": {
+      "lat": -20.491671,
+      "lon": 57.541389
+    },
+    "name": "Saint Aubin"
+  },
+  {
+    "country": "MU",
+    "id": 934058,
+    "coord": {
+      "lat": -20.073059,
+      "lon": 57.55806
+    },
+    "name": "Morcellemont Saint Andre"
+  },
+  {
+    "country": "MU",
+    "id": 934095,
+    "coord": {
+      "lat": -20.485279,
+      "lon": 57.550831
+    },
+    "name": "Riviere des Anguilles"
+  },
+  {
+    "country": "MU",
+    "id": 934126,
+    "coord": {
+      "lat": -20.219999,
+      "lon": 57.7075
+    },
+    "name": "Queen Victoria"
+  },
+  {
+    "country": "MU",
+    "id": 934138,
+    "coord": {
+      "lat": -20.24472,
+      "lon": 57.612221
+    },
+    "name": "Providence"
+  },
+  {
+    "country": "MU",
+    "id": 934149,
+    "coord": {
+      "lat": -20.163059,
+      "lon": 57.73056
+    },
+    "name": "Poste de Flacq"
+  },
+  {
+    "country": "MU",
+    "id": 934169,
+    "coord": {
+      "lat": -20.42861,
+      "lon": 57.653061
+    },
+    "name": "Plaine Magnien"
+  },
+  {
+    "country": "MU",
+    "id": 934170,
+    "coord": {
+      "lat": -20.065001,
+      "lon": 57.572498
+    },
+    "name": "Plaine des Papayes"
+  },
+  {
+    "country": "MU",
+    "id": 934184,
+    "coord": {
+      "lat": -20.01333,
+      "lon": 57.611938
+    },
+    "name": "Petit Raffray"
+  },
+  {
+    "country": "MU",
+    "id": 934198,
+    "coord": {
+      "lat": -20.393061,
+      "lon": 57.365002
+    },
+    "name": "Petite Case Noyale"
+  },
+  {
+    "country": "MU",
+    "id": 934213,
+    "coord": {
+      "lat": -20.103889,
+      "lon": 57.570278
+    },
+    "name": "Pamplemousses"
+  },
+  {
+    "country": "MU",
+    "id": 934219,
+    "coord": {
+      "lat": -20.192711,
+      "lon": 57.488258
+    },
+    "name": "Pailles"
+  },
+  {
+    "country": "MU",
+    "id": 934225,
+    "coord": {
+      "lat": -20.297501,
+      "lon": 57.725559
+    },
+    "name": "Olivia"
+  },
+  {
+    "country": "MU",
+    "id": 934229,
+    "coord": {
+      "lat": -20.37056,
+      "lon": 57.561111
+    },
+    "name": "Nouvelle France"
+  },
+  {
+    "country": "MU",
+    "id": 934232,
+    "coord": {
+      "lat": -20.14056,
+      "lon": 57.553059
+    },
+    "name": "Notre Dame"
+  },
+  {
+    "country": "MU",
+    "id": 934255,
+    "coord": {
+      "lat": -20.090281,
+      "lon": 57.63028
+    },
+    "name": "Piton"
+  },
+  {
+    "country": "MU",
+    "id": 934282,
+    "coord": {
+      "lat": -20.3325,
+      "lon": 57.558331
+    },
+    "name": "Midlands"
+  },
+  {
+    "country": "MU",
+    "id": 934288,
+    "coord": {
+      "lat": -20.26972,
+      "lon": 57.631939
+    },
+    "name": "Melrose"
+  },
+  {
+    "country": "MU",
+    "id": 934390,
+    "coord": {
+      "lat": -20.18972,
+      "lon": 57.66111
+    },
+    "name": "Lalmatie"
+  },
+  {
+    "country": "MU",
+    "id": 934400,
+    "coord": {
+      "lat": -20.24444,
+      "lon": 57.554169
+    },
+    "name": "La Dagotiere"
+  },
+  {
+    "country": "MU",
+    "id": 934459,
+    "coord": {
+      "lat": -20.314171,
+      "lon": 57.764439
+    },
+    "name": "Grand Sable"
+  },
+  {
+    "country": "MU",
+    "id": 934475,
+    "coord": {
+      "lat": -20.28611,
+      "lon": 57.775829
+    },
+    "name": "Grande Riviere Sud Est"
+  },
+  {
+    "country": "MU",
+    "id": 934482,
+    "coord": {
+      "lat": -20.01816,
+      "lon": 57.580151
+    },
+    "name": "Grand Baie"
+  },
+  {
+    "country": "MU",
+    "id": 934485,
+    "coord": {
+      "lat": -20.41889,
+      "lon": 57.54417
+    },
+    "name": "Grand Bois"
+  },
+  {
+    "country": "MU",
+    "id": 934517,
+    "coord": {
+      "lat": -20.27417,
+      "lon": 57.36306
+    },
+    "name": "Flic en Flac"
+  },
+  {
+    "country": "MU",
+    "id": 934533,
+    "coord": {
+      "lat": -20.069719,
+      "lon": 57.641941
+    },
+    "name": "Esperance Trebuchet"
+  },
+  {
+    "country": "MU",
+    "id": 934573,
+    "coord": {
+      "lat": -20.191111,
+      "lon": 57.55722
+    },
+    "name": "Creve Coeur"
+  },
+  {
+    "country": "MU",
+    "id": 934599,
+    "coord": {
+      "lat": -20.263889,
+      "lon": 57.706108
+    },
+    "name": "Clemencia"
+  },
+  {
+    "country": "MU",
+    "id": 934624,
+    "coord": {
+      "lat": -20.48222,
+      "lon": 57.46611
+    },
+    "name": "Chamouny"
+  },
+  {
+    "country": "MU",
+    "id": 934644,
+    "coord": {
+      "lat": -20.28694,
+      "lon": 57.407219
+    },
+    "name": "Cascavelle"
+  },
+  {
+    "country": "MU",
+    "id": 934649,
+    "coord": {
+      "lat": -19.984171,
+      "lon": 57.61417
+    },
+    "name": "Cap Malheureux"
+  },
+  {
+    "country": "MU",
+    "id": 934656,
+    "coord": {
+      "lat": -20.21472,
+      "lon": 57.616112
+    },
+    "name": "Camp Thorel"
+  },
+  {
+    "country": "MU",
+    "id": 934660,
+    "coord": {
+      "lat": -20.46278,
+      "lon": 57.578892
+    },
+    "name": "Camp Diable"
+  },
+  {
+    "country": "MU",
+    "id": 934661,
+    "coord": {
+      "lat": -20.23694,
+      "lon": 57.66333
+    },
+    "name": "Camp de Masque"
+  },
+  {
+    "country": "MU",
+    "id": 934677,
+    "coord": {
+      "lat": -20.163891,
+      "lon": 57.646671
+    },
+    "name": "Brisee Verdiere"
+  },
+  {
+    "country": "MU",
+    "id": 934812,
+    "coord": {
+      "lat": -20.21167,
+      "lon": 57.400829
+    },
+    "name": "Albion"
+  },
+  {
+    "country": "MU",
+    "id": 1106584,
+    "coord": {
+      "lat": -20.14583,
+      "lon": 57.67667
+    },
+    "name": "Laventure"
+  },
+  {
+    "country": "MU",
+    "id": 1106596,
+    "coord": {
+      "lat": -20.059719,
+      "lon": 57.629169
+    },
+    "name": "Cottage"
+  },
+  {
+    "country": "MU",
+    "id": 1106614,
+    "coord": {
+      "lat": -20.06278,
+      "lon": 57.513062
+    },
+    "name": "Grande Pointe aux Piments"
+  },
+  {
+    "country": "MU",
+    "id": 1106621,
+    "coord": {
+      "lat": -20.14889,
+      "lon": 57.590832
+    },
+    "name": "Congomah"
+  },
+  {
+    "country": "MU",
+    "id": 1106630,
+    "coord": {
+      "lat": -20.130831,
+      "lon": 57.659168
+    },
+    "name": "Amaury"
+  },
+  {
+    "country": "MU",
+    "id": 1106631,
+    "coord": {
+      "lat": -20.11167,
+      "lon": 57.69083
+    },
+    "name": "Plaines des Roches"
+  },
+  {
+    "country": "MU",
+    "id": 1106643,
+    "coord": {
+      "lat": -20.207781,
+      "lon": 57.762501
+    },
+    "name": "Quatre Cocos"
+  },
+  {
+    "country": "MU",
+    "id": 1106645,
+    "coord": {
+      "lat": -20.21583,
+      "lon": 57.74556
+    },
+    "name": "Camp Ithier"
+  },
+  {
+    "country": "MU",
+    "id": 1106660,
+    "coord": {
+      "lat": -20.22611,
+      "lon": 57.736111
+    },
+    "name": "Ecroignard"
+  },
+  {
+    "country": "MU",
+    "id": 1106677,
+    "coord": {
+      "lat": -20.342779,
+      "lon": 57.7575
+    },
+    "name": "Bambous Virieux"
+  },
+  {
+    "country": "MU",
+    "id": 1106748,
+    "coord": {
+      "lat": -20.24494,
+      "lon": 57.491631
+    },
+    "name": "Ebene"
+  },
+  {
+    "country": "MU",
+    "id": 1106811,
+    "coord": {
+      "lat": -20.11167,
+      "lon": 57.55389
+    },
+    "name": "Calebasses"
+  },
+  {
+    "country": "MU",
+    "id": 1106813,
+    "coord": {
+      "lat": -20.10556,
+      "lon": 57.535278
+    },
+    "name": "Arsenal"
+  }
+
+]

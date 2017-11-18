@@ -1,0 +1,1462 @@
+[
+
+  {
+    "country": "IQ",
+    "id": 384848,
+    "coord": {
+      "lat": 35.353889,
+      "lon": 45.6325
+    },
+    "name": "Qarah Gawl al ‘Ulyā"
+  },
+  {
+    "country": "IQ",
+    "id": 448961,
+    "coord": {
+      "lat": 31.59358,
+      "lon": 44.552891
+    },
+    "name": "Tall ‘Alāwī"
+  },
+  {
+    "country": "IQ",
+    "id": 98862,
+    "coord": {
+      "lat": 31.25,
+      "lon": 43.833328
+    },
+    "name": "Muḩāfaz̧at an Najaf"
+  },
+  {
+    "country": "IQ",
+    "id": 94589,
+    "coord": {
+      "lat": 31.73357,
+      "lon": 44.314999
+    },
+    "name": "Raḩbah"
+  },
+  {
+    "country": "IQ",
+    "id": 94823,
+    "coord": {
+      "lat": 32.5,
+      "lon": 43.833328
+    },
+    "name": "Muḩāfaz̧at Karbalā’"
+  },
+  {
+    "country": "IQ",
+    "id": 6780871,
+    "coord": {
+      "lat": 32.479019,
+      "lon": 44.273621
+    },
+    "name": "Ḩasan Yūsuf"
+  },
+  {
+    "country": "IQ",
+    "id": 89824,
+    "coord": {
+      "lat": 30.040541,
+      "lon": 47.916771
+    },
+    "name": "Umm Qasr"
+  },
+  {
+    "country": "IQ",
+    "id": 6769334,
+    "coord": {
+      "lat": 32.508221,
+      "lon": 45.841068
+    },
+    "name": "Al Falāḩīyah"
+  },
+  {
+    "country": "IQ",
+    "id": 96309,
+    "coord": {
+      "lat": 34.139721,
+      "lon": 42.378059
+    },
+    "name": "Hadithah"
+  },
+  {
+    "country": "IQ",
+    "id": 97783,
+    "coord": {
+      "lat": 34.931141,
+      "lon": 43.487
+    },
+    "name": "Bayji"
+  },
+  {
+    "country": "IQ",
+    "id": 99439,
+    "coord": {
+      "lat": 30.969721,
+      "lon": 46.722778
+    },
+    "name": "Nahiyat al Fuhud"
+  },
+  {
+    "country": "IQ",
+    "id": 98465,
+    "coord": {
+      "lat": 35.666668,
+      "lon": 45.5
+    },
+    "name": "Muḩāfaz̧at as Sulaymānīyah"
+  },
+  {
+    "country": "IQ",
+    "id": 99022,
+    "coord": {
+      "lat": 31.58333,
+      "lon": 45
+    },
+    "name": "Muḩāfaz̧at al Qādisīyah"
+  },
+  {
+    "country": "IQ",
+    "id": 89693,
+    "coord": {
+      "lat": 32.75,
+      "lon": 45.416672
+    },
+    "name": "Muhafazat Wasit"
+  },
+  {
+    "country": "IQ",
+    "id": 6759629,
+    "coord": {
+      "lat": 32.323009,
+      "lon": 45.50835
+    },
+    "name": "Hawr az Zahrah"
+  },
+  {
+    "country": "IQ",
+    "id": 6849114,
+    "coord": {
+      "lat": 34.585571,
+      "lon": 43.284599
+    },
+    "name": "Khuḑayr Shahāb"
+  },
+  {
+    "country": "IQ",
+    "id": 98860,
+    "coord": {
+      "lat": 31.998541,
+      "lon": 44.33976
+    },
+    "name": "An Najaf al Ashraf"
+  },
+  {
+    "country": "IQ",
+    "id": 95788,
+    "coord": {
+      "lat": 33.64159,
+      "lon": 42.825089
+    },
+    "name": "Hit"
+  },
+  {
+    "country": "IQ",
+    "id": 97417,
+    "coord": {
+      "lat": 35.53653,
+      "lon": 44.831669
+    },
+    "name": "Chamchamal"
+  },
+  {
+    "country": "IQ",
+    "id": 99237,
+    "coord": {
+      "lat": 33,
+      "lon": 44
+    },
+    "name": "Republic of Iraq"
+  },
+  {
+    "country": "IQ",
+    "id": 92873,
+    "coord": {
+      "lat": 35.353333,
+      "lon": 45.648056
+    },
+    "name": "Niskah Jaw"
+  },
+  {
+    "country": "IQ",
+    "id": 94889,
+    "coord": {
+      "lat": 35.310833,
+      "lon": 45.674999
+    },
+    "name": "Kānī Mīr"
+  },
+  {
+    "country": "IQ",
+    "id": 92244,
+    "coord": {
+      "lat": 35.338333,
+      "lon": 45.692501
+    },
+    "name": "Qāzaw al ‘Ulyā"
+  },
+  {
+    "country": "IQ",
+    "id": 384597,
+    "coord": {
+      "lat": 35.315834,
+      "lon": 45.712223
+    },
+    "name": "Charbūkh"
+  },
+  {
+    "country": "IQ",
+    "id": 94796,
+    "coord": {
+      "lat": 35.299999,
+      "lon": 45.733334
+    },
+    "name": "Karīm Āwah"
+  },
+  {
+    "country": "IQ",
+    "id": 94932,
+    "coord": {
+      "lat": 35.31028,
+      "lon": 45.726665
+    },
+    "name": "Kānī Kawah Jabūkh"
+  },
+  {
+    "country": "IQ",
+    "id": 384598,
+    "coord": {
+      "lat": 35.325279,
+      "lon": 45.731945
+    },
+    "name": "Muḩammad ‘Azīz"
+  },
+  {
+    "country": "IQ",
+    "id": 94931,
+    "coord": {
+      "lat": 35.302502,
+      "lon": 45.743889
+    },
+    "name": "Kānī Kawah al Qadīmah"
+  },
+  {
+    "country": "IQ",
+    "id": 6686317,
+    "coord": {
+      "lat": 35.5779,
+      "lon": 45.9753
+    },
+    "name": "-"
+  },
+  {
+    "country": "IQ",
+    "id": 99596,
+    "coord": {
+      "lat": 35.290001,
+      "lon": 45.776001
+    },
+    "name": "Alan"
+  },
+  {
+    "country": "IQ",
+    "id": 417262,
+    "coord": {
+      "lat": 35.253201,
+      "lon": 45.7855
+    },
+    "name": "Qalwazah ‘Ulyā"
+  },
+  {
+    "country": "IQ",
+    "id": 94964,
+    "coord": {
+      "lat": 35.239498,
+      "lon": 45.808201
+    },
+    "name": "Kānī Bardīnah"
+  },
+  {
+    "country": "IQ",
+    "id": 417256,
+    "coord": {
+      "lat": 35.209099,
+      "lon": 45.7855
+    },
+    "name": "Kūlān"
+  },
+  {
+    "country": "IQ",
+    "id": 89977,
+    "coord": {
+      "lat": 35.115002,
+      "lon": 45.749722
+    },
+    "name": "Wuluwr"
+  },
+  {
+    "country": "IQ",
+    "id": 96965,
+    "coord": {
+      "lat": 34,
+      "lon": 45
+    },
+    "name": "Muḩāfaz̧at Diyālá"
+  },
+  {
+    "country": "IQ",
+    "id": 384823,
+    "coord": {
+      "lat": 35.084442,
+      "lon": 45.710835
+    },
+    "name": "Zālah Nāw"
+  },
+  {
+    "country": "IQ",
+    "id": 384077,
+    "coord": {
+      "lat": 35.022499,
+      "lon": 45.718334
+    },
+    "name": "Nāwday"
+  },
+  {
+    "country": "IQ",
+    "id": 98227,
+    "coord": {
+      "lat": 32.666668,
+      "lon": 44.583332
+    },
+    "name": "Muḩāfaz̧at Bābil"
+  },
+  {
+    "country": "IQ",
+    "id": 99308,
+    "coord": {
+      "lat": 33.066666,
+      "lon": 44.049999
+    },
+    "name": "‘Alī al Aḩmad"
+  },
+  {
+    "country": "IQ",
+    "id": 446658,
+    "coord": {
+      "lat": 35.683887,
+      "lon": 45.5075
+    },
+    "name": "Bāzjī"
+  },
+  {
+    "country": "IQ",
+    "id": 97572,
+    "coord": {
+      "lat": 35.566666,
+      "lon": 45.966667
+    },
+    "name": "Bwzān"
+  },
+  {
+    "country": "IQ",
+    "id": 6835394,
+    "coord": {
+      "lat": 33.999084,
+      "lon": 45.00959
+    },
+    "name": "‘Alwān Muḩammad"
+  },
+  {
+    "country": "IQ",
+    "id": 89341,
+    "coord": {
+      "lat": 30.33333,
+      "lon": 47.25
+    },
+    "name": "Muḩāfaz̧at al Başrah"
+  },
+  {
+    "country": "IQ",
+    "id": 98689,
+    "coord": {
+      "lat": 30.27417,
+      "lon": 47.34972
+    },
+    "name": "Ar Rumaylah"
+  },
+  {
+    "country": "IQ",
+    "id": 99536,
+    "coord": {
+      "lat": 30.35,
+      "lon": 47.566669
+    },
+    "name": "Al Barjisīyah"
+  },
+  {
+    "country": "IQ",
+    "id": 99032,
+    "coord": {
+      "lat": 30.5,
+      "lon": 45
+    },
+    "name": "Muḩāfaz̧at al Muthanná"
+  },
+  {
+    "country": "IQ",
+    "id": 95308,
+    "coord": {
+      "lat": 30.41667,
+      "lon": 46.183331
+    },
+    "name": "Jalīb Shihāb"
+  },
+  {
+    "country": "IQ",
+    "id": 93540,
+    "coord": {
+      "lat": 32,
+      "lon": 47
+    },
+    "name": "Muḩāfaz̧at Maysān"
+  },
+  {
+    "country": "IQ",
+    "id": 6772182,
+    "coord": {
+      "lat": 31.49262,
+      "lon": 47.02256
+    },
+    "name": "Ḩawīlīyah"
+  },
+  {
+    "country": "IQ",
+    "id": 98180,
+    "coord": {
+      "lat": 33.133331,
+      "lon": 44.25
+    },
+    "name": "Muḩāfaz̧at Baghdād"
+  },
+  {
+    "country": "IQ",
+    "id": 99914,
+    "coord": {
+      "lat": 33.166672,
+      "lon": 44.116669
+    },
+    "name": "Abū Muḩammad"
+  },
+  {
+    "country": "IQ",
+    "id": 92628,
+    "coord": {
+      "lat": 33.161388,
+      "lon": 44.157219
+    },
+    "name": "Qal‘at as Sādah"
+  },
+  {
+    "country": "IQ",
+    "id": 99592,
+    "coord": {
+      "lat": 33,
+      "lon": 41.75
+    },
+    "name": "Muḩāfaz̧at al Anbār"
+  },
+  {
+    "country": "IQ",
+    "id": 435805,
+    "coord": {
+      "lat": 33.220909,
+      "lon": 43.42918
+    },
+    "name": "Qaryat al ‘Ankūr"
+  },
+  {
+    "country": "IQ",
+    "id": 448779,
+    "coord": {
+      "lat": 33.198212,
+      "lon": 43.510658
+    },
+    "name": "Qaryat al Majarrah"
+  },
+  {
+    "country": "IQ",
+    "id": 6798467,
+    "coord": {
+      "lat": 33.19656,
+      "lon": 43.10643
+    },
+    "name": "Sawḩ al Ghawr"
+  },
+  {
+    "country": "IQ",
+    "id": 96269,
+    "coord": {
+      "lat": 33.32304,
+      "lon": 44.15752
+    },
+    "name": "‘Arab Ḩasan as Suhayl"
+  },
+  {
+    "country": "IQ",
+    "id": 96215,
+    "coord": {
+      "lat": 33.455349,
+      "lon": 44.349171
+    },
+    "name": "Ḩājj Sallūm"
+  },
+  {
+    "country": "IQ",
+    "id": 6759153,
+    "coord": {
+      "lat": 33.605831,
+      "lon": 42.462509
+    },
+    "name": "‘Ayn al Arnab"
+  },
+  {
+    "country": "IQ",
+    "id": 6806015,
+    "coord": {
+      "lat": 33.574348,
+      "lon": 44.219349
+    },
+    "name": "‘Abd Shaḩḩādh Mūsá"
+  },
+  {
+    "country": "IQ",
+    "id": 6928117,
+    "coord": {
+      "lat": 34.139439,
+      "lon": 45.101299
+    },
+    "name": "Al Qaryat al ‘Aşirīyah"
+  },
+  {
+    "country": "IQ",
+    "id": 6763613,
+    "coord": {
+      "lat": 34.217659,
+      "lon": 41.305698
+    },
+    "name": "Qūr al Aslāf"
+  },
+  {
+    "country": "IQ",
+    "id": 91823,
+    "coord": {
+      "lat": 34.316669,
+      "lon": 45.333328
+    },
+    "name": "Sa‘d Allāh Afandī"
+  },
+  {
+    "country": "IQ",
+    "id": 91695,
+    "coord": {
+      "lat": 34.5,
+      "lon": 43.650002
+    },
+    "name": "Muhafazat Salah ad Din"
+  },
+  {
+    "country": "IQ",
+    "id": 6871491,
+    "coord": {
+      "lat": 34.400398,
+      "lon": 43.33181
+    },
+    "name": "Maḩmūd ‘Alī"
+  },
+  {
+    "country": "IQ",
+    "id": 6752102,
+    "coord": {
+      "lat": 34.559769,
+      "lon": 44.295872
+    },
+    "name": "Qaryat as Sādah"
+  },
+  {
+    "country": "IQ",
+    "id": 98410,
+    "coord": {
+      "lat": 35.25,
+      "lon": 44.166672
+    },
+    "name": "Muḩāfaz̧at Kirkūk"
+  },
+  {
+    "country": "IQ",
+    "id": 96165,
+    "coord": {
+      "lat": 35.277569,
+      "lon": 44.21352
+    },
+    "name": "Hamādīyah"
+  },
+  {
+    "country": "IQ",
+    "id": 7330083,
+    "coord": {
+      "lat": 35.315411,
+      "lon": 45.24926
+    },
+    "name": "Nimrah Khamsah"
+  },
+  {
+    "country": "IQ",
+    "id": 94930,
+    "coord": {
+      "lat": 35.334702,
+      "lon": 45.202579
+    },
+    "name": "Kānī Khākī"
+  },
+  {
+    "country": "IQ",
+    "id": 6837283,
+    "coord": {
+      "lat": 35.452641,
+      "lon": 43.098122
+    },
+    "name": "Qaryat al Qahārah"
+  },
+  {
+    "country": "IQ",
+    "id": 92877,
+    "coord": {
+      "lat": 36.166672,
+      "lon": 42.583328
+    },
+    "name": "Muḩāfaz̧at Nīnawá"
+  },
+  {
+    "country": "IQ",
+    "id": 6860746,
+    "coord": {
+      "lat": 36.077229,
+      "lon": 43.333359
+    },
+    "name": "Qaryat al Muftiyāt"
+  },
+  {
+    "country": "IQ",
+    "id": 95445,
+    "coord": {
+      "lat": 36.166672,
+      "lon": 44
+    },
+    "name": "Muḩāfaz̧at Arbīl"
+  },
+  {
+    "country": "IQ",
+    "id": 7018408,
+    "coord": {
+      "lat": 36.145378,
+      "lon": 43.578098
+    },
+    "name": "Ghaitli"
+  },
+  {
+    "country": "IQ",
+    "id": 98299,
+    "coord": {
+      "lat": 36.125061,
+      "lon": 43.070259
+    },
+    "name": "Qaryat ‘Ayn Nāşir"
+  },
+  {
+    "country": "IQ",
+    "id": 6786700,
+    "coord": {
+      "lat": 36.138069,
+      "lon": 42.240959
+    },
+    "name": "Tall Daghsh"
+  },
+  {
+    "country": "IQ",
+    "id": 98756,
+    "coord": {
+      "lat": 36.198238,
+      "lon": 43.08062
+    },
+    "name": "Qaryat al ‘Arbīd"
+  },
+  {
+    "country": "IQ",
+    "id": 445967,
+    "coord": {
+      "lat": 35.335911,
+      "lon": 45.707722
+    },
+    "name": "Qāzaw as Suflá"
+  },
+  {
+    "country": "IQ",
+    "id": 99250,
+    "coord": {
+      "lat": 32.666672,
+      "lon": 44.583328
+    },
+    "name": "Al Imām"
+  },
+  {
+    "country": "IQ",
+    "id": 98463,
+    "coord": {
+      "lat": 35.561131,
+      "lon": 45.437489
+    },
+    "name": "As Sulaymaniyah"
+  },
+  {
+    "country": "IQ",
+    "id": 90150,
+    "coord": {
+      "lat": 34.607121,
+      "lon": 43.678219
+    },
+    "name": "Tikrit"
+  },
+  {
+    "country": "IQ",
+    "id": 98182,
+    "coord": {
+      "lat": 33.34058,
+      "lon": 44.400879
+    },
+    "name": "Baghdad"
+  },
+  {
+    "country": "IQ",
+    "id": 6201158,
+    "coord": {
+      "lat": 33.342499,
+      "lon": 44.39444
+    },
+    "name": "Shūrīyah"
+  },
+  {
+    "country": "IQ",
+    "id": 95446,
+    "coord": {
+      "lat": 36.19257,
+      "lon": 44.01062
+    },
+    "name": "Erbil"
+  },
+  {
+    "country": "IQ",
+    "id": 6818134,
+    "coord": {
+      "lat": 32.601028,
+      "lon": 44.032318
+    },
+    "name": "Yūsuf ‘Alī"
+  },
+  {
+    "country": "IQ",
+    "id": 96966,
+    "coord": {
+      "lat": 33.001389,
+      "lon": 44.582218
+    },
+    "name": "Dīwānīyah"
+  },
+  {
+    "country": "IQ",
+    "id": 99072,
+    "coord": {
+      "lat": 36.334999,
+      "lon": 43.118889
+    },
+    "name": "Mosul"
+  },
+  {
+    "country": "IQ",
+    "id": 99532,
+    "coord": {
+      "lat": 30.53488,
+      "lon": 47.788849
+    },
+    "name": "Al Basrah"
+  },
+  {
+    "country": "IQ",
+    "id": 388349,
+    "coord": {
+      "lat": 30.49721,
+      "lon": 47.814911
+    },
+    "name": "Al Basrat al Qadimah"
+  },
+  {
+    "country": "IQ",
+    "id": 98530,
+    "coord": {
+      "lat": 31.33198,
+      "lon": 45.294399
+    },
+    "name": "As Samawah"
+  },
+  {
+    "country": "IQ",
+    "id": 6776436,
+    "coord": {
+      "lat": 31.30686,
+      "lon": 45.277351
+    },
+    "name": "Ḩaydarīyah"
+  },
+  {
+    "country": "IQ",
+    "id": 94787,
+    "coord": {
+      "lat": 35.46806,
+      "lon": 44.39222
+    },
+    "name": "Kirkuk"
+  },
+  {
+    "country": "IQ",
+    "id": 99347,
+    "coord": {
+      "lat": 32.480141,
+      "lon": 44.435261
+    },
+    "name": "Al Hillah"
+  },
+  {
+    "country": "IQ",
+    "id": 6780885,
+    "coord": {
+      "lat": 32.475891,
+      "lon": 44.429401
+    },
+    "name": "Ḩayy al Janā’in"
+  },
+  {
+    "country": "IQ",
+    "id": 97019,
+    "coord": {
+      "lat": 31,
+      "lon": 46
+    },
+    "name": "Muḩāfaz̧at Dhī Qār"
+  },
+  {
+    "country": "IQ",
+    "id": 98854,
+    "coord": {
+      "lat": 31.05205,
+      "lon": 46.261021
+    },
+    "name": "An Nasiriyah"
+  },
+  {
+    "country": "IQ",
+    "id": 93396,
+    "coord": {
+      "lat": 31.85,
+      "lon": 47.183331
+    },
+    "name": "Mudarras"
+  },
+  {
+    "country": "IQ",
+    "id": 98717,
+    "coord": {
+      "lat": 33.422569,
+      "lon": 43.30584
+    },
+    "name": "Ar Ramadi"
+  },
+  {
+    "country": "IQ",
+    "id": 435797,
+    "coord": {
+      "lat": 33.418869,
+      "lon": 43.300541
+    },
+    "name": "Ḩayy al ‘Adl"
+  },
+  {
+    "country": "IQ",
+    "id": 6871849,
+    "coord": {
+      "lat": 34.593109,
+      "lon": 43.687931
+    },
+    "name": "Ḩayy ash Shīshīn"
+  },
+  {
+    "country": "IQ",
+    "id": 97270,
+    "coord": {
+      "lat": 37,
+      "lon": 43.25
+    },
+    "name": "Muḩāfaz̧at Dahūk"
+  },
+  {
+    "country": "IQ",
+    "id": 96994,
+    "coord": {
+      "lat": 36.869499,
+      "lon": 42.99398
+    },
+    "name": "Dahuk"
+  },
+  {
+    "country": "IQ",
+    "id": 90552,
+    "coord": {
+      "lat": 34.149719,
+      "lon": 42.381939
+    },
+    "name": "Sulaymānīyah"
+  },
+  {
+    "country": "IQ",
+    "id": 99454,
+    "coord": {
+      "lat": 33.353802,
+      "lon": 43.77951
+    },
+    "name": "Al Fallujah"
+  },
+  {
+    "country": "IQ",
+    "id": 90026,
+    "coord": {
+      "lat": 34.890461,
+      "lon": 44.62994
+    },
+    "name": "Tozkhurmato"
+  },
+  {
+    "country": "IQ",
+    "id": 99135,
+    "coord": {
+      "lat": 32.034721,
+      "lon": 44.403332
+    },
+    "name": "Al Kūfah"
+  },
+  {
+    "country": "IQ",
+    "id": 7046940,
+    "coord": {
+      "lat": 36.30209,
+      "lon": 41.84935
+    },
+    "name": "Kānī ‘Abdū"
+  },
+  {
+    "country": "IQ",
+    "id": 99762,
+    "coord": {
+      "lat": 31.990511,
+      "lon": 44.93063
+    },
+    "name": "Ad Diwaniyah"
+  },
+  {
+    "country": "IQ",
+    "id": 97990,
+    "coord": {
+      "lat": 33.748459,
+      "lon": 44.655449
+    },
+    "name": "Baqubah"
+  },
+  {
+    "country": "IQ",
+    "id": 92365,
+    "coord": {
+      "lat": 30.566669,
+      "lon": 47.700001
+    },
+    "name": "Qaryat Bānī Mālik"
+  },
+  {
+    "country": "IQ",
+    "id": 6860697,
+    "coord": {
+      "lat": 36.32299,
+      "lon": 43.143951
+    },
+    "name": "Ḩayy aţ Ţayarān"
+  },
+  {
+    "country": "IQ",
+    "id": 448955,
+    "coord": {
+      "lat": 33.258331,
+      "lon": 44.272221
+    },
+    "name": "Tall Raml"
+  },
+  {
+    "country": "IQ",
+    "id": 447878,
+    "coord": {
+      "lat": 37.098679,
+      "lon": 43.245869
+    },
+    "name": "Tany"
+  },
+  {
+    "country": "IQ",
+    "id": 89570,
+    "coord": {
+      "lat": 37.14817,
+      "lon": 42.700081
+    },
+    "name": "Zakhu"
+  },
+  {
+    "country": "IQ",
+    "id": 90353,
+    "coord": {
+      "lat": 36.489441,
+      "lon": 43.119171
+    },
+    "name": "Qada Talkif"
+  },
+  {
+    "country": "IQ",
+    "id": 90708,
+    "coord": {
+      "lat": 36.809021,
+      "lon": 43.03886
+    },
+    "name": "Sinah"
+  },
+  {
+    "country": "IQ",
+    "id": 91597,
+    "coord": {
+      "lat": 34.200958,
+      "lon": 43.875622
+    },
+    "name": "Samarra"
+  },
+  {
+    "country": "IQ",
+    "id": 91812,
+    "coord": {
+      "lat": 32.714722,
+      "lon": 44.280281
+    },
+    "name": "Nahiyat Saddat al Hindiyah"
+  },
+  {
+    "country": "IQ",
+    "id": 92002,
+    "coord": {
+      "lat": 36.61631,
+      "lon": 44.531109
+    },
+    "name": "Rawanduz"
+  },
+  {
+    "country": "IQ",
+    "id": 92004,
+    "coord": {
+      "lat": 34.48164,
+      "lon": 41.909302
+    },
+    "name": "Rawah"
+  },
+  {
+    "country": "IQ",
+    "id": 92430,
+    "coord": {
+      "lat": 36.271461,
+      "lon": 43.37373
+    },
+    "name": "Qada al Hamdaniyah"
+  },
+  {
+    "country": "IQ",
+    "id": 93709,
+    "coord": {
+      "lat": 33.749859,
+      "lon": 45.5541
+    },
+    "name": "Mandali"
+  },
+  {
+    "country": "IQ",
+    "id": 94220,
+    "coord": {
+      "lat": 36.082142,
+      "lon": 44.627781
+    },
+    "name": "Koysinceq"
+  },
+  {
+    "country": "IQ",
+    "id": 94298,
+    "coord": {
+      "lat": 34.695869,
+      "lon": 44.966099
+    },
+    "name": "Kifri"
+  },
+  {
+    "country": "IQ",
+    "id": 94824,
+    "coord": {
+      "lat": 32.616032,
+      "lon": 44.024879
+    },
+    "name": "Karbala"
+  },
+  {
+    "country": "IQ",
+    "id": 96205,
+    "coord": {
+      "lat": 35.17778,
+      "lon": 45.986111
+    },
+    "name": "Halabjah"
+  },
+  {
+    "country": "IQ",
+    "id": 98012,
+    "coord": {
+      "lat": 35.618301,
+      "lon": 45.954102
+    },
+    "name": "Paynjuwayn"
+  },
+  {
+    "country": "IQ",
+    "id": 98112,
+    "coord": {
+      "lat": 34.01638,
+      "lon": 44.145309
+    },
+    "name": "Balad"
+  },
+  {
+    "country": "IQ",
+    "id": 98245,
+    "coord": {
+      "lat": 30.39447,
+      "lon": 47.701141
+    },
+    "name": "Az Zubayr"
+  },
+  {
+    "country": "IQ",
+    "id": 98459,
+    "coord": {
+      "lat": 32.92556,
+      "lon": 44.775829
+    },
+    "name": "As Suwayrah"
+  },
+  {
+    "country": "IQ",
+    "id": 98589,
+    "coord": {
+      "lat": 31.58737,
+      "lon": 44.66016
+    },
+    "name": "Nahiyat ash Shinafiyah"
+  },
+  {
+    "country": "IQ",
+    "id": 98622,
+    "coord": {
+      "lat": 31.411711,
+      "lon": 46.174179
+    },
+    "name": "Ash Shatrah"
+  },
+  {
+    "country": "IQ",
+    "id": 98629,
+    "coord": {
+      "lat": 31.963619,
+      "lon": 44.599041
+    },
+    "name": "Ash Shamiyah"
+  },
+  {
+    "country": "IQ",
+    "id": 98677,
+    "coord": {
+      "lat": 33.038071,
+      "lon": 40.284821
+    },
+    "name": "Ar Rutbah"
+  },
+  {
+    "country": "IQ",
+    "id": 98685,
+    "coord": {
+      "lat": 31.526291,
+      "lon": 45.202461
+    },
+    "name": "Ar Rumaythah"
+  },
+  {
+    "country": "IQ",
+    "id": 98885,
+    "coord": {
+      "lat": 34.465889,
+      "lon": 41.933102
+    },
+    "name": "Anat al Qadimah"
+  },
+  {
+    "country": "IQ",
+    "id": 99010,
+    "coord": {
+      "lat": 32.297989,
+      "lon": 44.682812
+    },
+    "name": "Imam Qasim"
+  },
+  {
+    "country": "IQ",
+    "id": 99039,
+    "coord": {
+      "lat": 32.783321,
+      "lon": 44.282509
+    },
+    "name": "Al Musayyib"
+  },
+  {
+    "country": "IQ",
+    "id": 99060,
+    "coord": {
+      "lat": 31.804159,
+      "lon": 44.49107
+    },
+    "name": "Al Mishkhab"
+  },
+  {
+    "country": "IQ",
+    "id": 99062,
+    "coord": {
+      "lat": 33.978611,
+      "lon": 44.936939
+    },
+    "name": "Al Miqdadiyah"
+  },
+  {
+    "country": "IQ",
+    "id": 99071,
+    "coord": {
+      "lat": 36.334641,
+      "lon": 43.097771
+    },
+    "name": "Al Mawsil al Jadidah"
+  },
+  {
+    "country": "IQ",
+    "id": 99097,
+    "coord": {
+      "lat": 31.572321,
+      "lon": 47.175289
+    },
+    "name": "Al Majar al Kabir"
+  },
+  {
+    "country": "IQ",
+    "id": 99131,
+    "coord": {
+      "lat": 32.514702,
+      "lon": 45.819019
+    },
+    "name": "Al Kut"
+  },
+  {
+    "country": "IQ",
+    "id": 99169,
+    "coord": {
+      "lat": 33.819962,
+      "lon": 44.526371
+    },
+    "name": "Khalis"
+  },
+  {
+    "country": "IQ",
+    "id": 99306,
+    "coord": {
+      "lat": 32.463261,
+      "lon": 46.686371
+    },
+    "name": "Ali al Gharbi"
+  },
+  {
+    "country": "IQ",
+    "id": 99344,
+    "coord": {
+      "lat": 32.543331,
+      "lon": 44.2225
+    },
+    "name": "Al Hindiyah"
+  },
+  {
+    "country": "IQ",
+    "id": 99350,
+    "coord": {
+      "lat": 32.173489,
+      "lon": 46.043301
+    },
+    "name": "Al Hayy"
+  },
+  {
+    "country": "IQ",
+    "id": 99369,
+    "coord": {
+      "lat": 30.718611,
+      "lon": 47.720829
+    },
+    "name": "Al Harithah"
+  },
+  {
+    "country": "IQ",
+    "id": 99434,
+    "coord": {
+      "lat": 31.743111,
+      "lon": 44.619598
+    },
+    "name": "Nahiyat Ghammas"
+  },
+  {
+    "country": "IQ",
+    "id": 99446,
+    "coord": {
+      "lat": 29.977631,
+      "lon": 48.474121
+    },
+    "name": "Al Faw"
+  },
+  {
+    "country": "IQ",
+    "id": 99548,
+    "coord": {
+      "lat": 32.90583,
+      "lon": 45.06163
+    },
+    "name": "Al Aziziyah"
+  },
+  {
+    "country": "IQ",
+    "id": 99608,
+    "coord": {
+      "lat": 31.840639,
+      "lon": 47.139599
+    },
+    "name": "Al Amarah"
+  },
+  {
+    "country": "IQ",
+    "id": 99738,
+    "coord": {
+      "lat": 32.068981,
+      "lon": 45.250549
+    },
+    "name": "Afak"
+  },
+  {
+    "country": "IQ",
+    "id": 99759,
+    "coord": {
+      "lat": 33.846668,
+      "lon": 44.23444
+    },
+    "name": "Ad Dujayl"
+  },
+  {
+    "country": "IQ",
+    "id": 100077,
+    "coord": {
+      "lat": 33.308331,
+      "lon": 44.185001
+    },
+    "name": "Abu Ghurayb"
+  },
+  {
+    "country": "IQ",
+    "id": 448149,
+    "coord": {
+      "lat": 36.320919,
+      "lon": 41.87542
+    },
+    "name": "Sinjar"
+  },
+  {
+    "country": "IQ",
+    "id": 7097617,
+    "coord": {
+      "lat": 36.278992,
+      "lon": 44.488152
+    },
+    "name": "Nahiyat Hiran"
+  },
+  {
+    "country": "IQ",
+    "id": 7097618,
+    "coord": {
+      "lat": 36.280079,
+      "lon": 44.492828
+    },
+    "name": "Nahiyat Hiran"
+  },
+  {
+    "country": "IQ",
+    "id": 7326104,
+    "coord": {
+      "lat": 30.17864,
+      "lon": 48.39769
+    },
+    "name": "Nahiyat Bahar"
+  },
+  {
+    "country": "IQ",
+    "id": 7326105,
+    "coord": {
+      "lat": 30.482929,
+      "lon": 48.014381
+    },
+    "name": "Nahiyat Atbah"
+  },
+  {
+    "country": "IQ",
+    "id": 7374646,
+    "coord": {
+      "lat": 32.122871,
+      "lon": 46.749279
+    },
+    "name": "Nahiyat Ali ash Sharqi"
+  }
+
+]

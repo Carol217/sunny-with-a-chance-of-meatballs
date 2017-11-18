@@ -1,0 +1,22 @@
+[
+
+  {
+    "country": "PN",
+    "id": 4030723,
+    "coord": {
+      "lat": -25.065969,
+      "lon": -130.101471
+    },
+    "name": "Adamstown"
+  },
+  {
+    "country": "PN",
+    "id": 4030699,
+    "coord": {
+      "lat": -25.066669,
+      "lon": -130.100006
+    },
+    "name": "Henderson, Ducie and Oeno Islands Pitcairn"
+  }
+
+]

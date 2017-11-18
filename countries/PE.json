@@ -1,0 +1,3766 @@
+[
+
+  {
+    "country": "PE",
+    "id": 3691094,
+    "coord": {
+      "lat": -8.45917,
+      "lon": -76.463333
+    },
+    "name": "Uchiza"
+  },
+  {
+    "country": "PE",
+    "id": 3692667,
+    "coord": {
+      "lat": -6.92222,
+      "lon": -79.584167
+    },
+    "name": "Zana"
+  },
+  {
+    "country": "PE",
+    "id": 3693057,
+    "coord": {
+      "lat": -4.83778,
+      "lon": -80.645561
+    },
+    "name": "Querecotillo"
+  },
+  {
+    "country": "PE",
+    "id": 3693645,
+    "coord": {
+      "lat": -6.71778,
+      "lon": -79.769722
+    },
+    "name": "Picsi"
+  },
+  {
+    "country": "PE",
+    "id": 3694112,
+    "coord": {
+      "lat": -5.08917,
+      "lon": -81.114441
+    },
+    "name": "Paita"
+  },
+  {
+    "country": "PE",
+    "id": 3695754,
+    "coord": {
+      "lat": -6.70111,
+      "lon": -79.906113
+    },
+    "name": "Lambayeque"
+  },
+  {
+    "country": "PE",
+    "id": 3698390,
+    "coord": {
+      "lat": -7.21667,
+      "lon": -79.449997
+    },
+    "name": "Chepen"
+  },
+  {
+    "country": "PE",
+    "id": 3925476,
+    "coord": {
+      "lat": -16.25,
+      "lon": -69.083328
+    },
+    "name": "Yunguyo"
+  },
+  {
+    "country": "PE",
+    "id": 3927942,
+    "coord": {
+      "lat": -12.73333,
+      "lon": -69.183327
+    },
+    "name": "Tambopata"
+  },
+  {
+    "country": "PE",
+    "id": 3935572,
+    "coord": {
+      "lat": -12.65806,
+      "lon": -76.630829
+    },
+    "name": "Mala"
+  },
+  {
+    "country": "PE",
+    "id": 3946985,
+    "coord": {
+      "lat": -14.88639,
+      "lon": -70.58889
+    },
+    "name": "Ayaviri"
+  },
+  {
+    "country": "PE",
+    "id": 3691474,
+    "coord": {
+      "lat": -6.50139,
+      "lon": -76.365562
+    },
+    "name": "Tarapoto"
+  },
+  {
+    "country": "PE",
+    "id": 3926282,
+    "coord": {
+      "lat": -11.87528,
+      "lon": -77.118332
+    },
+    "name": "Ventanilla"
+  },
+  {
+    "country": "PE",
+    "id": 3928245,
+    "coord": {
+      "lat": -12.15,
+      "lon": -77.01667
+    },
+    "name": "Surco"
+  },
+  {
+    "country": "PE",
+    "id": 3945612,
+    "coord": {
+      "lat": -11.85333,
+      "lon": -77.037781
+    },
+    "name": "Carabayllo"
+  },
+  {
+    "country": "PE",
+    "id": 3947437,
+    "coord": {
+      "lat": -16.07583,
+      "lon": -72.493889
+    },
+    "name": "Aplao"
+  },
+  {
+    "country": "PE",
+    "id": 3930835,
+    "coord": {
+      "lat": -12.81667,
+      "lon": -72.783333
+    },
+    "name": "Quillabamba"
+  },
+  {
+    "country": "PE",
+    "id": 3696372,
+    "coord": {
+      "lat": -9.33333,
+      "lon": -77.23333
+    },
+    "name": "Huari"
+  },
+  {
+    "country": "PE",
+    "id": 3944665,
+    "coord": {
+      "lat": -11.98278,
+      "lon": -76.767502
+    },
+    "name": "Chaclacayo"
+  },
+  {
+    "country": "PE",
+    "id": 3931251,
+    "coord": {
+      "lat": -12.33333,
+      "lon": -76.816673
+    },
+    "name": "Punta Hermosa"
+  },
+  {
+    "country": "PE",
+    "id": 3693461,
+    "coord": {
+      "lat": -6.7675,
+      "lon": -79.777222
+    },
+    "name": "Pomalca"
+  },
+  {
+    "country": "PE",
+    "id": 3928547,
+    "coord": {
+      "lat": -16.470249,
+      "lon": -71.52758
+    },
+    "name": "Socabaya"
+  },
+  {
+    "country": "PE",
+    "id": 3696448,
+    "coord": {
+      "lat": -8.08333,
+      "lon": -79.116669
+    },
+    "name": "Huanchaco"
+  },
+  {
+    "country": "PE",
+    "id": 3929520,
+    "coord": {
+      "lat": -15.36528,
+      "lon": -75.162216
+    },
+    "name": "San Juan"
+  },
+  {
+    "country": "PE",
+    "id": 3930769,
+    "coord": {
+      "lat": -13.23092,
+      "lon": -70.754013
+    },
+    "name": "Quince Mil"
+  },
+  {
+    "country": "PE",
+    "id": 6559994,
+    "coord": {
+      "lat": -9.12417,
+      "lon": -78.497498
+    },
+    "name": "Buenos Aires"
+  },
+  {
+    "country": "PE",
+    "id": 3934707,
+    "coord": {
+      "lat": -17.02306,
+      "lon": -72.014717
+    },
+    "name": "Mollendo"
+  },
+  {
+    "country": "PE",
+    "id": 3930975,
+    "coord": {
+      "lat": -15.45861,
+      "lon": -73.241943
+    },
+    "name": "Quepacc"
+  },
+  {
+    "country": "PE",
+    "id": 3947018,
+    "coord": {
+      "lat": -14,
+      "lon": -74
+    },
+    "name": "Departamento de Ayacucho"
+  },
+  {
+    "country": "PE",
+    "id": 3936542,
+    "coord": {
+      "lat": -14.48333,
+      "lon": -74.566673
+    },
+    "name": "Layo"
+  },
+  {
+    "country": "PE",
+    "id": 3929792,
+    "coord": {
+      "lat": -12.09841,
+      "lon": -77.01107
+    },
+    "name": "San Borja"
+  },
+  {
+    "country": "PE",
+    "id": 3937485,
+    "coord": {
+      "lat": -11.5,
+      "lon": -75
+    },
+    "name": "Departamento de Junín"
+  },
+  {
+    "country": "PE",
+    "id": 3944223,
+    "coord": {
+      "lat": -12.08333,
+      "lon": -75.116669
+    },
+    "name": "Chaucancha"
+  },
+  {
+    "country": "PE",
+    "id": 3693528,
+    "coord": {
+      "lat": -5.2,
+      "lon": -80.633331
+    },
+    "name": "Piura"
+  },
+  {
+    "country": "PE",
+    "id": 3694119,
+    "coord": {
+      "lat": -7.73333,
+      "lon": -79.302223
+    },
+    "name": "Paijan"
+  },
+  {
+    "country": "PE",
+    "id": 3694178,
+    "coord": {
+      "lat": -7.40056,
+      "lon": -79.571388
+    },
+    "name": "Pacasmayo"
+  },
+  {
+    "country": "PE",
+    "id": 3694666,
+    "coord": {
+      "lat": -6.87806,
+      "lon": -79.872223
+    },
+    "name": "Monsefu"
+  },
+  {
+    "country": "PE",
+    "id": 3694725,
+    "coord": {
+      "lat": -8.17111,
+      "lon": -79.009171
+    },
+    "name": "Moche"
+  },
+  {
+    "country": "PE",
+    "id": 3694939,
+    "coord": {
+      "lat": -4.87778,
+      "lon": -80.705276
+    },
+    "name": "Marcavelica"
+  },
+  {
+    "country": "PE",
+    "id": 3695617,
+    "coord": {
+      "lat": -8.08965,
+      "lon": -78.960197
+    },
+    "name": "Laredo"
+  },
+  {
+    "country": "PE",
+    "id": 3696150,
+    "coord": {
+      "lat": -5.70806,
+      "lon": -78.804718
+    },
+    "name": "Jaen"
+  },
+  {
+    "country": "PE",
+    "id": 3696417,
+    "coord": {
+      "lat": -9.9329,
+      "lon": -76.241531
+    },
+    "name": "Huanuco"
+  },
+  {
+    "country": "PE",
+    "id": 3698304,
+    "coord": {
+      "lat": -9.08528,
+      "lon": -78.578331
+    },
+    "name": "Chimbote"
+  },
+  {
+    "country": "PE",
+    "id": 3698540,
+    "coord": {
+      "lat": -6.23169,
+      "lon": -77.869034
+    },
+    "name": "Chachapoyas"
+  },
+  {
+    "country": "PE",
+    "id": 3698658,
+    "coord": {
+      "lat": -5.26667,
+      "lon": -80.683327
+    },
+    "name": "Catacaos"
+  },
+  {
+    "country": "PE",
+    "id": 3699364,
+    "coord": {
+      "lat": -7.05614,
+      "lon": -76.591103
+    },
+    "name": "Bellavista"
+  },
+  {
+    "country": "PE",
+    "id": 3814568,
+    "coord": {
+      "lat": -4.26083,
+      "lon": -80.887497
+    },
+    "name": "La Breita"
+  },
+  {
+    "country": "PE",
+    "id": 3818398,
+    "coord": {
+      "lat": -3.50306,
+      "lon": -80.273064
+    },
+    "name": "Zarumilla"
+  },
+  {
+    "country": "PE",
+    "id": 3928924,
+    "coord": {
+      "lat": -11.25222,
+      "lon": -74.638611
+    },
+    "name": "Satipo"
+  },
+  {
+    "country": "PE",
+    "id": 3928993,
+    "coord": {
+      "lat": -13.07512,
+      "lon": -76.383522
+    },
+    "name": "San Vicente de Canete"
+  },
+  {
+    "country": "PE",
+    "id": 3929768,
+    "coord": {
+      "lat": -13.66667,
+      "lon": -76.150002
+    },
+    "name": "San Clemente"
+  },
+  {
+    "country": "PE",
+    "id": 3934239,
+    "coord": {
+      "lat": -13.07541,
+      "lon": -76.317192
+    },
+    "name": "Nuevo Imperial"
+  },
+  {
+    "country": "PE",
+    "id": 3937486,
+    "coord": {
+      "lat": -11.15889,
+      "lon": -75.993057
+    },
+    "name": "Junin"
+  },
+  {
+    "country": "PE",
+    "id": 3937733,
+    "coord": {
+      "lat": -11.77584,
+      "lon": -75.496559
+    },
+    "name": "Jauja"
+  },
+  {
+    "country": "PE",
+    "id": 3938396,
+    "coord": {
+      "lat": -13.05927,
+      "lon": -76.352692
+    },
+    "name": "Imperial"
+  },
+  {
+    "country": "PE",
+    "id": 3939023,
+    "coord": {
+      "lat": -11.07,
+      "lon": -77.599442
+    },
+    "name": "Huaura"
+  },
+  {
+    "country": "PE",
+    "id": 3939168,
+    "coord": {
+      "lat": -10.06806,
+      "lon": -78.152222
+    },
+    "name": "Huarmey"
+  },
+  {
+    "country": "PE",
+    "id": 3943789,
+    "coord": {
+      "lat": -13.40985,
+      "lon": -76.132347
+    },
+    "name": "Chincha Alta"
+  },
+  {
+    "country": "PE",
+    "id": 3932834,
+    "coord": {
+      "lat": -10.5,
+      "lon": -75.25
+    },
+    "name": "Departamento de Pasco"
+  },
+  {
+    "country": "PE",
+    "id": 3944399,
+    "coord": {
+      "lat": -11.57139,
+      "lon": -77.26722
+    },
+    "name": "Chancay"
+  },
+  {
+    "country": "PE",
+    "id": 3944797,
+    "coord": {
+      "lat": -10.68333,
+      "lon": -76.26667
+    },
+    "name": "Cerro de Pasco"
+  },
+  {
+    "country": "PE",
+    "id": 3945985,
+    "coord": {
+      "lat": -16.62278,
+      "lon": -72.711113
+    },
+    "name": "Camana"
+  },
+  {
+    "country": "PE",
+    "id": 7626291,
+    "coord": {
+      "lat": -14.63126,
+      "lon": -69.446381
+    },
+    "name": "La Rinconada"
+  },
+  {
+    "country": "PE",
+    "id": 3932488,
+    "coord": {
+      "lat": -10,
+      "lon": -76
+    },
+    "name": "Republic of Peru"
+  },
+  {
+    "country": "PE",
+    "id": 3934607,
+    "coord": {
+      "lat": -16.83662,
+      "lon": -70.919922
+    },
+    "name": "Departamento de Moquegua"
+  },
+  {
+    "country": "PE",
+    "id": 3947254,
+    "coord": {
+      "lat": -17.06361,
+      "lon": -70.520561
+    },
+    "name": "Asana"
+  },
+  {
+    "country": "PE",
+    "id": 3947319,
+    "coord": {
+      "lat": -16,
+      "lon": -72.25
+    },
+    "name": "Departamento de Arequipa"
+  },
+  {
+    "country": "PE",
+    "id": 3690875,
+    "coord": {
+      "lat": -8.41667,
+      "lon": -78.75
+    },
+    "name": "Viru"
+  },
+  {
+    "country": "PE",
+    "id": 3691324,
+    "coord": {
+      "lat": -8.18417,
+      "lon": -76.512497
+    },
+    "name": "Tocache Nuevo"
+  },
+  {
+    "country": "PE",
+    "id": 3692073,
+    "coord": {
+      "lat": -7.95889,
+      "lon": -79.239166
+    },
+    "name": "Santiago de Cao"
+  },
+  {
+    "country": "PE",
+    "id": 3693584,
+    "coord": {
+      "lat": -6.83667,
+      "lon": -79.934174
+    },
+    "name": "Pimentel"
+  },
+  {
+    "country": "PE",
+    "id": 3695466,
+    "coord": {
+      "lat": -5.4,
+      "lon": -80.75
+    },
+    "name": "La Union"
+  },
+  {
+    "country": "PE",
+    "id": 3695675,
+    "coord": {
+      "lat": -5.61111,
+      "lon": -78.434998
+    },
+    "name": "La Peca"
+  },
+  {
+    "country": "PE",
+    "id": 3698194,
+    "coord": {
+      "lat": -7.79139,
+      "lon": -79.221672
+    },
+    "name": "Chocope"
+  },
+  {
+    "country": "PE",
+    "id": 3925863,
+    "coord": {
+      "lat": -10.24111,
+      "lon": -76.645561
+    },
+    "name": "Yanacancha"
+  },
+  {
+    "country": "PE",
+    "id": 3928679,
+    "coord": {
+      "lat": -14.26944,
+      "lon": -71.226112
+    },
+    "name": "Sicuani"
+  },
+  {
+    "country": "PE",
+    "id": 3929295,
+    "coord": {
+      "lat": -12.86667,
+      "lon": -72.716667
+    },
+    "name": "Santa Ana"
+  },
+  {
+    "country": "PE",
+    "id": 3935288,
+    "coord": {
+      "lat": -15.21194,
+      "lon": -75.110283
+    },
+    "name": "Minas de Marcona"
+  },
+  {
+    "country": "PE",
+    "id": 3939761,
+    "coord": {
+      "lat": -11.09639,
+      "lon": -77.613892
+    },
+    "name": "Hualmay"
+  },
+  {
+    "country": "PE",
+    "id": 3944179,
+    "coord": {
+      "lat": -10.43333,
+      "lon": -76.533333
+    },
+    "name": "Chaupimarca"
+  },
+  {
+    "country": "PE",
+    "id": 3699674,
+    "coord": {
+      "lat": -9.5,
+      "lon": -77.75
+    },
+    "name": "Departamento de Ancash"
+  },
+  {
+    "country": "PE",
+    "id": 6664186,
+    "coord": {
+      "lat": -10.40653,
+      "lon": -77.488129
+    },
+    "name": "Ereza"
+  },
+  {
+    "country": "PE",
+    "id": 3936452,
+    "coord": {
+      "lat": -12.00389,
+      "lon": -76.638893
+    },
+    "name": "Región de Lima"
+  },
+  {
+    "country": "PE",
+    "id": 3936456,
+    "coord": {
+      "lat": -12.04318,
+      "lon": -77.028236
+    },
+    "name": "Lima"
+  },
+  {
+    "country": "PE",
+    "id": 3930376,
+    "coord": {
+      "lat": -12.05,
+      "lon": -77.050003
+    },
+    "name": "Rímac"
+  },
+  {
+    "country": "PE",
+    "id": 3947322,
+    "coord": {
+      "lat": -16.39889,
+      "lon": -71.535004
+    },
+    "name": "Arequipa"
+  },
+  {
+    "country": "PE",
+    "id": 3946080,
+    "coord": {
+      "lat": -12.06667,
+      "lon": -77.150002
+    },
+    "name": "Provincia Constitucional del Callao"
+  },
+  {
+    "country": "PE",
+    "id": 3946083,
+    "coord": {
+      "lat": -12.06667,
+      "lon": -77.150002
+    },
+    "name": "Callao"
+  },
+  {
+    "country": "PE",
+    "id": 3693525,
+    "coord": {
+      "lat": -5,
+      "lon": -80.333328
+    },
+    "name": "Departamento de Piura"
+  },
+  {
+    "country": "PE",
+    "id": 3691674,
+    "coord": {
+      "lat": -4.90389,
+      "lon": -80.68528
+    },
+    "name": "Sullana"
+  },
+  {
+    "country": "PE",
+    "id": 3696378,
+    "coord": {
+      "lat": -9.53333,
+      "lon": -77.533333
+    },
+    "name": "Huaraz"
+  },
+  {
+    "country": "PE",
+    "id": 3695781,
+    "coord": {
+      "lat": -8,
+      "lon": -78.5
+    },
+    "name": "Departamento de La Libertad"
+  },
+  {
+    "country": "PE",
+    "id": 3691174,
+    "coord": {
+      "lat": -8.08333,
+      "lon": -78.916672
+    },
+    "name": "Provincia de Trujillo"
+  },
+  {
+    "country": "PE",
+    "id": 3691175,
+    "coord": {
+      "lat": -8.11599,
+      "lon": -79.029984
+    },
+    "name": "Trujillo"
+  },
+  {
+    "country": "PE",
+    "id": 3699087,
+    "coord": {
+      "lat": -6.25,
+      "lon": -78.833328
+    },
+    "name": "Departamento de Cajamarca"
+  },
+  {
+    "country": "PE",
+    "id": 3699088,
+    "coord": {
+      "lat": -7.16378,
+      "lon": -78.500267
+    },
+    "name": "Cajamarca"
+  },
+  {
+    "country": "PE",
+    "id": 3698671,
+    "coord": {
+      "lat": -5.2,
+      "lon": -80.633331
+    },
+    "name": "Castilla"
+  },
+  {
+    "country": "PE",
+    "id": 3931275,
+    "coord": {
+      "lat": -15,
+      "lon": -70
+    },
+    "name": "Departamento de Puno"
+  },
+  {
+    "country": "PE",
+    "id": 3931276,
+    "coord": {
+      "lat": -15.83333,
+      "lon": -70.033333
+    },
+    "name": "Puno"
+  },
+  {
+    "country": "PE",
+    "id": 3928127,
+    "coord": {
+      "lat": -17.66667,
+      "lon": -70.333328
+    },
+    "name": "Departamento de Tacna"
+  },
+  {
+    "country": "PE",
+    "id": 3928128,
+    "coord": {
+      "lat": -18.00556,
+      "lon": -70.248329
+    },
+    "name": "Tacna"
+  },
+  {
+    "country": "PE",
+    "id": 3691099,
+    "coord": {
+      "lat": -9,
+      "lon": -73.5
+    },
+    "name": "Departamento de Ucayali"
+  },
+  {
+    "country": "PE",
+    "id": 3693345,
+    "coord": {
+      "lat": -8.37915,
+      "lon": -74.553871
+    },
+    "name": "Pucallpa"
+  },
+  {
+    "country": "PE",
+    "id": 3696416,
+    "coord": {
+      "lat": -9.5,
+      "lon": -75.833328
+    },
+    "name": "Departamento de Huánuco"
+  },
+  {
+    "country": "PE",
+    "id": 6670303,
+    "coord": {
+      "lat": -9.91387,
+      "lon": -76.225632
+    },
+    "name": "Mitopampa"
+  },
+  {
+    "country": "PE",
+    "id": 3939467,
+    "coord": {
+      "lat": -13,
+      "lon": -75
+    },
+    "name": "Departamento de Huancavelica"
+  },
+  {
+    "country": "PE",
+    "id": 3932835,
+    "coord": {
+      "lat": -12.86667,
+      "lon": -74.783333
+    },
+    "name": "Pasco"
+  },
+  {
+    "country": "PE",
+    "id": 3695238,
+    "coord": {
+      "lat": -5,
+      "lon": -75
+    },
+    "name": "Departamento de Loreto"
+  },
+  {
+    "country": "PE",
+    "id": 3696183,
+    "coord": {
+      "lat": -3.74806,
+      "lon": -73.247223
+    },
+    "name": "Iquitos"
+  },
+  {
+    "country": "PE",
+    "id": 3947019,
+    "coord": {
+      "lat": -13.15833,
+      "lon": -74.223892
+    },
+    "name": "Ayacucho"
+  },
+  {
+    "country": "PE",
+    "id": 3941583,
+    "coord": {
+      "lat": -12.5,
+      "lon": -72.5
+    },
+    "name": "Departamento de Cusco"
+  },
+  {
+    "country": "PE",
+    "id": 3941584,
+    "coord": {
+      "lat": -13.51833,
+      "lon": -71.978058
+    },
+    "name": "Cusco"
+  },
+  {
+    "country": "PE",
+    "id": 3937513,
+    "coord": {
+      "lat": -15.5,
+      "lon": -70.133331
+    },
+    "name": "Juliaca"
+  },
+  {
+    "country": "PE",
+    "id": 3939470,
+    "coord": {
+      "lat": -12.76667,
+      "lon": -74.98333
+    },
+    "name": "Huancavelica"
+  },
+  {
+    "country": "PE",
+    "id": 3939459,
+    "coord": {
+      "lat": -12.06667,
+      "lon": -75.23333
+    },
+    "name": "Huancayo"
+  },
+  {
+    "country": "PE",
+    "id": 3695753,
+    "coord": {
+      "lat": -6.33333,
+      "lon": -80
+    },
+    "name": "Departamento de Lambayeque"
+  },
+  {
+    "country": "PE",
+    "id": 3698350,
+    "coord": {
+      "lat": -6.77361,
+      "lon": -79.841667
+    },
+    "name": "Chiclayo"
+  },
+  {
+    "country": "PE",
+    "id": 3699502,
+    "coord": {
+      "lat": -4.63983,
+      "lon": -79.714912
+    },
+    "name": "Ayabaca"
+  },
+  {
+    "country": "PE",
+    "id": 3940002,
+    "coord": {
+      "lat": -11.10667,
+      "lon": -77.605003
+    },
+    "name": "Huacho"
+  },
+  {
+    "country": "PE",
+    "id": 3938526,
+    "coord": {
+      "lat": -14.3325,
+      "lon": -75.499718
+    },
+    "name": "Departamento de Ica"
+  },
+  {
+    "country": "PE",
+    "id": 3932145,
+    "coord": {
+      "lat": -13.7,
+      "lon": -76.216667
+    },
+    "name": "Pisco"
+  },
+  {
+    "country": "PE",
+    "id": 3934608,
+    "coord": {
+      "lat": -17.19556,
+      "lon": -70.93528
+    },
+    "name": "Moquegua"
+  },
+  {
+    "country": "PE",
+    "id": 3692385,
+    "coord": {
+      "lat": -7,
+      "lon": -76.833328
+    },
+    "name": "Departamento de San Martín"
+  },
+  {
+    "country": "PE",
+    "id": 7543962,
+    "coord": {
+      "lat": -7.05513,
+      "lon": -76.545113
+    },
+    "name": "Limón"
+  },
+  {
+    "country": "PE",
+    "id": 6659400,
+    "coord": {
+      "lat": -9.28093,
+      "lon": -75.976357
+    },
+    "name": "San Jorge"
+  },
+  {
+    "country": "PE",
+    "id": 3939285,
+    "coord": {
+      "lat": -11.495,
+      "lon": -77.207779
+    },
+    "name": "Huaral"
+  },
+  {
+    "country": "PE",
+    "id": 3691146,
+    "coord": {
+      "lat": -3.83333,
+      "lon": -80.5
+    },
+    "name": "Departamento de Tumbes"
+  },
+  {
+    "country": "PE",
+    "id": 3691148,
+    "coord": {
+      "lat": -3.56667,
+      "lon": -80.441391
+    },
+    "name": "Tumbes"
+  },
+  {
+    "country": "PE",
+    "id": 3691582,
+    "coord": {
+      "lat": -4.57722,
+      "lon": -81.271942
+    },
+    "name": "Talara"
+  },
+  {
+    "country": "PE",
+    "id": 3947421,
+    "coord": {
+      "lat": -14,
+      "lon": -73
+    },
+    "name": "Departamento de Apurímac"
+  },
+  {
+    "country": "PE",
+    "id": 3947740,
+    "coord": {
+      "lat": -13.65556,
+      "lon": -73.387222
+    },
+    "name": "Andahuaylas"
+  },
+  {
+    "country": "PE",
+    "id": 3694564,
+    "coord": {
+      "lat": -6.05,
+      "lon": -76.966667
+    },
+    "name": "Moyobamba"
+  },
+  {
+    "country": "PE",
+    "id": 3699699,
+    "coord": {
+      "lat": -5,
+      "lon": -78
+    },
+    "name": "Departamento de Amazonas"
+  },
+  {
+    "country": "PE",
+    "id": 6383146,
+    "coord": {
+      "lat": -6.21389,
+      "lon": -77.856392
+    },
+    "name": "Asentamiento Humano Pedro Alva Castro"
+  },
+  {
+    "country": "PE",
+    "id": 6380123,
+    "coord": {
+      "lat": -9.06139,
+      "lon": -77.804718
+    },
+    "name": "Shingal"
+  },
+  {
+    "country": "PE",
+    "id": 3936952,
+    "coord": {
+      "lat": -11.51893,
+      "lon": -75.899353
+    },
+    "name": "La Oroya"
+  },
+  {
+    "country": "PE",
+    "id": 3947956,
+    "coord": {
+      "lat": -10.13083,
+      "lon": -76.20472
+    },
+    "name": "Ambo"
+  },
+  {
+    "country": "PE",
+    "id": 3927758,
+    "coord": {
+      "lat": -11.41972,
+      "lon": -75.690826
+    },
+    "name": "Tarma"
+  },
+  {
+    "country": "PE",
+    "id": 3697193,
+    "coord": {
+      "lat": -8.41667,
+      "lon": -78.75
+    },
+    "name": "El Socorro"
+  },
+  {
+    "country": "PE",
+    "id": 6380215,
+    "coord": {
+      "lat": -9.15333,
+      "lon": -77.732224
+    },
+    "name": "Aura"
+  },
+  {
+    "country": "PE",
+    "id": 3692464,
+    "coord": {
+      "lat": -6.61674,
+      "lon": -76.69146
+    },
+    "name": "San Jose de Sisa"
+  },
+  {
+    "country": "PE",
+    "id": 3692029,
+    "coord": {
+      "lat": -6.93395,
+      "lon": -76.771584
+    },
+    "name": "Saposoa"
+  },
+  {
+    "country": "PE",
+    "id": 3691530,
+    "coord": {
+      "lat": -4.92694,
+      "lon": -80.344719
+    },
+    "name": "Tambo Grande"
+  },
+  {
+    "country": "PE",
+    "id": 6303009,
+    "coord": {
+      "lat": -11.26028,
+      "lon": -74.679169
+    },
+    "name": "Bajo Timarini"
+  },
+  {
+    "country": "PE",
+    "id": 7544153,
+    "coord": {
+      "lat": -7.18756,
+      "lon": -76.735741
+    },
+    "name": "Juanjuiycillo"
+  },
+  {
+    "country": "PE",
+    "id": 3938527,
+    "coord": {
+      "lat": -14.06528,
+      "lon": -75.730827
+    },
+    "name": "Ica"
+  },
+  {
+    "country": "PE",
+    "id": 6254790,
+    "coord": {
+      "lat": -11.55611,
+      "lon": -77.274437
+    },
+    "name": "El Cortijo"
+  },
+  {
+    "country": "PE",
+    "id": 6671321,
+    "coord": {
+      "lat": -11.80312,
+      "lon": -75.506729
+    },
+    "name": "Bellavista"
+  },
+  {
+    "country": "PE",
+    "id": 6559781,
+    "coord": {
+      "lat": -9.47056,
+      "lon": -78.315002
+    },
+    "name": "El Carmen"
+  },
+  {
+    "country": "PE",
+    "id": 3698608,
+    "coord": {
+      "lat": -6.87028,
+      "lon": -78.151672
+    },
+    "name": "Celendin"
+  },
+  {
+    "country": "PE",
+    "id": 3695757,
+    "coord": {
+      "lat": -6.41667,
+      "lon": -76.533333
+    },
+    "name": "Lamas"
+  },
+  {
+    "country": "PE",
+    "id": 3698141,
+    "coord": {
+      "lat": -6.55,
+      "lon": -78.650002
+    },
+    "name": "Chota"
+  },
+  {
+    "country": "PE",
+    "id": 3928317,
+    "coord": {
+      "lat": -13,
+      "lon": -74.716667
+    },
+    "name": "Sullaca"
+  },
+  {
+    "country": "PE",
+    "id": 3948642,
+    "coord": {
+      "lat": -13.63389,
+      "lon": -72.881393
+    },
+    "name": "Abancay"
+  },
+  {
+    "country": "PE",
+    "id": 3938415,
+    "coord": {
+      "lat": -17.639441,
+      "lon": -71.337502
+    },
+    "name": "Ilo"
+  },
+  {
+    "country": "PE",
+    "id": 3929188,
+    "coord": {
+      "lat": -15.7,
+      "lon": -70.605278
+    },
+    "name": "Santa Lucia"
+  },
+  {
+    "country": "PE",
+    "id": 3943423,
+    "coord": {
+      "lat": -11.94306,
+      "lon": -76.709442
+    },
+    "name": "Chosica"
+  },
+  {
+    "country": "PE",
+    "id": 3694212,
+    "coord": {
+      "lat": -7.9,
+      "lon": -78.583328
+    },
+    "name": "Otuzco"
+  },
+  {
+    "country": "PE",
+    "id": 3925989,
+    "coord": {
+      "lat": -12.15,
+      "lon": -77
+    },
+    "name": "Vista Alegre"
+  },
+  {
+    "country": "PE",
+    "id": 3935619,
+    "coord": {
+      "lat": -12,
+      "lon": -70.25
+    },
+    "name": "Departamento de Madre de Dios"
+  },
+  {
+    "country": "PE",
+    "id": 3931470,
+    "coord": {
+      "lat": -12.6,
+      "lon": -69.183327
+    },
+    "name": "Puerto Maldonado"
+  },
+  {
+    "country": "PE",
+    "id": 3698176,
+    "coord": {
+      "lat": -6.64056,
+      "lon": -79.389168
+    },
+    "name": "Chongoyape"
+  },
+  {
+    "country": "PE",
+    "id": 3930842,
+    "coord": {
+      "lat": -10.06667,
+      "lon": -78.166672
+    },
+    "name": "Quilipe"
+  },
+  {
+    "country": "PE",
+    "id": 3694197,
+    "coord": {
+      "lat": -6.85194,
+      "lon": -79.303612
+    },
+    "name": "Oyotun"
+  },
+  {
+    "country": "PE",
+    "id": 3947338,
+    "coord": {
+      "lat": -11.83333,
+      "lon": -77.099998
+    },
+    "name": "Arenal"
+  },
+  {
+    "country": "PE",
+    "id": 6254739,
+    "coord": {
+      "lat": -11.83444,
+      "lon": -77.116943
+    },
+    "name": "Los Ángeles"
+  },
+  {
+    "country": "PE",
+    "id": 3933185,
+    "coord": {
+      "lat": -12.4,
+      "lon": -74.900002
+    },
+    "name": "Pampas"
+  },
+  {
+    "country": "PE",
+    "id": 3698105,
+    "coord": {
+      "lat": -5.0925,
+      "lon": -80.162498
+    },
+    "name": "Chulucanas"
+  },
+  {
+    "country": "PE",
+    "id": 3936996,
+    "coord": {
+      "lat": -15.35,
+      "lon": -70.366669
+    },
+    "name": "Lampa"
+  },
+  {
+    "country": "PE",
+    "id": 3933345,
+    "coord": {
+      "lat": -14.53361,
+      "lon": -75.185562
+    },
+    "name": "Palpa"
+  },
+  {
+    "country": "PE",
+    "id": 3932589,
+    "coord": {
+      "lat": -13.4511,
+      "lon": -76.130333
+    },
+    "name": "Pedregal"
+  },
+  {
+    "country": "PE",
+    "id": 3928274,
+    "coord": {
+      "lat": -10.8,
+      "lon": -77.73333
+    },
+    "name": "Supe"
+  },
+  {
+    "country": "PE",
+    "id": 3948917,
+    "coord": {
+      "lat": -14.44556,
+      "lon": -72.084167
+    },
+    "name": "Santo Tomas"
+  },
+  {
+    "country": "PE",
+    "id": 3696509,
+    "coord": {
+      "lat": -7.8,
+      "lon": -78.066673
+    },
+    "name": "Huamachuco"
+  },
+  {
+    "country": "PE",
+    "id": 3938451,
+    "coord": {
+      "lat": -16.08333,
+      "lon": -69.666672
+    },
+    "name": "Ilave"
+  },
+  {
+    "country": "PE",
+    "id": 3690654,
+    "coord": {
+      "lat": -5.9,
+      "lon": -76.083328
+    },
+    "name": "Yurimaguas"
+  },
+  {
+    "country": "PE",
+    "id": 3946820,
+    "coord": {
+      "lat": -10.75,
+      "lon": -77.76667
+    },
+    "name": "Barranca"
+  },
+  {
+    "country": "PE",
+    "id": 3935206,
+    "coord": {
+      "lat": -17.85,
+      "lon": -70.550003
+    },
+    "name": "Matamula"
+  },
+  {
+    "country": "PE",
+    "id": 3939386,
+    "coord": {
+      "lat": -12.93333,
+      "lon": -74.25
+    },
+    "name": "Huanta"
+  },
+  {
+    "country": "PE",
+    "id": 3934586,
+    "coord": {
+      "lat": -11.59972,
+      "lon": -76.141113
+    },
+    "name": "Morococha"
+  },
+  {
+    "country": "PE",
+    "id": 3695117,
+    "coord": {
+      "lat": -7.21667,
+      "lon": -79.449997
+    },
+    "name": "Lurifico"
+  },
+  {
+    "country": "PE",
+    "id": 3929528,
+    "coord": {
+      "lat": -13.41667,
+      "lon": -75.949997
+    },
+    "name": "San Juan"
+  },
+  {
+    "country": "PE",
+    "id": 3691150,
+    "coord": {
+      "lat": -6.74778,
+      "lon": -79.700562
+    },
+    "name": "Tumán"
+  },
+  {
+    "country": "PE",
+    "id": 3936947,
+    "coord": {
+      "lat": -12.11667,
+      "lon": -77.01667
+    },
+    "name": "La Palma"
+  },
+  {
+    "country": "PE",
+    "id": 3928231,
+    "coord": {
+      "lat": -12.11667,
+      "lon": -77.033333
+    },
+    "name": "Surquillo"
+  },
+  {
+    "country": "PE",
+    "id": 6254818,
+    "coord": {
+      "lat": -11.52,
+      "lon": -77.163612
+    },
+    "name": "Cerro Trinchera"
+  },
+  {
+    "country": "PE",
+    "id": 3929631,
+    "coord": {
+      "lat": -12.11667,
+      "lon": -77.050003
+    },
+    "name": "San Isidro"
+  },
+  {
+    "country": "PE",
+    "id": 3692310,
+    "coord": {
+      "lat": -7.43278,
+      "lon": -79.505829
+    },
+    "name": "San Pedro de Lloc"
+  },
+  {
+    "country": "PE",
+    "id": 3694603,
+    "coord": {
+      "lat": -6.46667,
+      "lon": -76.466667
+    },
+    "name": "Morales"
+  },
+  {
+    "country": "PE",
+    "id": 3941417,
+    "coord": {
+      "lat": -12.06667,
+      "lon": -77.01667
+    },
+    "name": "El Agustino"
+  },
+  {
+    "country": "PE",
+    "id": 3935720,
+    "coord": {
+      "lat": -12.28333,
+      "lon": -76.866669
+    },
+    "name": "Lurín"
+  },
+  {
+    "country": "PE",
+    "id": 3930743,
+    "coord": {
+      "lat": -11.98333,
+      "lon": -77.033333
+    },
+    "name": "Quinta Wisse"
+  },
+  {
+    "country": "PE",
+    "id": 6667456,
+    "coord": {
+      "lat": -13.0733,
+      "lon": -76.40271
+    },
+    "name": "San Martín"
+  },
+  {
+    "country": "PE",
+    "id": 3936719,
+    "coord": {
+      "lat": -12.16667,
+      "lon": -77.01667
+    },
+    "name": "Las Palmas"
+  },
+  {
+    "country": "PE",
+    "id": 3946818,
+    "coord": {
+      "lat": -12.14297,
+      "lon": -77.018623
+    },
+    "name": "Barranco"
+  },
+  {
+    "country": "PE",
+    "id": 3929279,
+    "coord": {
+      "lat": -12.03333,
+      "lon": -76.966667
+    },
+    "name": "Santa Anita"
+  },
+  {
+    "country": "PE",
+    "id": 3935155,
+    "coord": {
+      "lat": -11.85,
+      "lon": -76.400002
+    },
+    "name": "Matucana"
+  },
+  {
+    "country": "PE",
+    "id": 3943186,
+    "coord": {
+      "lat": -12.06667,
+      "lon": -75.283333
+    },
+    "name": "Chupaca"
+  },
+  {
+    "country": "PE",
+    "id": 3938310,
+    "coord": {
+      "lat": -11.95,
+      "lon": -77.066673
+    },
+    "name": "Infantas"
+  },
+  {
+    "country": "PE",
+    "id": 3936438,
+    "coord": {
+      "lat": -12.1,
+      "lon": -77.033333
+    },
+    "name": "Limatambo"
+  },
+  {
+    "country": "PE",
+    "id": 3936428,
+    "coord": {
+      "lat": -12.1,
+      "lon": -77.050003
+    },
+    "name": "Lince"
+  },
+  {
+    "country": "PE",
+    "id": 3696847,
+    "coord": {
+      "lat": -7.25,
+      "lon": -79.48333
+    },
+    "name": "Guadalupe"
+  },
+  {
+    "country": "PE",
+    "id": 3933733,
+    "coord": {
+      "lat": -12.23333,
+      "lon": -76.883331
+    },
+    "name": "Pachacamac"
+  },
+  {
+    "country": "PE",
+    "id": 3933105,
+    "coord": {
+      "lat": -14.83333,
+      "lon": -74.949997
+    },
+    "name": "Pangaravi"
+  },
+  {
+    "country": "PE",
+    "id": 3935382,
+    "coord": {
+      "lat": -12.08333,
+      "lon": -77.099998
+    },
+    "name": "Maranga"
+  },
+  {
+    "country": "PE",
+    "id": 3935608,
+    "coord": {
+      "lat": -12.1,
+      "lon": -77.083328
+    },
+    "name": "Magdalena Nueva"
+  },
+  {
+    "country": "PE",
+    "id": 3932166,
+    "coord": {
+      "lat": -13.4225,
+      "lon": -71.846672
+    },
+    "name": "Pisac"
+  },
+  {
+    "country": "PE",
+    "id": 3933132,
+    "coord": {
+      "lat": -11.86667,
+      "lon": -77.083328
+    },
+    "name": "Pancha Paula"
+  },
+  {
+    "country": "PE",
+    "id": 3691954,
+    "coord": {
+      "lat": -5.55694,
+      "lon": -80.82222
+    },
+    "name": "Sechura"
+  },
+  {
+    "country": "PE",
+    "id": 3698743,
+    "coord": {
+      "lat": -7.89167,
+      "lon": -79.222778
+    },
+    "name": "Cartavio"
+  },
+  {
+    "country": "PE",
+    "id": 3697033,
+    "coord": {
+      "lat": -6.63889,
+      "lon": -79.788887
+    },
+    "name": "Ferrenafe"
+  },
+  {
+    "country": "PE",
+    "id": 3699484,
+    "coord": {
+      "lat": -5.75611,
+      "lon": -78.441109
+    },
+    "name": "Bagua Grande"
+  },
+  {
+    "country": "PE",
+    "id": 3699831,
+    "coord": {
+      "lat": -9.03741,
+      "lon": -75.509239
+    },
+    "name": "Aguaytía"
+  },
+  {
+    "country": "PE",
+    "id": 3695000,
+    "coord": {
+      "lat": -4.10778,
+      "lon": -81.047501
+    },
+    "name": "Mancora"
+  },
+  {
+    "country": "PE",
+    "id": 3933024,
+    "coord": {
+      "lat": -10.66667,
+      "lon": -77.833328
+    },
+    "name": "Paramonga"
+  },
+  {
+    "country": "PE",
+    "id": 3697990,
+    "coord": {
+      "lat": -9.02306,
+      "lon": -78.615562
+    },
+    "name": "Coishco"
+  },
+  {
+    "country": "PE",
+    "id": 6672528,
+    "coord": {
+      "lat": -8.9492,
+      "lon": -76.104523
+    },
+    "name": "Sangapilla"
+  },
+  {
+    "country": "PE",
+    "id": 3942527,
+    "coord": {
+      "lat": -18.299999,
+      "lon": -70.316673
+    },
+    "name": "Concordia"
+  },
+  {
+    "country": "PE",
+    "id": 3747803,
+    "coord": {
+      "lat": -4.57917,
+      "lon": -81.256668
+    },
+    "name": "Villa Aeronautica"
+  },
+  {
+    "country": "PE",
+    "id": 3695539,
+    "coord": {
+      "lat": -5.21667,
+      "lon": -80.616669
+    },
+    "name": "Las Monteros"
+  },
+  {
+    "country": "PE",
+    "id": 6400502,
+    "coord": {
+      "lat": -18.06889,
+      "lon": -70.279167
+    },
+    "name": "Ciudad de Dios"
+  },
+  {
+    "country": "PE",
+    "id": 3964722,
+    "coord": {
+      "lat": -13.75556,
+      "lon": -76.224998
+    },
+    "name": "La Palmilla"
+  },
+  {
+    "country": "PE",
+    "id": 3949222,
+    "coord": {
+      "lat": -16.33,
+      "lon": -71.59417
+    },
+    "name": "Los Blancos"
+  },
+  {
+    "country": "PE",
+    "id": 3827832,
+    "coord": {
+      "lat": -3.77917,
+      "lon": -73.311943
+    },
+    "name": "Rumo Cocha"
+  },
+  {
+    "country": "PE",
+    "id": 6670027,
+    "coord": {
+      "lat": -9.87216,
+      "lon": -76.197067
+    },
+    "name": "Huacho"
+  },
+  {
+    "country": "PE",
+    "id": 3695370,
+    "coord": {
+      "lat": -5.88333,
+      "lon": -76.150002
+    },
+    "name": "Limón"
+  },
+  {
+    "country": "PE",
+    "id": 3818373,
+    "coord": {
+      "lat": -3.5375,
+      "lon": -80.389717
+    },
+    "name": "Primavera"
+  },
+  {
+    "country": "PE",
+    "id": 3692255,
+    "coord": {
+      "lat": -7.13333,
+      "lon": -78.5
+    },
+    "name": "Santa Barbara"
+  },
+  {
+    "country": "PE",
+    "id": 3926433,
+    "coord": {
+      "lat": -15.48333,
+      "lon": -70.150002
+    },
+    "name": "Urubambilla"
+  },
+  {
+    "country": "PE",
+    "id": 6674742,
+    "coord": {
+      "lat": -11.79071,
+      "lon": -75.480179
+    },
+    "name": "Atucpuquio"
+  },
+  {
+    "country": "PE",
+    "id": 3696057,
+    "coord": {
+      "lat": -7.17785,
+      "lon": -76.731354
+    },
+    "name": "Juanjui"
+  },
+  {
+    "country": "PE",
+    "id": 3692863,
+    "coord": {
+      "lat": -6.05861,
+      "lon": -77.165001
+    },
+    "name": "Rioja"
+  },
+  {
+    "country": "PE",
+    "id": 3946656,
+    "coord": {
+      "lat": -12.01667,
+      "lon": -77.116669
+    },
+    "name": "Bocanegra"
+  },
+  {
+    "country": "PE",
+    "id": 6380342,
+    "coord": {
+      "lat": -9.35111,
+      "lon": -77.60083
+    },
+    "name": "Quebrada"
+  },
+  {
+    "country": "PE",
+    "id": 6308319,
+    "coord": {
+      "lat": -13.70472,
+      "lon": -73.353607
+    },
+    "name": "Chuñuna Pampa"
+  },
+  {
+    "country": "PE",
+    "id": 3929494,
+    "coord": {
+      "lat": -13.165,
+      "lon": -74.208611
+    },
+    "name": "San Juan Bautista"
+  },
+  {
+    "country": "PE",
+    "id": 3695731,
+    "coord": {
+      "lat": -6.78639,
+      "lon": -79.82222
+    },
+    "name": "La Mona"
+  },
+  {
+    "country": "PE",
+    "id": 3691348,
+    "coord": {
+      "lat": -9.28951,
+      "lon": -76.008759
+    },
+    "name": "Tingo Maria"
+  },
+  {
+    "country": "PE",
+    "id": 6198999,
+    "coord": {
+      "lat": -9.13194,
+      "lon": -78.517776
+    },
+    "name": "Urbanización José C. C. Maritegui"
+  },
+  {
+    "country": "PE",
+    "id": 3733378,
+    "coord": {
+      "lat": -8.39306,
+      "lon": -74.573334
+    },
+    "name": "San Martín de Porres"
+  },
+  {
+    "country": "PE",
+    "id": 6267363,
+    "coord": {
+      "lat": -5.99778,
+      "lon": -76.98056
+    },
+    "name": "Puerto Motilones"
+  },
+  {
+    "country": "PE",
+    "id": 3934356,
+    "coord": {
+      "lat": -14.83333,
+      "lon": -74.949997
+    },
+    "name": "Nazca"
+  },
+  {
+    "country": "PE",
+    "id": 3690608,
+    "coord": {
+      "lat": -3.68046,
+      "lon": -80.678192
+    },
+    "name": "Zorritos"
+  },
+  {
+    "country": "PE",
+    "id": 3690673,
+    "coord": {
+      "lat": -9.13833,
+      "lon": -77.743607
+    },
+    "name": "Yungay"
+  },
+  {
+    "country": "PE",
+    "id": 3690733,
+    "coord": {
+      "lat": -8.98333,
+      "lon": -77.300003
+    },
+    "name": "Yauya"
+  },
+  {
+    "country": "PE",
+    "id": 3690935,
+    "coord": {
+      "lat": -5.41667,
+      "lon": -80.783333
+    },
+    "name": "Vice"
+  },
+  {
+    "country": "PE",
+    "id": 3691161,
+    "coord": {
+      "lat": -6.51,
+      "lon": -79.85833
+    },
+    "name": "Tucume"
+  },
+  {
+    "country": "PE",
+    "id": 3691638,
+    "coord": {
+      "lat": -6.35,
+      "lon": -76.683327
+    },
+    "name": "Tabalosos"
+  },
+  {
+    "country": "PE",
+    "id": 3691712,
+    "coord": {
+      "lat": -6.13917,
+      "lon": -77.103889
+    },
+    "name": "Soritor"
+  },
+  {
+    "country": "PE",
+    "id": 3692020,
+    "coord": {
+      "lat": -4.66667,
+      "lon": -73.51667
+    },
+    "name": "Saquena"
+  },
+  {
+    "country": "PE",
+    "id": 3692072,
+    "coord": {
+      "lat": -8.15,
+      "lon": -78.183327
+    },
+    "name": "Santiago de Chuco"
+  },
+  {
+    "country": "PE",
+    "id": 3692116,
+    "coord": {
+      "lat": -6.76667,
+      "lon": -79.833328
+    },
+    "name": "Santa Rosa"
+  },
+  {
+    "country": "PE",
+    "id": 3692482,
+    "coord": {
+      "lat": -6.7425,
+      "lon": -79.82917
+    },
+    "name": "San Jose"
+  },
+  {
+    "country": "PE",
+    "id": 3692529,
+    "coord": {
+      "lat": -5.14583,
+      "lon": -79.001389
+    },
+    "name": "San Ignacio"
+  },
+  {
+    "country": "PE",
+    "id": 3692727,
+    "coord": {
+      "lat": -4.85722,
+      "lon": -80.681107
+    },
+    "name": "Salitral"
+  },
+  {
+    "country": "PE",
+    "id": 3692729,
+    "coord": {
+      "lat": -5.03333,
+      "lon": -81.066673
+    },
+    "name": "Salinera Colan"
+  },
+  {
+    "country": "PE",
+    "id": 3692747,
+    "coord": {
+      "lat": -8.23333,
+      "lon": -78.966667
+    },
+    "name": "Salaverry"
+  },
+  {
+    "country": "PE",
+    "id": 3692900,
+    "coord": {
+      "lat": -6.86556,
+      "lon": -79.81778
+    },
+    "name": "Reque"
+  },
+  {
+    "country": "PE",
+    "id": 3692953,
+    "coord": {
+      "lat": -4.25694,
+      "lon": -69.959442
+    },
+    "name": "Ramon Castilla"
+  },
+  {
+    "country": "PE",
+    "id": 3692994,
+    "coord": {
+      "lat": -7.96667,
+      "lon": -78.199997
+    },
+    "name": "Quiruvilca"
+  },
+  {
+    "country": "PE",
+    "id": 3693191,
+    "coord": {
+      "lat": -8.99056,
+      "lon": -78.645561
+    },
+    "name": "Puerto Santa"
+  },
+  {
+    "country": "PE",
+    "id": 3693302,
+    "coord": {
+      "lat": -7.18806,
+      "lon": -79.515282
+    },
+    "name": "Pueblo Nuevo"
+  },
+  {
+    "country": "PE",
+    "id": 3693305,
+    "coord": {
+      "lat": -5.71667,
+      "lon": -79.883331
+    },
+    "name": "Pueblo Nuevo"
+  },
+  {
+    "country": "PE",
+    "id": 3693468,
+    "coord": {
+      "lat": -8.83333,
+      "lon": -77.466667
+    },
+    "name": "Pomabamba"
+  },
+  {
+    "country": "PE",
+    "id": 3693646,
+    "coord": {
+      "lat": -6.91969,
+      "lon": -76.330368
+    },
+    "name": "Picota"
+  },
+  {
+    "country": "PE",
+    "id": 3694183,
+    "coord": {
+      "lat": -7.16667,
+      "lon": -79.5
+    },
+    "name": "Pacanga"
+  },
+  {
+    "country": "PE",
+    "id": 3694256,
+    "coord": {
+      "lat": -5.98472,
+      "lon": -79.745277
+    },
+    "name": "Olmos"
+  },
+  {
+    "country": "PE",
+    "id": 3694569,
+    "coord": {
+      "lat": -6.15194,
+      "lon": -79.714172
+    },
+    "name": "Motupe"
+  },
+  {
+    "country": "PE",
+    "id": 3694582,
+    "coord": {
+      "lat": -5.18222,
+      "lon": -79.968887
+    },
+    "name": "Morropon"
+  },
+  {
+    "country": "PE",
+    "id": 3694586,
+    "coord": {
+      "lat": -6.54167,
+      "lon": -80.011108
+    },
+    "name": "Morrope"
+  },
+  {
+    "country": "PE",
+    "id": 3694720,
+    "coord": {
+      "lat": -6.54694,
+      "lon": -79.86306
+    },
+    "name": "Mochumi"
+  },
+  {
+    "country": "PE",
+    "id": 3695320,
+    "coord": {
+      "lat": -9.41667,
+      "lon": -76.783333
+    },
+    "name": "Llata"
+  },
+  {
+    "country": "PE",
+    "id": 3695465,
+    "coord": {
+      "lat": -9.82907,
+      "lon": -76.801804
+    },
+    "name": "La Union"
+  },
+  {
+    "country": "PE",
+    "id": 3695552,
+    "coord": {
+      "lat": -4.65333,
+      "lon": -80.246674
+    },
+    "name": "Las Lomas"
+  },
+  {
+    "country": "PE",
+    "id": 3695829,
+    "coord": {
+      "lat": -4.91167,
+      "lon": -80.959999
+    },
+    "name": "La Huaca"
+  },
+  {
+    "country": "PE",
+    "id": 3695844,
+    "coord": {
+      "lat": -5.22694,
+      "lon": -75.675278
+    },
+    "name": "Lagunas"
+  },
+  {
+    "country": "PE",
+    "id": 3696096,
+    "coord": {
+      "lat": -6.11667,
+      "lon": -76.949997
+    },
+    "name": "Jepelacio"
+  },
+  {
+    "country": "PE",
+    "id": 3696104,
+    "coord": {
+      "lat": -6.39083,
+      "lon": -79.821938
+    },
+    "name": "Jayanca"
+  },
+  {
+    "country": "PE",
+    "id": 3696267,
+    "coord": {
+      "lat": -7.28333,
+      "lon": -76.800003
+    },
+    "name": "Huicungo"
+  },
+  {
+    "country": "PE",
+    "id": 3696466,
+    "coord": {
+      "lat": -5.23861,
+      "lon": -79.450562
+    },
+    "name": "Huancabamba"
+  },
+  {
+    "country": "PE",
+    "id": 3697083,
+    "coord": {
+      "lat": -6.90806,
+      "lon": -79.864166
+    },
+    "name": "Eten"
+  },
+  {
+    "country": "PE",
+    "id": 3697441,
+    "coord": {
+      "lat": -4.27139,
+      "lon": -81.214722
+    },
+    "name": "El Alto"
+  },
+  {
+    "country": "PE",
+    "id": 3697838,
+    "coord": {
+      "lat": -7.33333,
+      "lon": -75.01667
+    },
+    "name": "Contamana"
+  },
+  {
+    "country": "PE",
+    "id": 3698359,
+    "coord": {
+      "lat": -7.84472,
+      "lon": -79.146942
+    },
+    "name": "Chicama"
+  },
+  {
+    "country": "PE",
+    "id": 3698414,
+    "coord": {
+      "lat": -6.57417,
+      "lon": -76.136673
+    },
+    "name": "Chazuta"
+  },
+  {
+    "country": "PE",
+    "id": 3698705,
+    "coord": {
+      "lat": -7.48333,
+      "lon": -78.816673
+    },
+    "name": "Cascas"
+  },
+  {
+    "country": "PE",
+    "id": 3698814,
+    "coord": {
+      "lat": -9.28194,
+      "lon": -77.644722
+    },
+    "name": "Carhuaz"
+  },
+  {
+    "country": "PE",
+    "id": 3698841,
+    "coord": {
+      "lat": -9.04667,
+      "lon": -77.811394
+    },
+    "name": "Caras"
+  },
+  {
+    "country": "PE",
+    "id": 3699078,
+    "coord": {
+      "lat": -5.73639,
+      "lon": -78.42556
+    },
+    "name": "Cajaruro"
+  },
+  {
+    "country": "PE",
+    "id": 3699095,
+    "coord": {
+      "lat": -7.61667,
+      "lon": -78.050003
+    },
+    "name": "Cajabamba"
+  },
+  {
+    "country": "PE",
+    "id": 3699223,
+    "coord": {
+      "lat": -5.26083,
+      "lon": -79.964172
+    },
+    "name": "Buenos Aires"
+  },
+  {
+    "country": "PE",
+    "id": 3699350,
+    "coord": {
+      "lat": -5.45,
+      "lon": -80.75
+    },
+    "name": "Bernal"
+  },
+  {
+    "country": "PE",
+    "id": 3699366,
+    "coord": {
+      "lat": -5.66417,
+      "lon": -78.677223
+    },
+    "name": "Bellavista"
+  },
+  {
+    "country": "PE",
+    "id": 3699427,
+    "coord": {
+      "lat": -4.83333,
+      "lon": -76.699997
+    },
+    "name": "Barranca"
+  },
+  {
+    "country": "PE",
+    "id": 3699456,
+    "coord": {
+      "lat": -6.68333,
+      "lon": -78.533333
+    },
+    "name": "Bambamarca"
+  },
+  {
+    "country": "PE",
+    "id": 3699544,
+    "coord": {
+      "lat": -7.71444,
+      "lon": -79.10778
+    },
+    "name": "Ascope"
+  },
+  {
+    "country": "PE",
+    "id": 3699832,
+    "coord": {
+      "lat": -3.48139,
+      "lon": -80.245003
+    },
+    "name": "Aguas Verdes"
+  },
+  {
+    "country": "PE",
+    "id": 3733380,
+    "coord": {
+      "lat": -8.47528,
+      "lon": -74.805832
+    },
+    "name": "Campoverde"
+  },
+  {
+    "country": "PE",
+    "id": 3814639,
+    "coord": {
+      "lat": -4.07611,
+      "lon": -80.736107
+    },
+    "name": "Papayal"
+  },
+  {
+    "country": "PE",
+    "id": 3925467,
+    "coord": {
+      "lat": -16.25223,
+      "lon": -71.679688
+    },
+    "name": "Yura"
+  },
+  {
+    "country": "PE",
+    "id": 3925749,
+    "coord": {
+      "lat": -14.21806,
+      "lon": -71.431671
+    },
+    "name": "Yanaoca"
+  },
+  {
+    "country": "PE",
+    "id": 3925809,
+    "coord": {
+      "lat": -10.51667,
+      "lon": -76.498611
+    },
+    "name": "Yanahuanca"
+  },
+  {
+    "country": "PE",
+    "id": 3925955,
+    "coord": {
+      "lat": -15.80861,
+      "lon": -71.201111
+    },
+    "name": "Vizcachane"
+  },
+  {
+    "country": "PE",
+    "id": 3926119,
+    "coord": {
+      "lat": -13.7,
+      "lon": -76.150002
+    },
+    "name": "Villa Tupac Amaru"
+  },
+  {
+    "country": "PE",
+    "id": 3926120,
+    "coord": {
+      "lat": -10.73944,
+      "lon": -75.269722
+    },
+    "name": "Villa Rica"
+  },
+  {
+    "country": "PE",
+    "id": 3926328,
+    "coord": {
+      "lat": -11.02306,
+      "lon": -77.643059
+    },
+    "name": "Vegueta"
+  },
+  {
+    "country": "PE",
+    "id": 3926438,
+    "coord": {
+      "lat": -13.30472,
+      "lon": -72.115829
+    },
+    "name": "Urubamba"
+  },
+  {
+    "country": "PE",
+    "id": 3926462,
+    "coord": {
+      "lat": -13.68611,
+      "lon": -71.62278
+    },
+    "name": "Urcos"
+  },
+  {
+    "country": "PE",
+    "id": 3926776,
+    "coord": {
+      "lat": -14.16389,
+      "lon": -71.476669
+    },
+    "name": "Tungasuca"
+  },
+  {
+    "country": "PE",
+    "id": 3927023,
+    "coord": {
+      "lat": -17.405279,
+      "lon": -70.364998
+    },
+    "name": "Totoral"
+  },
+  {
+    "country": "PE",
+    "id": 3927158,
+    "coord": {
+      "lat": -17.076941,
+      "lon": -70.84333
+    },
+    "name": "Torata"
+  },
+  {
+    "country": "PE",
+    "id": 3927420,
+    "coord": {
+      "lat": -10.75,
+      "lon": -76.300003
+    },
+    "name": "Tinyahuarco"
+  },
+  {
+    "country": "PE",
+    "id": 3927441,
+    "coord": {
+      "lat": -14.145,
+      "lon": -71.406937
+    },
+    "name": "Tinta"
+  },
+  {
+    "country": "PE",
+    "id": 3927774,
+    "coord": {
+      "lat": -17.47444,
+      "lon": -70.032784
+    },
+    "name": "Tarata"
+  },
+  {
+    "country": "PE",
+    "id": 3927803,
+    "coord": {
+      "lat": -15.76667,
+      "lon": -69.683327
+    },
+    "name": "Taquile"
+  },
+  {
+    "country": "PE",
+    "id": 3927995,
+    "coord": {
+      "lat": -14.8,
+      "lon": -73.916672
+    },
+    "name": "Tambo"
+  },
+  {
+    "country": "PE",
+    "id": 3928043,
+    "coord": {
+      "lat": -13.65306,
+      "lon": -73.429169
+    },
+    "name": "Talavera"
+  },
+  {
+    "country": "PE",
+    "id": 3928365,
+    "coord": {
+      "lat": -14.01889,
+      "lon": -75.758057
+    },
+    "name": "Subtanjalla"
+  },
+  {
+    "country": "PE",
+    "id": 3928691,
+    "coord": {
+      "lat": -12.03333,
+      "lon": -75.283333
+    },
+    "name": "Sicaya"
+  },
+  {
+    "country": "PE",
+    "id": 3928867,
+    "coord": {
+      "lat": -11.13611,
+      "lon": -77.193329
+    },
+    "name": "Sayan"
+  },
+  {
+    "country": "PE",
+    "id": 3929051,
+    "coord": {
+      "lat": -14.18861,
+      "lon": -75.714172
+    },
+    "name": "Santiago"
+  },
+  {
+    "country": "PE",
+    "id": 3929172,
+    "coord": {
+      "lat": -12,
+      "lon": -76.900002
+    },
+    "name": "Santa Maria"
+  },
+  {
+    "country": "PE",
+    "id": 3929213,
+    "coord": {
+      "lat": -11.85,
+      "lon": -76.683327
+    },
+    "name": "Santa Eulalia"
+  },
+  {
+    "country": "PE",
+    "id": 3929314,
+    "coord": {
+      "lat": -11.12139,
+      "lon": -75.353058
+    },
+    "name": "San Ramon"
+  },
+  {
+    "country": "PE",
+    "id": 3929335,
+    "coord": {
+      "lat": -11.25111,
+      "lon": -75.861671
+    },
+    "name": "San Pedro de Cajas"
+  },
+  {
+    "country": "PE",
+    "id": 3929375,
+    "coord": {
+      "lat": -14.20278,
+      "lon": -71.315559
+    },
+    "name": "San Pablo"
+  },
+  {
+    "country": "PE",
+    "id": 3929389,
+    "coord": {
+      "lat": -10.1,
+      "lon": -76.583328
+    },
+    "name": "San Miguel de Cauri"
+  },
+  {
+    "country": "PE",
+    "id": 3929403,
+    "coord": {
+      "lat": -13.0125,
+      "lon": -73.980827
+    },
+    "name": "San Miguel"
+  },
+  {
+    "country": "PE",
+    "id": 3929438,
+    "coord": {
+      "lat": -12.06667,
+      "lon": -77
+    },
+    "name": "San Luis"
+  },
+  {
+    "country": "PE",
+    "id": 3929493,
+    "coord": {
+      "lat": -14.01083,
+      "lon": -75.735832
+    },
+    "name": "San Juan Bautista"
+  },
+  {
+    "country": "PE",
+    "id": 3929607,
+    "coord": {
+      "lat": -13.65028,
+      "lon": -73.364998
+    },
+    "name": "San Jeronimo"
+  },
+  {
+    "country": "PE",
+    "id": 3929611,
+    "coord": {
+      "lat": -11.94717,
+      "lon": -75.282928
+    },
+    "name": "San Jeronimo"
+  },
+  {
+    "country": "PE",
+    "id": 3929805,
+    "coord": {
+      "lat": -12.38333,
+      "lon": -76.783333
+    },
+    "name": "San Bartolo"
+  },
+  {
+    "country": "PE",
+    "id": 3929888,
+    "coord": {
+      "lat": -11.99219,
+      "lon": -75.245277
+    },
+    "name": "San Agustin"
+  },
+  {
+    "country": "PE",
+    "id": 3930348,
+    "coord": {
+      "lat": -14.51972,
+      "lon": -75.201393
+    },
+    "name": "Rio Grande"
+  },
+  {
+    "country": "PE",
+    "id": 3930382,
+    "coord": {
+      "lat": -11.91806,
+      "lon": -76.666389
+    },
+    "name": "Ricardo Palma"
+  },
+  {
+    "country": "PE",
+    "id": 3930817,
+    "coord": {
+      "lat": -12.95,
+      "lon": -76.383331
+    },
+    "name": "Quilmana"
+  },
+  {
+    "country": "PE",
+    "id": 3930871,
+    "coord": {
+      "lat": -17.31778,
+      "lon": -70.258057
+    },
+    "name": "Quilahuani"
+  },
+  {
+    "country": "PE",
+    "id": 3931137,
+    "coord": {
+      "lat": -15.46667,
+      "lon": -69.433327
+    },
+    "name": "Putina"
+  },
+  {
+    "country": "PE",
+    "id": 3931223,
+    "coord": {
+      "lat": -14.7,
+      "lon": -74.133331
+    },
+    "name": "Puquio"
+  },
+  {
+    "country": "PE",
+    "id": 3931255,
+    "coord": {
+      "lat": -17.171671,
+      "lon": -71.79306
+    },
+    "name": "Punta de Bombon"
+  },
+  {
+    "country": "PE",
+    "id": 3931427,
+    "coord": {
+      "lat": -17.15778,
+      "lon": -70.352219
+    },
+    "name": "Pujocucho"
+  },
+  {
+    "country": "PE",
+    "id": 3931453,
+    "coord": {
+      "lat": -10.81667,
+      "lon": -77.75
+    },
+    "name": "Puerto Supe"
+  },
+  {
+    "country": "PE",
+    "id": 3931656,
+    "coord": {
+      "lat": -15.98028,
+      "lon": -71.460564
+    },
+    "name": "Pucara"
+  },
+  {
+    "country": "PE",
+    "id": 3932282,
+    "coord": {
+      "lat": -12.05,
+      "lon": -75.26667
+    },
+    "name": "Pilcomay"
+  },
+  {
+    "country": "PE",
+    "id": 3932502,
+    "coord": {
+      "lat": -10.94917,
+      "lon": -75.226112
+    },
+    "name": "Perene"
+  },
+  {
+    "country": "PE",
+    "id": 3932687,
+    "coord": {
+      "lat": -10.7,
+      "lon": -77.783333
+    },
+    "name": "Pativilca"
+  },
+  {
+    "country": "PE",
+    "id": 3933058,
+    "coord": {
+      "lat": -13.86667,
+      "lon": -76.26667
+    },
+    "name": "Paracas"
+  },
+  {
+    "country": "PE",
+    "id": 3933104,
+    "coord": {
+      "lat": -12.11667,
+      "lon": -73
+    },
+    "name": "Pangoa"
+  },
+  {
+    "country": "PE",
+    "id": 3933218,
+    "coord": {
+      "lat": -14.14639,
+      "lon": -71.459442
+    },
+    "name": "Pampamarca"
+  },
+  {
+    "country": "PE",
+    "id": 3933659,
+    "coord": {
+      "lat": -17.58333,
+      "lon": -71.333328
+    },
+    "name": "Pacocha"
+  },
+  {
+    "country": "PE",
+    "id": 3933867,
+    "coord": {
+      "lat": -10.66806,
+      "lon": -76.773064
+    },
+    "name": "Oyon"
+  },
+  {
+    "country": "PE",
+    "id": 3933874,
+    "coord": {
+      "lat": -10.5775,
+      "lon": -75.401672
+    },
+    "name": "Oxapampa"
+  },
+  {
+    "country": "PE",
+    "id": 3933956,
+    "coord": {
+      "lat": -13.59278,
+      "lon": -71.771942
+    },
+    "name": "Oropesa"
+  },
+  {
+    "country": "PE",
+    "id": 3933981,
+    "coord": {
+      "lat": -11.96667,
+      "lon": -75.333328
+    },
+    "name": "Orcotuna"
+  },
+  {
+    "country": "PE",
+    "id": 3933986,
+    "coord": {
+      "lat": -15.26611,
+      "lon": -72.341667
+    },
+    "name": "Orcopampa"
+  },
+  {
+    "country": "PE",
+    "id": 3934055,
+    "coord": {
+      "lat": -13.25722,
+      "lon": -72.263062
+    },
+    "name": "Ollantaytambo"
+  },
+  {
+    "country": "PE",
+    "id": 3934233,
+    "coord": {
+      "lat": -14.48,
+      "lon": -70.641113
+    },
+    "name": "Nunoa"
+  },
+  {
+    "country": "PE",
+    "id": 3934290,
+    "coord": {
+      "lat": -11.95,
+      "lon": -76.699997
+    },
+    "name": "Nicolas de Pierola"
+  },
+  {
+    "country": "PE",
+    "id": 3935102,
+    "coord": {
+      "lat": -11.32583,
+      "lon": -74.53083
+    },
+    "name": "Mazamari"
+  },
+  {
+    "country": "PE",
+    "id": 3935379,
+    "coord": {
+      "lat": -14.35778,
+      "lon": -71.16861
+    },
+    "name": "Marangani"
+  },
+  {
+    "country": "PE",
+    "id": 3935624,
+    "coord": {
+      "lat": -14.08333,
+      "lon": -70.433327
+    },
+    "name": "Macusani"
+  },
+  {
+    "country": "PE",
+    "id": 3935969,
+    "coord": {
+      "lat": -14.09667,
+      "lon": -75.690826
+    },
+    "name": "Los Aquijes"
+  },
+  {
+    "country": "PE",
+    "id": 3936088,
+    "coord": {
+      "lat": -16.014721,
+      "lon": -72.014168
+    },
+    "name": "Lluta"
+  },
+  {
+    "country": "PE",
+    "id": 3936541,
+    "coord": {
+      "lat": -14.49361,
+      "lon": -71.154999
+    },
+    "name": "Layo"
+  },
+  {
+    "country": "PE",
+    "id": 3936963,
+    "coord": {
+      "lat": -14.43194,
+      "lon": -71.273064
+    },
+    "name": "Langui"
+  },
+  {
+    "country": "PE",
+    "id": 3937516,
+    "coord": {
+      "lat": -16.216669,
+      "lon": -69.449997
+    },
+    "name": "Juli"
+  },
+  {
+    "country": "PE",
+    "id": 3937765,
+    "coord": {
+      "lat": -15.75,
+      "lon": -71.346672
+    },
+    "name": "Jatun Orcochiri"
+  },
+  {
+    "country": "PE",
+    "id": 3938324,
+    "coord": {
+      "lat": -11.99,
+      "lon": -77.04583
+    },
+    "name": "Independencia"
+  },
+  {
+    "country": "PE",
+    "id": 3938455,
+    "coord": {
+      "lat": -17.42083,
+      "lon": -70.513329
+    },
+    "name": "Ilabaya"
+  },
+  {
+    "country": "PE",
+    "id": 3938531,
+    "coord": {
+      "lat": -11.35,
+      "lon": -69.583328
+    },
+    "name": "Iberia"
+  },
+  {
+    "country": "PE",
+    "id": 3938819,
+    "coord": {
+      "lat": -12.13333,
+      "lon": -75.23333
+    },
+    "name": "Huayucachi"
+  },
+  {
+    "country": "PE",
+    "id": 3939123,
+    "coord": {
+      "lat": -11.31667,
+      "lon": -75.616669
+    },
+    "name": "Huasahuasi"
+  },
+  {
+    "country": "PE",
+    "id": 3939531,
+    "coord": {
+      "lat": -15.82222,
+      "lon": -70.885559
+    },
+    "name": "Hacienda Huancane"
+  },
+  {
+    "country": "PE",
+    "id": 3941492,
+    "coord": {
+      "lat": -16.565559,
+      "lon": -69.041672
+    },
+    "name": "Desaguadero"
+  },
+  {
+    "country": "PE",
+    "id": 3942259,
+    "coord": {
+      "lat": -15.03333,
+      "lon": -73.783333
+    },
+    "name": "Coracora"
+  },
+  {
+    "country": "PE",
+    "id": 3942548,
+    "coord": {
+      "lat": -11.91811,
+      "lon": -75.311729
+    },
+    "name": "Concepcion"
+  },
+  {
+    "country": "PE",
+    "id": 3942593,
+    "coord": {
+      "lat": -14.10111,
+      "lon": -71.429443
+    },
+    "name": "Combapata"
+  },
+  {
+    "country": "PE",
+    "id": 3942957,
+    "coord": {
+      "lat": -17.088329,
+      "lon": -71.7575
+    },
+    "name": "Cocachacra"
+  },
+  {
+    "country": "PE",
+    "id": 3943626,
+    "coord": {
+      "lat": -15.63833,
+      "lon": -71.601112
+    },
+    "name": "Chivay"
+  },
+  {
+    "country": "PE",
+    "id": 3943699,
+    "coord": {
+      "lat": -17.497219,
+      "lon": -70.21611
+    },
+    "name": "Chipispaya"
+  },
+  {
+    "country": "PE",
+    "id": 3943957,
+    "coord": {
+      "lat": -12.52111,
+      "lon": -76.737221
+    },
+    "name": "Chilca"
+  },
+  {
+    "country": "PE",
+    "id": 3944134,
+    "coord": {
+      "lat": -14.47278,
+      "lon": -71.39389
+    },
+    "name": "Checca"
+  },
+  {
+    "country": "PE",
+    "id": 3944138,
+    "coord": {
+      "lat": -14.02694,
+      "lon": -71.452782
+    },
+    "name": "Checacupe"
+  },
+  {
+    "country": "PE",
+    "id": 3945466,
+    "coord": {
+      "lat": -10.91667,
+      "lon": -76.033333
+    },
+    "name": "Carhuamayo"
+  },
+  {
+    "country": "PE",
+    "id": 3945808,
+    "coord": {
+      "lat": -17.26778,
+      "lon": -70.249443
+    },
+    "name": "Candarave"
+  },
+  {
+    "country": "PE",
+    "id": 3946147,
+    "coord": {
+      "lat": -11.0925,
+      "lon": -77.626671
+    },
+    "name": "Caleta de Carquin"
+  },
+  {
+    "country": "PE",
+    "id": 3946177,
+    "coord": {
+      "lat": -13.33333,
+      "lon": -71.949997
+    },
+    "name": "Calca"
+  },
+  {
+    "country": "PE",
+    "id": 3946937,
+    "coord": {
+      "lat": -14.91667,
+      "lon": -70.216667
+    },
+    "name": "Azangaro"
+  },
+  {
+    "country": "PE",
+    "id": 3946962,
+    "coord": {
+      "lat": -12.65,
+      "lon": -73.916672
+    },
+    "name": "Ayna"
+  },
+  {
+    "country": "PE",
+    "id": 3947110,
+    "coord": {
+      "lat": -15.68333,
+      "lon": -70.150002
+    },
+    "name": "Atuncolla"
+  },
+  {
+    "country": "PE",
+    "id": 3947634,
+    "coord": {
+      "lat": -13.47056,
+      "lon": -72.148331
+    },
+    "name": "Anta"
+  },
+  {
+    "country": "PE",
+    "id": 3948448,
+    "coord": {
+      "lat": -11.73193,
+      "lon": -75.546341
+    },
+    "name": "Acolla"
+  },
+  {
+    "country": "PE",
+    "id": 3948613,
+    "coord": {
+      "lat": -15.43111,
+      "lon": -74.615829
+    },
+    "name": "Acari"
+  },
+  {
+    "country": "PE",
+    "id": 3948689,
+    "coord": {
+      "lat": -14.12,
+      "lon": -71.472778
+    },
+    "name": "Mosoc Llacta"
+  },
+  {
+    "country": "PE",
+    "id": 3951506,
+    "coord": {
+      "lat": -15.76806,
+      "lon": -71.459717
+    },
+    "name": "Huarancante"
+  },
+  {
+    "country": "PE",
+    "id": 3951550,
+    "coord": {
+      "lat": -15.50583,
+      "lon": -71.491669
+    },
+    "name": "Ccolo"
+  },
+  {
+    "country": "PE",
+    "id": 3951691,
+    "coord": {
+      "lat": -15.63972,
+      "lon": -71.061111
+    },
+    "name": "Huarichancara"
+  },
+  {
+    "country": "PE",
+    "id": 3951757,
+    "coord": {
+      "lat": -15.63917,
+      "lon": -71.299721
+    },
+    "name": "Llongasora"
+  },
+  {
+    "country": "PE",
+    "id": 3951767,
+    "coord": {
+      "lat": -15.56333,
+      "lon": -71.303062
+    },
+    "name": "Jayune"
+  },
+  {
+    "country": "PE",
+    "id": 3952372,
+    "coord": {
+      "lat": -17.287781,
+      "lon": -70.044998
+    },
+    "name": "Chuquitira"
+  },
+  {
+    "country": "PE",
+    "id": 3952849,
+    "coord": {
+      "lat": -14.17944,
+      "lon": -71.140282
+    },
+    "name": "Callanca"
+  },
+  {
+    "country": "PE",
+    "id": 3952867,
+    "coord": {
+      "lat": -14.09333,
+      "lon": -71.332497
+    },
+    "name": "Cullcuyre"
+  },
+  {
+    "country": "PE",
+    "id": 3953301,
+    "coord": {
+      "lat": -14.34111,
+      "lon": -71.469437
+    },
+    "name": "Cahuanuyo"
+  },
+  {
+    "country": "PE",
+    "id": 3953343,
+    "coord": {
+      "lat": -14.27861,
+      "lon": -71.44944
+    },
+    "name": "Ccaquiracunca"
+  },
+  {
+    "country": "PE",
+    "id": 3953385,
+    "coord": {
+      "lat": -14.24306,
+      "lon": -71.44194
+    },
+    "name": "Chignayhua"
+  },
+  {
+    "country": "PE",
+    "id": 3953594,
+    "coord": {
+      "lat": -14.12611,
+      "lon": -71.41111
+    },
+    "name": "Ccuntuma"
+  },
+  {
+    "country": "PE",
+    "id": 3953687,
+    "coord": {
+      "lat": -14.08861,
+      "lon": -71.337219
+    },
+    "name": "Lima Pampa"
+  },
+  {
+    "country": "PE",
+    "id": 3953711,
+    "coord": {
+      "lat": -14.09417,
+      "lon": -71.338608
+    },
+    "name": "Jayobamba"
+  },
+  {
+    "country": "PE",
+    "id": 3953732,
+    "coord": {
+      "lat": -14.1825,
+      "lon": -71.384438
+    },
+    "name": "Queromarca"
+  },
+  {
+    "country": "PE",
+    "id": 3953762,
+    "coord": {
+      "lat": -14.05417,
+      "lon": -71.385834
+    },
+    "name": "Qquea"
+  },
+  {
+    "country": "PE",
+    "id": 3953918,
+    "coord": {
+      "lat": -14.47111,
+      "lon": -71.198059
+    },
+    "name": "Conchopata"
+  },
+  {
+    "country": "PE",
+    "id": 3954288,
+    "coord": {
+      "lat": -14.28444,
+      "lon": -71.072502
+    },
+    "name": "Mosoc Cancha"
+  },
+  {
+    "country": "PE",
+    "id": 3954291,
+    "coord": {
+      "lat": -14.26528,
+      "lon": -71.081673
+    },
+    "name": "Huayna Alcalde"
+  },
+  {
+    "country": "PE",
+    "id": 7535952,
+    "coord": {
+      "lat": -13.63333,
+      "lon": -72.883331
+    },
+    "name": "San Pedro De Cachora"
+  },
+  {
+    "country": "PE",
+    "id": 3927548,
+    "coord": {
+      "lat": -12.13333,
+      "lon": -76.433327
+    },
+    "name": "Tierra Amarilla"
+  },
+  {
+    "country": "PE",
+    "id": 3946931,
+    "coord": {
+      "lat": -11.98333,
+      "lon": -77.066673
+    },
+    "name": "Aznapuquio"
+  },
+  {
+    "country": "PE",
+    "id": 3934385,
+    "coord": {
+      "lat": -11.97278,
+      "lon": -77.062218
+    },
+    "name": "Naranjal"
+  }
+
+]

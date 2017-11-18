@@ -1,0 +1,616 @@
+[
+
+  {
+    "country": "ML",
+    "id": 2455517,
+    "coord": {
+      "lat": 14,
+      "lon": -11
+    },
+    "name": "Région de Kayes"
+  },
+  {
+    "country": "ML",
+    "id": 6912297,
+    "coord": {
+      "lat": 13.0211,
+      "lon": -9.277
+    },
+    "name": "Sikoroni"
+  },
+  {
+    "country": "ML",
+    "id": 2453347,
+    "coord": {
+      "lat": 14.66667,
+      "lon": -4
+    },
+    "name": "Région de Mopti"
+  },
+  {
+    "country": "ML",
+    "id": 2449661,
+    "coord": {
+      "lat": 15.18771,
+      "lon": -1.51733
+    },
+    "name": "Tilèya"
+  },
+  {
+    "country": "ML",
+    "id": 2457161,
+    "coord": {
+      "lat": 16.63619,
+      "lon": 1.63696
+    },
+    "name": "Région de Gao"
+  },
+  {
+    "country": "ML",
+    "id": 2448705,
+    "coord": {
+      "lat": 15.45,
+      "lon": 2.0368
+    },
+    "name": "Wagaman"
+  },
+  {
+    "country": "ML",
+    "id": 2449893,
+    "coord": {
+      "lat": 20.19861,
+      "lon": 1.01139
+    },
+    "name": "Tessalit"
+  },
+  {
+    "country": "ML",
+    "id": 2453662,
+    "coord": {
+      "lat": 13.7021,
+      "lon": -6.0659
+    },
+    "name": "Markala"
+  },
+  {
+    "country": "ML",
+    "id": 2457163,
+    "coord": {
+      "lat": 16.271669,
+      "lon": -0.04472
+    },
+    "name": "Gao"
+  },
+  {
+    "country": "ML",
+    "id": 2453866,
+    "coord": {
+      "lat": 17,
+      "lon": -4
+    },
+    "name": "Republic of Mali"
+  },
+  {
+    "country": "ML",
+    "id": 2451184,
+    "coord": {
+      "lat": 10.91667,
+      "lon": -7
+    },
+    "name": "Région de Sikasso"
+  },
+  {
+    "country": "ML",
+    "id": 6798664,
+    "coord": {
+      "lat": 11.25438,
+      "lon": -7.29523
+    },
+    "name": "Néguéla"
+  },
+  {
+    "country": "ML",
+    "id": 2451477,
+    "coord": {
+      "lat": 14,
+      "lon": -6
+    },
+    "name": "Ségou Region"
+  },
+  {
+    "country": "ML",
+    "id": 2451274,
+    "coord": {
+      "lat": 13.1996,
+      "lon": -4.4866
+    },
+    "name": "Sialo"
+  },
+  {
+    "country": "ML",
+    "id": 2451478,
+    "coord": {
+      "lat": 13.4317,
+      "lon": -6.2157
+    },
+    "name": "Segou"
+  },
+  {
+    "country": "ML",
+    "id": 2455516,
+    "coord": {
+      "lat": 14.4586,
+      "lon": -11.4352
+    },
+    "name": "Kayes Ndi"
+  },
+  {
+    "country": "ML",
+    "id": 2460546,
+    "coord": {
+      "lat": 13.55,
+      "lon": -7.45
+    },
+    "name": "Banamba"
+  },
+  {
+    "country": "ML",
+    "id": 2597449,
+    "coord": {
+      "lat": 19.91667,
+      "lon": 1.08333
+    },
+    "name": "Région de Kidal"
+  },
+  {
+    "country": "ML",
+    "id": 2455290,
+    "coord": {
+      "lat": 18.441111,
+      "lon": 1.40778
+    },
+    "name": "Kidal"
+  },
+  {
+    "country": "ML",
+    "id": 2454268,
+    "coord": {
+      "lat": 12.39173,
+      "lon": -5.46421
+    },
+    "name": "Koutiala"
+  },
+  {
+    "country": "ML",
+    "id": 2455518,
+    "coord": {
+      "lat": 14.4417,
+      "lon": -11.4341
+    },
+    "name": "Kayes"
+  },
+  {
+    "country": "ML",
+    "id": 2451778,
+    "coord": {
+      "lat": 13.30335,
+      "lon": -4.89562
+    },
+    "name": "San"
+  },
+  {
+    "country": "ML",
+    "id": 2453348,
+    "coord": {
+      "lat": 14.49302,
+      "lon": -4.1942
+    },
+    "name": "Mopti"
+  },
+  {
+    "country": "ML",
+    "id": 2450534,
+    "coord": {
+      "lat": 16.21944,
+      "lon": -0.01917
+    },
+    "name": "Tabakor"
+  },
+  {
+    "country": "ML",
+    "id": 2455216,
+    "coord": {
+      "lat": 13.0349,
+      "lon": -9.4895
+    },
+    "name": "Kita"
+  },
+  {
+    "country": "ML",
+    "id": 2460594,
+    "coord": {
+      "lat": 12.65,
+      "lon": -8
+    },
+    "name": "District de Bamako"
+  },
+  {
+    "country": "ML",
+    "id": 2460596,
+    "coord": {
+      "lat": 12.65,
+      "lon": -8
+    },
+    "name": "Bamako"
+  },
+  {
+    "country": "ML",
+    "id": 2454390,
+    "coord": {
+      "lat": 12.0146,
+      "lon": -5.70803
+    },
+    "name": "Kouoro"
+  },
+  {
+    "country": "ML",
+    "id": 2451185,
+    "coord": {
+      "lat": 11.3135,
+      "lon": -5.6697
+    },
+    "name": "Sikasso"
+  },
+  {
+    "country": "ML",
+    "id": 2454532,
+    "coord": {
+      "lat": 14,
+      "lon": -7.75
+    },
+    "name": "Région de Koulikoro"
+  },
+  {
+    "country": "ML",
+    "id": 2454530,
+    "coord": {
+      "lat": 12.86273,
+      "lon": -7.55985
+    },
+    "name": "Koulikoro"
+  },
+  {
+    "country": "ML",
+    "id": 2460489,
+    "coord": {
+      "lat": 14.35005,
+      "lon": -3.61038
+    },
+    "name": "Bandiagara"
+  },
+  {
+    "country": "ML",
+    "id": 2458334,
+    "coord": {
+      "lat": 14.9951,
+      "lon": -2.9517
+    },
+    "name": "Douentza"
+  },
+  {
+    "country": "ML",
+    "id": 2452655,
+    "coord": {
+      "lat": 14.2526,
+      "lon": -5.993
+    },
+    "name": "Niono"
+  },
+  {
+    "country": "ML",
+    "id": 2451285,
+    "coord": {
+      "lat": 14.52742,
+      "lon": -4.09344
+    },
+    "name": "Sévaré"
+  },
+  {
+    "country": "ML",
+    "id": 6910806,
+    "coord": {
+      "lat": 13.4629,
+      "lon": -6.2699
+    },
+    "name": "Kala Dangan"
+  },
+  {
+    "country": "ML",
+    "id": 2449066,
+    "coord": {
+      "lat": 20,
+      "lon": -3
+    },
+    "name": "Région de Tombouctou"
+  },
+  {
+    "country": "ML",
+    "id": 2456917,
+    "coord": {
+      "lat": 16.41453,
+      "lon": -3.67075
+    },
+    "name": "Goundam"
+  },
+  {
+    "country": "ML",
+    "id": 2448489,
+    "coord": {
+      "lat": 15.11868,
+      "lon": -10.57729
+    },
+    "name": "Yélimané"
+  },
+  {
+    "country": "ML",
+    "id": 2456013,
+    "coord": {
+      "lat": 16.704309,
+      "lon": -2.98302
+    },
+    "name": "Kabara"
+  },
+  {
+    "country": "ML",
+    "id": 2448694,
+    "coord": {
+      "lat": 13.4145,
+      "lon": -6.1581
+    },
+    "name": "Ouèlengana"
+  },
+  {
+    "country": "ML",
+    "id": 6759824,
+    "coord": {
+      "lat": 15.24074,
+      "lon": -9.58726
+    },
+    "name": "Nioro Rufis"
+  },
+  {
+    "country": "ML",
+    "id": 6779095,
+    "coord": {
+      "lat": 15.2055,
+      "lon": -7.25946
+    },
+    "name": "Toumboudrané"
+  },
+  {
+    "country": "ML",
+    "id": 6768610,
+    "coord": {
+      "lat": 14.51415,
+      "lon": -4.082
+    },
+    "name": "Banguitaba"
+  },
+  {
+    "country": "ML",
+    "id": 2451464,
+    "coord": {
+      "lat": 14.50294,
+      "lon": -11.40753
+    },
+    "name": "Ségué"
+  },
+  {
+    "country": "ML",
+    "id": 2451086,
+    "coord": {
+      "lat": 12.3516,
+      "lon": -5.44223
+    },
+    "name": "Sinsina"
+  },
+  {
+    "country": "ML",
+    "id": 2457331,
+    "coord": {
+      "lat": 12.8465,
+      "lon": -11.2531
+    },
+    "name": "Fougola"
+  },
+  {
+    "country": "ML",
+    "id": 2451350,
+    "coord": {
+      "lat": 12.5207,
+      "lon": -7.9293
+    },
+    "name": "Sénou"
+  },
+  {
+    "country": "ML",
+    "id": 2448442,
+    "coord": {
+      "lat": 12.3536,
+      "lon": -4.7761
+    },
+    "name": "Yorosso"
+  },
+  {
+    "country": "ML",
+    "id": 2449067,
+    "coord": {
+      "lat": 16.773479,
+      "lon": -3.00742
+    },
+    "name": "Timbuktu"
+  },
+  {
+    "country": "ML",
+    "id": 2454955,
+    "coord": {
+      "lat": 13.5728,
+      "lon": -8.0339
+    },
+    "name": "Kolokani"
+  },
+  {
+    "country": "ML",
+    "id": 2455558,
+    "coord": {
+      "lat": 12.74409,
+      "lon": -8.07257
+    },
+    "name": "Kati"
+  },
+  {
+    "country": "ML",
+    "id": 2455735,
+    "coord": {
+      "lat": 11.93333,
+      "lon": -8.41667
+    },
+    "name": "Kangaba"
+  },
+  {
+    "country": "ML",
+    "id": 2458589,
+    "coord": {
+      "lat": 13.90608,
+      "lon": -4.55332
+    },
+    "name": "Djenne"
+  },
+  {
+    "country": "ML",
+    "id": 2459775,
+    "coord": {
+      "lat": 11.41699,
+      "lon": -7.47899
+    },
+    "name": "Bougouni"
+  },
+  {
+    "country": "ML",
+    "id": 2460755,
+    "coord": {
+      "lat": 13.8065,
+      "lon": -10.8321
+    },
+    "name": "Bafoulabe"
+  },
+  {
+    "country": "ML",
+    "id": 2460377,
+    "coord": {
+      "lat": 12.8383,
+      "lon": -5.77643
+    },
+    "name": "Bankoumana"
+  },
+  {
+    "country": "ML",
+    "id": 2449938,
+    "coord": {
+      "lat": 14.45722,
+      "lon": -4.9169
+    },
+    "name": "Tenenkou"
+  },
+  {
+    "country": "ML",
+    "id": 2450173,
+    "coord": {
+      "lat": 22.678329,
+      "lon": -3.98361
+    },
+    "name": "Taoudenni"
+  },
+  {
+    "country": "ML",
+    "id": 2450849,
+    "coord": {
+      "lat": 14.7328,
+      "lon": -6.1219
+    },
+    "name": "Sokolo"
+  },
+  {
+    "country": "ML",
+    "id": 2452830,
+    "coord": {
+      "lat": 15.9322,
+      "lon": -3.9906
+    },
+    "name": "Niafounke"
+  },
+  {
+    "country": "ML",
+    "id": 2453514,
+    "coord": {
+      "lat": 15.9182,
+      "lon": 2.4022
+    },
+    "name": "Menaka"
+  },
+  {
+    "country": "ML",
+    "id": 2454934,
+    "coord": {
+      "lat": 11.0882,
+      "lon": -6.8926
+    },
+    "name": "Kolondieba"
+  },
+  {
+    "country": "ML",
+    "id": 2455456,
+    "coord": {
+      "lat": 12.8402,
+      "lon": -4.9199
+    },
+    "name": "Kinmparana"
+  },
+  {
+    "country": "ML",
+    "id": 2455465,
+    "coord": {
+      "lat": 13.9623,
+      "lon": -5.3572
+    },
+    "name": "Ke-Macina"
+  },
+  {
+    "country": "ML",
+    "id": 2458624,
+    "coord": {
+      "lat": 12.28333,
+      "lon": -10.96667
+    },
+    "name": "Dire"
+  },
+  {
+    "country": "ML",
+    "id": 2460954,
+    "coord": {
+      "lat": 18.90476,
+      "lon": -3.52649
+    },
+    "name": "Araouane"
+  },
+  {
+    "country": "ML",
+    "id": 2461003,
+    "coord": {
+      "lat": 15.6597,
+      "lon": 0.5022
+    },
+    "name": "Ansongo"
+  }
+
+]

@@ -1,0 +1,103 @@
+[
+
+  {
+    "country": "KY",
+    "id": 3580529,
+    "coord": {
+      "lat": 19.26667,
+      "lon": -81.300003
+    },
+    "name": "Savannah"
+  },
+  {
+    "country": "KY",
+    "id": 3580718,
+    "coord": {
+      "lat": 19.5,
+      "lon": -80.666672
+    },
+    "name": "Cayman Islands"
+  },
+  {
+    "country": "KY",
+    "id": 3580601,
+    "coord": {
+      "lat": 19.283331,
+      "lon": -81.283333
+    },
+    "name": "Lower Valley"
+  },
+  {
+    "country": "KY",
+    "id": 3580619,
+    "coord": {
+      "lat": 19.26667,
+      "lon": -81.400002
+    },
+    "name": "Lambert House"
+  },
+  {
+    "country": "KY",
+    "id": 3580661,
+    "coord": {
+      "lat": 19.286921,
+      "lon": -81.367058
+    },
+    "name": "George Town"
+  },
+  {
+    "country": "KY",
+    "id": 3580686,
+    "coord": {
+      "lat": 19.299999,
+      "lon": -81.383331
+    },
+    "name": "Dog City"
+  },
+  {
+    "country": "KY",
+    "id": 3580678,
+    "coord": {
+      "lat": 19.299999,
+      "lon": -81.116669
+    },
+    "name": "East End"
+  },
+  {
+    "country": "KY",
+    "id": 3580575,
+    "coord": {
+      "lat": 19.35,
+      "lon": -81.199997
+    },
+    "name": "North Side"
+  },
+  {
+    "country": "KY",
+    "id": 3580572,
+    "coord": {
+      "lat": 19.299999,
+      "lon": -81.300003
+    },
+    "name": "North Sound Estates"
+  },
+  {
+    "country": "KY",
+    "id": 3580477,
+    "coord": {
+      "lat": 19.366671,
+      "lon": -81.416672
+    },
+    "name": "West Bay"
+  },
+  {
+    "country": "KY",
+    "id": 3580733,
+    "coord": {
+      "lat": 19.283331,
+      "lon": -81.25
+    },
+    "name": "Bodden Town"
+  }
+
+]

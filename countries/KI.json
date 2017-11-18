@@ -1,0 +1,229 @@
+[
+
+  {
+    "country": "KI",
+    "id": 7521611,
+    "coord": {
+      "lat": 1.419,
+      "lon": 172.983994
+    },
+    "name": "Tarawa"
+  },
+  {
+    "country": "KI",
+    "id": 7601768,
+    "coord": {
+      "lat": 1.38081,
+      "lon": 173.13887
+    },
+    "name": "Bonriki Village"
+  },
+  {
+    "country": "KI",
+    "id": 2110215,
+    "coord": {
+      "lat": 1.42,
+      "lon": 172.983994
+    },
+    "name": "Gilbert Islands"
+  },
+  {
+    "country": "KI",
+    "id": 7521588,
+    "coord": {
+      "lat": 3.1616,
+      "lon": 172.797394
+    },
+    "name": "Butaritari"
+  },
+  {
+    "country": "KI",
+    "id": 2110099,
+    "coord": {
+      "lat": 3.09612,
+      "lon": 172.82312
+    },
+    "name": "Tabonuea Village"
+  },
+  {
+    "country": "KI",
+    "id": 7521586,
+    "coord": {
+      "lat": -1.32957,
+      "lon": 175.980713
+    },
+    "name": "Beru"
+  },
+  {
+    "country": "KI",
+    "id": 2110204,
+    "coord": {
+      "lat": -1.35925,
+      "lon": 176.002243
+    },
+    "name": "Eriko Village"
+  },
+  {
+    "country": "KI",
+    "id": 4030945,
+    "coord": {
+      "lat": 1.421,
+      "lon": 172.983994
+    },
+    "name": "Republic of Kiribati"
+  },
+  {
+    "country": "KI",
+    "id": 2110257,
+    "coord": {
+      "lat": 1.3278,
+      "lon": 172.976959
+    },
+    "name": "Tarawa"
+  },
+  {
+    "country": "KI",
+    "id": 2110070,
+    "coord": {
+      "lat": 1.33309,
+      "lon": 173.011627
+    },
+    "name": "Teaoraereke Village"
+  },
+  {
+    "country": "KI",
+    "id": 2110131,
+    "coord": {
+      "lat": 2.05379,
+      "lon": 173.263535
+    },
+    "name": "Rawannawi Village"
+  },
+  {
+    "country": "KI",
+    "id": 2110227,
+    "coord": {
+      "lat": 3.07071,
+      "lon": 172.790222
+    },
+    "name": "Butaritari"
+  },
+  {
+    "country": "KI",
+    "id": 2110229,
+    "coord": {
+      "lat": 1.39078,
+      "lon": 173.130814
+    },
+    "name": "Buota Village"
+  },
+  {
+    "country": "KI",
+    "id": 2110248,
+    "coord": {
+      "lat": 1.35797,
+      "lon": 172.921051
+    },
+    "name": "Betio Village"
+  },
+  {
+    "country": "KI",
+    "id": 2110254,
+    "coord": {
+      "lat": 1.3454,
+      "lon": 173.034637
+    },
+    "name": "Banraeaba Village"
+  },
+  {
+    "country": "KI",
+    "id": 4030939,
+    "coord": {
+      "lat": 1.98487,
+      "lon": -157.475021
+    },
+    "name": "London Village"
+  },
+  {
+    "country": "KI",
+    "id": 7521902,
+    "coord": {
+      "lat": 2.01643,
+      "lon": -157.487732
+    },
+    "name": "Tabwakea Village"
+  },
+  {
+    "country": "KI",
+    "id": 7521903,
+    "coord": {
+      "lat": 1.98329,
+      "lon": -157.365265
+    },
+    "name": "Banana Village"
+  },
+  {
+    "country": "KI",
+    "id": 7576909,
+    "coord": {
+      "lat": 3.3644,
+      "lon": 172.983521
+    },
+    "name": "Makin Village"
+  },
+  {
+    "country": "KI",
+    "id": 7601762,
+    "coord": {
+      "lat": 1.32924,
+      "lon": 172.97522
+    },
+    "name": "Bairiki Village"
+  },
+  {
+    "country": "KI",
+    "id": 7601765,
+    "coord": {
+      "lat": 1.35317,
+      "lon": 173.042587
+    },
+    "name": "Ambo Village"
+  },
+  {
+    "country": "KI",
+    "id": 7601770,
+    "coord": {
+      "lat": 1.36292,
+      "lon": 173.162262
+    },
+    "name": "Temaiku Village"
+  },
+  {
+    "country": "KI",
+    "id": 7601771,
+    "coord": {
+      "lat": 1.36362,
+      "lon": 173.139343
+    },
+    "name": "Nawerewere Village"
+  },
+  {
+    "country": "KI",
+    "id": 7601774,
+    "coord": {
+      "lat": 1.3673,
+      "lon": 173.124146
+    },
+    "name": "Bikenibeu Village"
+  },
+  {
+    "country": "KI",
+    "id": 7601776,
+    "coord": {
+      "lat": 1.36154,
+      "lon": 173.081131
+    },
+    "name": "Eita Village"
+  }
+
+]

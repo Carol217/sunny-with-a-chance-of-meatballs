@@ -10,6 +10,13 @@ countrylist= {}
 
 data = json.load(open('city.list.json'))
 
+with open ("countries/.json", "w") as l:
+    for element in data:
+        name = element["country"]
+        if name == "":
+            l.write(json.dumps(element));
+
+'''
 for element in data:
     name = element["country"]
     if not name in countrylist:
@@ -22,4 +29,5 @@ for element in data:
         
 with open ("countrylist.json", "w") as d:
     d.write(json.dumps(countrylist))
+'''
     

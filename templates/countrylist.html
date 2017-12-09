@@ -1,0 +1,18 @@
+<html>
+<head>
+    <title> countries </title>
+</head>
+
+<body>
+    <h1> PICK YOUR COUNTRY </h1>    
+    <form action="/cities">
+      <select name="country">
+        {% for key in lst %}
+           <option value="{{key}}">{{key}}</option>
+        {% endfor %}  
+      </select>
+      <br><br>
+      <input type="submit">
+      <form>
+</body>
+</html>

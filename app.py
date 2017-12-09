@@ -10,8 +10,10 @@ import json
 import requests
 
 #json of city codes
-data_file = open('city.list.json')
+data_file = open('countries.json')
 data = json.load(data_file)
+data_file.close()
+#print json.dumps(data)
 
 #get a json from an url
 def getjson(url):
@@ -24,12 +26,15 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Check ur weather at ur <a href="/locations">location</a>'
+    return render_template("countrylist.html", lst=sorted(data.keys()))
     
     
-@app.route('/locations')
+@app.route('/cities')
 def cities():
-    return render_template("citylist.html", lst=data)
+    countryfile=data[request.args["country"]]
+    with open(countryfile, 'r') as t:
+        temp = json.load(t)
+    return render_template("citylist.html", lst=temp, country=request.args["country"])
     
 @app.route('/query')
 def query():

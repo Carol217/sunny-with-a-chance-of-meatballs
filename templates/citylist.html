@@ -1,9 +1,11 @@
 <html>
 <head>
-    <title> locations </title>
+    <title> cities </title>
 </head>
 
 <body>
+    <h1>{{country}}</h1>
+    <h3> note: Ctrl + F may be necessary </h3>
     {% for entry in lst %}
     <br>    
     <a href="/query?id={{entry['id']}}"> {{entry["name"]}}, {{entry["country"]}} </a>

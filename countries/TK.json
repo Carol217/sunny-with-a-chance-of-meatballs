@@ -1,0 +1,22 @@
+[
+
+  {
+    "country": "TK",
+    "id": 4031110,
+    "coord": {
+      "lat": -9.38516,
+      "lon": -171.24675
+    },
+    "name": "Fale old settlement"
+  },
+  {
+    "country": "TK",
+    "id": 7522183,
+    "coord": {
+      "lat": -8.54212,
+      "lon": -172.515915
+    },
+    "name": "Atafu Village"
+  }
+
+]

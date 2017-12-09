@@ -1,0 +1,265 @@
+[
+
+  {
+    "country": "SZ",
+    "id": 934967,
+    "coord": {
+      "lat": -27.183331,
+      "lon": 31.383329
+    },
+    "name": "Mhlosheni"
+  },
+  {
+    "country": "SZ",
+    "id": 935017,
+    "coord": {
+      "lat": -27.1,
+      "lon": 31.08333
+    },
+    "name": "Mahamba"
+  },
+  {
+    "country": "SZ",
+    "id": 934841,
+    "coord": {
+      "lat": -26.5,
+      "lon": 31.5
+    },
+    "name": "Kingdom of Swaziland"
+  },
+  {
+    "country": "SZ",
+    "id": 934959,
+    "coord": {
+      "lat": -26.25,
+      "lon": 31.58333
+    },
+    "name": "Mliba"
+  },
+  {
+    "country": "SZ",
+    "id": 934994,
+    "coord": {
+      "lat": -26.25,
+      "lon": 31.5
+    },
+    "name": "Manzini District"
+  },
+  {
+    "country": "SZ",
+    "id": 935085,
+    "coord": {
+      "lat": -26,
+      "lon": 31.5
+    },
+    "name": "Hhohho District"
+  },
+  {
+    "country": "SZ",
+    "id": 934985,
+    "coord": {
+      "lat": -26.316669,
+      "lon": 31.133329
+    },
+    "name": "Mbabane"
+  },
+  {
+    "country": "SZ",
+    "id": 934913,
+    "coord": {
+      "lat": -27.116671,
+      "lon": 31.200001
+    },
+    "name": "Nhlangano"
+  },
+  {
+    "country": "SZ",
+    "id": 934966,
+    "coord": {
+      "lat": -26.033331,
+      "lon": 31.85
+    },
+    "name": "Mhlume"
+  },
+  {
+    "country": "SZ",
+    "id": 935048,
+    "coord": {
+      "lat": -26.466669,
+      "lon": 31.200001
+    },
+    "name": "Lobamba"
+  },
+  {
+    "country": "SZ",
+    "id": 935113,
+    "coord": {
+      "lat": -26.816669,
+      "lon": 31.933331
+    },
+    "name": "Big Bend"
+  },
+  {
+    "country": "SZ",
+    "id": 935042,
+    "coord": {
+      "lat": -26.41667,
+      "lon": 31.75
+    },
+    "name": "Lubombo District"
+  },
+  {
+    "country": "SZ",
+    "id": 934851,
+    "coord": {
+      "lat": -26.450001,
+      "lon": 31.950001
+    },
+    "name": "Siteki"
+  },
+  {
+    "country": "SZ",
+    "id": 934989,
+    "coord": {
+      "lat": -26.51667,
+      "lon": 31.316669
+    },
+    "name": "Matsapha"
+  },
+  {
+    "country": "SZ",
+    "id": 934995,
+    "coord": {
+      "lat": -26.48333,
+      "lon": 31.366671
+    },
+    "name": "Manzini"
+  },
+  {
+    "country": "SZ",
+    "id": 934840,
+    "coord": {
+      "lat": -25.98333,
+      "lon": 31.716669
+    },
+    "name": "Tshaneni"
+  },
+  {
+    "country": "SZ",
+    "id": 934862,
+    "coord": {
+      "lat": -26.628201,
+      "lon": 31.42021
+    },
+    "name": "Sidvokodvo"
+  },
+  {
+    "country": "SZ",
+    "id": 934881,
+    "coord": {
+      "lat": -25.966669,
+      "lon": 31.25
+    },
+    "name": "Piggs Peak"
+  },
+  {
+    "country": "SZ",
+    "id": 934900,
+    "coord": {
+      "lat": -27.033331,
+      "lon": 31.950001
+    },
+    "name": "Nsoko"
+  },
+  {
+    "country": "SZ",
+    "id": 934971,
+    "coord": {
+      "lat": -26.450001,
+      "lon": 31.01667
+    },
+    "name": "Mhlambanyatsi"
+  },
+  {
+    "country": "SZ",
+    "id": 935005,
+    "coord": {
+      "lat": -26.566669,
+      "lon": 31.183331
+    },
+    "name": "Malkerns"
+  },
+  {
+    "country": "SZ",
+    "id": 935051,
+    "coord": {
+      "lat": -27.310049,
+      "lon": 31.891979
+    },
+    "name": "Lavumisa"
+  },
+  {
+    "country": "SZ",
+    "id": 935054,
+    "coord": {
+      "lat": -26.48333,
+      "lon": 31.33333
+    },
+    "name": "Kwaluseni"
+  },
+  {
+    "country": "SZ",
+    "id": 935055,
+    "coord": {
+      "lat": -26.883329,
+      "lon": 31.48333
+    },
+    "name": "Kubuta"
+  },
+  {
+    "country": "SZ",
+    "id": 935076,
+    "coord": {
+      "lat": -27.216669,
+      "lon": 31.616671
+    },
+    "name": "Hluti"
+  },
+  {
+    "country": "SZ",
+    "id": 935081,
+    "coord": {
+      "lat": -26.966669,
+      "lon": 31.316669
+    },
+    "name": "Hlatikulu"
+  },
+  {
+    "country": "SZ",
+    "id": 935106,
+    "coord": {
+      "lat": -26.23333,
+      "lon": 31.033331
+    },
+    "name": "Darkton"
+  },
+  {
+    "country": "SZ",
+    "id": 935111,
+    "coord": {
+      "lat": -25.966669,
+      "lon": 31.133329
+    },
+    "name": "Bulembu"
+  },
+  {
+    "country": "SZ",
+    "id": 935114,
+    "coord": {
+      "lat": -26.549999,
+      "lon": 31.01667
+    },
+    "name": "Bhunya"
+  }
+
+]

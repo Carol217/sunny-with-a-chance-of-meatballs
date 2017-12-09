@@ -1,0 +1,49 @@
+[
+
+  {
+    "country": "TV",
+    "id": 2110384,
+    "coord": {
+      "lat": -8.51719,
+      "lon": 179.130539
+    },
+    "name": "Funafuti"
+  },
+  {
+    "country": "TV",
+    "id": 2110394,
+    "coord": {
+      "lat": -8.52425,
+      "lon": 179.194168
+    },
+    "name": "Funafuti"
+  },
+  {
+    "country": "TV",
+    "id": 2110297,
+    "coord": {
+      "lat": -8.51719,
+      "lon": 179.144775
+    },
+    "name": "Tuvalu"
+  },
+  {
+    "country": "TV",
+    "id": 7602506,
+    "coord": {
+      "lat": -8.52074,
+      "lon": 179.196793
+    },
+    "name": "Alapi Village"
+  },
+  {
+    "country": "TV",
+    "id": 7602508,
+    "coord": {
+      "lat": -8.51758,
+      "lon": 179.200943
+    },
+    "name": "Fakaifou Village"
+  }
+
+]

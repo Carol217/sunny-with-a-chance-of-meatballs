@@ -1,0 +1,202 @@
+[
+
+  {
+    "country": "WS",
+    "id": 4034948,
+    "coord": {
+      "lat": -13.50813,
+      "lon": -172.63501
+    },
+    "name": "Utuloa"
+  },
+  {
+    "country": "WS",
+    "id": 7106274,
+    "coord": {
+      "lat": -13.83908,
+      "lon": -171.994827
+    },
+    "name": "Sina"
+  },
+  {
+    "country": "WS",
+    "id": 4034977,
+    "coord": {
+      "lat": -13.91667,
+      "lon": -171.800003
+    },
+    "name": "Tuamasaga"
+  },
+  {
+    "country": "WS",
+    "id": 4035413,
+    "coord": {
+      "lat": -13.83333,
+      "lon": -171.766663
+    },
+    "name": "Apia"
+  },
+  {
+    "country": "WS",
+    "id": 4034894,
+    "coord": {
+      "lat": -13.8031,
+      "lon": -172.178314
+    },
+    "name": "Independent State of Samoa"
+  },
+  {
+    "country": "WS",
+    "id": 4034903,
+    "coord": {
+      "lat": -13.82678,
+      "lon": -171.79332
+    },
+    "name": "Vaiusu"
+  },
+  {
+    "country": "WS",
+    "id": 4034908,
+    "coord": {
+      "lat": -13.81964,
+      "lon": -171.802536
+    },
+    "name": "Vaitele"
+  },
+  {
+    "country": "WS",
+    "id": 4035013,
+    "coord": {
+      "lat": -13.87504,
+      "lon": -171.641815
+    },
+    "name": "Solosolo"
+  },
+  {
+    "country": "WS",
+    "id": 4035019,
+    "coord": {
+      "lat": -13.84432,
+      "lon": -171.813965
+    },
+    "name": "Siusega"
+  },
+  {
+    "country": "WS",
+    "id": 4035059,
+    "coord": {
+      "lat": -13.83535,
+      "lon": -171.97963
+    },
+    "name": "Satapuala"
+  },
+  {
+    "country": "WS",
+    "id": 4035118,
+    "coord": {
+      "lat": -13.45132,
+      "lon": -172.401764
+    },
+    "name": "Safotu"
+  },
+  {
+    "country": "WS",
+    "id": 4035174,
+    "coord": {
+      "lat": -13.8217,
+      "lon": -171.958725
+    },
+    "name": "Nofoalii"
+  },
+  {
+    "country": "WS",
+    "id": 4035209,
+    "coord": {
+      "lat": -14.03208,
+      "lon": -171.647675
+    },
+    "name": "Matavai"
+  },
+  {
+    "country": "WS",
+    "id": 4035236,
+    "coord": {
+      "lat": -13.80044,
+      "lon": -171.846893
+    },
+    "name": "Malie"
+  },
+  {
+    "country": "WS",
+    "id": 4035249,
+    "coord": {
+      "lat": -13.87449,
+      "lon": -171.598572
+    },
+    "name": "Lufilufi"
+  },
+  {
+    "country": "WS",
+    "id": 4035252,
+    "coord": {
+      "lat": -13.97643,
+      "lon": -171.857803
+    },
+    "name": "Lotofaga"
+  },
+  {
+    "country": "WS",
+    "id": 4035260,
+    "coord": {
+      "lat": -13.82298,
+      "lon": -171.961273
+    },
+    "name": "Leulumoega"
+  },
+  {
+    "country": "WS",
+    "id": 4035310,
+    "coord": {
+      "lat": -13.7736,
+      "lon": -172.388016
+    },
+    "name": "Gataivai"
+  },
+  {
+    "country": "WS",
+    "id": 4035335,
+    "coord": {
+      "lat": -13.81163,
+      "lon": -171.940628
+    },
+    "name": "Fasitoouta"
+  },
+  {
+    "country": "WS",
+    "id": 4035345,
+    "coord": {
+      "lat": -13.79456,
+      "lon": -171.831253
+    },
+    "name": "Faleula"
+  },
+  {
+    "country": "WS",
+    "id": 4035358,
+    "coord": {
+      "lat": -13.88695,
+      "lon": -171.588043
+    },
+    "name": "Falefa"
+  },
+  {
+    "country": "WS",
+    "id": 4035432,
+    "coord": {
+      "lat": -13.79726,
+      "lon": -171.853073
+    },
+    "name": "Afenga"
+  }
+
+]

@@ -1,0 +1,391 @@
+[
+
+  {
+    "country": "SS",
+    "id": 378867,
+    "coord": {
+      "lat": 4.19417,
+      "lon": 32.355831
+    },
+    "name": "Amiling"
+  },
+  {
+    "country": "SS",
+    "id": 408647,
+    "coord": {
+      "lat": 6.75,
+      "lon": 30
+    },
+    "name": "Lakes State"
+  },
+  {
+    "country": "SS",
+    "id": 381969,
+    "coord": {
+      "lat": 6.09302,
+      "lon": 31.335621
+    },
+    "name": "Dolinom"
+  },
+  {
+    "country": "SS",
+    "id": 408657,
+    "coord": {
+      "lat": 8.15,
+      "lon": 26
+    },
+    "name": "Western Bahr el Ghazal State"
+  },
+  {
+    "country": "SS",
+    "id": 373413,
+    "coord": {
+      "lat": 8.48527,
+      "lon": 25.32703
+    },
+    "name": "Jellab"
+  },
+  {
+    "country": "SS",
+    "id": 381229,
+    "coord": {
+      "lat": 10,
+      "lon": 32.700001
+    },
+    "name": "Upper Nile State"
+  },
+  {
+    "country": "SS",
+    "id": 371450,
+    "coord": {
+      "lat": 8.36667,
+      "lon": 33
+    },
+    "name": "Liamyok"
+  },
+  {
+    "country": "SS",
+    "id": 408665,
+    "coord": {
+      "lat": 8.85,
+      "lon": 27
+    },
+    "name": "Northern Bahr el Ghazal State"
+  },
+  {
+    "country": "SS",
+    "id": 7430962,
+    "coord": {
+      "lat": 8.46219,
+      "lon": 27.1033
+    },
+    "name": "Bahr en Nil"
+  },
+  {
+    "country": "SS",
+    "id": 363885,
+    "coord": {
+      "lat": 7.70286,
+      "lon": 27.9953
+    },
+    "name": "Wau"
+  },
+  {
+    "country": "SS",
+    "id": 365742,
+    "coord": {
+      "lat": 4.41333,
+      "lon": 32.56778
+    },
+    "name": "Torit"
+  },
+  {
+    "country": "SS",
+    "id": 367927,
+    "coord": {
+      "lat": 6.802,
+      "lon": 29.691231
+    },
+    "name": "Rumbek"
+  },
+  {
+    "country": "SS",
+    "id": 374739,
+    "coord": {
+      "lat": 8.53324,
+      "lon": 28.10037
+    },
+    "name": "Gogrial"
+  },
+  {
+    "country": "SS",
+    "id": 7909807,
+    "coord": {
+      "lat": 4.84023,
+      "lon": 31.59428
+    },
+    "name": "South Sudan"
+  },
+  {
+    "country": "SS",
+    "id": 408668,
+    "coord": {
+      "lat": 4.9,
+      "lon": 33.799999
+    },
+    "name": "Eastern Equatoria State"
+  },
+  {
+    "country": "SS",
+    "id": 408656,
+    "coord": {
+      "lat": 5.4,
+      "lon": 28.4
+    },
+    "name": "Western Equatoria State"
+  },
+  {
+    "country": "SS",
+    "id": 382250,
+    "coord": {
+      "lat": 4.53611,
+      "lon": 29.25778
+    },
+    "name": "Sabun"
+  },
+  {
+    "country": "SS",
+    "id": 370247,
+    "coord": {
+      "lat": 6.45983,
+      "lon": 29.399679
+    },
+    "name": "Medingbor"
+  },
+  {
+    "country": "SS",
+    "id": 408662,
+    "coord": {
+      "lat": 7.4,
+      "lon": 32.400002
+    },
+    "name": "Jonglei State"
+  },
+  {
+    "country": "SS",
+    "id": 369195,
+    "coord": {
+      "lat": 6.58333,
+      "lon": 32.950001
+    },
+    "name": "Nialeir"
+  },
+  {
+    "country": "SS",
+    "id": 377252,
+    "coord": {
+      "lat": 7.44561,
+      "lon": 33.230179
+    },
+    "name": "Bongak"
+  },
+  {
+    "country": "SS",
+    "id": 369526,
+    "coord": {
+      "lat": 11.2928,
+      "lon": 32.619598
+    },
+    "name": "Debbat Nabaqaya"
+  },
+  {
+    "country": "SS",
+    "id": 363619,
+    "coord": {
+      "lat": 4.09504,
+      "lon": 30.677919
+    },
+    "name": "Yei"
+  },
+  {
+    "country": "SS",
+    "id": 364367,
+    "coord": {
+      "lat": 8.76816,
+      "lon": 27.40019
+    },
+    "name": "Aweil"
+  },
+  {
+    "country": "SS",
+    "id": 408670,
+    "coord": {
+      "lat": 8,
+      "lon": 28.85
+    },
+    "name": "Warrap State"
+  },
+  {
+    "country": "SS",
+    "id": 365763,
+    "coord": {
+      "lat": 7.27369,
+      "lon": 28.68223
+    },
+    "name": "Tonj"
+  },
+  {
+    "country": "SS",
+    "id": 375495,
+    "coord": {
+      "lat": 3.86512,
+      "lon": 32.482121
+    },
+    "name": "Pajok"
+  },
+  {
+    "country": "SS",
+    "id": 377241,
+    "coord": {
+      "lat": 6.20593,
+      "lon": 31.55633
+    },
+    "name": "Bor"
+  },
+  {
+    "country": "SS",
+    "id": 370737,
+    "coord": {
+      "lat": 9.53342,
+      "lon": 31.66048
+    },
+    "name": "Malakal"
+  },
+  {
+    "country": "SS",
+    "id": 408655,
+    "coord": {
+      "lat": 4.75,
+      "lon": 31
+    },
+    "name": "Central Equatoria State"
+  },
+  {
+    "country": "SS",
+    "id": 373303,
+    "coord": {
+      "lat": 4.85165,
+      "lon": 31.58247
+    },
+    "name": "Juba"
+  },
+  {
+    "country": "SS",
+    "id": 408650,
+    "coord": {
+      "lat": 8.65,
+      "lon": 29.85
+    },
+    "name": "Unity State"
+  },
+  {
+    "country": "SS",
+    "id": 377472,
+    "coord": {
+      "lat": 9.23333,
+      "lon": 29.83333
+    },
+    "name": "Bentiu"
+  },
+  {
+    "country": "SS",
+    "id": 363656,
+    "coord": {
+      "lat": 4.57213,
+      "lon": 28.395491
+    },
+    "name": "Yambio"
+  },
+  {
+    "country": "SS",
+    "id": 378031,
+    "coord": {
+      "lat": 9.57326,
+      "lon": 31.66346
+    },
+    "name": "Ayowangen"
+  },
+  {
+    "country": "SS",
+    "id": 366444,
+    "coord": {
+      "lat": 5.6,
+      "lon": 27.466669
+    },
+    "name": "Tambura"
+  },
+  {
+    "country": "SS",
+    "id": 368246,
+    "coord": {
+      "lat": 8.45955,
+      "lon": 25.677999
+    },
+    "name": "Raga"
+  },
+  {
+    "country": "SS",
+    "id": 370457,
+    "coord": {
+      "lat": 4.91584,
+      "lon": 29.47415
+    },
+    "name": "Maridi"
+  },
+  {
+    "country": "SS",
+    "id": 371466,
+    "coord": {
+      "lat": 8.30179,
+      "lon": 30.14179
+    },
+    "name": "Ler"
+  },
+  {
+    "country": "SS",
+    "id": 371712,
+    "coord": {
+      "lat": 8.30016,
+      "lon": 27.99028
+    },
+    "name": "Kajok"
+  },
+  {
+    "country": "SS",
+    "id": 372884,
+    "coord": {
+      "lat": 4.77167,
+      "lon": 33.590279
+    },
+    "name": "Kapoeta"
+  },
+  {
+    "country": "SS",
+    "id": 8224933,
+    "coord": {
+      "lat": 3.76763,
+      "lon": 32.517319
+    },
+    "name": "PAJOK Pogee,"
+  },
+  {
+    "country": "SS",
+    "id": 8224935,
+    "coord": {
+      "lat": 4.12532,
+      "lon": 32.301479
+    },
+    "name": "Magwi County"
+  }
+
+]

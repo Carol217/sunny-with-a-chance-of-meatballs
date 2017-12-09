@@ -1,0 +1,922 @@
+[
+
+  {
+    "country": "SN",
+    "id": 2244322,
+    "coord": {
+      "lat": 14.85,
+      "lon": -15.88333
+    },
+    "name": "Touba"
+  },
+  {
+    "country": "SN",
+    "id": 2249221,
+    "coord": {
+      "lat": 15.44748,
+      "lon": -15.47192
+    },
+    "name": "Région de Louga"
+  },
+  {
+    "country": "SN",
+    "id": 2244122,
+    "coord": {
+      "lat": 15.2707,
+      "lon": -15.0865
+    },
+    "name": "Vèndou Séno"
+  },
+  {
+    "country": "SN",
+    "id": 2246451,
+    "coord": {
+      "lat": 16.33333,
+      "lon": -15
+    },
+    "name": "Région de Saint-Louis"
+  },
+  {
+    "country": "SN",
+    "id": 2250139,
+    "coord": {
+      "lat": 16.3375,
+      "lon": -15.42222
+    },
+    "name": "Keur Mor Ibra"
+  },
+  {
+    "country": "SN",
+    "id": 2247157,
+    "coord": {
+      "lat": 13.75,
+      "lon": -15.8
+    },
+    "name": "Nioro du Rip"
+  },
+  {
+    "country": "SN",
+    "id": 2250805,
+    "coord": {
+      "lat": 14.1825,
+      "lon": -16.25333
+    },
+    "name": "Kaolack"
+  },
+  {
+    "country": "SN",
+    "id": 2251230,
+    "coord": {
+      "lat": 14.26667,
+      "lon": -15.95
+    },
+    "name": "Guinguineo"
+  },
+  {
+    "country": "SN",
+    "id": 2251910,
+    "coord": {
+      "lat": 14.38643,
+      "lon": -16.401751
+    },
+    "name": "Région de Fatick"
+  },
+  {
+    "country": "SN",
+    "id": 2246789,
+    "coord": {
+      "lat": 14.4,
+      "lon": -16.133329
+    },
+    "name": "Pargui"
+  },
+  {
+    "country": "SN",
+    "id": 2244800,
+    "coord": {
+      "lat": 14.87284,
+      "lon": -16.851959
+    },
+    "name": "Région de Thiès"
+  },
+  {
+    "country": "SN",
+    "id": 2245222,
+    "coord": {
+      "lat": 14.48611,
+      "lon": -17.078609
+    },
+    "name": "Somone"
+  },
+  {
+    "country": "SN",
+    "id": 2244799,
+    "coord": {
+      "lat": 14.78333,
+      "lon": -16.966669
+    },
+    "name": "Thies Nones"
+  },
+  {
+    "country": "SN",
+    "id": 2244991,
+    "coord": {
+      "lat": 13.75389,
+      "lon": -13.75861
+    },
+    "name": "Tambacounda"
+  },
+  {
+    "country": "SN",
+    "id": 2246452,
+    "coord": {
+      "lat": 16.017929,
+      "lon": -16.48962
+    },
+    "name": "Saint-Louis"
+  },
+  {
+    "country": "SN",
+    "id": 2246544,
+    "coord": {
+      "lat": 16.4625,
+      "lon": -15.70083
+    },
+    "name": "Richard-Toll"
+  },
+  {
+    "country": "SN",
+    "id": 2246606,
+    "coord": {
+      "lat": 14.77389,
+      "lon": -17.06028
+    },
+    "name": "Pout"
+  },
+  {
+    "country": "SN",
+    "id": 2247381,
+    "coord": {
+      "lat": 14.51278,
+      "lon": -17.004999
+    },
+    "name": "Nguekokh"
+  },
+  {
+    "country": "SN",
+    "id": 2247813,
+    "coord": {
+      "lat": 15.3338,
+      "lon": -15.4766
+    },
+    "name": "Ndibene Dahra"
+  },
+  {
+    "country": "SN",
+    "id": 2250645,
+    "coord": {
+      "lat": 12.5579,
+      "lon": -12.1743
+    },
+    "name": "Kedougou"
+  },
+  {
+    "country": "SN",
+    "id": 2250677,
+    "coord": {
+      "lat": 14.91917,
+      "lon": -17.121111
+    },
+    "name": "Kayar"
+  },
+  {
+    "country": "SN",
+    "id": 2253277,
+    "coord": {
+      "lat": 15.34844,
+      "lon": -15.47993
+    },
+    "name": "Dara"
+  },
+  {
+    "country": "SN",
+    "id": 2245662,
+    "coord": {
+      "lat": 14,
+      "lon": -14
+    },
+    "name": "Republic of Senegal"
+  },
+  {
+    "country": "SN",
+    "id": 2244616,
+    "coord": {
+      "lat": 14.63333,
+      "lon": -16.23333
+    },
+    "name": "Tiebo"
+  },
+  {
+    "country": "SN",
+    "id": 2253350,
+    "coord": {
+      "lat": 14.75,
+      "lon": -17.33333
+    },
+    "name": "Région de Dakar"
+  },
+  {
+    "country": "SN",
+    "id": 2253354,
+    "coord": {
+      "lat": 14.6937,
+      "lon": -17.444059
+    },
+    "name": "Dakar"
+  },
+  {
+    "country": "SN",
+    "id": 2595757,
+    "coord": {
+      "lat": 14.67167,
+      "lon": -17.43722
+    },
+    "name": "Central Dakar"
+  },
+  {
+    "country": "SN",
+    "id": 2595991,
+    "coord": {
+      "lat": 16.00639,
+      "lon": -16.51083
+    },
+    "name": "Fas Dièye"
+  },
+  {
+    "country": "SN",
+    "id": 2595998,
+    "coord": {
+      "lat": 16.01722,
+      "lon": -16.497499
+    },
+    "name": "Léona"
+  },
+  {
+    "country": "SN",
+    "id": 2243939,
+    "coord": {
+      "lat": 12.75,
+      "lon": -16.33333
+    },
+    "name": "Région de Ziguinchor"
+  },
+  {
+    "country": "SN",
+    "id": 2243940,
+    "coord": {
+      "lat": 12.58333,
+      "lon": -16.27194
+    },
+    "name": "Ziguinchor"
+  },
+  {
+    "country": "SN",
+    "id": 2249781,
+    "coord": {
+      "lat": 12.98376,
+      "lon": -14.39729
+    },
+    "name": "Région de Kolda"
+  },
+  {
+    "country": "SN",
+    "id": 2249782,
+    "coord": {
+      "lat": 12.88333,
+      "lon": -14.95
+    },
+    "name": "Kolda"
+  },
+  {
+    "country": "SN",
+    "id": 2248477,
+    "coord": {
+      "lat": 14.42196,
+      "lon": -16.963751
+    },
+    "name": "Mbour"
+  },
+  {
+    "country": "SN",
+    "id": 2247246,
+    "coord": {
+      "lat": 14.34485,
+      "lon": -16.92676
+    },
+    "name": "Nianing"
+  },
+  {
+    "country": "SN",
+    "id": 2251084,
+    "coord": {
+      "lat": 14.16667,
+      "lon": -16.83333
+    },
+    "name": "Joal-Fadiout"
+  },
+  {
+    "country": "SN",
+    "id": 8133376,
+    "coord": {
+      "lat": 14.72389,
+      "lon": -17.48917
+    },
+    "name": "Ouakam"
+  },
+  {
+    "country": "SN",
+    "id": 2249222,
+    "coord": {
+      "lat": 15.61867,
+      "lon": -16.22436
+    },
+    "name": "Louga"
+  },
+  {
+    "country": "SN",
+    "id": 2250338,
+    "coord": {
+      "lat": 14.8,
+      "lon": -16.9
+    },
+    "name": "Keur Issa Bambara"
+  },
+  {
+    "country": "SN",
+    "id": 2250804,
+    "coord": {
+      "lat": 13.92239,
+      "lon": -15.97977
+    },
+    "name": "Région de Kaolack"
+  },
+  {
+    "country": "SN",
+    "id": 2244460,
+    "coord": {
+      "lat": 14.16667,
+      "lon": -16.049999
+    },
+    "name": "Tiofak"
+  },
+  {
+    "country": "SN",
+    "id": 2252308,
+    "coord": {
+      "lat": 14.76877,
+      "lon": -16.186819
+    },
+    "name": "Région de Diourbel"
+  },
+  {
+    "country": "SN",
+    "id": 2253301,
+    "coord": {
+      "lat": 14.66667,
+      "lon": -16.26667
+    },
+    "name": "Dangol"
+  },
+  {
+    "country": "SN",
+    "id": 2246608,
+    "coord": {
+      "lat": 14.35,
+      "lon": -16.41667
+    },
+    "name": "Pourham"
+  },
+  {
+    "country": "SN",
+    "id": 2246678,
+    "coord": {
+      "lat": 14.75,
+      "lon": -17.4
+    },
+    "name": "Pikine"
+  },
+  {
+    "country": "SN",
+    "id": 2248698,
+    "coord": {
+      "lat": 14.79032,
+      "lon": -15.90803
+    },
+    "name": "Mbake"
+  },
+  {
+    "country": "SN",
+    "id": 2248409,
+    "coord": {
+      "lat": 15.1097,
+      "lon": -16.621799
+    },
+    "name": "Mekhe"
+  },
+  {
+    "country": "SN",
+    "id": 2243973,
+    "coord": {
+      "lat": 14.76056,
+      "lon": -17.47389
+    },
+    "name": "Yof"
+  },
+  {
+    "country": "SN",
+    "id": 2244990,
+    "coord": {
+      "lat": 13.98416,
+      "lon": -13.27513
+    },
+    "name": "Région de Tambacounda"
+  },
+  {
+    "country": "SN",
+    "id": 2252263,
+    "coord": {
+      "lat": 13.75,
+      "lon": -13.66667
+    },
+    "name": "Djidje Kounda"
+  },
+  {
+    "country": "SN",
+    "id": 2246550,
+    "coord": {
+      "lat": 16.462219,
+      "lon": -15.68194
+    },
+    "name": "Rhouma"
+  },
+  {
+    "country": "SN",
+    "id": 2244221,
+    "coord": {
+      "lat": 14.51667,
+      "lon": -16.066669
+    },
+    "name": "Touré"
+  },
+  {
+    "country": "SN",
+    "id": 2249281,
+    "coord": {
+      "lat": 15.3953,
+      "lon": -15.1193
+    },
+    "name": "Linguère"
+  },
+  {
+    "country": "SN",
+    "id": 2251055,
+    "coord": {
+      "lat": 12.35556,
+      "lon": -16.72056
+    },
+    "name": "Kabrousse"
+  },
+  {
+    "country": "SN",
+    "id": 2253901,
+    "coord": {
+      "lat": 12.81028,
+      "lon": -16.226391
+    },
+    "name": "Bignona"
+  },
+  {
+    "country": "SN",
+    "id": 2253348,
+    "coord": {
+      "lat": 14.93333,
+      "lon": -16.73333
+    },
+    "name": "Dakar Dodj"
+  },
+  {
+    "country": "SN",
+    "id": 2251354,
+    "coord": {
+      "lat": 15.48333,
+      "lon": -16.35
+    },
+    "name": "Gouye Gal"
+  },
+  {
+    "country": "SN",
+    "id": 2251339,
+    "coord": {
+      "lat": 14.70889,
+      "lon": -17.45528
+    },
+    "name": "Grand Dakar"
+  },
+  {
+    "country": "SN",
+    "id": 2245709,
+    "coord": {
+      "lat": 14.74694,
+      "lon": -17.136669
+    },
+    "name": "Sébikhoutane"
+  },
+  {
+    "country": "SN",
+    "id": 2244177,
+    "coord": {
+      "lat": 13.15,
+      "lon": -14.11667
+    },
+    "name": "Velingara"
+  },
+  {
+    "country": "SN",
+    "id": 7303937,
+    "coord": {
+      "lat": 12.70683,
+      "lon": -15.55801
+    },
+    "name": "Région de Sédhiou"
+  },
+  {
+    "country": "SN",
+    "id": 2245704,
+    "coord": {
+      "lat": 12.70806,
+      "lon": -15.55694
+    },
+    "name": "Sedhiou"
+  },
+  {
+    "country": "SN",
+    "id": 2244987,
+    "coord": {
+      "lat": 13.73333,
+      "lon": -13.66667
+    },
+    "name": "Tamba I"
+  },
+  {
+    "country": "SN",
+    "id": 2245546,
+    "coord": {
+      "lat": 13.03333,
+      "lon": -13.3
+    },
+    "name": "Simenti"
+  },
+  {
+    "country": "SN",
+    "id": 7303936,
+    "coord": {
+      "lat": 12.55146,
+      "lon": -12.17586
+    },
+    "name": "Région de Kédougou"
+  },
+  {
+    "country": "SN",
+    "id": 2252081,
+    "coord": {
+      "lat": 12.5535,
+      "lon": -12.2039
+    },
+    "name": "Fadiga"
+  },
+  {
+    "country": "SN",
+    "id": 2253349,
+    "coord": {
+      "lat": 16.06105,
+      "lon": -16.460699
+    },
+    "name": "Dakar-Bango"
+  },
+  {
+    "country": "SN",
+    "id": 2245170,
+    "coord": {
+      "lat": 16.66,
+      "lon": -14.96571
+    },
+    "name": "Souima"
+  },
+  {
+    "country": "SN",
+    "id": 2248753,
+    "coord": {
+      "lat": 15.5,
+      "lon": -13.5
+    },
+    "name": "Région de Matam"
+  },
+  {
+    "country": "SN",
+    "id": 2246922,
+    "coord": {
+      "lat": 15.6,
+      "lon": -13.31667
+    },
+    "name": "Ouro Sogui"
+  },
+  {
+    "country": "SN",
+    "id": 2595769,
+    "coord": {
+      "lat": 14.73,
+      "lon": -17.48583
+    },
+    "name": "Terme Sud"
+  },
+  {
+    "country": "SN",
+    "id": 2250982,
+    "coord": {
+      "lat": 14.15,
+      "lon": -16.033331
+    },
+    "name": "Kahone"
+  },
+  {
+    "country": "SN",
+    "id": 2253607,
+    "coord": {
+      "lat": 12.41639,
+      "lon": -16.750561
+    },
+    "name": "Boukot Ouolof"
+  },
+  {
+    "country": "SN",
+    "id": 2252639,
+    "coord": {
+      "lat": 12.56667,
+      "lon": -16.283331
+    },
+    "name": "Diassi"
+  },
+  {
+    "country": "SN",
+    "id": 2244436,
+    "coord": {
+      "lat": 12.78556,
+      "lon": -16.521669
+    },
+    "name": "Tionk Essil"
+  },
+  {
+    "country": "SN",
+    "id": 2244786,
+    "coord": {
+      "lat": 14.41667,
+      "lon": -16.700001
+    },
+    "name": "Tiadiaye"
+  },
+  {
+    "country": "SN",
+    "id": 2244802,
+    "coord": {
+      "lat": 14.83417,
+      "lon": -17.10611
+    },
+    "name": "Thies"
+  },
+  {
+    "country": "SN",
+    "id": 2245241,
+    "coord": {
+      "lat": 13.88333,
+      "lon": -16.366671
+    },
+    "name": "Sokone"
+  },
+  {
+    "country": "SN",
+    "id": 2245666,
+    "coord": {
+      "lat": 15.19422,
+      "lon": -12.94482
+    },
+    "name": "Seme"
+  },
+  {
+    "country": "SN",
+    "id": 2246522,
+    "coord": {
+      "lat": 16.49861,
+      "lon": -15.81528
+    },
+    "name": "Rosso"
+  },
+  {
+    "country": "SN",
+    "id": 2246585,
+    "coord": {
+      "lat": 15.3,
+      "lon": -13.96667
+    },
+    "name": "Ranerou"
+  },
+  {
+    "country": "SN",
+    "id": 2246641,
+    "coord": {
+      "lat": 15.26667,
+      "lon": -13
+    },
+    "name": "Polel Diaoube"
+  },
+  {
+    "country": "SN",
+    "id": 2246780,
+    "coord": {
+      "lat": 13.98333,
+      "lon": -16.26667
+    },
+    "name": "Passi"
+  },
+  {
+    "country": "SN",
+    "id": 2246901,
+    "coord": {
+      "lat": 12.485,
+      "lon": -16.54694
+    },
+    "name": "Oussouye"
+  },
+  {
+    "country": "SN",
+    "id": 2247044,
+    "coord": {
+      "lat": 15.26367,
+      "lon": -12.86821
+    },
+    "name": "Waounde"
+  },
+  {
+    "country": "SN",
+    "id": 2247660,
+    "coord": {
+      "lat": 13.91667,
+      "lon": -15.93333
+    },
+    "name": "Ndofane"
+  },
+  {
+    "country": "SN",
+    "id": 2247684,
+    "coord": {
+      "lat": 16.51293,
+      "lon": -14.64706
+    },
+    "name": "Ndioum"
+  },
+  {
+    "country": "SN",
+    "id": 2248752,
+    "coord": {
+      "lat": 15.6175,
+      "lon": -13.33028
+    },
+    "name": "Matam"
+  },
+  {
+    "country": "SN",
+    "id": 2248777,
+    "coord": {
+      "lat": 12.8275,
+      "lon": -15.98056
+    },
+    "name": "Marsassoum"
+  },
+  {
+    "country": "SN",
+    "id": 2249554,
+    "coord": {
+      "lat": 13.98333,
+      "lon": -14.8
+    },
+    "name": "Koungheul"
+  },
+  {
+    "country": "SN",
+    "id": 2249901,
+    "coord": {
+      "lat": 14.76667,
+      "lon": -16.700001
+    },
+    "name": "Khombole"
+  },
+  {
+    "country": "SN",
+    "id": 2250849,
+    "coord": {
+      "lat": 15.4916,
+      "lon": -13.17627
+    },
+    "name": "Kanel"
+  },
+  {
+    "country": "SN",
+    "id": 2251007,
+    "coord": {
+      "lat": 14.10594,
+      "lon": -15.5508
+    },
+    "name": "Kaffrine"
+  },
+  {
+    "country": "SN",
+    "id": 2251544,
+    "coord": {
+      "lat": 16.255739,
+      "lon": -14.10165
+    },
+    "name": "Golere"
+  },
+  {
+    "country": "SN",
+    "id": 2251688,
+    "coord": {
+      "lat": 14.23333,
+      "lon": -16.26667
+    },
+    "name": "Gandiaye"
+  },
+  {
+    "country": "SN",
+    "id": 2251791,
+    "coord": {
+      "lat": 14.13333,
+      "lon": -16.466669
+    },
+    "name": "Foundiougne"
+  },
+  {
+    "country": "SN",
+    "id": 2251911,
+    "coord": {
+      "lat": 14.35806,
+      "lon": -16.585831
+    },
+    "name": "Fatick"
+  },
+  {
+    "country": "SN",
+    "id": 2252309,
+    "coord": {
+      "lat": 14.66278,
+      "lon": -16.3925
+    },
+    "name": "Diourbel"
+  },
+  {
+    "country": "SN",
+    "id": 2252473,
+    "coord": {
+      "lat": 14.18333,
+      "lon": -16.66667
+    },
+    "name": "Diofior"
+  },
+  {
+    "country": "SN",
+    "id": 2252606,
+    "coord": {
+      "lat": 15.02196,
+      "lon": -12.54374
+    },
+    "name": "Diawara"
+  },
+  {
+    "country": "SN",
+    "id": 6620952,
+    "coord": {
+      "lat": 14.37349,
+      "lon": -16.943661
+    },
+    "name": "Warang"
+  },
+  {
+    "country": "SN",
+    "id": 8030383,
+    "coord": {
+      "lat": 14.70649,
+      "lon": -17.475809
+    },
+    "name": "Mermoz Boabab"
+  }
+
+]

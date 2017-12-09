@@ -1,0 +1,1516 @@
+[
+
+  {
+    "country": "VN",
+    "id": 1559969,
+    "coord": {
+      "lat": 19.33333,
+      "lon": 104.833328
+    },
+    "name": "Tỉnh Nghệ An"
+  },
+  {
+    "country": "VN",
+    "id": 1905577,
+    "coord": {
+      "lat": 21.33333,
+      "lon": 105.166672
+    },
+    "name": "Tỉnh Phú Thọ"
+  },
+  {
+    "country": "VN",
+    "id": 1562820,
+    "coord": {
+      "lat": 21.301941,
+      "lon": 105.430832
+    },
+    "name": "Viet Tri"
+  },
+  {
+    "country": "VN",
+    "id": 1568758,
+    "coord": {
+      "lat": 21.25,
+      "lon": 107.333328
+    },
+    "name": "Tỉnh Quảng Ninh"
+  },
+  {
+    "country": "VN",
+    "id": 1569805,
+    "coord": {
+      "lat": 13.16667,
+      "lon": 109.166672
+    },
+    "name": "Tỉnh Phú Yên"
+  },
+  {
+    "country": "VN",
+    "id": 1563241,
+    "coord": {
+      "lat": 21.033331,
+      "lon": 106.783333
+    },
+    "name": "Uong Bi"
+  },
+  {
+    "country": "VN",
+    "id": 1577995,
+    "coord": {
+      "lat": 10.66667,
+      "lon": 107.783333
+    },
+    "name": "Lagi"
+  },
+  {
+    "country": "VN",
+    "id": 1559977,
+    "coord": {
+      "lat": 10.16667,
+      "lon": 106
+    },
+    "name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "country": "VN",
+    "id": 1562798,
+    "coord": {
+      "lat": 18.66667,
+      "lon": 105.666672
+    },
+    "name": "Vinh"
+  },
+  {
+    "country": "VN",
+    "id": 1572151,
+    "coord": {
+      "lat": 12.25,
+      "lon": 109.183327
+    },
+    "name": "Nha Trang"
+  },
+  {
+    "country": "VN",
+    "id": 1580541,
+    "coord": {
+      "lat": 15.87944,
+      "lon": 108.334999
+    },
+    "name": "Hoi An"
+  },
+  {
+    "country": "VN",
+    "id": 1562822,
+    "coord": {
+      "lat": 16.16667,
+      "lon": 107.833328
+    },
+    "name": "Socialist Republic of Vietnam"
+  },
+  {
+    "country": "VN",
+    "id": 1591793,
+    "coord": {
+      "lat": 12.15,
+      "lon": 109.099998
+    },
+    "name": "Ấp Vạn Tự Tây"
+  },
+  {
+    "country": "VN",
+    "id": 1572461,
+    "coord": {
+      "lat": 13.45,
+      "lon": 109.099998
+    },
+    "name": "Ngô Châu"
+  },
+  {
+    "country": "VN",
+    "id": 1570565,
+    "coord": {
+      "lat": 21.01667,
+      "lon": 105.533333
+    },
+    "name": "Phu Hưu"
+  },
+  {
+    "country": "VN",
+    "id": 1562693,
+    "coord": {
+      "lat": 10.25,
+      "lon": 105.966667
+    },
+    "name": "Vinh Long"
+  },
+  {
+    "country": "VN",
+    "id": 1563281,
+    "coord": {
+      "lat": 13.08333,
+      "lon": 109.300003
+    },
+    "name": "Tuy Hoa"
+  },
+  {
+    "country": "VN",
+    "id": 1559976,
+    "coord": {
+      "lat": 22.116671,
+      "lon": 105.25
+    },
+    "name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "country": "VN",
+    "id": 1563287,
+    "coord": {
+      "lat": 21.82333,
+      "lon": 105.218063
+    },
+    "name": "Tuyen Quang"
+  },
+  {
+    "country": "VN",
+    "id": 1905475,
+    "coord": {
+      "lat": 11.16667,
+      "lon": 106.666672
+    },
+    "name": "Tỉnh Bình Dương"
+  },
+  {
+    "country": "VN",
+    "id": 1565022,
+    "coord": {
+      "lat": 10.96667,
+      "lon": 106.650002
+    },
+    "name": "Thu Dau Mot"
+  },
+  {
+    "country": "VN",
+    "id": 1905497,
+    "coord": {
+      "lat": 21.66667,
+      "lon": 105.833328
+    },
+    "name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "country": "VN",
+    "id": 1566319,
+    "coord": {
+      "lat": 21.592779,
+      "lon": 105.84417
+    },
+    "name": "Thai Nguyen"
+  },
+  {
+    "country": "VN",
+    "id": 1566338,
+    "coord": {
+      "lat": 20.5,
+      "lon": 106.333328
+    },
+    "name": "Tỉnh Thái Bình"
+  },
+  {
+    "country": "VN",
+    "id": 1566346,
+    "coord": {
+      "lat": 20.450001,
+      "lon": 106.333328
+    },
+    "name": "Thai Binh"
+  },
+  {
+    "country": "VN",
+    "id": 1566557,
+    "coord": {
+      "lat": 11.33333,
+      "lon": 106.166672
+    },
+    "name": "Tỉnh Tây Ninh"
+  },
+  {
+    "country": "VN",
+    "id": 1566559,
+    "coord": {
+      "lat": 11.3,
+      "lon": 106.099998
+    },
+    "name": "Tay Ninh"
+  },
+  {
+    "country": "VN",
+    "id": 1575788,
+    "coord": {
+      "lat": 10.66667,
+      "lon": 106.166672
+    },
+    "name": "Tỉnh Long An"
+  },
+  {
+    "country": "VN",
+    "id": 1567069,
+    "coord": {
+      "lat": 10.53333,
+      "lon": 106.416672
+    },
+    "name": "Tan An"
+  },
+  {
+    "country": "VN",
+    "id": 1905516,
+    "coord": {
+      "lat": 15.58333,
+      "lon": 107.916672
+    },
+    "name": "Tỉnh Quảng Nam"
+  },
+  {
+    "country": "VN",
+    "id": 1567148,
+    "coord": {
+      "lat": 15.56667,
+      "lon": 108.48333
+    },
+    "name": "Tam Ky"
+  },
+  {
+    "country": "VN",
+    "id": 1581019,
+    "coord": {
+      "lat": 20.83333,
+      "lon": 105.666672
+    },
+    "name": "Tỉnh Hà Tây"
+  },
+  {
+    "country": "VN",
+    "id": 1567621,
+    "coord": {
+      "lat": 21.137779,
+      "lon": 105.504997
+    },
+    "name": "Son Tay"
+  },
+  {
+    "country": "VN",
+    "id": 1567643,
+    "coord": {
+      "lat": 21.16667,
+      "lon": 104
+    },
+    "name": "Tỉnh Sơn La"
+  },
+  {
+    "country": "VN",
+    "id": 1567681,
+    "coord": {
+      "lat": 21.316669,
+      "lon": 103.900002
+    },
+    "name": "Son La"
+  },
+  {
+    "country": "VN",
+    "id": 1567723,
+    "coord": {
+      "lat": 13.45,
+      "lon": 109.216667
+    },
+    "name": "Song Cau"
+  },
+  {
+    "country": "VN",
+    "id": 1559972,
+    "coord": {
+      "lat": 9.66667,
+      "lon": 105.833328
+    },
+    "name": "Tỉnh Sóc Trăng"
+  },
+  {
+    "country": "VN",
+    "id": 1567788,
+    "coord": {
+      "lat": 9.60333,
+      "lon": 105.980003
+    },
+    "name": "Soc Trang"
+  },
+  {
+    "country": "VN",
+    "id": 1562412,
+    "coord": {
+      "lat": 22.33333,
+      "lon": 104
+    },
+    "name": "Tỉnh Lào Cai"
+  },
+  {
+    "country": "VN",
+    "id": 1568043,
+    "coord": {
+      "lat": 22.340231,
+      "lon": 103.844147
+    },
+    "name": "Sa Pa"
+  },
+  {
+    "country": "VN",
+    "id": 1582562,
+    "coord": {
+      "lat": 10.66667,
+      "lon": 105.666672
+    },
+    "name": "Tỉnh Ðồng Tháp"
+  },
+  {
+    "country": "VN",
+    "id": 1568212,
+    "coord": {
+      "lat": 10.3,
+      "lon": 105.76667
+    },
+    "name": "Sa Dec"
+  },
+  {
+    "country": "VN",
+    "id": 1905637,
+    "coord": {
+      "lat": 20.58333,
+      "lon": 106
+    },
+    "name": "Tỉnh Hà Nam"
+  },
+  {
+    "country": "VN",
+    "id": 1570449,
+    "coord": {
+      "lat": 20.541109,
+      "lon": 105.913887
+    },
+    "name": "Phu Ly"
+  },
+  {
+    "country": "VN",
+    "id": 1570549,
+    "coord": {
+      "lat": 11.28333,
+      "lon": 106.133331
+    },
+    "name": "Phu Khuong"
+  },
+  {
+    "country": "VN",
+    "id": 1559971,
+    "coord": {
+      "lat": 11.75,
+      "lon": 108.833328
+    },
+    "name": "Tỉnh Ninh Thuận"
+  },
+  {
+    "country": "VN",
+    "id": 1571067,
+    "coord": {
+      "lat": 11.56667,
+      "lon": 108.98333
+    },
+    "name": "Phan Rang-Thap Cham"
+  },
+  {
+    "country": "VN",
+    "id": 1579634,
+    "coord": {
+      "lat": 12.33333,
+      "lon": 109
+    },
+    "name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "country": "VN",
+    "id": 1576303,
+    "coord": {
+      "lat": 22.48333,
+      "lon": 103.949997
+    },
+    "name": "Lao Cai"
+  },
+  {
+    "country": "VN",
+    "id": 1905699,
+    "coord": {
+      "lat": 20.83333,
+      "lon": 106.083328
+    },
+    "name": "Tỉnh Hưng Yên"
+  },
+  {
+    "country": "VN",
+    "id": 1580142,
+    "coord": {
+      "lat": 20.65,
+      "lon": 106.066673
+    },
+    "name": "Hung Yen"
+  },
+  {
+    "country": "VN",
+    "id": 1580410,
+    "coord": {
+      "lat": 20.951111,
+      "lon": 107.080002
+    },
+    "name": "Ha Long"
+  },
+  {
+    "country": "VN",
+    "id": 1581052,
+    "coord": {
+      "lat": 10.38333,
+      "lon": 104.48333
+    },
+    "name": "Ha Tien"
+  },
+  {
+    "country": "VN",
+    "id": 1581129,
+    "coord": {
+      "lat": 21.116671,
+      "lon": 105.883331
+    },
+    "name": "Thủ Ðô Hà Nội"
+  },
+  {
+    "country": "VN",
+    "id": 1581030,
+    "coord": {
+      "lat": 22.75,
+      "lon": 105
+    },
+    "name": "Tỉnh Hà Giang"
+  },
+  {
+    "country": "VN",
+    "id": 1581349,
+    "coord": {
+      "lat": 22.83333,
+      "lon": 104.98333
+    },
+    "name": "Ha Giang"
+  },
+  {
+    "country": "VN",
+    "id": 1581364,
+    "coord": {
+      "lat": 20.9725,
+      "lon": 105.777222
+    },
+    "name": "Ha Dong"
+  },
+  {
+    "country": "VN",
+    "id": 1582436,
+    "coord": {
+      "lat": 11.53333,
+      "lon": 106.916672
+    },
+    "name": "Dong Xoai"
+  },
+  {
+    "country": "VN",
+    "id": 1582926,
+    "coord": {
+      "lat": 16.81625,
+      "lon": 107.100311
+    },
+    "name": "Dong Ha"
+  },
+  {
+    "country": "VN",
+    "id": 1905099,
+    "coord": {
+      "lat": 21.33333,
+      "lon": 102.933327
+    },
+    "name": "Huyện Ðiện Biên"
+  },
+  {
+    "country": "VN",
+    "id": 1584661,
+    "coord": {
+      "lat": 10.96667,
+      "lon": 106.466667
+    },
+    "name": "Cu Chi"
+  },
+  {
+    "country": "VN",
+    "id": 1585660,
+    "coord": {
+      "lat": 10.7,
+      "lon": 105.116669
+    },
+    "name": "Chau Doc"
+  },
+  {
+    "country": "VN",
+    "id": 1586151,
+    "coord": {
+      "lat": 10.45,
+      "lon": 105.633331
+    },
+    "name": "Cao Lanh"
+  },
+  {
+    "country": "VN",
+    "id": 1586288,
+    "coord": {
+      "lat": 10.41667,
+      "lon": 106.966667
+    },
+    "name": "Can Gio"
+  },
+  {
+    "country": "VN",
+    "id": 1586296,
+    "coord": {
+      "lat": 10.61667,
+      "lon": 106.666672
+    },
+    "name": "Can Duoc"
+  },
+  {
+    "country": "VN",
+    "id": 1586350,
+    "coord": {
+      "lat": 11.92144,
+      "lon": 109.159126
+    },
+    "name": "Cam Ranh"
+  },
+  {
+    "country": "VN",
+    "id": 1586357,
+    "coord": {
+      "lat": 21.01667,
+      "lon": 107.300003
+    },
+    "name": "Cam Pha Mines"
+  },
+  {
+    "country": "VN",
+    "id": 1587919,
+    "coord": {
+      "lat": 20.07806,
+      "lon": 105.860283
+    },
+    "name": "Bim Son"
+  },
+  {
+    "country": "VN",
+    "id": 1905412,
+    "coord": {
+      "lat": 21.08333,
+      "lon": 106.166672
+    },
+    "name": "Tỉnh Bắc Ninh"
+  },
+  {
+    "country": "VN",
+    "id": 1591449,
+    "coord": {
+      "lat": 21.183331,
+      "lon": 106.050003
+    },
+    "name": "Bac Ninh"
+  },
+  {
+    "country": "VN",
+    "id": 1905675,
+    "coord": {
+      "lat": 9.25,
+      "lon": 105.75
+    },
+    "name": "Tỉnh Bạc Liêu"
+  },
+  {
+    "country": "VN",
+    "id": 1591474,
+    "coord": {
+      "lat": 9.285,
+      "lon": 105.724442
+    },
+    "name": "Thanh pho Bac Lieu"
+  },
+  {
+    "country": "VN",
+    "id": 1905419,
+    "coord": {
+      "lat": 21.33333,
+      "lon": 106.333328
+    },
+    "name": "Tỉnh Bắc Giang"
+  },
+  {
+    "country": "VN",
+    "id": 1591527,
+    "coord": {
+      "lat": 21.26667,
+      "lon": 106.199997
+    },
+    "name": "Bac Giang"
+  },
+  {
+    "country": "VN",
+    "id": 1905669,
+    "coord": {
+      "lat": 22.16667,
+      "lon": 105.833328
+    },
+    "name": "Tỉnh Bắc Kạn"
+  },
+  {
+    "country": "VN",
+    "id": 1591538,
+    "coord": {
+      "lat": 22.133329,
+      "lon": 105.833328
+    },
+    "name": "Bac Kan"
+  },
+  {
+    "country": "VN",
+    "id": 1560037,
+    "coord": {
+      "lat": 18.66667,
+      "lon": 105.666672
+    },
+    "name": "Yen Vinh"
+  },
+  {
+    "country": "VN",
+    "id": 1561096,
+    "coord": {
+      "lat": 21.033331,
+      "lon": 105.849998
+    },
+    "name": "Xóm Pho"
+  },
+  {
+    "country": "VN",
+    "id": 1580578,
+    "coord": {
+      "lat": 10.83333,
+      "lon": 106.666672
+    },
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  {
+    "country": "VN",
+    "id": 1566083,
+    "coord": {
+      "lat": 10.75,
+      "lon": 106.666672
+    },
+    "name": "Thanh pho Ho Chi Minh"
+  },
+  {
+    "country": "VN",
+    "id": 1905686,
+    "coord": {
+      "lat": 20.91667,
+      "lon": 106.333328
+    },
+    "name": "Tỉnh Hải Dương"
+  },
+  {
+    "country": "VN",
+    "id": 1581326,
+    "coord": {
+      "lat": 20.933331,
+      "lon": 106.316673
+    },
+    "name": "Hai Duong"
+  },
+  {
+    "country": "VN",
+    "id": 1905468,
+    "coord": {
+      "lat": 16.08333,
+      "lon": 108.083328
+    },
+    "name": "Tỉnh Ðà Nẵng"
+  },
+  {
+    "country": "VN",
+    "id": 1583992,
+    "coord": {
+      "lat": 16.06778,
+      "lon": 108.220833
+    },
+    "name": "Turan"
+  },
+  {
+    "country": "VN",
+    "id": 1582720,
+    "coord": {
+      "lat": 11,
+      "lon": 107.166672
+    },
+    "name": "Tỉnh Ðồng Nai"
+  },
+  {
+    "country": "VN",
+    "id": 1587923,
+    "coord": {
+      "lat": 10.95,
+      "lon": 106.816673
+    },
+    "name": "Bien Hoa"
+  },
+  {
+    "country": "VN",
+    "id": 1581188,
+    "coord": {
+      "lat": 9.83333,
+      "lon": 105.666672
+    },
+    "name": "Tỉnh Cần Thơ"
+  },
+  {
+    "country": "VN",
+    "id": 1586203,
+    "coord": {
+      "lat": 10.03333,
+      "lon": 105.783333
+    },
+    "name": "Can Tho"
+  },
+  {
+    "country": "VN",
+    "id": 1584534,
+    "coord": {
+      "lat": 10.58333,
+      "lon": 107.25
+    },
+    "name": "Tỉnh Bà Rịa-Vũng Tàu"
+  },
+  {
+    "country": "VN",
+    "id": 1562414,
+    "coord": {
+      "lat": 10.34599,
+      "lon": 107.084259
+    },
+    "name": "Vung Tau"
+  },
+  {
+    "country": "VN",
+    "id": 1565654,
+    "coord": {
+      "lat": 12.25,
+      "lon": 109.183327
+    },
+    "name": "Thôn Ðiền Hạ"
+  },
+  {
+    "country": "VN",
+    "id": 1581297,
+    "coord": {
+      "lat": 20.83333,
+      "lon": 106.583328
+    },
+    "name": "Thành Phố Hải Phòng"
+  },
+  {
+    "country": "VN",
+    "id": 1581298,
+    "coord": {
+      "lat": 20.85611,
+      "lon": 106.68222
+    },
+    "name": "Haiphong"
+  },
+  {
+    "country": "VN",
+    "id": 1568769,
+    "coord": {
+      "lat": 15,
+      "lon": 108.666672
+    },
+    "name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "country": "VN",
+    "id": 1568770,
+    "coord": {
+      "lat": 15.11667,
+      "lon": 108.800003
+    },
+    "name": "Quang Ngai"
+  },
+  {
+    "country": "VN",
+    "id": 1559970,
+    "coord": {
+      "lat": 20.25,
+      "lon": 105.833328
+    },
+    "name": "Tỉnh Ninh Bình"
+  },
+  {
+    "country": "VN",
+    "id": 1571968,
+    "coord": {
+      "lat": 20.253889,
+      "lon": 105.974998
+    },
+    "name": "Ninh Binh"
+  },
+  {
+    "country": "VN",
+    "id": 1584169,
+    "coord": {
+      "lat": 12.83333,
+      "lon": 108.166672
+    },
+    "name": "Tỉnh Ðắc Lắk"
+  },
+  {
+    "country": "VN",
+    "id": 1586896,
+    "coord": {
+      "lat": 12.66667,
+      "lon": 108.050003
+    },
+    "name": "Buon Ma Thuot"
+  },
+  {
+    "country": "VN",
+    "id": 1579008,
+    "coord": {
+      "lat": 10,
+      "lon": 105.166672
+    },
+    "name": "Tỉnh Kiến Giang"
+  },
+  {
+    "country": "VN",
+    "id": 1568510,
+    "coord": {
+      "lat": 10.01667,
+      "lon": 105.083328
+    },
+    "name": "Rach Gia"
+  },
+  {
+    "country": "VN",
+    "id": 1577882,
+    "coord": {
+      "lat": 11.5,
+      "lon": 108.333328
+    },
+    "name": "Tỉnh Lâm Ðồng"
+  },
+  {
+    "country": "VN",
+    "id": 1584071,
+    "coord": {
+      "lat": 11.94646,
+      "lon": 108.441933
+    },
+    "name": "Da Lat"
+  },
+  {
+    "country": "VN",
+    "id": 1587871,
+    "coord": {
+      "lat": 14.16667,
+      "lon": 109
+    },
+    "name": "Tỉnh Bình Ðịnh"
+  },
+  {
+    "country": "VN",
+    "id": 1568574,
+    "coord": {
+      "lat": 13.76667,
+      "lon": 109.23333
+    },
+    "name": "Quy Nhon"
+  },
+  {
+    "country": "VN",
+    "id": 1566165,
+    "coord": {
+      "lat": 20,
+      "lon": 105.5
+    },
+    "name": "Tỉnh Thanh Hóa"
+  },
+  {
+    "country": "VN",
+    "id": 1566166,
+    "coord": {
+      "lat": 19.799999,
+      "lon": 105.76667
+    },
+    "name": "Thanh Hoa"
+  },
+  {
+    "country": "VN",
+    "id": 1572594,
+    "coord": {
+      "lat": 20.33333,
+      "lon": 105.25
+    },
+    "name": "Tỉnh Hòa Bình"
+  },
+  {
+    "country": "VN",
+    "id": 1580830,
+    "coord": {
+      "lat": 20.81333,
+      "lon": 105.338333
+    },
+    "name": "Hoa Binh"
+  },
+  {
+    "country": "VN",
+    "id": 1559978,
+    "coord": {
+      "lat": 21.5,
+      "lon": 104.666672
+    },
+    "name": "Tỉnh Yên Bái"
+  },
+  {
+    "country": "VN",
+    "id": 1560349,
+    "coord": {
+      "lat": 21.700001,
+      "lon": 104.866669
+    },
+    "name": "Yen Bai"
+  },
+  {
+    "country": "VN",
+    "id": 1564676,
+    "coord": {
+      "lat": 10.41667,
+      "lon": 106.166672
+    },
+    "name": "Tỉnh Tiền Giang"
+  },
+  {
+    "country": "VN",
+    "id": 1574023,
+    "coord": {
+      "lat": 10.35,
+      "lon": 106.349998
+    },
+    "name": "My Tho"
+  },
+  {
+    "country": "VN",
+    "id": 1559975,
+    "coord": {
+      "lat": 9.83333,
+      "lon": 106.25
+    },
+    "name": "Tỉnh Trà Vinh"
+  },
+  {
+    "country": "VN",
+    "id": 1563926,
+    "coord": {
+      "lat": 9.93472,
+      "lon": 106.345284
+    },
+    "name": "Tra Vinh"
+  },
+  {
+    "country": "VN",
+    "id": 1905678,
+    "coord": {
+      "lat": 9.08333,
+      "lon": 105.083328
+    },
+    "name": "Tỉnh Cà Mau"
+  },
+  {
+    "country": "VN",
+    "id": 1586443,
+    "coord": {
+      "lat": 9.17694,
+      "lon": 105.150002
+    },
+    "name": "Ca Mau"
+  },
+  {
+    "country": "VN",
+    "id": 1905626,
+    "coord": {
+      "lat": 20.25,
+      "lon": 106.25
+    },
+    "name": "Tỉnh Nam Ðịnh"
+  },
+  {
+    "country": "VN",
+    "id": 1573517,
+    "coord": {
+      "lat": 20.41667,
+      "lon": 106.166672
+    },
+    "name": "Nam Dinh"
+  },
+  {
+    "country": "VN",
+    "id": 1587974,
+    "coord": {
+      "lat": 10.16667,
+      "lon": 106.5
+    },
+    "name": "Tỉnh Bến Tre"
+  },
+  {
+    "country": "VN",
+    "id": 1587976,
+    "coord": {
+      "lat": 10.23333,
+      "lon": 106.383331
+    },
+    "name": "Ben Tre"
+  },
+  {
+    "country": "VN",
+    "id": 1576632,
+    "coord": {
+      "lat": 21.75,
+      "lon": 106.5
+    },
+    "name": "Tỉnh Lạng Sơn"
+  },
+  {
+    "country": "VN",
+    "id": 1576633,
+    "coord": {
+      "lat": 21.83333,
+      "lon": 106.73333
+    },
+    "name": "Lang Son"
+  },
+  {
+    "country": "VN",
+    "id": 1586182,
+    "coord": {
+      "lat": 22.66667,
+      "lon": 106
+    },
+    "name": "Tỉnh Cao Bằng"
+  },
+  {
+    "country": "VN",
+    "id": 1586185,
+    "coord": {
+      "lat": 22.66667,
+      "lon": 106.25
+    },
+    "name": "Cao Bang"
+  },
+  {
+    "country": "VN",
+    "id": 1565033,
+    "coord": {
+      "lat": 16.33333,
+      "lon": 107.583328
+    },
+    "name": "Tỉnh Thừa Thiên-Huế"
+  },
+  {
+    "country": "VN",
+    "id": 1580240,
+    "coord": {
+      "lat": 16.466669,
+      "lon": 107.599998
+    },
+    "name": "Hue"
+  },
+  {
+    "country": "VN",
+    "id": 1594446,
+    "coord": {
+      "lat": 10.5,
+      "lon": 105.166672
+    },
+    "name": "Tỉnh An Giang"
+  },
+  {
+    "country": "VN",
+    "id": 1575627,
+    "coord": {
+      "lat": 10.38333,
+      "lon": 105.416672
+    },
+    "name": "Long Xuyen"
+  },
+  {
+    "country": "VN",
+    "id": 1581882,
+    "coord": {
+      "lat": 11.08333,
+      "lon": 108
+    },
+    "name": "Tỉnh Bình Thuận"
+  },
+  {
+    "country": "VN",
+    "id": 1571058,
+    "coord": {
+      "lat": 10.93333,
+      "lon": 108.099998
+    },
+    "name": "Phan Thiet"
+  },
+  {
+    "country": "VN",
+    "id": 1568733,
+    "coord": {
+      "lat": 16.75,
+      "lon": 107
+    },
+    "name": "Tỉnh Quảng Trị"
+  },
+  {
+    "country": "VN",
+    "id": 1568738,
+    "coord": {
+      "lat": 16.75,
+      "lon": 107.199997
+    },
+    "name": "Quảng Trị"
+  },
+  {
+    "country": "VN",
+    "id": 1565088,
+    "coord": {
+      "lat": 14.75,
+      "lon": 107.916672
+    },
+    "name": "Tỉnh Kon Tum"
+  },
+  {
+    "country": "VN",
+    "id": 1578500,
+    "coord": {
+      "lat": 14.35,
+      "lon": 108
+    },
+    "name": "Kon Tum"
+  },
+  {
+    "country": "VN",
+    "id": 1905856,
+    "coord": {
+      "lat": 21.299999,
+      "lon": 105.599998
+    },
+    "name": "Tỉnh Vĩnh Phúc"
+  },
+  {
+    "country": "VN",
+    "id": 1562548,
+    "coord": {
+      "lat": 21.309999,
+      "lon": 105.596672
+    },
+    "name": "Vinh Yen"
+  },
+  {
+    "country": "VN",
+    "id": 1580700,
+    "coord": {
+      "lat": 18.33333,
+      "lon": 105.75
+    },
+    "name": "Tỉnh Hà Tĩnh"
+  },
+  {
+    "country": "VN",
+    "id": 1581047,
+    "coord": {
+      "lat": 18.33333,
+      "lon": 105.900002
+    },
+    "name": "Ha Tinh"
+  },
+  {
+    "country": "VN",
+    "id": 1568839,
+    "coord": {
+      "lat": 17.5,
+      "lon": 106.333328
+    },
+    "name": "Tỉnh Quảng Bình"
+  },
+  {
+    "country": "VN",
+    "id": 1582886,
+    "coord": {
+      "lat": 17.48333,
+      "lon": 106.599998
+    },
+    "name": "Dong Hoi"
+  },
+  {
+    "country": "VN",
+    "id": 1581021,
+    "coord": {
+      "lat": 21.133329,
+      "lon": 105.76667
+    },
+    "name": "Hậu Dương"
+  },
+  {
+    "country": "VN",
+    "id": 1905480,
+    "coord": {
+      "lat": 11.75,
+      "lon": 106.916672
+    },
+    "name": "Tỉnh Bình Phước"
+  },
+  {
+    "country": "VN",
+    "id": 1575864,
+    "coord": {
+      "lat": 11.85,
+      "lon": 106.599998
+    },
+    "name": "Lộc Ninh"
+  },
+  {
+    "country": "VN",
+    "id": 1581323,
+    "coord": {
+      "lat": 20.616671,
+      "lon": 105.23333
+    },
+    "name": "Hai Ha"
+  },
+  {
+    "country": "VN",
+    "id": 1892675,
+    "coord": {
+      "lat": 10.36833,
+      "lon": 107.083328
+    },
+    "name": "Bến Ðình"
+  },
+  {
+    "country": "VN",
+    "id": 1560678,
+    "coord": {
+      "lat": 18.73333,
+      "lon": 105.666672
+    },
+    "name": "Xóm Yân Lạc Hâu"
+  },
+  {
+    "country": "VN",
+    "id": 1565593,
+    "coord": {
+      "lat": 10.83333,
+      "lon": 106.650002
+    },
+    "name": "Thông Tây Hội"
+  },
+  {
+    "country": "VN",
+    "id": 1581088,
+    "coord": {
+      "lat": 13.75,
+      "lon": 108.25
+    },
+    "name": "Tỉnh Gia Lai"
+  },
+  {
+    "country": "VN",
+    "id": 1569684,
+    "coord": {
+      "lat": 13.98333,
+      "lon": 108
+    },
+    "name": "Pleiku"
+  },
+  {
+    "country": "VN",
+    "id": 1565681,
+    "coord": {
+      "lat": 16.4,
+      "lon": 107.716667
+    },
+    "name": "Thôn Chiết Bi Ha"
+  },
+  {
+    "country": "VN",
+    "id": 1594018,
+    "coord": {
+      "lat": 16.04056,
+      "lon": 108.212502
+    },
+    "name": "Ấp Ba"
+  },
+  {
+    "country": "VN",
+    "id": 1581130,
+    "coord": {
+      "lat": 21.0245,
+      "lon": 105.841171
+    },
+    "name": "Ha Noi"
+  },
+  {
+    "country": "VN",
+    "id": 1583477,
+    "coord": {
+      "lat": 21.383329,
+      "lon": 103.01667
+    },
+    "name": "Dien Bien Phu"
+  },
+  {
+    "country": "VN",
+    "id": 1566053,
+    "coord": {
+      "lat": 21.219879,
+      "lon": 105.186142
+    },
+    "name": "Huyen Thanh Son"
+  },
+  {
+    "country": "VN",
+    "id": 1567649,
+    "coord": {
+      "lat": 21.70363,
+      "lon": 105.404121
+    },
+    "name": "Huyen Son Duong"
+  },
+  {
+    "country": "VN",
+    "id": 1569901,
+    "coord": {
+      "lat": 21.39883,
+      "lon": 105.22702
+    },
+    "name": "Thi xa Phu Tho"
+  },
+  {
+    "country": "VN",
+    "id": 1569973,
+    "coord": {
+      "lat": 10.21667,
+      "lon": 103.966667
+    },
+    "name": "Duong GJong"
+  },
+  {
+    "country": "VN",
+    "id": 1570815,
+    "coord": {
+      "lat": 22.533331,
+      "lon": 103.349998
+    },
+    "name": "Phong Tho"
+  },
+  {
+    "country": "VN",
+    "id": 1583240,
+    "coord": {
+      "lat": 21.6241,
+      "lon": 105.185883
+    },
+    "name": "Huyen Doan Hung"
+  },
+  {
+    "country": "VN",
+    "id": 1584807,
+    "coord": {
+      "lat": 8.68333,
+      "lon": 106.616669
+    },
+    "name": "Con Son"
+  },
+  {
+    "country": "VN",
+    "id": 7910088,
+    "coord": {
+      "lat": 11.08416,
+      "lon": 106.788338
+    },
+    "name": "Uyen Hung"
+  },
+  {
+    "country": "VN",
+    "id": 8200099,
+    "coord": {
+      "lat": 21.350019,
+      "lon": 105.060143
+    },
+    "name": "Huyen Yen Lap"
+  },
+  {
+    "country": "VN",
+    "id": 8200205,
+    "coord": {
+      "lat": 21.495831,
+      "lon": 105.145348
+    },
+    "name": "Huyen Thanh Hoa"
+  },
+  {
+    "country": "VN",
+    "id": 8200212,
+    "coord": {
+      "lat": 21.420799,
+      "lon": 105.139473
+    },
+    "name": "Huyen Song Thao"
+  },
+  {
+    "country": "VN",
+    "id": 8200783,
+    "coord": {
+      "lat": 21.25564,
+      "lon": 105.297752
+    },
+    "name": "Huyen Tam Thanh"
+  },
+  {
+    "country": "VN",
+    "id": 8200836,
+    "coord": {
+      "lat": 21.43498,
+      "lon": 105.293137
+    },
+    "name": "Huyen Phong Chau"
+  },
+  {
+    "country": "VN",
+    "id": 8201616,
+    "coord": {
+      "lat": 21.1999,
+      "lon": 105.430183
+    },
+    "name": "Huyen Ba Vi"
+  }
+
+]

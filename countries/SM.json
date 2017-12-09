@@ -1,0 +1,112 @@
+[
+
+  {
+    "country": "SM",
+    "id": 8199069,
+    "coord": {
+      "lat": 43.93388,
+      "lon": 12.43858
+    },
+    "name": "Santa Mustiola"
+  },
+  {
+    "country": "SM",
+    "id": 3345302,
+    "coord": {
+      "lat": 43.933331,
+      "lon": 12.45
+    },
+    "name": "Castello di San Marino Città"
+  },
+  {
+    "country": "SM",
+    "id": 3168068,
+    "coord": {
+      "lat": 43.933331,
+      "lon": 12.41667
+    },
+    "name": "Repubblica di San Marino"
+  },
+  {
+    "country": "SM",
+    "id": 3168070,
+    "coord": {
+      "lat": 43.933331,
+      "lon": 12.45
+    },
+    "name": "San Marino"
+  },
+  {
+    "country": "SM",
+    "id": 3166645,
+    "coord": {
+      "lat": 43.968971,
+      "lon": 12.48167
+    },
+    "name": "Serravalle"
+  },
+  {
+    "country": "SM",
+    "id": 3170472,
+    "coord": {
+      "lat": 43.90451,
+      "lon": 12.42142
+    },
+    "name": "Poggio di Chiesanuova"
+  },
+  {
+    "country": "SM",
+    "id": 3172906,
+    "coord": {
+      "lat": 43.908779,
+      "lon": 12.48201
+    },
+    "name": "Monte Giardino"
+  },
+  {
+    "country": "SM",
+    "id": 3176966,
+    "coord": {
+      "lat": 43.910011,
+      "lon": 12.45738
+    },
+    "name": "Fiorentino"
+  },
+  {
+    "country": "SM",
+    "id": 3177299,
+    "coord": {
+      "lat": 43.92831,
+      "lon": 12.49798
+    },
+    "name": "Faetano"
+  },
+  {
+    "country": "SM",
+    "id": 3177542,
+    "coord": {
+      "lat": 43.952789,
+      "lon": 12.47008
+    },
+    "name": "Domagnano"
+  },
+  {
+    "country": "SM",
+    "id": 3181793,
+    "coord": {
+      "lat": 43.941929,
+      "lon": 12.44738
+    },
+    "name": "Borgo Maggiore"
+  },
+  {
+    "country": "SM",
+    "id": 3183500,
+    "coord": {
+      "lat": 43.94593,
+      "lon": 12.4185
+    },
+    "name": "Acquaviva"
+  }
+
+]

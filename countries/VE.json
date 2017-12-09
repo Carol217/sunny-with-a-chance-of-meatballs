@@ -1,0 +1,6592 @@
+[
+
+  {
+    "country": "VE",
+    "id": 3632308,
+    "coord": {
+      "lat": 8.598333,
+      "lon": -71.144997
+    },
+    "name": "Merida"
+  },
+  {
+    "country": "VE",
+    "id": 3649281,
+    "coord": {
+      "lat": 9.33333,
+      "lon": -64.466667
+    },
+    "name": "Municipio Anaco"
+  },
+  {
+    "country": "VE",
+    "id": 3486270,
+    "coord": {
+      "lat": 9.43889,
+      "lon": -64.472778
+    },
+    "name": "Anaco"
+  },
+  {
+    "country": "VE",
+    "id": 3625123,
+    "coord": {
+      "lat": 10.06667,
+      "lon": -67.5
+    },
+    "name": "Municipio Zamora"
+  },
+  {
+    "country": "VE",
+    "id": 3625547,
+    "coord": {
+      "lat": 10.08333,
+      "lon": -68.083328
+    },
+    "name": "Municipio Valencia"
+  },
+  {
+    "country": "VE",
+    "id": 8129205,
+    "coord": {
+      "lat": 10.22388,
+      "lon": -67.472878
+    },
+    "name": "Municipio Santiago Mariño"
+  },
+  {
+    "country": "VE",
+    "id": 3628416,
+    "coord": {
+      "lat": 10.5,
+      "lon": -68.633331
+    },
+    "name": "Municipio San Felipe"
+  },
+  {
+    "country": "VE",
+    "id": 3645361,
+    "coord": {
+      "lat": 9,
+      "lon": -72.083328
+    },
+    "name": "Municipio Colón"
+  },
+  {
+    "country": "VE",
+    "id": 3628494,
+    "coord": {
+      "lat": 9.58333,
+      "lon": -68.583328
+    },
+    "name": "Municipio San Carlos"
+  },
+  {
+    "country": "VE",
+    "id": 8129204,
+    "coord": {
+      "lat": 10.38854,
+      "lon": -66.95179
+    },
+    "name": "Municipio Los Salias"
+  },
+  {
+    "country": "VE",
+    "id": 8129175,
+    "coord": {
+      "lat": 10.47226,
+      "lon": -66.801552
+    },
+    "name": "Municipio Sucre"
+  },
+  {
+    "country": "VE",
+    "id": 8129237,
+    "coord": {
+      "lat": 10.17389,
+      "lon": -67.541939
+    },
+    "name": "Municipio Libertador"
+  },
+  {
+    "country": "VE",
+    "id": 3630932,
+    "coord": {
+      "lat": 10.17389,
+      "lon": -67.541939
+    },
+    "name": "Palo Negro"
+  },
+  {
+    "country": "VE",
+    "id": 3631506,
+    "coord": {
+      "lat": 10.08333,
+      "lon": -68.666672
+    },
+    "name": "Municipio Nirgua"
+  },
+  {
+    "country": "VE",
+    "id": 3631741,
+    "coord": {
+      "lat": 8.41667,
+      "lon": -71.133331
+    },
+    "name": "Mucumpiz"
+  },
+  {
+    "country": "VE",
+    "id": 8129172,
+    "coord": {
+      "lat": 10.48889,
+      "lon": -68.200279
+    },
+    "name": "Municipio Juan José Mora"
+  },
+  {
+    "country": "VE",
+    "id": 3633677,
+    "coord": {
+      "lat": 10.02588,
+      "lon": -69.241661
+    },
+    "name": "Los Rastrojos"
+  },
+  {
+    "country": "VE",
+    "id": 8129202,
+    "coord": {
+      "lat": 10.21844,
+      "lon": -67.33017
+    },
+    "name": "Municipio José Félix Ribas"
+  },
+  {
+    "country": "VE",
+    "id": 8129149,
+    "coord": {
+      "lat": 10.25237,
+      "lon": -67.184723
+    },
+    "name": "Municipio Santos Michelena"
+  },
+  {
+    "country": "VE",
+    "id": 3635325,
+    "coord": {
+      "lat": 10.25237,
+      "lon": -67.184723
+    },
+    "name": "Las Tejerias"
+  },
+  {
+    "country": "VE",
+    "id": 3637623,
+    "coord": {
+      "lat": 10.13008,
+      "lon": -71.25946
+    },
+    "name": "Lagunillas"
+  },
+  {
+    "country": "VE",
+    "id": 8129268,
+    "coord": {
+      "lat": 10.59901,
+      "lon": -66.934601
+    },
+    "name": "Municipio Vargas"
+  },
+  {
+    "country": "VE",
+    "id": 8131449,
+    "coord": {
+      "lat": 11.08307,
+      "lon": -63.964119
+    },
+    "name": "Municipio Marcano"
+  },
+  {
+    "country": "VE",
+    "id": 8131484,
+    "coord": {
+      "lat": 10.57945,
+      "lon": -62.300289
+    },
+    "name": "Municipio Valdez"
+  },
+  {
+    "country": "VE",
+    "id": 3625122,
+    "coord": {
+      "lat": 10.5,
+      "lon": -66.5
+    },
+    "name": "Municipio Zamora"
+  },
+  {
+    "country": "VE",
+    "id": 3630003,
+    "coord": {
+      "lat": 10.5,
+      "lon": -66.666672
+    },
+    "name": "Municipio Plaza"
+  },
+  {
+    "country": "VE",
+    "id": 8131393,
+    "coord": {
+      "lat": 10.30028,
+      "lon": -67.633614
+    },
+    "name": "Municipio Mario Briceño Iragorry"
+  },
+  {
+    "country": "VE",
+    "id": 3642833,
+    "coord": {
+      "lat": 10.30589,
+      "lon": -67.632118
+    },
+    "name": "El Limon"
+  },
+  {
+    "country": "VE",
+    "id": 8129201,
+    "coord": {
+      "lat": 10.42994,
+      "lon": -66.816101
+    },
+    "name": "Municipio El Hatillo"
+  },
+  {
+    "country": "VE",
+    "id": 8129178,
+    "coord": {
+      "lat": 10.49598,
+      "lon": -66.85347
+    },
+    "name": "Municipio Chacao"
+  },
+  {
+    "country": "VE",
+    "id": 3646062,
+    "coord": {
+      "lat": 10.08621,
+      "lon": -67.919823
+    },
+    "name": "Tacarigua"
+  },
+  {
+    "country": "VE",
+    "id": 8131442,
+    "coord": {
+      "lat": 10.43346,
+      "lon": -66.875412
+    },
+    "name": "Municipio Baruta"
+  },
+  {
+    "country": "VE",
+    "id": 8129200,
+    "coord": {
+      "lat": 9.86005,
+      "lon": -66.381393
+    },
+    "name": "Municipio José Tadeo Monagas"
+  },
+  {
+    "country": "VE",
+    "id": 3640668,
+    "coord": {
+      "lat": 8.33333,
+      "lon": -72.25
+    },
+    "name": "Municipio García de Hevia"
+  },
+  {
+    "country": "VE",
+    "id": 3629941,
+    "coord": {
+      "lat": 9.166667,
+      "lon": -69.25
+    },
+    "name": "Estado Portuguesa"
+  },
+  {
+    "country": "VE",
+    "id": 3746666,
+    "coord": {
+      "lat": 9.594444,
+      "lon": -69.18306
+    },
+    "name": "Miraflores"
+  },
+  {
+    "country": "VE",
+    "id": 3797606,
+    "coord": {
+      "lat": 8.618333,
+      "lon": -71.136108
+    },
+    "name": "Santa Marta"
+  },
+  {
+    "country": "VE",
+    "id": 3642267,
+    "coord": {
+      "lat": 8.7,
+      "lon": -71.083336
+    },
+    "name": "El Pantano"
+  },
+  {
+    "country": "VE",
+    "id": 3485968,
+    "coord": {
+      "lat": 9.338889,
+      "lon": -65.083336
+    },
+    "name": "Campo Claro"
+  },
+  {
+    "country": "VE",
+    "id": 3481258,
+    "coord": {
+      "lat": 10.580556,
+      "lon": -66.99778
+    },
+    "name": "La Horquilla"
+  },
+  {
+    "country": "VE",
+    "id": 3625420,
+    "coord": {
+      "lat": 8.715833,
+      "lon": -71.698059
+    },
+    "name": "Vera de Agua"
+  },
+  {
+    "country": "VE",
+    "id": 3633244,
+    "coord": {
+      "lat": 10.466667,
+      "lon": -66.666664
+    },
+    "name": "Mampote"
+  },
+  {
+    "country": "VE",
+    "id": 3649138,
+    "coord": {
+      "lat": 5.1,
+      "lon": -60.733334
+    },
+    "name": "Arabopó"
+  },
+  {
+    "country": "VE",
+    "id": 3625829,
+    "coord": {
+      "lat": 10.22388,
+      "lon": -67.472878
+    },
+    "name": "Turmero"
+  },
+  {
+    "country": "VE",
+    "id": 8131514,
+    "coord": {
+      "lat": 10.32573,
+      "lon": -72.314407
+    },
+    "name": "Municipio Rosario de Perijá"
+  },
+  {
+    "country": "VE",
+    "id": 3640464,
+    "coord": {
+      "lat": 10.3,
+      "lon": -67.833328
+    },
+    "name": "Municipio Guacara"
+  },
+  {
+    "country": "VE",
+    "id": 3626657,
+    "coord": {
+      "lat": 10.41667,
+      "lon": -64.083328
+    },
+    "name": "Municipio Sucre"
+  },
+  {
+    "country": "VE",
+    "id": 3626083,
+    "coord": {
+      "lat": 10.16667,
+      "lon": -70.25
+    },
+    "name": "Municipio Torres"
+  },
+  {
+    "country": "VE",
+    "id": 3648112,
+    "coord": {
+      "lat": 8.75988,
+      "lon": -70.414467
+    },
+    "name": "Municipio Bolívar"
+  },
+  {
+    "country": "VE",
+    "id": 3643617,
+    "coord": {
+      "lat": 10.48333,
+      "lon": -66.783333
+    },
+    "name": "El Coche"
+  },
+  {
+    "country": "VE",
+    "id": 3648106,
+    "coord": {
+      "lat": 6.333333,
+      "lon": -63.5
+    },
+    "name": "Estado Bolívar"
+  },
+  {
+    "country": "VE",
+    "id": 3644660,
+    "coord": {
+      "lat": 6.316667,
+      "lon": -62.849998
+    },
+    "name": "Curatabaca"
+  },
+  {
+    "country": "VE",
+    "id": 3632824,
+    "coord": {
+      "lat": 5.05,
+      "lon": -61.150002
+    },
+    "name": "Masu-parú-mota"
+  },
+  {
+    "country": "VE",
+    "id": 3762839,
+    "coord": {
+      "lat": 8.070556,
+      "lon": -62.399445
+    },
+    "name": "Mamonal"
+  },
+  {
+    "country": "VE",
+    "id": 8129222,
+    "coord": {
+      "lat": 8.9996,
+      "lon": -62.351639
+    },
+    "name": "Municipio Uracoa"
+  },
+  {
+    "country": "VE",
+    "id": 3625693,
+    "coord": {
+      "lat": 8.9996,
+      "lon": -62.351639
+    },
+    "name": "Uracoa"
+  },
+  {
+    "country": "VE",
+    "id": 3643345,
+    "coord": {
+      "lat": 9.23652,
+      "lon": -66.513786
+    },
+    "name": "El Drago"
+  },
+  {
+    "country": "VE",
+    "id": 3630104,
+    "coord": {
+      "lat": 9.25858,
+      "lon": -66.568077
+    },
+    "name": "Pirital"
+  },
+  {
+    "country": "VE",
+    "id": 3625974,
+    "coord": {
+      "lat": 9.43856,
+      "lon": -70.508881
+    },
+    "name": "Estado Trujillo"
+  },
+  {
+    "country": "VE",
+    "id": 3633827,
+    "coord": {
+      "lat": 9.49697,
+      "lon": -70.548828
+    },
+    "name": "Los Pajones"
+  },
+  {
+    "country": "VE",
+    "id": 3628051,
+    "coord": {
+      "lat": 9.52012,
+      "lon": -67.233681
+    },
+    "name": "San Juan de Paya"
+  },
+  {
+    "country": "VE",
+    "id": 3742299,
+    "coord": {
+      "lat": 10.21773,
+      "lon": -66.481697
+    },
+    "name": "Las Dos Bocas"
+  },
+  {
+    "country": "VE",
+    "id": 3643573,
+    "coord": {
+      "lat": 10.28333,
+      "lon": -66.050003
+    },
+    "name": "El Conflicto"
+  },
+  {
+    "country": "VE",
+    "id": 3634671,
+    "coord": {
+      "lat": 10.3,
+      "lon": -66.5
+    },
+    "name": "Loma Larga"
+  },
+  {
+    "country": "VE",
+    "id": 3804240,
+    "coord": {
+      "lat": 10.358,
+      "lon": -66.965019
+    },
+    "name": "El Silencio"
+  },
+  {
+    "country": "VE",
+    "id": 3790028,
+    "coord": {
+      "lat": 10.65553,
+      "lon": -71.66655
+    },
+    "name": "El Pedregal"
+  },
+  {
+    "country": "VE",
+    "id": 3632885,
+    "coord": {
+      "lat": 10.51637,
+      "lon": -66.871132
+    },
+    "name": "Mariperez"
+  },
+  {
+    "country": "VE",
+    "id": 6941738,
+    "coord": {
+      "lat": 10.50334,
+      "lon": -66.87841
+    },
+    "name": "La Florida"
+  },
+  {
+    "country": "VE",
+    "id": 3648540,
+    "coord": {
+      "lat": 8.76222,
+      "lon": -70.41111
+    },
+    "name": "Barinitas"
+  },
+  {
+    "country": "VE",
+    "id": 3630297,
+    "coord": {
+      "lat": 10.47226,
+      "lon": -66.801552
+    },
+    "name": "Petare"
+  },
+  {
+    "country": "VE",
+    "id": 3637721,
+    "coord": {
+      "lat": 10.59901,
+      "lon": -66.934601
+    },
+    "name": "La Guaira"
+  },
+  {
+    "country": "VE",
+    "id": 3644768,
+    "coord": {
+      "lat": 10.46354,
+      "lon": -64.177498
+    },
+    "name": "Cumana"
+  },
+  {
+    "country": "VE",
+    "id": 3805673,
+    "coord": {
+      "lat": 7.88782,
+      "lon": -67.472359
+    },
+    "name": "San Fernando Apure"
+  },
+  {
+    "country": "VE",
+    "id": 3632306,
+    "coord": {
+      "lat": 8.5,
+      "lon": -71.166664
+    },
+    "name": "Estado Mérida"
+  },
+  {
+    "country": "VE",
+    "id": 3649198,
+    "coord": {
+      "lat": 9,
+      "lon": -64.5
+    },
+    "name": "Estado Anzoátegui"
+  },
+  {
+    "country": "VE",
+    "id": 3830309,
+    "coord": {
+      "lat": 10.566667,
+      "lon": -66.900002
+    },
+    "name": "Estado Vargas"
+  },
+  {
+    "country": "VE",
+    "id": 3625035,
+    "coord": {
+      "lat": 10,
+      "lon": -72.166664
+    },
+    "name": "Estado Zulia"
+  },
+  {
+    "country": "VE",
+    "id": 3762887,
+    "coord": {
+      "lat": 8.105556,
+      "lon": -62.409168
+    },
+    "name": "El Valle"
+  },
+  {
+    "country": "VE",
+    "id": 3742314,
+    "coord": {
+      "lat": 10.06028,
+      "lon": -66.465561
+    },
+    "name": "Agua Blanca"
+  },
+  {
+    "country": "VE",
+    "id": 3649110,
+    "coord": {
+      "lat": 10,
+      "lon": -67.166672
+    },
+    "name": "Estado Aragua"
+  },
+  {
+    "country": "VE",
+    "id": 3625040,
+    "coord": {
+      "lat": 10.16302,
+      "lon": -67.393227
+    },
+    "name": "Zuata"
+  },
+  {
+    "country": "VE",
+    "id": 3640873,
+    "coord": {
+      "lat": 11,
+      "lon": -69.833328
+    },
+    "name": "Estado Falcón"
+  },
+  {
+    "country": "VE",
+    "id": 3645213,
+    "coord": {
+      "lat": 11.4045,
+      "lon": -69.673439
+    },
+    "name": "Coro"
+  },
+  {
+    "country": "VE",
+    "id": 3640847,
+    "coord": {
+      "lat": 10.5,
+      "lon": -66.916672
+    },
+    "name": "Distrito Capital"
+  },
+  {
+    "country": "VE",
+    "id": 3646738,
+    "coord": {
+      "lat": 10.48801,
+      "lon": -66.879189
+    },
+    "name": "Caracas"
+  },
+  {
+    "country": "VE",
+    "id": 6941735,
+    "coord": {
+      "lat": 10.51271,
+      "lon": -66.902618
+    },
+    "name": "San Bernardino"
+  },
+  {
+    "country": "VE",
+    "id": 3487903,
+    "coord": {
+      "lat": 8.5931,
+      "lon": -70.226097
+    },
+    "name": "Alto Barinas"
+  },
+  {
+    "country": "VE",
+    "id": 3625341,
+    "coord": {
+      "lat": 10.03863,
+      "lon": -67.48938
+    },
+    "name": "Villa de Cura"
+  },
+  {
+    "country": "VE",
+    "id": 3625549,
+    "coord": {
+      "lat": 10.16202,
+      "lon": -68.007652
+    },
+    "name": "Valencia"
+  },
+  {
+    "country": "VE",
+    "id": 3628060,
+    "coord": {
+      "lat": 8.03125,
+      "lon": -72.260529
+    },
+    "name": "San Juan de Colon"
+  },
+  {
+    "country": "VE",
+    "id": 3628423,
+    "coord": {
+      "lat": 10.33991,
+      "lon": -68.74247
+    },
+    "name": "San Felipe"
+  },
+  {
+    "country": "VE",
+    "id": 3628489,
+    "coord": {
+      "lat": 9.00003,
+      "lon": -71.913521
+    },
+    "name": "San Carlos del Zulia"
+  },
+  {
+    "country": "VE",
+    "id": 3628503,
+    "coord": {
+      "lat": 9.66124,
+      "lon": -68.58268
+    },
+    "name": "San Carlos"
+  },
+  {
+    "country": "VE",
+    "id": 3628550,
+    "coord": {
+      "lat": 10.38854,
+      "lon": -66.95179
+    },
+    "name": "San Antonio de Los Altos"
+  },
+  {
+    "country": "VE",
+    "id": 3628966,
+    "coord": {
+      "lat": 10.3258,
+      "lon": -72.313431
+    },
+    "name": "La Villa del Rosario"
+  },
+  {
+    "country": "VE",
+    "id": 3629614,
+    "coord": {
+      "lat": 11.65806,
+      "lon": -70.214996
+    },
+    "name": "Punta Cardon"
+  },
+  {
+    "country": "VE",
+    "id": 3631507,
+    "coord": {
+      "lat": 10.15526,
+      "lon": -68.566299
+    },
+    "name": "Nirgua"
+  },
+  {
+    "country": "VE",
+    "id": 3631878,
+    "coord": {
+      "lat": 10.48889,
+      "lon": -68.200279
+    },
+    "name": "Moron"
+  },
+  {
+    "country": "VE",
+    "id": 3634184,
+    "coord": {
+      "lat": 10.49389,
+      "lon": -66.828629
+    },
+    "name": "Los Dos Caminos"
+  },
+  {
+    "country": "VE",
+    "id": 3634922,
+    "coord": {
+      "lat": 10.21844,
+      "lon": -67.33017
+    },
+    "name": "La Victoria"
+  },
+  {
+    "country": "VE",
+    "id": 3639107,
+    "coord": {
+      "lat": 11.08172,
+      "lon": -63.965488
+    },
+    "name": "Juan Griego"
+  },
+  {
+    "country": "VE",
+    "id": 3639725,
+    "coord": {
+      "lat": 10.57806,
+      "lon": -62.297722
+    },
+    "name": "Gueiria"
+  },
+  {
+    "country": "VE",
+    "id": 3639898,
+    "coord": {
+      "lat": 10.4762,
+      "lon": -66.542664
+    },
+    "name": "Guatire"
+  },
+  {
+    "country": "VE",
+    "id": 3640049,
+    "coord": {
+      "lat": 10.46736,
+      "lon": -66.606628
+    },
+    "name": "Guarenas"
+  },
+  {
+    "country": "VE",
+    "id": 3640465,
+    "coord": {
+      "lat": 10.22609,
+      "lon": -67.876999
+    },
+    "name": "Guacara"
+  },
+  {
+    "country": "VE",
+    "id": 3643031,
+    "coord": {
+      "lat": 10.42994,
+      "lon": -66.816101
+    },
+    "name": "El Hatillo"
+  },
+  {
+    "country": "VE",
+    "id": 3645981,
+    "coord": {
+      "lat": 10.49598,
+      "lon": -66.85347
+    },
+    "name": "Chacao"
+  },
+  {
+    "country": "VE",
+    "id": 3646169,
+    "coord": {
+      "lat": 10.48666,
+      "lon": -66.737991
+    },
+    "name": "Caucaguito"
+  },
+  {
+    "country": "VE",
+    "id": 3646487,
+    "coord": {
+      "lat": 10.17554,
+      "lon": -70.082741
+    },
+    "name": "Carora"
+  },
+  {
+    "country": "VE",
+    "id": 3646767,
+    "coord": {
+      "lat": 10.61119,
+      "lon": -66.85215
+    },
+    "name": "Caraballeda"
+  },
+  {
+    "country": "VE",
+    "id": 3648439,
+    "coord": {
+      "lat": 10.43398,
+      "lon": -66.876617
+    },
+    "name": "Baruta"
+  },
+  {
+    "country": "VE",
+    "id": 3649408,
+    "coord": {
+      "lat": 9.86005,
+      "lon": -66.381393
+    },
+    "name": "Altagracia de Orituco"
+  },
+  {
+    "country": "VE",
+    "id": 3795152,
+    "coord": {
+      "lat": 8.22027,
+      "lon": -72.243896
+    },
+    "name": "La Fria"
+  },
+  {
+    "country": "VE",
+    "id": 3803449,
+    "coord": {
+      "lat": 10.46941,
+      "lon": -66.830627
+    },
+    "name": "El Cafetal"
+  },
+  {
+    "country": "VE",
+    "id": 3803515,
+    "coord": {
+      "lat": 10.35782,
+      "lon": -66.802521
+    },
+    "name": "Caucaguita"
+  },
+  {
+    "country": "VE",
+    "id": 3803651,
+    "coord": {
+      "lat": 10.4883,
+      "lon": -66.786079
+    },
+    "name": "La Dolorita"
+  },
+  {
+    "country": "VE",
+    "id": 3625428,
+    "coord": {
+      "lat": 8,
+      "lon": -66
+    },
+    "name": "Bolivarian Republic of Venezuela"
+  },
+  {
+    "country": "VE",
+    "id": 3632191,
+    "coord": {
+      "lat": 10.25,
+      "lon": -66.416664
+    },
+    "name": "Estado Miranda"
+  },
+  {
+    "country": "VE",
+    "id": 3631883,
+    "coord": {
+      "lat": 8.260278,
+      "lon": -62.7075
+    },
+    "name": "Morocure"
+  },
+  {
+    "country": "VE",
+    "id": 3629655,
+    "coord": {
+      "lat": 8.298056,
+      "lon": -62.718613
+    },
+    "name": "Puerto Ordaz"
+  },
+  {
+    "country": "VE",
+    "id": 3645532,
+    "coord": {
+      "lat": 8.122222,
+      "lon": -63.549721
+    },
+    "name": "Ciudad Bolivar"
+  },
+  {
+    "country": "VE",
+    "id": 3809700,
+    "coord": {
+      "lat": 8.064444,
+      "lon": -63.543331
+    },
+    "name": "Granja La Trinidad"
+  },
+  {
+    "country": "VE",
+    "id": 3808834,
+    "coord": {
+      "lat": 8.073889,
+      "lon": -63.669445
+    },
+    "name": "Los Pasotes"
+  },
+  {
+    "country": "VE",
+    "id": 3647982,
+    "coord": {
+      "lat": 8.083333,
+      "lon": -63.616669
+    },
+    "name": "Botijones"
+  },
+  {
+    "country": "VE",
+    "id": 3636795,
+    "coord": {
+      "lat": 8.15,
+      "lon": -63.533333
+    },
+    "name": "La Peña"
+  },
+  {
+    "country": "VE",
+    "id": 3642212,
+    "coord": {
+      "lat": 8.405833,
+      "lon": -63.373055
+    },
+    "name": "El Pardillal"
+  },
+  {
+    "country": "VE",
+    "id": 3750856,
+    "coord": {
+      "lat": 8.719167,
+      "lon": -63.24778
+    },
+    "name": "El Cardón"
+  },
+  {
+    "country": "VE",
+    "id": 3632100,
+    "coord": {
+      "lat": 9.333333,
+      "lon": -63
+    },
+    "name": "Estado Monagas"
+  },
+  {
+    "country": "VE",
+    "id": 3755700,
+    "coord": {
+      "lat": 9.746389,
+      "lon": -63.138889
+    },
+    "name": "El Vedero"
+  },
+  {
+    "country": "VE",
+    "id": 3778301,
+    "coord": {
+      "lat": 9.628333,
+      "lon": -63.397221
+    },
+    "name": "San Pedro"
+  },
+  {
+    "country": "VE",
+    "id": 3749788,
+    "coord": {
+      "lat": 9.701111,
+      "lon": -63.62722
+    },
+    "name": "Mata Linda"
+  },
+  {
+    "country": "VE",
+    "id": 3648664,
+    "coord": {
+      "lat": 9.870833,
+      "lon": -63.955833
+    },
+    "name": "Bajo Grande"
+  },
+  {
+    "country": "VE",
+    "id": 3632497,
+    "coord": {
+      "lat": 6.25,
+      "lon": -62.766666
+    },
+    "name": "Mayupa"
+  },
+  {
+    "country": "VE",
+    "id": 3630032,
+    "coord": {
+      "lat": 8.333333,
+      "lon": -62.683334
+    },
+    "name": "Playa Blanca"
+  },
+  {
+    "country": "VE",
+    "id": 3630905,
+    "coord": {
+      "lat": 8.350278,
+      "lon": -62.674442
+    },
+    "name": "Palúa"
+  },
+  {
+    "country": "VE",
+    "id": 3645528,
+    "coord": {
+      "lat": 8.353333,
+      "lon": -62.652779
+    },
+    "name": "Ciudad Guayana"
+  },
+  {
+    "country": "VE",
+    "id": 3625710,
+    "coord": {
+      "lat": 8.008611,
+      "lon": -62.398888
+    },
+    "name": "Upata"
+  },
+  {
+    "country": "VE",
+    "id": 3809101,
+    "coord": {
+      "lat": 7.994444,
+      "lon": -62.36639
+    },
+    "name": "La Providencia"
+  },
+  {
+    "country": "VE",
+    "id": 3808933,
+    "coord": {
+      "lat": 7.971667,
+      "lon": -62.322224
+    },
+    "name": "El Perico"
+  },
+  {
+    "country": "VE",
+    "id": 3809315,
+    "coord": {
+      "lat": 7.946667,
+      "lon": -62.310001
+    },
+    "name": "San Germán"
+  },
+  {
+    "country": "VE",
+    "id": 3807166,
+    "coord": {
+      "lat": 7.952778,
+      "lon": -62.287224
+    },
+    "name": "Boca de Monte"
+  },
+  {
+    "country": "VE",
+    "id": 3625337,
+    "coord": {
+      "lat": 7.916667,
+      "lon": -62.266666
+    },
+    "name": "Villa Flor"
+  },
+  {
+    "country": "VE",
+    "id": 3628485,
+    "coord": {
+      "lat": 7.9,
+      "lon": -62.25
+    },
+    "name": "San Cayetano"
+  },
+  {
+    "country": "VE",
+    "id": 3809215,
+    "coord": {
+      "lat": 7.885,
+      "lon": -62.169445
+    },
+    "name": "Rincón Bonito"
+  },
+  {
+    "country": "VE",
+    "id": 3629291,
+    "coord": {
+      "lat": 7.9,
+      "lon": -62.099998
+    },
+    "name": "Rancho de Tejas"
+  },
+  {
+    "country": "VE",
+    "id": 3625332,
+    "coord": {
+      "lat": 7.833333,
+      "lon": -61.983334
+    },
+    "name": "Villa Lola"
+  },
+  {
+    "country": "VE",
+    "id": 3644365,
+    "coord": {
+      "lat": 7.8,
+      "lon": -61.950001
+    },
+    "name": "El Algarrobo"
+  },
+  {
+    "country": "VE",
+    "id": 3807130,
+    "coord": {
+      "lat": 7.772778,
+      "lon": -61.96722
+    },
+    "name": "El Barajuste"
+  },
+  {
+    "country": "VE",
+    "id": 3641489,
+    "coord": {
+      "lat": 7.75,
+      "lon": -61.966667
+    },
+    "name": "El Silencio"
+  },
+  {
+    "country": "VE",
+    "id": 3627473,
+    "coord": {
+      "lat": 7.733333,
+      "lon": -61.966667
+    },
+    "name": "Santa Cruz"
+  },
+  {
+    "country": "VE",
+    "id": 3809489,
+    "coord": {
+      "lat": 7.701667,
+      "lon": -61.950001
+    },
+    "name": "Santa Rosa"
+  },
+  {
+    "country": "VE",
+    "id": 3809398,
+    "coord": {
+      "lat": 7.685,
+      "lon": -61.952778
+    },
+    "name": "San Rafael"
+  },
+  {
+    "country": "VE",
+    "id": 3807665,
+    "coord": {
+      "lat": 7.651111,
+      "lon": -61.956669
+    },
+    "name": "Cintillo"
+  },
+  {
+    "country": "VE",
+    "id": 3634833,
+    "coord": {
+      "lat": 7.55,
+      "lon": -61.966667
+    },
+    "name": "La Yegüera"
+  },
+  {
+    "country": "VE",
+    "id": 3807442,
+    "coord": {
+      "lat": 7.513333,
+      "lon": -61.907223
+    },
+    "name": "La Caratica"
+  },
+  {
+    "country": "VE",
+    "id": 3639922,
+    "coord": {
+      "lat": 7.466667,
+      "lon": -61.900002
+    },
+    "name": "Guasipati"
+  },
+  {
+    "country": "VE",
+    "id": 3809055,
+    "coord": {
+      "lat": 7.423889,
+      "lon": -61.855
+    },
+    "name": "El Porvenir"
+  },
+  {
+    "country": "VE",
+    "id": 3636531,
+    "coord": {
+      "lat": 7.383333,
+      "lon": -61.866669
+    },
+    "name": "La Ramona"
+  },
+  {
+    "country": "VE",
+    "id": 3808040,
+    "coord": {
+      "lat": 7.352778,
+      "lon": -61.834999
+    },
+    "name": "La Gasolina"
+  },
+  {
+    "country": "VE",
+    "id": 3809486,
+    "coord": {
+      "lat": 7.353889,
+      "lon": -61.789444
+    },
+    "name": "Santa Rosa"
+  },
+  {
+    "country": "VE",
+    "id": 3625867,
+    "coord": {
+      "lat": 7.366667,
+      "lon": -61.766666
+    },
+    "name": "Tupuquén"
+  },
+  {
+    "country": "VE",
+    "id": 3642045,
+    "coord": {
+      "lat": 7.383333,
+      "lon": -61.733334
+    },
+    "name": "El Pilar"
+  },
+  {
+    "country": "VE",
+    "id": 3648365,
+    "coord": {
+      "lat": 7.366667,
+      "lon": -61.700001
+    },
+    "name": "Belén"
+  },
+  {
+    "country": "VE",
+    "id": 3808478,
+    "coord": {
+      "lat": 7.381111,
+      "lon": -61.612221
+    },
+    "name": "Las Marías"
+  },
+  {
+    "country": "VE",
+    "id": 3807315,
+    "coord": {
+      "lat": 7.339444,
+      "lon": -61.584999
+    },
+    "name": "El Cacho"
+  },
+  {
+    "country": "VE",
+    "id": 3809409,
+    "coord": {
+      "lat": 7.327222,
+      "lon": -61.549442
+    },
+    "name": "San Remo"
+  },
+  {
+    "country": "VE",
+    "id": 3636683,
+    "coord": {
+      "lat": 7.216667,
+      "lon": -61.533333
+    },
+    "name": "La Plata"
+  },
+  {
+    "country": "VE",
+    "id": 3639640,
+    "coord": {
+      "lat": 7.133333,
+      "lon": -61.566666
+    },
+    "name": "Hato Casa Blanca"
+  },
+  {
+    "country": "VE",
+    "id": 3644922,
+    "coord": {
+      "lat": 6.983333,
+      "lon": -61.616669
+    },
+    "name": "Cruzero"
+  },
+  {
+    "country": "VE",
+    "id": 3807556,
+    "coord": {
+      "lat": 6.871667,
+      "lon": -61.596668
+    },
+    "name": "La Ceiba"
+  },
+  {
+    "country": "VE",
+    "id": 3644689,
+    "coord": {
+      "lat": 6.8,
+      "lon": -61.616669
+    },
+    "name": "Cura"
+  },
+  {
+    "country": "VE",
+    "id": 3809813,
+    "coord": {
+      "lat": 6.768333,
+      "lon": -61.615555
+    },
+    "name": "Villa Gladis"
+  },
+  {
+    "country": "VE",
+    "id": 3809171,
+    "coord": {
+      "lat": 6.735,
+      "lon": -61.625
+    },
+    "name": "Rancho Cuyuni"
+  },
+  {
+    "country": "VE",
+    "id": 3807898,
+    "coord": {
+      "lat": 6.71,
+      "lon": -61.619446
+    },
+    "name": "Ex-Colonia Móvil del Dorado"
+  },
+  {
+    "country": "VE",
+    "id": 3646673,
+    "coord": {
+      "lat": 6.616667,
+      "lon": -61.633331
+    },
+    "name": "Carapiapa"
+  },
+  {
+    "country": "VE",
+    "id": 3808236,
+    "coord": {
+      "lat": 6.488333,
+      "lon": -61.540558
+    },
+    "name": "Kilómetro Treinta y Tres"
+  },
+  {
+    "country": "VE",
+    "id": 3638144,
+    "coord": {
+      "lat": 6.416667,
+      "lon": -61.400002
+    },
+    "name": "La Denta"
+  },
+  {
+    "country": "VE",
+    "id": 3808237,
+    "coord": {
+      "lat": 6.293889,
+      "lon": -61.313889
+    },
+    "name": "Kilómetro Sesenta y Siete"
+  },
+  {
+    "country": "VE",
+    "id": 3807669,
+    "coord": {
+      "lat": 6.173333,
+      "lon": -61.417221
+    },
+    "name": "La Clarita"
+  },
+  {
+    "country": "VE",
+    "id": 3808238,
+    "coord": {
+      "lat": 6.153333,
+      "lon": -61.429443
+    },
+    "name": "Kilómetro Ochenta y Ocho"
+  },
+  {
+    "country": "VE",
+    "id": 3809319,
+    "coord": {
+      "lat": 6.148889,
+      "lon": -61.426109
+    },
+    "name": "San Isidro"
+  },
+  {
+    "country": "VE",
+    "id": 3806940,
+    "coord": {
+      "lat": 6.073333,
+      "lon": -61.389442
+    },
+    "name": "El Abismo"
+  },
+  {
+    "country": "VE",
+    "id": 3808235,
+    "coord": {
+      "lat": 6.015,
+      "lon": -61.401112
+    },
+    "name": "Kilómetro Ciento Diez"
+  },
+  {
+    "country": "VE",
+    "id": 3639041,
+    "coord": {
+      "lat": 5.933333,
+      "lon": -61.416668
+    },
+    "name": "Kilometro Ochenta y Dos"
+  },
+  {
+    "country": "VE",
+    "id": 3649518,
+    "coord": {
+      "lat": 5.783333,
+      "lon": -61.450001
+    },
+    "name": "Ají"
+  },
+  {
+    "country": "VE",
+    "id": 3641359,
+    "coord": {
+      "lat": 5.666667,
+      "lon": -61.450001
+    },
+    "name": "El Tigre"
+  },
+  {
+    "country": "VE",
+    "id": 3647346,
+    "coord": {
+      "lat": 5.616667,
+      "lon": -61.366669
+    },
+    "name": "Cameirán"
+  },
+  {
+    "country": "VE",
+    "id": 3647391,
+    "coord": {
+      "lat": 5.6,
+      "lon": -61.366669
+    },
+    "name": "Camarán"
+  },
+  {
+    "country": "VE",
+    "id": 3648783,
+    "coord": {
+      "lat": 5.466667,
+      "lon": -61.216667
+    },
+    "name": "Auredie-pue"
+  },
+  {
+    "country": "VE",
+    "id": 3642386,
+    "coord": {
+      "lat": 5.3,
+      "lon": -61.166668
+    },
+    "name": "El Oso"
+  },
+  {
+    "country": "VE",
+    "id": 3637428,
+    "coord": {
+      "lat": 5.15,
+      "lon": -61.166668
+    },
+    "name": "La Laja"
+  },
+  {
+    "country": "VE",
+    "id": 3626405,
+    "coord": {
+      "lat": 4.966667,
+      "lon": -61.150002
+    },
+    "name": "Tarén"
+  },
+  {
+    "country": "VE",
+    "id": 3649331,
+    "coord": {
+      "lat": 4.933333,
+      "lon": -61.099998
+    },
+    "name": "Amantepuy"
+  },
+  {
+    "country": "VE",
+    "id": 3809474,
+    "coord": {
+      "lat": 4.861111,
+      "lon": -61.112221
+    },
+    "name": "Santa María"
+  },
+  {
+    "country": "VE",
+    "id": 3648865,
+    "coord": {
+      "lat": 4.85,
+      "lon": -61.083332
+    },
+    "name": "Arorouata"
+  },
+  {
+    "country": "VE",
+    "id": 3626617,
+    "coord": {
+      "lat": 4.766667,
+      "lon": -61.083332
+    },
+    "name": "Suruacri"
+  },
+  {
+    "country": "VE",
+    "id": 3627059,
+    "coord": {
+      "lat": 4.716667,
+      "lon": -61.066666
+    },
+    "name": "Santa Teresa"
+  },
+  {
+    "country": "VE",
+    "id": 3808502,
+    "coord": {
+      "lat": 4.652778,
+      "lon": -61.066666
+    },
+    "name": "Marupaquen"
+  },
+  {
+    "country": "VE",
+    "id": 3809274,
+    "coord": {
+      "lat": 4.612222,
+      "lon": -61.088333
+    },
+    "name": "Sampay"
+  },
+  {
+    "country": "VE",
+    "id": 3625801,
+    "coord": {
+      "lat": 5.05,
+      "lon": -60.833332
+    },
+    "name": "Uadauraparutá"
+  },
+  {
+    "country": "VE",
+    "id": 3626644,
+    "coord": {
+      "lat": 5,
+      "lon": -61.049999
+    },
+    "name": "Sumua-parú-mata"
+  },
+  {
+    "country": "VE",
+    "id": 3645687,
+    "coord": {
+      "lat": 5.05,
+      "lon": -60.950001
+    },
+    "name": "Chirimatá"
+  },
+  {
+    "country": "VE",
+    "id": 3753555,
+    "coord": {
+      "lat": 8.638056,
+      "lon": -71.121109
+    },
+    "name": "Vallecito"
+  },
+  {
+    "country": "VE",
+    "id": 3635717,
+    "coord": {
+      "lat": 8.647222,
+      "lon": -71.10611
+    },
+    "name": "Las Mercedes"
+  },
+  {
+    "country": "VE",
+    "id": 3638703,
+    "coord": {
+      "lat": 8.719722,
+      "lon": -71.085556
+    },
+    "name": "La Caña"
+  },
+  {
+    "country": "VE",
+    "id": 3753559,
+    "coord": {
+      "lat": 8.6225,
+      "lon": -71.136108
+    },
+    "name": "Santa María"
+  },
+  {
+    "country": "VE",
+    "id": 3798923,
+    "coord": {
+      "lat": 8.626667,
+      "lon": -71.671669
+    },
+    "name": "Caño Negro"
+  },
+  {
+    "country": "VE",
+    "id": 3641099,
+    "coord": {
+      "lat": 8.621944,
+      "lon": -71.650558
+    },
+    "name": "El Vigia"
+  },
+  {
+    "country": "VE",
+    "id": 3797470,
+    "coord": {
+      "lat": 8.603889,
+      "lon": -71.654999
+    },
+    "name": "El Raicero"
+  },
+  {
+    "country": "VE",
+    "id": 3798949,
+    "coord": {
+      "lat": 8.601667,
+      "lon": -71.639442
+    },
+    "name": "Campo Alegre"
+  },
+  {
+    "country": "VE",
+    "id": 3797691,
+    "coord": {
+      "lat": 8.594444,
+      "lon": -71.628891
+    },
+    "name": "La Vega"
+  },
+  {
+    "country": "VE",
+    "id": 3799184,
+    "coord": {
+      "lat": 8.565556,
+      "lon": -71.602776
+    },
+    "name": "La Honda"
+  },
+  {
+    "country": "VE",
+    "id": 3637448,
+    "coord": {
+      "lat": 8.536389,
+      "lon": -71.593056
+    },
+    "name": "La Lagunita"
+  },
+  {
+    "country": "VE",
+    "id": 3797347,
+    "coord": {
+      "lat": 8.493333,
+      "lon": -71.548889
+    },
+    "name": "La Otra Banda"
+  },
+  {
+    "country": "VE",
+    "id": 3798900,
+    "coord": {
+      "lat": 8.456111,
+      "lon": -71.508331
+    },
+    "name": "La Burrera"
+  },
+  {
+    "country": "VE",
+    "id": 3627886,
+    "coord": {
+      "lat": 8.462222,
+      "lon": -71.493614
+    },
+    "name": "San Pablo"
+  },
+  {
+    "country": "VE",
+    "id": 3634551,
+    "coord": {
+      "lat": 8.465,
+      "lon": -71.466393
+    },
+    "name": "Los Araques"
+  },
+  {
+    "country": "VE",
+    "id": 3753714,
+    "coord": {
+      "lat": 8.465833,
+      "lon": -71.443611
+    },
+    "name": "Los Limos"
+  },
+  {
+    "country": "VE",
+    "id": 3753711,
+    "coord": {
+      "lat": 8.471111,
+      "lon": -71.433891
+    },
+    "name": "Puente Viejo"
+  },
+  {
+    "country": "VE",
+    "id": 3629733,
+    "coord": {
+      "lat": 8.472778,
+      "lon": -71.408333
+    },
+    "name": "Puente Real"
+  },
+  {
+    "country": "VE",
+    "id": 3753668,
+    "coord": {
+      "lat": 8.4975,
+      "lon": -71.360832
+    },
+    "name": "Los Llanitos"
+  },
+  {
+    "country": "VE",
+    "id": 3637754,
+    "coord": {
+      "lat": 8.5075,
+      "lon": -71.324722
+    },
+    "name": "La González"
+  },
+  {
+    "country": "VE",
+    "id": 3639537,
+    "coord": {
+      "lat": 8.525278,
+      "lon": -71.271111
+    },
+    "name": "Higuerones"
+  },
+  {
+    "country": "VE",
+    "id": 3753632,
+    "coord": {
+      "lat": 8.540278,
+      "lon": -71.241943
+    },
+    "name": "La Hoyada"
+  },
+  {
+    "country": "VE",
+    "id": 3644417,
+    "coord": {
+      "lat": 8.551389,
+      "lon": -71.237503
+    },
+    "name": "Ejido"
+  },
+  {
+    "country": "VE",
+    "id": 3753606,
+    "coord": {
+      "lat": 8.565556,
+      "lon": -71.221664
+    },
+    "name": "Las Cruces"
+  },
+  {
+    "country": "VE",
+    "id": 3636571,
+    "coord": {
+      "lat": 8.562222,
+      "lon": -71.196114
+    },
+    "name": "La Punta"
+  },
+  {
+    "country": "VE",
+    "id": 3753626,
+    "coord": {
+      "lat": 8.561389,
+      "lon": -71.179726
+    },
+    "name": "El Chamita"
+  },
+  {
+    "country": "VE",
+    "id": 3753625,
+    "coord": {
+      "lat": 8.565556,
+      "lon": -71.163055
+    },
+    "name": "Las Tienditas"
+  },
+  {
+    "country": "VE",
+    "id": 3753610,
+    "coord": {
+      "lat": 8.594722,
+      "lon": -71.165558
+    },
+    "name": "San José"
+  },
+  {
+    "country": "VE",
+    "id": 3640017,
+    "coord": {
+      "lat": 8.666667,
+      "lon": -66.583336
+    },
+    "name": "Estado Guárico"
+  },
+  {
+    "country": "VE",
+    "id": 3774220,
+    "coord": {
+      "lat": 7.992222,
+      "lon": -65.96167
+    },
+    "name": "Sesteadero"
+  },
+  {
+    "country": "VE",
+    "id": 3798571,
+    "coord": {
+      "lat": 9.181111,
+      "lon": -69.243332
+    },
+    "name": "El Saman"
+  },
+  {
+    "country": "VE",
+    "id": 3753695,
+    "coord": {
+      "lat": 8.48,
+      "lon": -71.182777
+    },
+    "name": "Mucuranú"
+  },
+  {
+    "country": "VE",
+    "id": 3647522,
+    "coord": {
+      "lat": 8.991944,
+      "lon": -64.481392
+    },
+    "name": "Caico Seco"
+  },
+  {
+    "country": "VE",
+    "id": 3642982,
+    "coord": {
+      "lat": 10.566667,
+      "lon": -66.900002
+    },
+    "name": "El Infiernito"
+  },
+  {
+    "country": "VE",
+    "id": 3642415,
+    "coord": {
+      "lat": 10,
+      "lon": -72.166664
+    },
+    "name": "El Norte"
+  },
+  {
+    "country": "VE",
+    "id": 3808408,
+    "coord": {
+      "lat": 6.327778,
+      "lon": -63.59222
+    },
+    "name": "Manare"
+  },
+  {
+    "country": "VE",
+    "id": 3742297,
+    "coord": {
+      "lat": 10.251944,
+      "lon": -66.425003
+    },
+    "name": "Camarón"
+  },
+  {
+    "country": "VE",
+    "id": 3630618,
+    "coord": {
+      "lat": 9.333333,
+      "lon": -63
+    },
+    "name": "Paso El Jabal"
+  },
+  {
+    "country": "VE",
+    "id": 3626655,
+    "coord": {
+      "lat": 10.41667,
+      "lon": -63.5
+    },
+    "name": "Estado Sucre"
+  },
+  {
+    "country": "VE",
+    "id": 3749457,
+    "coord": {
+      "lat": 10.54663,
+      "lon": -63.553761
+    },
+    "name": "Sampayo"
+  },
+  {
+    "country": "VE",
+    "id": 3634755,
+    "coord": {
+      "lat": 8.33333,
+      "lon": -71.116669
+    },
+    "name": "Municipio Libertador"
+  },
+  {
+    "country": "VE",
+    "id": 3803863,
+    "coord": {
+      "lat": 10.47275,
+      "lon": -66.659889
+    },
+    "name": "Manguito"
+  },
+  {
+    "country": "VE",
+    "id": 3646491,
+    "coord": {
+      "lat": 8.11667,
+      "lon": -62.799999
+    },
+    "name": "Municipio Caroní"
+  },
+  {
+    "country": "VE",
+    "id": 3630283,
+    "coord": {
+      "lat": 6.16667,
+      "lon": -62.5
+    },
+    "name": "Municipio Piar"
+  },
+  {
+    "country": "VE",
+    "id": 3628959,
+    "coord": {
+      "lat": 6,
+      "lon": -61.5
+    },
+    "name": "Municipio Roscio"
+  },
+  {
+    "country": "VE",
+    "id": 3807816,
+    "coord": {
+      "lat": 7.375,
+      "lon": -61.876671
+    },
+    "name": "La Culebra"
+  },
+  {
+    "country": "VE",
+    "id": 3649500,
+    "coord": {
+      "lat": 8.60861,
+      "lon": -71.765556
+    },
+    "name": "Municipio Alberto Adriani"
+  },
+  {
+    "country": "VE",
+    "id": 3644279,
+    "coord": {
+      "lat": 8.46526,
+      "lon": -71.496521
+    },
+    "name": "El Anís"
+  },
+  {
+    "country": "VE",
+    "id": 3632235,
+    "coord": {
+      "lat": 8.5,
+      "lon": -71.366669
+    },
+    "name": "Milla"
+  },
+  {
+    "country": "VE",
+    "id": 3647193,
+    "coord": {
+      "lat": 8.45,
+      "lon": -71.283333
+    },
+    "name": "Municipio Campo Elías"
+  },
+  {
+    "country": "VE",
+    "id": 3753605,
+    "coord": {
+      "lat": 8.56954,
+      "lon": -71.224167
+    },
+    "name": "El Salado"
+  },
+  {
+    "country": "VE",
+    "id": 3636855,
+    "coord": {
+      "lat": 8.56667,
+      "lon": -71.199997
+    },
+    "name": "La Parroquia"
+  },
+  {
+    "country": "VE",
+    "id": 3753611,
+    "coord": {
+      "lat": 8.59231,
+      "lon": -71.167282
+    },
+    "name": "Loma de La Virgen"
+  },
+  {
+    "country": "VE",
+    "id": 3626154,
+    "coord": {
+      "lat": 10.105,
+      "lon": -68.085564
+    },
+    "name": "Tocuyito"
+  },
+  {
+    "country": "VE",
+    "id": 3638649,
+    "coord": {
+      "lat": 10.46667,
+      "lon": -66.533333
+    },
+    "name": "La Carbonera"
+  },
+  {
+    "country": "VE",
+    "id": 3633006,
+    "coord": {
+      "lat": 10.66667,
+      "lon": -72.166672
+    },
+    "name": "Municipio Maracaibo"
+  },
+  {
+    "country": "VE",
+    "id": 3763693,
+    "coord": {
+      "lat": 10.421,
+      "lon": -71.45874
+    },
+    "name": "Ambrosio"
+  },
+  {
+    "country": "VE",
+    "id": 3649151,
+    "coord": {
+      "lat": 7.16667,
+      "lon": -68.833328
+    },
+    "name": "Estado Apure"
+  },
+  {
+    "country": "VE",
+    "id": 3739034,
+    "coord": {
+      "lat": 7.09391,
+      "lon": -70.76001
+    },
+    "name": "La Habana"
+  },
+  {
+    "country": "VE",
+    "id": 3641481,
+    "coord": {
+      "lat": 10.5,
+      "lon": -66.916672
+    },
+    "name": "El Silencio"
+  },
+  {
+    "country": "VE",
+    "id": 3646751,
+    "coord": {
+      "lat": 10.16667,
+      "lon": -68.083328
+    },
+    "name": "Estado Carabobo"
+  },
+  {
+    "country": "VE",
+    "id": 3481471,
+    "coord": {
+      "lat": 10.18882,
+      "lon": -68.005959
+    },
+    "name": "Santa Cecilia"
+  },
+  {
+    "country": "VE",
+    "id": 3632537,
+    "coord": {
+      "lat": 9.4,
+      "lon": -63.033329
+    },
+    "name": "Municipio Maturín"
+  },
+  {
+    "country": "VE",
+    "id": 3778045,
+    "coord": {
+      "lat": 9.75,
+      "lon": -63.17667
+    },
+    "name": "Maturin"
+  },
+  {
+    "country": "VE",
+    "id": 3633341,
+    "coord": {
+      "lat": 10.59621,
+      "lon": -66.954849
+    },
+    "name": "Maiquetia"
+  },
+  {
+    "country": "VE",
+    "id": 3646527,
+    "coord": {
+      "lat": 11.71667,
+      "lon": -70
+    },
+    "name": "Municipio Carirubana"
+  },
+  {
+    "country": "VE",
+    "id": 3629576,
+    "coord": {
+      "lat": 11.6956,
+      "lon": -70.19957
+    },
+    "name": "Punto Fijo"
+  },
+  {
+    "country": "VE",
+    "id": 3636539,
+    "coord": {
+      "lat": 10.16667,
+      "lon": -69.833328
+    },
+    "name": "Estado Lara"
+  },
+  {
+    "country": "VE",
+    "id": 3639346,
+    "coord": {
+      "lat": 10.08333,
+      "lon": -69.416672
+    },
+    "name": "Municipio Iribarren"
+  },
+  {
+    "country": "VE",
+    "id": 3648522,
+    "coord": {
+      "lat": 10.07389,
+      "lon": -69.322777
+    },
+    "name": "Barquisimeto"
+  },
+  {
+    "country": "VE",
+    "id": 3633009,
+    "coord": {
+      "lat": 10.63167,
+      "lon": -71.640556
+    },
+    "name": "Maracaibo"
+  },
+  {
+    "country": "VE",
+    "id": 3625541,
+    "coord": {
+      "lat": 9.3206,
+      "lon": -70.607758
+    },
+    "name": "Municipio Valera"
+  },
+  {
+    "country": "VE",
+    "id": 3625542,
+    "coord": {
+      "lat": 9.31778,
+      "lon": -70.603607
+    },
+    "name": "Valera"
+  },
+  {
+    "country": "VE",
+    "id": 3631462,
+    "coord": {
+      "lat": 11,
+      "lon": -64
+    },
+    "name": "Estado Nueva Esparta"
+  },
+  {
+    "country": "VE",
+    "id": 3632894,
+    "coord": {
+      "lat": 10.95,
+      "lon": -63.883331
+    },
+    "name": "Municipio Mariño"
+  },
+  {
+    "country": "VE",
+    "id": 3629965,
+    "coord": {
+      "lat": 10.95796,
+      "lon": -63.84906
+    },
+    "name": "Porlamar"
+  },
+  {
+    "country": "VE",
+    "id": 3633622,
+    "coord": {
+      "lat": 10.34447,
+      "lon": -67.043251
+    },
+    "name": "Los Teques"
+  },
+  {
+    "country": "VE",
+    "id": 3634711,
+    "coord": {
+      "lat": 10.35,
+      "lon": -67.033333
+    },
+    "name": "Llano de Miquilén"
+  },
+  {
+    "country": "VE",
+    "id": 3640595,
+    "coord": {
+      "lat": 10.41667,
+      "lon": -67.666672
+    },
+    "name": "Municipio Girardot"
+  },
+  {
+    "country": "VE",
+    "id": 3632998,
+    "coord": {
+      "lat": 10.24694,
+      "lon": -67.595833
+    },
+    "name": "Maracay"
+  },
+  {
+    "country": "VE",
+    "id": 3644182,
+    "coord": {
+      "lat": 10.47659,
+      "lon": -64.16893
+    },
+    "name": "El Barbudo"
+  },
+  {
+    "country": "VE",
+    "id": 3796318,
+    "coord": {
+      "lat": 10.46491,
+      "lon": -64.16864
+    },
+    "name": "Barrio Mundo Nuevo"
+  },
+  {
+    "country": "VE",
+    "id": 3641784,
+    "coord": {
+      "lat": 10.5,
+      "lon": -66.883331
+    },
+    "name": "El Recreo"
+  },
+  {
+    "country": "VE",
+    "id": 3481078,
+    "coord": {
+      "lat": 10.49414,
+      "lon": -66.877808
+    },
+    "name": "Sabana Grande"
+  },
+  {
+    "country": "VE",
+    "id": 3649333,
+    "coord": {
+      "lat": 10.16099,
+      "lon": -63.517078
+    },
+    "name": "Amanita"
+  },
+  {
+    "country": "VE",
+    "id": 3626553,
+    "coord": {
+      "lat": 7.83333,
+      "lon": -72.083328
+    },
+    "name": "Estado Táchira"
+  },
+  {
+    "country": "VE",
+    "id": 3628468,
+    "coord": {
+      "lat": 7.71667,
+      "lon": -72.166672
+    },
+    "name": "Municipio San Cristóbal"
+  },
+  {
+    "country": "VE",
+    "id": 3628473,
+    "coord": {
+      "lat": 7.76694,
+      "lon": -72.224998
+    },
+    "name": "San Cristobal"
+  },
+  {
+    "country": "VE",
+    "id": 3631170,
+    "coord": {
+      "lat": 9.5,
+      "lon": -69.050003
+    },
+    "name": "Municipio Páez"
+  },
+  {
+    "country": "VE",
+    "id": 3649833,
+    "coord": {
+      "lat": 9.55451,
+      "lon": -69.195641
+    },
+    "name": "Acarigua"
+  },
+  {
+    "country": "VE",
+    "id": 3648559,
+    "coord": {
+      "lat": 10.13333,
+      "lon": -64.699997
+    },
+    "name": "Barcelona"
+  },
+  {
+    "country": "VE",
+    "id": 3648111,
+    "coord": {
+      "lat": 10.04932,
+      "lon": -63.132252
+    },
+    "name": "Municipio Bolívar"
+  },
+  {
+    "country": "VE",
+    "id": 3646534,
+    "coord": {
+      "lat": 10.11026,
+      "lon": -63.096329
+    },
+    "name": "Caripito"
+  },
+  {
+    "country": "VE",
+    "id": 3629705,
+    "coord": {
+      "lat": 10.41667,
+      "lon": -68.166672
+    },
+    "name": "Municipio Puerto Cabello"
+  },
+  {
+    "country": "VE",
+    "id": 3629706,
+    "coord": {
+      "lat": 10.47306,
+      "lon": -68.012497
+    },
+    "name": "Puerto Cabello"
+  },
+  {
+    "country": "VE",
+    "id": 3641351,
+    "coord": {
+      "lat": 8.88752,
+      "lon": -64.245438
+    },
+    "name": "El Tigre"
+  },
+  {
+    "country": "VE",
+    "id": 6301912,
+    "coord": {
+      "lat": 10.34169,
+      "lon": -68.732803
+    },
+    "name": "El Diario de Yaracuy"
+  },
+  {
+    "country": "VE",
+    "id": 3625210,
+    "coord": {
+      "lat": 10.33974,
+      "lon": -68.737343
+    },
+    "name": "Estado Yaracuy"
+  },
+  {
+    "country": "VE",
+    "id": 3647929,
+    "coord": {
+      "lat": 10.16667,
+      "lon": -68.883331
+    },
+    "name": "Municipio Bruzual"
+  },
+  {
+    "country": "VE",
+    "id": 3645671,
+    "coord": {
+      "lat": 10.16028,
+      "lon": -68.894997
+    },
+    "name": "Chivacoa"
+  },
+  {
+    "country": "VE",
+    "id": 8129203,
+    "coord": {
+      "lat": 10.08,
+      "lon": -69.126106
+    },
+    "name": "Municipio Peña"
+  },
+  {
+    "country": "VE",
+    "id": 3625207,
+    "coord": {
+      "lat": 10.08,
+      "lon": -69.126106
+    },
+    "name": "Yaritagua"
+  },
+  {
+    "country": "VE",
+    "id": 3648385,
+    "coord": {
+      "lat": 10.25,
+      "lon": -68.199997
+    },
+    "name": "Municipio Bejuma"
+  },
+  {
+    "country": "VE",
+    "id": 3648386,
+    "coord": {
+      "lat": 10.17309,
+      "lon": -68.258873
+    },
+    "name": "Bejuma"
+  },
+  {
+    "country": "VE",
+    "id": 3806295,
+    "coord": {
+      "lat": 10.23442,
+      "lon": -67.345192
+    },
+    "name": "La Ceiba"
+  },
+  {
+    "country": "VE",
+    "id": 3640226,
+    "coord": {
+      "lat": 9.04183,
+      "lon": -69.742058
+    },
+    "name": "Guanare"
+  },
+  {
+    "country": "VE",
+    "id": 3797895,
+    "coord": {
+      "lat": 9.04602,
+      "lon": -69.747414
+    },
+    "name": "Buenos Aires"
+  },
+  {
+    "country": "VE",
+    "id": 3626659,
+    "coord": {
+      "lat": 10.16667,
+      "lon": -67.449997
+    },
+    "name": "Municipio Sucre"
+  },
+  {
+    "country": "VE",
+    "id": 3647549,
+    "coord": {
+      "lat": 10.18634,
+      "lon": -67.459351
+    },
+    "name": "Cagua"
+  },
+  {
+    "country": "VE",
+    "id": 3628267,
+    "coord": {
+      "lat": 10.263,
+      "lon": -67.785797
+    },
+    "name": "San Joaquin"
+  },
+  {
+    "country": "VE",
+    "id": 3648544,
+    "coord": {
+      "lat": 8.16667,
+      "lon": -69.833328
+    },
+    "name": "Estado Barinas"
+  },
+  {
+    "country": "VE",
+    "id": 3648545,
+    "coord": {
+      "lat": 8.61497,
+      "lon": -70.198517
+    },
+    "name": "Municipio Barinas"
+  },
+  {
+    "country": "VE",
+    "id": 3648546,
+    "coord": {
+      "lat": 8.62261,
+      "lon": -70.207489
+    },
+    "name": "Barinas"
+  },
+  {
+    "country": "VE",
+    "id": 3629202,
+    "coord": {
+      "lat": 10.36336,
+      "lon": -66.932701
+    },
+    "name": "Resbalón"
+  },
+  {
+    "country": "VE",
+    "id": 3647651,
+    "coord": {
+      "lat": 10.38828,
+      "lon": -71.439919
+    },
+    "name": "Cabimas"
+  },
+  {
+    "country": "VE",
+    "id": 3644938,
+    "coord": {
+      "lat": 10.25,
+      "lon": -66.833328
+    },
+    "name": "Municipio Cristóbal Rojas"
+  },
+  {
+    "country": "VE",
+    "id": 3645854,
+    "coord": {
+      "lat": 10.24247,
+      "lon": -66.857231
+    },
+    "name": "Charallave"
+  },
+  {
+    "country": "VE",
+    "id": 3648120,
+    "coord": {
+      "lat": 10.48333,
+      "lon": -66.816673
+    },
+    "name": "Boleita"
+  },
+  {
+    "country": "VE",
+    "id": 3625659,
+    "coord": {
+      "lat": 10.16667,
+      "lon": -66.916672
+    },
+    "name": "Municipio Urdaneta"
+  },
+  {
+    "country": "VE",
+    "id": 3644918,
+    "coord": {
+      "lat": 10.15892,
+      "lon": -66.88575
+    },
+    "name": "Cua"
+  },
+  {
+    "country": "VE",
+    "id": 8131443,
+    "coord": {
+      "lat": 10.3514,
+      "lon": -66.993599
+    },
+    "name": "Municipio Carrizal"
+  },
+  {
+    "country": "VE",
+    "id": 3646451,
+    "coord": {
+      "lat": 10.34985,
+      "lon": -66.98632
+    },
+    "name": "Carrizal"
+  },
+  {
+    "country": "VE",
+    "id": 3627047,
+    "coord": {
+      "lat": 10.23409,
+      "lon": -66.663078
+    },
+    "name": "Santa Teresa"
+  },
+  {
+    "country": "VE",
+    "id": 8129209,
+    "coord": {
+      "lat": 10.19635,
+      "lon": -71.308182
+    },
+    "name": "Municipio Lagunillas"
+  },
+  {
+    "country": "VE",
+    "id": 3645527,
+    "coord": {
+      "lat": 10.19635,
+      "lon": -71.308182
+    },
+    "name": "Ciudad Ojeda"
+  },
+  {
+    "country": "VE",
+    "id": 8131516,
+    "coord": {
+      "lat": 10.53473,
+      "lon": -71.50692
+    },
+    "name": "Municipio Santa Rita"
+  },
+  {
+    "country": "VE",
+    "id": 3627186,
+    "coord": {
+      "lat": 10.53642,
+      "lon": -71.51104
+    },
+    "name": "Santa Rita"
+  },
+  {
+    "country": "VE",
+    "id": 3806880,
+    "coord": {
+      "lat": 10.23262,
+      "lon": -67.47319
+    },
+    "name": "Turmerito"
+  },
+  {
+    "country": "VE",
+    "id": 3646514,
+    "coord": {
+      "lat": 9.95,
+      "lon": -67.75
+    },
+    "name": "Municipio Carlos Arvelo"
+  },
+  {
+    "country": "VE",
+    "id": 3639747,
+    "coord": {
+      "lat": 10.08528,
+      "lon": -67.779167
+    },
+    "name": "Guigue"
+  },
+  {
+    "country": "VE",
+    "id": 3645386,
+    "coord": {
+      "lat": 9.33333,
+      "lon": -68.333328
+    },
+    "name": "Estado Cojedes"
+  },
+  {
+    "country": "VE",
+    "id": 3641904,
+    "coord": {
+      "lat": 9.67687,
+      "lon": -68.610191
+    },
+    "name": "El Potrero"
+  },
+  {
+    "country": "VE",
+    "id": 8131430,
+    "coord": {
+      "lat": 10.25614,
+      "lon": -67.954132
+    },
+    "name": "Municipio San Diego"
+  },
+  {
+    "country": "VE",
+    "id": 3628462,
+    "coord": {
+      "lat": 10.25982,
+      "lon": -67.9533
+    },
+    "name": "San Diego"
+  },
+  {
+    "country": "VE",
+    "id": 3639197,
+    "coord": {
+      "lat": 9.8,
+      "lon": -69.583328
+    },
+    "name": "Municipio Jiménez"
+  },
+  {
+    "country": "VE",
+    "id": 3629419,
+    "coord": {
+      "lat": 9.92866,
+      "lon": -69.620102
+    },
+    "name": "Quibor"
+  },
+  {
+    "country": "VE",
+    "id": 3625979,
+    "coord": {
+      "lat": 9.37084,
+      "lon": -70.434723
+    },
+    "name": "Trujillo"
+  },
+  {
+    "country": "VE",
+    "id": 3646190,
+    "coord": {
+      "lat": 10.60383,
+      "lon": -67.030342
+    },
+    "name": "Catia La Mar"
+  },
+  {
+    "country": "VE",
+    "id": 3646610,
+    "coord": {
+      "lat": 7.83333,
+      "lon": -72.116669
+    },
+    "name": "Municipio Cárdenas"
+  },
+  {
+    "country": "VE",
+    "id": 3626402,
+    "coord": {
+      "lat": 7.8188,
+      "lon": -72.224274
+    },
+    "name": "Tariba"
+  },
+  {
+    "country": "VE",
+    "id": 8129261,
+    "coord": {
+      "lat": 9.35029,
+      "lon": -65.324516
+    },
+    "name": "Municipio Pedro Zaraza"
+  },
+  {
+    "country": "VE",
+    "id": 3625066,
+    "coord": {
+      "lat": 9.35029,
+      "lon": -65.324516
+    },
+    "name": "Zaraza"
+  },
+  {
+    "country": "VE",
+    "id": 8129266,
+    "coord": {
+      "lat": 9.30571,
+      "lon": -64.358414
+    },
+    "name": "Municipio Pedro María Freites"
+  },
+  {
+    "country": "VE",
+    "id": 3646869,
+    "coord": {
+      "lat": 9.30571,
+      "lon": -64.358414
+    },
+    "name": "Cantaura"
+  },
+  {
+    "country": "VE",
+    "id": 3648122,
+    "coord": {
+      "lat": 10.59198,
+      "lon": -62.92638
+    },
+    "name": "Bohordal"
+  },
+  {
+    "country": "VE",
+    "id": 8131389,
+    "coord": {
+      "lat": 8.87998,
+      "lon": -64.161018
+    },
+    "name": "Municipio San José de Guanipa"
+  },
+  {
+    "country": "VE",
+    "id": 3628142,
+    "coord": {
+      "lat": 8.88724,
+      "lon": -64.165123
+    },
+    "name": "San Jose de Guanipa"
+  },
+  {
+    "country": "VE",
+    "id": 3648884,
+    "coord": {
+      "lat": 11.07242,
+      "lon": -63.94569
+    },
+    "name": "Arismendi"
+  },
+  {
+    "country": "VE",
+    "id": 8129207,
+    "coord": {
+      "lat": 9.69131,
+      "lon": -63.609211
+    },
+    "name": "Municipio Ezequiel Zamora"
+  },
+  {
+    "country": "VE",
+    "id": 3629606,
+    "coord": {
+      "lat": 9.69131,
+      "lon": -63.609211
+    },
+    "name": "Punta de Mata"
+  },
+  {
+    "country": "VE",
+    "id": 3640872,
+    "coord": {
+      "lat": 9.91667,
+      "lon": -68.333328
+    },
+    "name": "Municipio Falcón"
+  },
+  {
+    "country": "VE",
+    "id": 3626219,
+    "coord": {
+      "lat": 9.91861,
+      "lon": -68.304718
+    },
+    "name": "Tinaquillo"
+  },
+  {
+    "country": "VE",
+    "id": 8129241,
+    "coord": {
+      "lat": 10.29644,
+      "lon": -67.718132
+    },
+    "name": "Municipio Diego Ibarra"
+  },
+  {
+    "country": "VE",
+    "id": 3632929,
+    "coord": {
+      "lat": 10.29644,
+      "lon": -67.718132
+    },
+    "name": "Mariara"
+  },
+  {
+    "country": "VE",
+    "id": 3631972,
+    "coord": {
+      "lat": 9.66667,
+      "lon": -69.833328
+    },
+    "name": "Municipio Morán"
+  },
+  {
+    "country": "VE",
+    "id": 3641275,
+    "coord": {
+      "lat": 9.78734,
+      "lon": -69.793701
+    },
+    "name": "El Tocuyo"
+  },
+  {
+    "country": "VE",
+    "id": 8129185,
+    "coord": {
+      "lat": 9.91152,
+      "lon": -67.353813
+    },
+    "name": "Municipio Juan Germán Roscio"
+  },
+  {
+    "country": "VE",
+    "id": 3628053,
+    "coord": {
+      "lat": 9.91152,
+      "lon": -67.353813
+    },
+    "name": "San Juan de los Morros"
+  },
+  {
+    "country": "VE",
+    "id": 8131429,
+    "coord": {
+      "lat": 10.25648,
+      "lon": -68.018929
+    },
+    "name": "Municipio Naguanagua"
+  },
+  {
+    "country": "VE",
+    "id": 3631614,
+    "coord": {
+      "lat": 10.26,
+      "lon": -68.018608
+    },
+    "name": "Naguanagua"
+  },
+  {
+    "country": "VE",
+    "id": 8129269,
+    "coord": {
+      "lat": 8.92416,
+      "lon": -67.429291
+    },
+    "name": "Municipio Francisco de Miranda"
+  },
+  {
+    "country": "VE",
+    "id": 3647444,
+    "coord": {
+      "lat": 8.92416,
+      "lon": -67.429291
+    },
+    "name": "Calabozo"
+  },
+  {
+    "country": "VE",
+    "id": 3627039,
+    "coord": {
+      "lat": 9.24616,
+      "lon": -70.528557
+    },
+    "name": "Santiago de Trujillo"
+  },
+  {
+    "country": "VE",
+    "id": 3625845,
+    "coord": {
+      "lat": 9.16667,
+      "lon": -68.833328
+    },
+    "name": "Municipio Turén"
+  },
+  {
+    "country": "VE",
+    "id": 3625346,
+    "coord": {
+      "lat": 9.33278,
+      "lon": -69.120827
+    },
+    "name": "Villa Bruzual"
+  },
+  {
+    "country": "VE",
+    "id": 8129179,
+    "coord": {
+      "lat": 9.21554,
+      "lon": -66.007339
+    },
+    "name": "Municipio Leonardo Infante"
+  },
+  {
+    "country": "VE",
+    "id": 3625515,
+    "coord": {
+      "lat": 9.21554,
+      "lon": -66.007339
+    },
+    "name": "Valle de La Pascua"
+  },
+  {
+    "country": "VE",
+    "id": 8129206,
+    "coord": {
+      "lat": 10.21302,
+      "lon": -67.423653
+    },
+    "name": "Municipio Bolívar"
+  },
+  {
+    "country": "VE",
+    "id": 3627968,
+    "coord": {
+      "lat": 10.21302,
+      "lon": -67.423653
+    },
+    "name": "San Mateo"
+  },
+  {
+    "country": "VE",
+    "id": 3648113,
+    "coord": {
+      "lat": 7.83333,
+      "lon": -72.416672
+    },
+    "name": "Municipio Bolívar"
+  },
+  {
+    "country": "VE",
+    "id": 3628549,
+    "coord": {
+      "lat": 7.81454,
+      "lon": -72.4431
+    },
+    "name": "San Antonio del Tachira"
+  },
+  {
+    "country": "VE",
+    "id": 3637011,
+    "coord": {
+      "lat": 10.08333,
+      "lon": -66.75
+    },
+    "name": "Municipio Lander"
+  },
+  {
+    "country": "VE",
+    "id": 3631412,
+    "coord": {
+      "lat": 10.11649,
+      "lon": -66.776093
+    },
+    "name": "Ocumare del Tuy"
+  },
+  {
+    "country": "VE",
+    "id": 8129164,
+    "coord": {
+      "lat": 9.44475,
+      "lon": -70.477592
+    },
+    "name": "Municipio Pampán"
+  },
+  {
+    "country": "VE",
+    "id": 3630896,
+    "coord": {
+      "lat": 9.44475,
+      "lon": -70.477592
+    },
+    "name": "Pampan"
+  },
+  {
+    "country": "VE",
+    "id": 3480908,
+    "coord": {
+      "lat": 11.03333,
+      "lon": -63.862782
+    },
+    "name": "La Asuncion"
+  },
+  {
+    "country": "VE",
+    "id": 3639063,
+    "coord": {
+      "lat": 7.58333,
+      "lon": -72.416672
+    },
+    "name": "Municipio Junín"
+  },
+  {
+    "country": "VE",
+    "id": 3628952,
+    "coord": {
+      "lat": 7.70131,
+      "lon": -72.35569
+    },
+    "name": "Rubio"
+  },
+  {
+    "country": "VE",
+    "id": 3804949,
+    "coord": {
+      "lat": 7.24241,
+      "lon": -70.732361
+    },
+    "name": "Guasdalito"
+  },
+  {
+    "country": "VE",
+    "id": 3629042,
+    "coord": {
+      "lat": 8.16667,
+      "lon": -71.75
+    },
+    "name": "Municipio Rivas Dávila"
+  },
+  {
+    "country": "VE",
+    "id": 3648685,
+    "coord": {
+      "lat": 8.25264,
+      "lon": -71.828049
+    },
+    "name": "Bailadores"
+  },
+  {
+    "country": "VE",
+    "id": 3642041,
+    "coord": {
+      "lat": 10.99456,
+      "lon": -63.83456
+    },
+    "name": "El Pilar"
+  },
+  {
+    "country": "VE",
+    "id": 3480942,
+    "coord": {
+      "lat": 10.97536,
+      "lon": -63.83601
+    },
+    "name": "El Genoves"
+  },
+  {
+    "country": "VE",
+    "id": 3649591,
+    "coord": {
+      "lat": 10.76809,
+      "lon": -69.568947
+    },
+    "name": "Agua Salada"
+  },
+  {
+    "country": "VE",
+    "id": 8129167,
+    "coord": {
+      "lat": 8.84358,
+      "lon": -64.710533
+    },
+    "name": "Municipio Francisco de Miranda"
+  },
+  {
+    "country": "VE",
+    "id": 3630687,
+    "coord": {
+      "lat": 8.84358,
+      "lon": -64.710533
+    },
+    "name": "Pariaguan"
+  },
+  {
+    "country": "VE",
+    "id": 3649370,
+    "coord": {
+      "lat": 10.15667,
+      "lon": -68.287651
+    },
+    "name": "Alto de Reyes"
+  },
+  {
+    "country": "VE",
+    "id": 3625967,
+    "coord": {
+      "lat": 10.95,
+      "lon": -64.083328
+    },
+    "name": "Municipio Tubores"
+  },
+  {
+    "country": "VE",
+    "id": 3629601,
+    "coord": {
+      "lat": 10.9013,
+      "lon": -64.096962
+    },
+    "name": "Punta de Piedras"
+  },
+  {
+    "country": "VE",
+    "id": 3632259,
+    "coord": {
+      "lat": 7.98333,
+      "lon": -72.183327
+    },
+    "name": "Municipio Michelena"
+  },
+  {
+    "country": "VE",
+    "id": 3632260,
+    "coord": {
+      "lat": 7.9549,
+      "lon": -72.243217
+    },
+    "name": "Michelena"
+  },
+  {
+    "country": "VE",
+    "id": 3803695,
+    "coord": {
+      "lat": 10.31944,
+      "lon": -65.988327
+    },
+    "name": "Urbanización La Florida"
+  },
+  {
+    "country": "VE",
+    "id": 3630455,
+    "coord": {
+      "lat": 11.1,
+      "lon": -63.950001
+    },
+    "name": "Pedrogonzález"
+  },
+  {
+    "country": "VE",
+    "id": 3644541,
+    "coord": {
+      "lat": 8.5,
+      "lon": -61.5
+    },
+    "name": "Territorio Federal Delta Amacuro"
+  },
+  {
+    "country": "VE",
+    "id": 3625927,
+    "coord": {
+      "lat": 9.25,
+      "lon": -61.75
+    },
+    "name": "Municipio Tucupita"
+  },
+  {
+    "country": "VE",
+    "id": 3625929,
+    "coord": {
+      "lat": 9.06222,
+      "lon": -62.051022
+    },
+    "name": "Tucupita"
+  },
+  {
+    "country": "VE",
+    "id": 8129226,
+    "coord": {
+      "lat": 10.18,
+      "lon": -67.511841
+    },
+    "name": "Municipio José Angel Lamas"
+  },
+  {
+    "country": "VE",
+    "id": 3627457,
+    "coord": {
+      "lat": 10.18,
+      "lon": -67.511841
+    },
+    "name": "Santa Cruz"
+  },
+  {
+    "country": "VE",
+    "id": 8129256,
+    "coord": {
+      "lat": 10.49017,
+      "lon": -66.874718
+    },
+    "name": "Municipio Libertador"
+  },
+  {
+    "country": "VE",
+    "id": 3481364,
+    "coord": {
+      "lat": 10.43337,
+      "lon": -66.983131
+    },
+    "name": "Caricuao"
+  },
+  {
+    "country": "VE",
+    "id": 8129253,
+    "coord": {
+      "lat": 9.37568,
+      "lon": -70.731308
+    },
+    "name": "Municipio Rafael Rangel"
+  },
+  {
+    "country": "VE",
+    "id": 3648290,
+    "coord": {
+      "lat": 9.37568,
+      "lon": -70.731308
+    },
+    "name": "Betijoque"
+  },
+  {
+    "country": "VE",
+    "id": 3635888,
+    "coord": {
+      "lat": 10.93726,
+      "lon": -64.053909
+    },
+    "name": "Las Hernández"
+  },
+  {
+    "country": "VE",
+    "id": 3631207,
+    "coord": {
+      "lat": 9.33333,
+      "lon": -69.416672
+    },
+    "name": "Municipio Ospino"
+  },
+  {
+    "country": "VE",
+    "id": 3631208,
+    "coord": {
+      "lat": 9.29672,
+      "lon": -69.45546
+    },
+    "name": "Ospino"
+  },
+  {
+    "country": "VE",
+    "id": 3638269,
+    "coord": {
+      "lat": 9.92847,
+      "lon": -65.170959
+    },
+    "name": "La Cruz de Belén"
+  },
+  {
+    "country": "VE",
+    "id": 8129187,
+    "coord": {
+      "lat": 10.21667,
+      "lon": -64.616669
+    },
+    "name": "Municipio Juan Antonio Sotillo"
+  },
+  {
+    "country": "VE",
+    "id": 3629672,
+    "coord": {
+      "lat": 10.21667,
+      "lon": -64.616669
+    },
+    "name": "Puerto La Cruz"
+  },
+  {
+    "country": "VE",
+    "id": 3625660,
+    "coord": {
+      "lat": 9.71667,
+      "lon": -66.800003
+    },
+    "name": "Municipio Urdaneta"
+  },
+  {
+    "country": "VE",
+    "id": 3648580,
+    "coord": {
+      "lat": 9.47855,
+      "lon": -66.974579
+    },
+    "name": "Barbacoas"
+  },
+  {
+    "country": "VE",
+    "id": 3649066,
+    "coord": {
+      "lat": 10.45205,
+      "lon": -66.483948
+    },
+    "name": "Araira"
+  },
+  {
+    "country": "VE",
+    "id": 3632399,
+    "coord": {
+      "lat": 9.84639,
+      "lon": -70.926559
+    },
+    "name": "Mene Grande"
+  },
+  {
+    "country": "VE",
+    "id": 3631656,
+    "coord": {
+      "lat": 7.58333,
+      "lon": -69.416672
+    },
+    "name": "Municipio Muñoz"
+  },
+  {
+    "country": "VE",
+    "id": 3647931,
+    "coord": {
+      "lat": 8.05052,
+      "lon": -69.332573
+    },
+    "name": "Bruzual"
+  },
+  {
+    "country": "VE",
+    "id": 3627012,
+    "coord": {
+      "lat": 10.25192,
+      "lon": -67.203468
+    },
+    "name": "Santo Domingo"
+  },
+  {
+    "country": "VE",
+    "id": 3806494,
+    "coord": {
+      "lat": 10.25555,
+      "lon": -67.165718
+    },
+    "name": "Barrio Leonardo Ruíz Pineda"
+  },
+  {
+    "country": "VE",
+    "id": 3806256,
+    "coord": {
+      "lat": 10.4626,
+      "lon": -67.733803
+    },
+    "name": "Cata"
+  },
+  {
+    "country": "VE",
+    "id": 8129158,
+    "coord": {
+      "lat": 9.43365,
+      "lon": -69.94754
+    },
+    "name": "Municipio Monseñor José Vicente de Unda"
+  },
+  {
+    "country": "VE",
+    "id": 3630761,
+    "coord": {
+      "lat": 9.43365,
+      "lon": -69.94754
+    },
+    "name": "Paraiso de Chabasquen"
+  },
+  {
+    "country": "VE",
+    "id": 3629661,
+    "coord": {
+      "lat": 7.90232,
+      "lon": -67.46981
+    },
+    "name": "Puerto Miranda"
+  },
+  {
+    "country": "VE",
+    "id": 3626828,
+    "coord": {
+      "lat": 10.75709,
+      "lon": -68.350067
+    },
+    "name": "Municipio Silva"
+  },
+  {
+    "country": "VE",
+    "id": 3625965,
+    "coord": {
+      "lat": 10.7906,
+      "lon": -68.325768
+    },
+    "name": "Tucacas"
+  },
+  {
+    "country": "VE",
+    "id": 3765365,
+    "coord": {
+      "lat": 7.87139,
+      "lon": -67.493332
+    },
+    "name": "La Horqueta"
+  },
+  {
+    "country": "VE",
+    "id": 3626936,
+    "coord": {
+      "lat": 10.58333,
+      "lon": -69.48333
+    },
+    "name": "Satiare"
+  },
+  {
+    "country": "VE",
+    "id": 8129250,
+    "coord": {
+      "lat": 9.78762,
+      "lon": -66.906189
+    },
+    "name": "Municipio Camatagua"
+  },
+  {
+    "country": "VE",
+    "id": 3647382,
+    "coord": {
+      "lat": 9.78762,
+      "lon": -66.906189
+    },
+    "name": "Camatagua"
+  },
+  {
+    "country": "VE",
+    "id": 3649302,
+    "coord": {
+      "lat": 3.5,
+      "lon": -66
+    },
+    "name": "Estado Amazonas"
+  },
+  {
+    "country": "VE",
+    "id": 3648789,
+    "coord": {
+      "lat": 5.69252,
+      "lon": -67.346191
+    },
+    "name": "Municipio Autónomo Atures"
+  },
+  {
+    "country": "VE",
+    "id": 3629710,
+    "coord": {
+      "lat": 5.66389,
+      "lon": -67.623611
+    },
+    "name": "Puerto Ayacucho"
+  },
+  {
+    "country": "VE",
+    "id": 3630452,
+    "coord": {
+      "lat": 7.93333,
+      "lon": -72.400002
+    },
+    "name": "Municipio Pedro María Ureña"
+  },
+  {
+    "country": "VE",
+    "id": 3625655,
+    "coord": {
+      "lat": 7.91689,
+      "lon": -72.441879
+    },
+    "name": "Urena"
+  },
+  {
+    "country": "VE",
+    "id": 3647945,
+    "coord": {
+      "lat": 10.41667,
+      "lon": -66.166672
+    },
+    "name": "Municipio Brión"
+  },
+  {
+    "country": "VE",
+    "id": 3639526,
+    "coord": {
+      "lat": 10.48106,
+      "lon": -66.10083
+    },
+    "name": "Higuerote"
+  },
+  {
+    "country": "VE",
+    "id": 8129186,
+    "coord": {
+      "lat": 10.17793,
+      "lon": -66.746483
+    },
+    "name": "Municipio Simón Bolívar"
+  },
+  {
+    "country": "VE",
+    "id": 3628350,
+    "coord": {
+      "lat": 10.17793,
+      "lon": -66.746483
+    },
+    "name": "San Francisco de Yare"
+  },
+  {
+    "country": "VE",
+    "id": 8129198,
+    "coord": {
+      "lat": 10.06444,
+      "lon": -72.544998
+    },
+    "name": "Municipio Machiques de Perijá"
+  },
+  {
+    "country": "VE",
+    "id": 3633444,
+    "coord": {
+      "lat": 10.06444,
+      "lon": -72.544998
+    },
+    "name": "Machiques"
+  },
+  {
+    "country": "VE",
+    "id": 3636395,
+    "coord": {
+      "lat": 10.96472,
+      "lon": -71.726387
+    },
+    "name": "La Rosita"
+  },
+  {
+    "country": "VE",
+    "id": 3626660,
+    "coord": {
+      "lat": 9.33333,
+      "lon": -70
+    },
+    "name": "Municipio Sucre"
+  },
+  {
+    "country": "VE",
+    "id": 3648274,
+    "coord": {
+      "lat": 9.35944,
+      "lon": -69.983902
+    },
+    "name": "Biscucuy"
+  },
+  {
+    "country": "VE",
+    "id": 3649812,
+    "coord": {
+      "lat": 10.25,
+      "lon": -66.333328
+    },
+    "name": "Municipio Acevedo"
+  },
+  {
+    "country": "VE",
+    "id": 3646175,
+    "coord": {
+      "lat": 10.2831,
+      "lon": -66.375908
+    },
+    "name": "Caucagua"
+  },
+  {
+    "country": "VE",
+    "id": 3639226,
+    "coord": {
+      "lat": 8.1,
+      "lon": -72
+    },
+    "name": "Municipio Jáuregui"
+  },
+  {
+    "country": "VE",
+    "id": 3795170,
+    "coord": {
+      "lat": 8.13219,
+      "lon": -71.983368
+    },
+    "name": "La Grita"
+  },
+  {
+    "country": "VE",
+    "id": 3626046,
+    "coord": {
+      "lat": 10.36667,
+      "lon": -66.133331
+    },
+    "name": "Tovar"
+  },
+  {
+    "country": "VE",
+    "id": 3767884,
+    "coord": {
+      "lat": 10.11881,
+      "lon": -70.166298
+    },
+    "name": "La Miel"
+  },
+  {
+    "country": "VE",
+    "id": 3631285,
+    "coord": {
+      "lat": 9.39486,
+      "lon": -66.459084
+    },
+    "name": "Orituco"
+  },
+  {
+    "country": "VE",
+    "id": 3777638,
+    "coord": {
+      "lat": 10.18,
+      "lon": -63.561111
+    },
+    "name": "Bolívar"
+  },
+  {
+    "country": "VE",
+    "id": 3482204,
+    "coord": {
+      "lat": 9.38944,
+      "lon": -70.26667
+    },
+    "name": "Pampanito"
+  },
+  {
+    "country": "VE",
+    "id": 3626234,
+    "coord": {
+      "lat": 9.66667,
+      "lon": -68.333328
+    },
+    "name": "Municipio Tinaco"
+  },
+  {
+    "country": "VE",
+    "id": 3626235,
+    "coord": {
+      "lat": 9.69871,
+      "lon": -68.433479
+    },
+    "name": "Tinaco"
+  },
+  {
+    "country": "VE",
+    "id": 3648130,
+    "coord": {
+      "lat": 9.25,
+      "lon": -70.25
+    },
+    "name": "Municipio Boconó"
+  },
+  {
+    "country": "VE",
+    "id": 3648132,
+    "coord": {
+      "lat": 9.24426,
+      "lon": -70.269379
+    },
+    "name": "Bocono"
+  },
+  {
+    "country": "VE",
+    "id": 3644947,
+    "coord": {
+      "lat": 10.3,
+      "lon": -69.166672
+    },
+    "name": "Municipio Crespo"
+  },
+  {
+    "country": "VE",
+    "id": 3644440,
+    "coord": {
+      "lat": 10.28586,
+      "lon": -69.16227
+    },
+    "name": "Duaca"
+  },
+  {
+    "country": "VE",
+    "id": 3625648,
+    "coord": {
+      "lat": 7.66667,
+      "lon": -71.916672
+    },
+    "name": "Municipio Uribante"
+  },
+  {
+    "country": "VE",
+    "id": 3629844,
+    "coord": {
+      "lat": 8.01909,
+      "lon": -71.765953
+    },
+    "name": "Pregonero"
+  },
+  {
+    "country": "VE",
+    "id": 3649099,
+    "coord": {
+      "lat": 9.97026,
+      "lon": -63.48727
+    },
+    "name": "Aragua de Maturín"
+  },
+  {
+    "country": "VE",
+    "id": 8129231,
+    "coord": {
+      "lat": 8.91485,
+      "lon": -70.659187
+    },
+    "name": "Municipio Pueblo Llano"
+  },
+  {
+    "country": "VE",
+    "id": 3629800,
+    "coord": {
+      "lat": 8.91485,
+      "lon": -70.659187
+    },
+    "name": "Pueblo Llano"
+  },
+  {
+    "country": "VE",
+    "id": 8129228,
+    "coord": {
+      "lat": 9.75145,
+      "lon": -69.653183
+    },
+    "name": "Municipio Andrés Eloy Blanco"
+  },
+  {
+    "country": "VE",
+    "id": 3628545,
+    "coord": {
+      "lat": 9.75145,
+      "lon": -69.653183
+    },
+    "name": "Sanare"
+  },
+  {
+    "country": "VE",
+    "id": 3635707,
+    "coord": {
+      "lat": 10.05,
+      "lon": -66.783333
+    },
+    "name": "Las Mercedes"
+  },
+  {
+    "country": "VE",
+    "id": 3632524,
+    "coord": {
+      "lat": 10.83333,
+      "lon": -71
+    },
+    "name": "Municipio Mauroa"
+  },
+  {
+    "country": "VE",
+    "id": 3632401,
+    "coord": {
+      "lat": 10.68156,
+      "lon": -71.036781
+    },
+    "name": "Mene de Mauroa"
+  },
+  {
+    "country": "VE",
+    "id": 8129174,
+    "coord": {
+      "lat": 7.91139,
+      "lon": -71.971939
+    },
+    "name": "Municipio Francisco de Miranda"
+  },
+  {
+    "country": "VE",
+    "id": 3739076,
+    "coord": {
+      "lat": 7.91139,
+      "lon": -71.971939
+    },
+    "name": "San Jose de Bolivar"
+  },
+  {
+    "country": "VE",
+    "id": 3626352,
+    "coord": {
+      "lat": 8.98333,
+      "lon": -62.73333
+    },
+    "name": "Temblador"
+  },
+  {
+    "country": "VE",
+    "id": 3628815,
+    "coord": {
+      "lat": 9.97211,
+      "lon": -68.094353
+    },
+    "name": "Sabanita"
+  },
+  {
+    "country": "VE",
+    "id": 3649111,
+    "coord": {
+      "lat": 9.31667,
+      "lon": -64.900002
+    },
+    "name": "Municipio Aragua"
+  },
+  {
+    "country": "VE",
+    "id": 3649100,
+    "coord": {
+      "lat": 9.45588,
+      "lon": -64.829277
+    },
+    "name": "Aragua de Barcelona"
+  },
+  {
+    "country": "VE",
+    "id": 3481991,
+    "coord": {
+      "lat": 9.33833,
+      "lon": -70.599998
+    },
+    "name": "San Luis"
+  },
+  {
+    "country": "VE",
+    "id": 3646191,
+    "coord": {
+      "lat": 10.51169,
+      "lon": -66.95237
+    },
+    "name": "Catia"
+  },
+  {
+    "country": "VE",
+    "id": 3626547,
+    "coord": {
+      "lat": 11.70922,
+      "lon": -69.83548
+    },
+    "name": "Tacuato"
+  },
+  {
+    "country": "VE",
+    "id": 8129170,
+    "coord": {
+      "lat": 9.86025,
+      "lon": -65.813057
+    },
+    "name": "Municipio San José de Guaribe"
+  },
+  {
+    "country": "VE",
+    "id": 3774127,
+    "coord": {
+      "lat": 9.86025,
+      "lon": -65.813057
+    },
+    "name": "San Jose de Guaribe"
+  },
+  {
+    "country": "VE",
+    "id": 3638108,
+    "coord": {
+      "lat": 10.20365,
+      "lon": -67.472359
+    },
+    "name": "La Encrucijada"
+  },
+  {
+    "country": "VE",
+    "id": 3645374,
+    "coord": {
+      "lat": 11.28333,
+      "lon": -69.416672
+    },
+    "name": "Municipio Colina"
+  },
+  {
+    "country": "VE",
+    "id": 3634965,
+    "coord": {
+      "lat": 11.46209,
+      "lon": -69.56591
+    },
+    "name": "La Vela de Coro"
+  },
+  {
+    "country": "VE",
+    "id": 3626658,
+    "coord": {
+      "lat": 10.3,
+      "lon": -68.833328
+    },
+    "name": "Municipio Sucre"
+  },
+  {
+    "country": "VE",
+    "id": 3640324,
+    "coord": {
+      "lat": 10.27032,
+      "lon": -68.821312
+    },
+    "name": "Guama"
+  },
+  {
+    "country": "VE",
+    "id": 3637558,
+    "coord": {
+      "lat": 9.35022,
+      "lon": -70.587807
+    },
+    "name": "La Hoyada"
+  },
+  {
+    "country": "VE",
+    "id": 3753186,
+    "coord": {
+      "lat": 10.14493,
+      "lon": -67.93322
+    },
+    "name": "Paso Real"
+  },
+  {
+    "country": "VE",
+    "id": 3808245,
+    "coord": {
+      "lat": 7.25611,
+      "lon": -61.527779
+    },
+    "name": "Laguna Larga"
+  },
+  {
+    "country": "VE",
+    "id": 3636049,
+    "coord": {
+      "lat": 8.98687,
+      "lon": -71.940514
+    },
+    "name": "Las Delicias"
+  },
+  {
+    "country": "VE",
+    "id": 3626994,
+    "coord": {
+      "lat": 8.93881,
+      "lon": -64.128502
+    },
+    "name": "San Tomé"
+  },
+  {
+    "country": "VE",
+    "id": 3805223,
+    "coord": {
+      "lat": 7.87722,
+      "lon": -67.428329
+    },
+    "name": "Las Mercedes"
+  },
+  {
+    "country": "VE",
+    "id": 3638084,
+    "coord": {
+      "lat": 10.29098,
+      "lon": -68.750717
+    },
+    "name": "La Ermita"
+  },
+  {
+    "country": "VE",
+    "id": 3627025,
+    "coord": {
+      "lat": 7.56854,
+      "lon": -72.046112
+    },
+    "name": "Santo Domingo"
+  },
+  {
+    "country": "VE",
+    "id": 3807086,
+    "coord": {
+      "lat": 4.55167,
+      "lon": -61.132221
+    },
+    "name": "El Aserradero"
+  },
+  {
+    "country": "VE",
+    "id": 3642282,
+    "coord": {
+      "lat": 7.8547,
+      "lon": -72.43988
+    },
+    "name": "El Palotal"
+  },
+  {
+    "country": "VE",
+    "id": 3641789,
+    "coord": {
+      "lat": 7.8,
+      "lon": -72.216667
+    },
+    "name": "El Recreo"
+  },
+  {
+    "country": "VE",
+    "id": 3481589,
+    "coord": {
+      "lat": 10.47228,
+      "lon": -68.06144
+    },
+    "name": "La Sorpresa"
+  },
+  {
+    "country": "VE",
+    "id": 3755632,
+    "coord": {
+      "lat": 5.63197,
+      "lon": -67.60952
+    },
+    "name": "Carinagua"
+  },
+  {
+    "country": "VE",
+    "id": 3641066,
+    "coord": {
+      "lat": 10.89854,
+      "lon": -63.950439
+    },
+    "name": "El Yaque"
+  },
+  {
+    "country": "VE",
+    "id": 3638472,
+    "coord": {
+      "lat": 10.55,
+      "lon": -71.75
+    },
+    "name": "La Chiquinquira"
+  },
+  {
+    "country": "VE",
+    "id": 3757172,
+    "coord": {
+      "lat": 8.2353,
+      "lon": -72.264549
+    },
+    "name": "El Aeropuerto"
+  },
+  {
+    "country": "VE",
+    "id": 3786191,
+    "coord": {
+      "lat": 11.76667,
+      "lon": -70.131111
+    },
+    "name": "Guaricure"
+  },
+  {
+    "country": "VE",
+    "id": 3797821,
+    "coord": {
+      "lat": 9.03143,
+      "lon": -69.737572
+    },
+    "name": "Apamatal"
+  },
+  {
+    "country": "VE",
+    "id": 3796083,
+    "coord": {
+      "lat": 10.58407,
+      "lon": -62.302608
+    },
+    "name": "Kennedy"
+  },
+  {
+    "country": "VE",
+    "id": 3739012,
+    "coord": {
+      "lat": 7.20152,
+      "lon": -70.762154
+    },
+    "name": "Vara de María"
+  },
+  {
+    "country": "VE",
+    "id": 3646877,
+    "coord": {
+      "lat": 10.43474,
+      "lon": -64.1334
+    },
+    "name": "Cantarrana"
+  },
+  {
+    "country": "VE",
+    "id": 3648300,
+    "coord": {
+      "lat": 10.66667,
+      "lon": -63.25
+    },
+    "name": "Municipio Bermúdez"
+  },
+  {
+    "country": "VE",
+    "id": 3646382,
+    "coord": {
+      "lat": 10.66781,
+      "lon": -63.258492
+    },
+    "name": "Carupano"
+  },
+  {
+    "country": "VE",
+    "id": 3634523,
+    "coord": {
+      "lat": 8.91667,
+      "lon": -67.416672
+    },
+    "name": "Los Bancos"
+  },
+  {
+    "country": "VE",
+    "id": 3768261,
+    "coord": {
+      "lat": 10.04399,
+      "lon": -69.368607
+    },
+    "name": "Pueblo Nuevo"
+  },
+  {
+    "country": "VE",
+    "id": 3647349,
+    "coord": {
+      "lat": 10.19722,
+      "lon": -67.56778
+    },
+    "name": "Camburito"
+  },
+  {
+    "country": "VE",
+    "id": 3486337,
+    "coord": {
+      "lat": 10.12092,
+      "lon": -64.675751
+    },
+    "name": "Barrio Aduana"
+  },
+  {
+    "country": "VE",
+    "id": 3649016,
+    "coord": {
+      "lat": 9.63333,
+      "lon": -69.166672
+    },
+    "name": "Municipio Araure"
+  },
+  {
+    "country": "VE",
+    "id": 3649017,
+    "coord": {
+      "lat": 9.56009,
+      "lon": -69.214752
+    },
+    "name": "Araure"
+  },
+  {
+    "country": "VE",
+    "id": 3481456,
+    "coord": {
+      "lat": 10.10861,
+      "lon": -68.0793
+    },
+    "name": "Tocuyito"
+  },
+  {
+    "country": "VE",
+    "id": 3485791,
+    "coord": {
+      "lat": 9.15177,
+      "lon": -65.016876
+    },
+    "name": "El Chaparro"
+  },
+  {
+    "country": "VE",
+    "id": 3486577,
+    "coord": {
+      "lat": 7.44329,
+      "lon": -71.301399
+    },
+    "name": "Santa Cruz de Guacas"
+  },
+  {
+    "country": "VE",
+    "id": 3486692,
+    "coord": {
+      "lat": 8.43525,
+      "lon": -69.99633
+    },
+    "name": "El Real"
+  },
+  {
+    "country": "VE",
+    "id": 3486718,
+    "coord": {
+      "lat": 7.50005,
+      "lon": -71.84446
+    },
+    "name": "Puerto Vivas"
+  },
+  {
+    "country": "VE",
+    "id": 3486930,
+    "coord": {
+      "lat": 8.57084,
+      "lon": -70.375237
+    },
+    "name": "La Mula"
+  },
+  {
+    "country": "VE",
+    "id": 3487261,
+    "coord": {
+      "lat": 8.66435,
+      "lon": -70.232162
+    },
+    "name": "Los Guasimitos"
+  },
+  {
+    "country": "VE",
+    "id": 3625051,
+    "coord": {
+      "lat": 8.37628,
+      "lon": -71.781853
+    },
+    "name": "Zea"
+  },
+  {
+    "country": "VE",
+    "id": 3625155,
+    "coord": {
+      "lat": 10.59732,
+      "lon": -68.672447
+    },
+    "name": "Yumare"
+  },
+  {
+    "country": "VE",
+    "id": 3625214,
+    "coord": {
+      "lat": 10.97099,
+      "lon": -68.54435
+    },
+    "name": "Yaracal"
+  },
+  {
+    "country": "VE",
+    "id": 3625239,
+    "coord": {
+      "lat": 10.56916,
+      "lon": -62.826931
+    },
+    "name": "Yaguaraparo"
+  },
+  {
+    "country": "VE",
+    "id": 3625469,
+    "coord": {
+      "lat": 8.23704,
+      "lon": -69.418297
+    },
+    "name": "Las Casitas del Vegon de Nutrias"
+  },
+  {
+    "country": "VE",
+    "id": 3625519,
+    "coord": {
+      "lat": 9.90999,
+      "lon": -65.674049
+    },
+    "name": "Valle de Guanape"
+  },
+  {
+    "country": "VE",
+    "id": 3625613,
+    "coord": {
+      "lat": 11.19913,
+      "lon": -70.25499
+    },
+    "name": "Urumaco"
+  },
+  {
+    "country": "VE",
+    "id": 3625696,
+    "coord": {
+      "lat": 10.15917,
+      "lon": -69.011108
+    },
+    "name": "Urachiche"
+  },
+  {
+    "country": "VE",
+    "id": 3625732,
+    "coord": {
+      "lat": 8.26588,
+      "lon": -72.063713
+    },
+    "name": "Umuquena"
+  },
+  {
+    "country": "VE",
+    "id": 3625944,
+    "coord": {
+      "lat": 9.27496,
+      "lon": -65.77153
+    },
+    "name": "Tucupido"
+  },
+  {
+    "country": "VE",
+    "id": 3625963,
+    "coord": {
+      "lat": 8.97003,
+      "lon": -71.272774
+    },
+    "name": "Tucani"
+  },
+  {
+    "country": "VE",
+    "id": 3626047,
+    "coord": {
+      "lat": 8.33204,
+      "lon": -71.751183
+    },
+    "name": "Tovar"
+  },
+  {
+    "country": "VE",
+    "id": 3626074,
+    "coord": {
+      "lat": 8.50016,
+      "lon": -70.080559
+    },
+    "name": "Torunos"
+  },
+  {
+    "country": "VE",
+    "id": 3626094,
+    "coord": {
+      "lat": 9.03115,
+      "lon": -71.014061
+    },
+    "name": "Torondoy"
+  },
+  {
+    "country": "VE",
+    "id": 3626168,
+    "coord": {
+      "lat": 11.49897,
+      "lon": -69.258919
+    },
+    "name": "Tocopero"
+  },
+  {
+    "country": "VE",
+    "id": 3626237,
+    "coord": {
+      "lat": 8.98224,
+      "lon": -70.739258
+    },
+    "name": "Timotes"
+  },
+  {
+    "country": "VE",
+    "id": 3626302,
+    "coord": {
+      "lat": 10.25838,
+      "lon": -71.368652
+    },
+    "name": "Tia Juana"
+  },
+  {
+    "country": "VE",
+    "id": 3626595,
+    "coord": {
+      "lat": 8.6311,
+      "lon": -71.07843
+    },
+    "name": "Tabay"
+  },
+  {
+    "country": "VE",
+    "id": 3626741,
+    "coord": {
+      "lat": 8.16281,
+      "lon": -63.565842
+    },
+    "name": "Soledad"
+  },
+  {
+    "country": "VE",
+    "id": 3626764,
+    "coord": {
+      "lat": 8.23062,
+      "lon": -70.821983
+    },
+    "name": "Socopo"
+  },
+  {
+    "country": "VE",
+    "id": 3626785,
+    "coord": {
+      "lat": 10.57027,
+      "lon": -69.703018
+    },
+    "name": "Siquisique"
+  },
+  {
+    "country": "VE",
+    "id": 3626809,
+    "coord": {
+      "lat": 11.08515,
+      "lon": -71.853638
+    },
+    "name": "Sinamaica"
+  },
+  {
+    "country": "VE",
+    "id": 3626921,
+    "coord": {
+      "lat": 8.14514,
+      "lon": -72.073318
+    },
+    "name": "Seboruco"
+  },
+  {
+    "country": "VE",
+    "id": 3626960,
+    "coord": {
+      "lat": 9.78128,
+      "lon": -69.1633
+    },
+    "name": "Sarare"
+  },
+  {
+    "country": "VE",
+    "id": 3627021,
+    "coord": {
+      "lat": 8.86052,
+      "lon": -70.694801
+    },
+    "name": "Santo Domingo"
+  },
+  {
+    "country": "VE",
+    "id": 3627034,
+    "coord": {
+      "lat": 9.8,
+      "lon": -71.066673
+    },
+    "name": "San Timoteo"
+  },
+  {
+    "country": "VE",
+    "id": 3627148,
+    "coord": {
+      "lat": 8.44033,
+      "lon": -69.70105
+    },
+    "name": "Santa Rosa"
+  },
+  {
+    "country": "VE",
+    "id": 3627237,
+    "coord": {
+      "lat": 8.81556,
+      "lon": -65.322502
+    },
+    "name": "Santa Maria de Ipire"
+  },
+  {
+    "country": "VE",
+    "id": 3627240,
+    "coord": {
+      "lat": 7.71412,
+      "lon": -71.464661
+    },
+    "name": "Santa Maria de Caparo"
+  },
+  {
+    "country": "VE",
+    "id": 3627304,
+    "coord": {
+      "lat": 8.10155,
+      "lon": -69.777519
+    },
+    "name": "Santa Lucia"
+  },
+  {
+    "country": "VE",
+    "id": 3627334,
+    "coord": {
+      "lat": 9.63217,
+      "lon": -70.807587
+    },
+    "name": "Santa Isabel"
+  },
+  {
+    "country": "VE",
+    "id": 3627360,
+    "coord": {
+      "lat": 8.26241,
+      "lon": -69.897949
+    },
+    "name": "Santa Ines"
+  },
+  {
+    "country": "VE",
+    "id": 3627382,
+    "coord": {
+      "lat": 4.61667,
+      "lon": -61.133331
+    },
+    "name": "Santa Elena de Uairen"
+  },
+  {
+    "country": "VE",
+    "id": 3627384,
+    "coord": {
+      "lat": 8.81924,
+      "lon": -71.465637
+    },
+    "name": "Santa Elena de Arenales"
+  },
+  {
+    "country": "VE",
+    "id": 3627418,
+    "coord": {
+      "lat": 8.39823,
+      "lon": -71.641258
+    },
+    "name": "Santa Cruz"
+  },
+  {
+    "country": "VE",
+    "id": 3627423,
+    "coord": {
+      "lat": 10.81953,
+      "lon": -69.277763
+    },
+    "name": "Santa Cruz de Bucaral"
+  },
+  {
+    "country": "VE",
+    "id": 3627510,
+    "coord": {
+      "lat": 7.92408,
+      "lon": -68.91745
+    },
+    "name": "Santa Catalina"
+  },
+  {
+    "country": "VE",
+    "id": 3627549,
+    "coord": {
+      "lat": 9.60886,
+      "lon": -63.610031
+    },
+    "name": "Santa Barbara"
+  },
+  {
+    "country": "VE",
+    "id": 3627561,
+    "coord": {
+      "lat": 7.81348,
+      "lon": -71.177879
+    },
+    "name": "Santa Barbara"
+  },
+  {
+    "country": "VE",
+    "id": 3627576,
+    "coord": {
+      "lat": 9.47139,
+      "lon": -71.014191
+    },
+    "name": "Santa Apolonia"
+  },
+  {
+    "country": "VE",
+    "id": 3627593,
+    "coord": {
+      "lat": 11.06908,
+      "lon": -63.924198
+    },
+    "name": "Santa Ana"
+  },
+  {
+    "country": "VE",
+    "id": 3627609,
+    "coord": {
+      "lat": 9.3056,
+      "lon": -64.654778
+    },
+    "name": "Santa Ana"
+  },
+  {
+    "country": "VE",
+    "id": 3627611,
+    "coord": {
+      "lat": 8.11697,
+      "lon": -72.021744
+    },
+    "name": "Santa Ana"
+  },
+  {
+    "country": "VE",
+    "id": 3627633,
+    "coord": {
+      "lat": 8.35078,
+      "lon": -71.850281
+    },
+    "name": "San Simon"
+  },
+  {
+    "country": "VE",
+    "id": 3627635,
+    "coord": {
+      "lat": 8.27585,
+      "lon": -70.110268
+    },
+    "name": "San Silvestre"
+  },
+  {
+    "country": "VE",
+    "id": 3627680,
+    "coord": {
+      "lat": 9.67742,
+      "lon": -68.973442
+    },
+    "name": "San Rafael de Onoto"
+  },
+  {
+    "country": "VE",
+    "id": 3627683,
+    "coord": {
+      "lat": 9.30339,
+      "lon": -70.58532
+    },
+    "name": "San Rafael de Carvajal"
+  },
+  {
+    "country": "VE",
+    "id": 3627685,
+    "coord": {
+      "lat": 8.02667,
+      "lon": -70.008614
+    },
+    "name": "San Rafael de Canagua"
+  },
+  {
+    "country": "VE",
+    "id": 3627874,
+    "coord": {
+      "lat": 10.24828,
+      "lon": -68.844513
+    },
+    "name": "San Pablo"
+  },
+  {
+    "country": "VE",
+    "id": 3627969,
+    "coord": {
+      "lat": 9.7392,
+      "lon": -64.549599
+    },
+    "name": "San Mateo"
+  },
+  {
+    "country": "VE",
+    "id": 3627997,
+    "coord": {
+      "lat": 11.12034,
+      "lon": -69.683968
+    },
+    "name": "San Luis"
+  },
+  {
+    "country": "VE",
+    "id": 3628052,
+    "coord": {
+      "lat": 5.31718,
+      "lon": -66.048622
+    },
+    "name": "San Juan de Manapiare"
+  },
+  {
+    "country": "VE",
+    "id": 3628066,
+    "coord": {
+      "lat": 11.01116,
+      "lon": -63.944061
+    },
+    "name": "San Juan Bautista"
+  },
+  {
+    "country": "VE",
+    "id": 3628129,
+    "coord": {
+      "lat": 10.30125,
+      "lon": -65.990517
+    },
+    "name": "San Jose de Barlovento"
+  },
+  {
+    "country": "VE",
+    "id": 3628148,
+    "coord": {
+      "lat": 10.59973,
+      "lon": -63.328522
+    },
+    "name": "San Jose de Aerocuar"
+  },
+  {
+    "country": "VE",
+    "id": 3628374,
+    "coord": {
+      "lat": 10.55363,
+      "lon": -71.703644
+    },
+    "name": "San Francisco"
+  },
+  {
+    "country": "VE",
+    "id": 3628394,
+    "coord": {
+      "lat": 4.04956,
+      "lon": -67.700317
+    },
+    "name": "San Fernando de Atabapo"
+  },
+  {
+    "country": "VE",
+    "id": 3628487,
+    "coord": {
+      "lat": 10.00169,
+      "lon": -67.014641
+    },
+    "name": "San Casimiro"
+  },
+  {
+    "country": "VE",
+    "id": 3628488,
+    "coord": {
+      "lat": 1.91667,
+      "lon": -67.066673
+    },
+    "name": "San Carlos de Rio Negro"
+  },
+  {
+    "country": "VE",
+    "id": 3628552,
+    "coord": {
+      "lat": 10.44155,
+      "lon": -63.789612
+    },
+    "name": "San Antonio del Golfo"
+  },
+  {
+    "country": "VE",
+    "id": 3628657,
+    "coord": {
+      "lat": 7.96378,
+      "lon": -68.433838
+    },
+    "name": "San Antonio"
+  },
+  {
+    "country": "VE",
+    "id": 3628853,
+    "coord": {
+      "lat": 8.75326,
+      "lon": -69.935158
+    },
+    "name": "Sabaneta"
+  },
+  {
+    "country": "VE",
+    "id": 3628904,
+    "coord": {
+      "lat": 9.4028,
+      "lon": -70.797623
+    },
+    "name": "Sabana Grande"
+  },
+  {
+    "country": "VE",
+    "id": 3628918,
+    "coord": {
+      "lat": 10.12111,
+      "lon": -69.036392
+    },
+    "name": "Sabana de Parra"
+  },
+  {
+    "country": "VE",
+    "id": 3628921,
+    "coord": {
+      "lat": 9.43513,
+      "lon": -70.776123
+    },
+    "name": "Sabana de Mendoza"
+  },
+  {
+    "country": "VE",
+    "id": 3629102,
+    "coord": {
+      "lat": 10.32043,
+      "lon": -65.977821
+    },
+    "name": "Rio Chico"
+  },
+  {
+    "country": "VE",
+    "id": 3629107,
+    "coord": {
+      "lat": 10.6971,
+      "lon": -63.109638
+    },
+    "name": "Rio Caribe"
+  },
+  {
+    "country": "VE",
+    "id": 3629385,
+    "coord": {
+      "lat": 9.9795,
+      "lon": -63.21991
+    },
+    "name": "Quiriquire"
+  },
+  {
+    "country": "VE",
+    "id": 3629459,
+    "coord": {
+      "lat": 7.91717,
+      "lon": -72.015572
+    },
+    "name": "Queniquea"
+  },
+  {
+    "country": "VE",
+    "id": 3629490,
+    "coord": {
+      "lat": 8.70015,
+      "lon": -70.319412
+    },
+    "name": "Quebrada Seca"
+  },
+  {
+    "country": "VE",
+    "id": 3629604,
+    "coord": {
+      "lat": 7.61759,
+      "lon": -71.491638
+    },
+    "name": "Punta de Piedra"
+  },
+  {
+    "country": "VE",
+    "id": 3629653,
+    "coord": {
+      "lat": 10.0613,
+      "lon": -65.042068
+    },
+    "name": "Puerto Piritu"
+  },
+  {
+    "country": "VE",
+    "id": 3629693,
+    "coord": {
+      "lat": 8.0728,
+      "lon": -69.30246
+    },
+    "name": "Puerto de Nutrias"
+  },
+  {
+    "country": "VE",
+    "id": 3629696,
+    "coord": {
+      "lat": 11.48783,
+      "lon": -69.352219
+    },
+    "name": "Puerto Cumarebo"
+  },
+  {
+    "country": "VE",
+    "id": 3629790,
+    "coord": {
+      "lat": 8.96454,
+      "lon": -71.608879
+    },
+    "name": "Pueblo Nuevo"
+  },
+  {
+    "country": "VE",
+    "id": 3630086,
+    "coord": {
+      "lat": 11.37389,
+      "lon": -69.137222
+    },
+    "name": "Piritu"
+  },
+  {
+    "country": "VE",
+    "id": 3630087,
+    "coord": {
+      "lat": 10.03891,
+      "lon": -65.029747
+    },
+    "name": "Piritu"
+  },
+  {
+    "country": "VE",
+    "id": 3630089,
+    "coord": {
+      "lat": 9.37083,
+      "lon": -69.210281
+    },
+    "name": "Piritu"
+  },
+  {
+    "country": "VE",
+    "id": 3630473,
+    "coord": {
+      "lat": 11.02037,
+      "lon": -70.120583
+    },
+    "name": "Pedregal"
+  },
+  {
+    "country": "VE",
+    "id": 3630480,
+    "coord": {
+      "lat": 7.9168,
+      "lon": -71.059341
+    },
+    "name": "Pedraza La Vieja"
+  },
+  {
+    "country": "VE",
+    "id": 3630490,
+    "coord": {
+      "lat": 9.97152,
+      "lon": -62.251511
+    },
+    "name": "Pedernales"
+  },
+  {
+    "country": "VE",
+    "id": 3630778,
+    "coord": {
+      "lat": 11.10783,
+      "lon": -63.85537
+    },
+    "name": "La Plaza Paraguachi"
+  },
+  {
+    "country": "VE",
+    "id": 3630826,
+    "coord": {
+      "lat": 8.94109,
+      "lon": -69.460197
+    },
+    "name": "Papelon"
+  },
+  {
+    "country": "VE",
+    "id": 3630893,
+    "coord": {
+      "lat": 11.00125,
+      "lon": -63.79343
+    },
+    "name": "Pampatar"
+  },
+  {
+    "country": "VE",
+    "id": 3630894,
+    "coord": {
+      "lat": 9.41037,
+      "lon": -70.50116
+    },
+    "name": "Pampanito"
+  },
+  {
+    "country": "VE",
+    "id": 3630982,
+    "coord": {
+      "lat": 7.83607,
+      "lon": -72.227577
+    },
+    "name": "Palmira"
+  },
+  {
+    "country": "VE",
+    "id": 3630999,
+    "coord": {
+      "lat": 9.23333,
+      "lon": -66.716667
+    },
+    "name": "Palmasola"
+  },
+  {
+    "country": "VE",
+    "id": 3631247,
+    "coord": {
+      "lat": 9.62168,
+      "lon": -67.290466
+    },
+    "name": "Ortiz"
+  },
+  {
+    "country": "VE",
+    "id": 3631333,
+    "coord": {
+      "lat": 9.59714,
+      "lon": -65.193497
+    },
+    "name": "Onoto"
+  },
+  {
+    "country": "VE",
+    "id": 3631413,
+    "coord": {
+      "lat": 10.46127,
+      "lon": -67.768723
+    },
+    "name": "Ocumare de la Costa"
+  },
+  {
+    "country": "VE",
+    "id": 3631431,
+    "coord": {
+      "lat": 8.60701,
+      "lon": -70.104889
+    },
+    "name": "Obispos"
+  },
+  {
+    "country": "VE",
+    "id": 3631465,
+    "coord": {
+      "lat": 9.14176,
+      "lon": -71.091202
+    },
+    "name": "Nueva Bolivia"
+  },
+  {
+    "country": "VE",
+    "id": 3631752,
+    "coord": {
+      "lat": 8.74899,
+      "lon": -70.914177
+    },
+    "name": "Mucuchies"
+  },
+  {
+    "country": "VE",
+    "id": 3631791,
+    "coord": {
+      "lat": 9.39002,
+      "lon": -70.591187
+    },
+    "name": "Motatan"
+  },
+  {
+    "country": "VE",
+    "id": 3632051,
+    "coord": {
+      "lat": 9.18583,
+      "lon": -70.815613
+    },
+    "name": "Monte Carmelo"
+  },
+  {
+    "country": "VE",
+    "id": 3632072,
+    "coord": {
+      "lat": 10.21298,
+      "lon": -68.326736
+    },
+    "name": "Montalban"
+  },
+  {
+    "country": "VE",
+    "id": 3632186,
+    "coord": {
+      "lat": 11.1602,
+      "lon": -68.726044
+    },
+    "name": "Mirimire"
+  },
+  {
+    "country": "VE",
+    "id": 3632198,
+    "coord": {
+      "lat": 10.14987,
+      "lon": -68.39418
+    },
+    "name": "Miranda"
+  },
+  {
+    "country": "VE",
+    "id": 3632836,
+    "coord": {
+      "lat": 9.00194,
+      "lon": -70.301392
+    },
+    "name": "Masparrito"
+  },
+  {
+    "country": "VE",
+    "id": 3632867,
+    "coord": {
+      "lat": 2.71861,
+      "lon": -67.559921
+    },
+    "name": "Maroa"
+  },
+  {
+    "country": "VE",
+    "id": 3632890,
+    "coord": {
+      "lat": 7.41537,
+      "lon": -65.189613
+    },
+    "name": "Maripa"
+  },
+  {
+    "country": "VE",
+    "id": 3632910,
+    "coord": {
+      "lat": 10.44716,
+      "lon": -63.904491
+    },
+    "name": "Mariguitar"
+  },
+  {
+    "country": "VE",
+    "id": 3633063,
+    "coord": {
+      "lat": 7.645,
+      "lon": -70.419853
+    },
+    "name": "Maporal"
+  },
+  {
+    "country": "VE",
+    "id": 3633248,
+    "coord": {
+      "lat": 10.36461,
+      "lon": -66.13044
+    },
+    "name": "Mamporal"
+  },
+  {
+    "country": "VE",
+    "id": 3634116,
+    "coord": {
+      "lat": 10.18026,
+      "lon": -67.937698
+    },
+    "name": "Los Guayos"
+  },
+  {
+    "country": "VE",
+    "id": 3634696,
+    "coord": {
+      "lat": 7.9293,
+      "lon": -72.246834
+    },
+    "name": "Lobatera"
+  },
+  {
+    "country": "VE",
+    "id": 3634760,
+    "coord": {
+      "lat": 9.35562,
+      "lon": -68.691772
+    },
+    "name": "Libertad"
+  },
+  {
+    "country": "VE",
+    "id": 3634761,
+    "coord": {
+      "lat": 8.32651,
+      "lon": -69.629768
+    },
+    "name": "Libertad"
+  },
+  {
+    "country": "VE",
+    "id": 3634763,
+    "coord": {
+      "lat": 7.82853,
+      "lon": -72.319069
+    },
+    "name": "Capacho Viejo"
+  },
+  {
+    "country": "VE",
+    "id": 3634816,
+    "coord": {
+      "lat": 8.73109,
+      "lon": -70.180717
+    },
+    "name": "La Yuca"
+  },
+  {
+    "country": "VE",
+    "id": 3634973,
+    "coord": {
+      "lat": 8.82391,
+      "lon": -69.995811
+    },
+    "name": "Veguitas"
+  },
+  {
+    "country": "VE",
+    "id": 3635064,
+    "coord": {
+      "lat": 8.21573,
+      "lon": -67.766533
+    },
+    "name": "La Union"
+  },
+  {
+    "country": "VE",
+    "id": 3635260,
+    "coord": {
+      "lat": 9.53727,
+      "lon": -68.629601
+    },
+    "name": "Las Vegas"
+  },
+  {
+    "country": "VE",
+    "id": 3635714,
+    "coord": {
+      "lat": 9.11018,
+      "lon": -66.397179
+    },
+    "name": "Las Mercedes"
+  },
+  {
+    "country": "VE",
+    "id": 3636565,
+    "coord": {
+      "lat": 9.15462,
+      "lon": -70.576042
+    },
+    "name": "La Quebrada"
+  },
+  {
+    "country": "VE",
+    "id": 3637311,
+    "coord": {
+      "lat": 8.39419,
+      "lon": -69.823578
+    },
+    "name": "La Luz"
+  },
+  {
+    "country": "VE",
+    "id": 3637624,
+    "coord": {
+      "lat": 8.51286,
+      "lon": -71.387894
+    },
+    "name": "Lagunillas"
+  },
+  {
+    "country": "VE",
+    "id": 3638075,
+    "coord": {
+      "lat": 3.16667,
+      "lon": -65.550003
+    },
+    "name": "La Esmeralda"
+  },
+  {
+    "country": "VE",
+    "id": 3638264,
+    "coord": {
+      "lat": 11.06396,
+      "lon": -69.713097
+    },
+    "name": "La Cruz de Taratara"
+  },
+  {
+    "country": "VE",
+    "id": 3638371,
+    "coord": {
+      "lat": 10.61919,
+      "lon": -71.838142
+    },
+    "name": "La Concepcion"
+  },
+  {
+    "country": "VE",
+    "id": 3638497,
+    "coord": {
+      "lat": 8.10024,
+      "lon": -70.906708
+    },
+    "name": "Chameta"
+  },
+  {
+    "country": "VE",
+    "id": 3638655,
+    "coord": {
+      "lat": 8.59708,
+      "lon": -70.320557
+    },
+    "name": "Caramuca"
+  },
+  {
+    "country": "VE",
+    "id": 3638904,
+    "coord": {
+      "lat": 8.71314,
+      "lon": -71.444168
+    },
+    "name": "La Azulita"
+  },
+  {
+    "country": "VE",
+    "id": 3639282,
+    "coord": {
+      "lat": 11.07417,
+      "lon": -68.856041
+    },
+    "name": "Jacura"
+  },
+  {
+    "country": "VE",
+    "id": 3639350,
+    "coord": {
+      "lat": 10.56968,
+      "lon": -62.58102
+    },
+    "name": "Irapa"
+  },
+  {
+    "country": "VE",
+    "id": 3639880,
+    "coord": {
+      "lat": 8.00077,
+      "lon": -67.397324
+    },
+    "name": "Guayabal"
+  },
+  {
+    "country": "VE",
+    "id": 3640100,
+    "coord": {
+      "lat": 8.15347,
+      "lon": -71.735626
+    },
+    "name": "Guaraque"
+  },
+  {
+    "country": "VE",
+    "id": 3640179,
+    "coord": {
+      "lat": 10.23448,
+      "lon": -64.59552
+    },
+    "name": "Guanta"
+  },
+  {
+    "country": "VE",
+    "id": 3640215,
+    "coord": {
+      "lat": 8.69625,
+      "lon": -69.208321
+    },
+    "name": "Guanarito"
+  },
+  {
+    "country": "VE",
+    "id": 3640407,
+    "coord": {
+      "lat": 8.53508,
+      "lon": -68.049232
+    },
+    "name": "Guadarrama"
+  },
+  {
+    "country": "VE",
+    "id": 3640853,
+    "coord": {
+      "lat": 10.46967,
+      "lon": -68.558571
+    },
+    "name": "Farriar"
+  },
+  {
+    "country": "VE",
+    "id": 3641008,
+    "coord": {
+      "lat": 9.06085,
+      "lon": -72.234131
+    },
+    "name": "Encontrados"
+  },
+  {
+    "country": "VE",
+    "id": 3641154,
+    "coord": {
+      "lat": 10.98283,
+      "lon": -63.883099
+    },
+    "name": "El Valle del Espiritu Santo"
+  },
+  {
+    "country": "VE",
+    "id": 3641251,
+    "coord": {
+      "lat": 10.95423,
+      "lon": -71.64843
+    },
+    "name": "El Toro"
+  },
+  {
+    "country": "VE",
+    "id": 3641440,
+    "coord": {
+      "lat": 9.3863,
+      "lon": -67.058182
+    },
+    "name": "El Sombrero"
+  },
+  {
+    "country": "VE",
+    "id": 3641460,
+    "coord": {
+      "lat": 8.99352,
+      "lon": -65.74247
+    },
+    "name": "El Socorro"
+  },
+  {
+    "country": "VE",
+    "id": 3641775,
+    "coord": {
+      "lat": 8.43455,
+      "lon": -69.176697
+    },
+    "name": "El Regalo"
+  },
+  {
+    "country": "VE",
+    "id": 3642031,
+    "coord": {
+      "lat": 7.52986,
+      "lon": -71.959221
+    },
+    "name": "San Rafael del Pinal"
+  },
+  {
+    "country": "VE",
+    "id": 3642042,
+    "coord": {
+      "lat": 10.53333,
+      "lon": -63.150002
+    },
+    "name": "El Pilar"
+  },
+  {
+    "country": "VE",
+    "id": 3642243,
+    "coord": {
+      "lat": 9.77233,
+      "lon": -70.61544
+    },
+    "name": "El Paradero"
+  },
+  {
+    "country": "VE",
+    "id": 3642260,
+    "coord": {
+      "lat": 9.63752,
+      "lon": -68.128838
+    },
+    "name": "El Pao"
+  },
+  {
+    "country": "VE",
+    "id": 3642292,
+    "coord": {
+      "lat": 8.03333,
+      "lon": -61.883331
+    },
+    "name": "El Palmer"
+  },
+  {
+    "country": "VE",
+    "id": 3642390,
+    "coord": {
+      "lat": 7.06088,
+      "lon": -69.49765
+    },
+    "name": "Elorza"
+  },
+  {
+    "country": "VE",
+    "id": 3643361,
+    "coord": {
+      "lat": 9.47447,
+      "lon": -70.733849
+    },
+    "name": "El Dividive"
+  },
+  {
+    "country": "VE",
+    "id": 3643531,
+    "coord": {
+      "lat": 8.5675,
+      "lon": -70.35778
+    },
+    "name": "El Corozo"
+  },
+  {
+    "country": "VE",
+    "id": 3643568,
+    "coord": {
+      "lat": 10.23717,
+      "lon": -67.2714
+    },
+    "name": "El Consejo"
+  },
+  {
+    "country": "VE",
+    "id": 3643620,
+    "coord": {
+      "lat": 8.03566,
+      "lon": -72.055511
+    },
+    "name": "El Cobre"
+  },
+  {
+    "country": "VE",
+    "id": 3643962,
+    "coord": {
+      "lat": 7.47729,
+      "lon": -71.295601
+    },
+    "name": "El Canton"
+  },
+  {
+    "country": "VE",
+    "id": 3644163,
+    "coord": {
+      "lat": 8.96216,
+      "lon": -68.29554
+    },
+    "name": "El Baul"
+  },
+  {
+    "country": "VE",
+    "id": 3644478,
+    "coord": {
+      "lat": 8.28623,
+      "lon": -69.56633
+    },
+    "name": "Dolores"
+  },
+  {
+    "country": "VE",
+    "id": 3644571,
+    "coord": {
+      "lat": 11.02273,
+      "lon": -70.677689
+    },
+    "name": "Dabajuro"
+  },
+  {
+    "country": "VE",
+    "id": 3644646,
+    "coord": {
+      "lat": 8.58094,
+      "lon": -60.997551
+    },
+    "name": "Curiapo"
+  },
+  {
+    "country": "VE",
+    "id": 3644656,
+    "coord": {
+      "lat": 8.45443,
+      "lon": -70.554413
+    },
+    "name": "Curbati"
+  },
+  {
+    "country": "VE",
+    "id": 3644701,
+    "coord": {
+      "lat": 10.16128,
+      "lon": -65.700127
+    },
+    "name": "Cupira"
+  },
+  {
+    "country": "VE",
+    "id": 3644767,
+    "coord": {
+      "lat": 10.25013,
+      "lon": -63.919182
+    },
+    "name": "Cumanacoa"
+  },
+  {
+    "country": "VE",
+    "id": 3645304,
+    "coord": {
+      "lat": 10.8,
+      "lon": -71.76667
+    },
+    "name": "Concepcion"
+  },
+  {
+    "country": "VE",
+    "id": 3645360,
+    "coord": {
+      "lat": 8.32563,
+      "lon": -72.089508
+    },
+    "name": "Coloncito"
+  },
+  {
+    "country": "VE",
+    "id": 3645387,
+    "coord": {
+      "lat": 9.62232,
+      "lon": -68.918053
+    },
+    "name": "Cojedes"
+  },
+  {
+    "country": "VE",
+    "id": 3645469,
+    "coord": {
+      "lat": 10.31978,
+      "lon": -68.783859
+    },
+    "name": "Cocorote"
+  },
+  {
+    "country": "VE",
+    "id": 3645522,
+    "coord": {
+      "lat": 9.93991,
+      "lon": -65.165169
+    },
+    "name": "Clarines"
+  },
+  {
+    "country": "VE",
+    "id": 3645529,
+    "coord": {
+      "lat": 8.09536,
+      "lon": -69.307983
+    },
+    "name": "Ciudad De Nutrias"
+  },
+  {
+    "country": "VE",
+    "id": 3645531,
+    "coord": {
+      "lat": 8.35304,
+      "lon": -70.571213
+    },
+    "name": "Ciudad Bolivia"
+  },
+  {
+    "country": "VE",
+    "id": 3645586,
+    "coord": {
+      "lat": 10.8137,
+      "lon": -69.537819
+    },
+    "name": "Churuguara"
+  },
+  {
+    "country": "VE",
+    "id": 3645806,
+    "coord": {
+      "lat": 10.9333,
+      "lon": -68.277161
+    },
+    "name": "Chichiriviche"
+  },
+  {
+    "country": "VE",
+    "id": 3645827,
+    "coord": {
+      "lat": 9.61892,
+      "lon": -70.356956
+    },
+    "name": "Chejende"
+  },
+  {
+    "country": "VE",
+    "id": 3645944,
+    "coord": {
+      "lat": 9.33855,
+      "lon": -66.252548
+    },
+    "name": "Chaguaramas"
+  },
+  {
+    "country": "VE",
+    "id": 3646296,
+    "coord": {
+      "lat": 8.74493,
+      "lon": -72.519669
+    },
+    "name": "Casigua El Cubo"
+  },
+  {
+    "country": "VE",
+    "id": 3646316,
+    "coord": {
+      "lat": 10.50368,
+      "lon": -63.415531
+    },
+    "name": "Casanay"
+  },
+  {
+    "country": "VE",
+    "id": 3646581,
+    "coord": {
+      "lat": 10.49573,
+      "lon": -63.553989
+    },
+    "name": "Cariaco"
+  },
+  {
+    "country": "VE",
+    "id": 3646731,
+    "coord": {
+      "lat": 9.62872,
+      "lon": -70.228554
+    },
+    "name": "Carache"
+  },
+  {
+    "country": "VE",
+    "id": 3646796,
+    "coord": {
+      "lat": 8.01171,
+      "lon": -71.004578
+    },
+    "name": "Capitanejo"
+  },
+  {
+    "country": "VE",
+    "id": 3646829,
+    "coord": {
+      "lat": 11.1748,
+      "lon": -70.61898
+    },
+    "name": "Capatarida"
+  },
+  {
+    "country": "VE",
+    "id": 3647197,
+    "coord": {
+      "lat": 9.39347,
+      "lon": -70.060349
+    },
+    "name": "Campo Elias"
+  },
+  {
+    "country": "VE",
+    "id": 3647400,
+    "coord": {
+      "lat": 8.10655,
+      "lon": -67.607239
+    },
+    "name": "Camaguan"
+  },
+  {
+    "country": "VE",
+    "id": 3647435,
+    "coord": {
+      "lat": 8.91426,
+      "lon": -70.447449
+    },
+    "name": "Calderas"
+  },
+  {
+    "country": "VE",
+    "id": 3647535,
+    "coord": {
+      "lat": 9.81754,
+      "lon": -63.613312
+    },
+    "name": "Caicara"
+  },
+  {
+    "country": "VE",
+    "id": 3647636,
+    "coord": {
+      "lat": 11.15,
+      "lon": -69.608887
+    },
+    "name": "Cabure"
+  },
+  {
+    "country": "VE",
+    "id": 3647637,
+    "coord": {
+      "lat": 10.02889,
+      "lon": -69.089439
+    },
+    "name": "Cabudare"
+  },
+  {
+    "country": "VE",
+    "id": 3647729,
+    "coord": {
+      "lat": 8.27664,
+      "lon": -70.76664
+    },
+    "name": "Bum Bum"
+  },
+  {
+    "country": "VE",
+    "id": 3648042,
+    "coord": {
+      "lat": 10.24933,
+      "lon": -68.769501
+    },
+    "name": "Boraure"
+  },
+  {
+    "country": "VE",
+    "id": 3648127,
+    "coord": {
+      "lat": 8.84659,
+      "lon": -69.980324
+    },
+    "name": "Boconoito"
+  },
+  {
+    "country": "VE",
+    "id": 3648163,
+    "coord": {
+      "lat": 10.13152,
+      "lon": -65.42115
+    },
+    "name": "Boca de Uchire"
+  },
+  {
+    "country": "VE",
+    "id": 3648187,
+    "coord": {
+      "lat": 10.96757,
+      "lon": -64.180496
+    },
+    "name": "Boca del Rio"
+  },
+  {
+    "country": "VE",
+    "id": 3648279,
+    "coord": {
+      "lat": 7.84483,
+      "lon": -67.516792
+    },
+    "name": "Biruaca"
+  },
+  {
+    "country": "VE",
+    "id": 3648506,
+    "coord": {
+      "lat": 8.76868,
+      "lon": -70.112198
+    },
+    "name": "Barrancas"
+  },
+  {
+    "country": "VE",
+    "id": 3648698,
+    "coord": {
+      "lat": 9.96944,
+      "lon": -71.149437
+    },
+    "name": "Bachaquero"
+  },
+  {
+    "country": "VE",
+    "id": 3648873,
+    "coord": {
+      "lat": 10.43861,
+      "lon": -68.894173
+    },
+    "name": "Aroa"
+  },
+  {
+    "country": "VE",
+    "id": 3648885,
+    "coord": {
+      "lat": 8.47974,
+      "lon": -68.369957
+    },
+    "name": "Arismendi"
+  },
+  {
+    "country": "VE",
+    "id": 3648916,
+    "coord": {
+      "lat": 8.22343,
+      "lon": -71.137047
+    },
+    "name": "Aricagua"
+  },
+  {
+    "country": "VE",
+    "id": 3649005,
+    "coord": {
+      "lat": 10.57973,
+      "lon": -64.258263
+    },
+    "name": "Araya"
+  },
+  {
+    "country": "VE",
+    "id": 3649018,
+    "coord": {
+      "lat": 8.70833,
+      "lon": -69.657219
+    },
+    "name": "Arauquita"
+  },
+  {
+    "country": "VE",
+    "id": 3649403,
+    "coord": {
+      "lat": 8.82359,
+      "lon": -70.502441
+    },
+    "name": "Altamira"
+  },
+  {
+    "country": "VE",
+    "id": 3649576,
+    "coord": {
+      "lat": 9.42489,
+      "lon": -63.73077
+    },
+    "name": "Aguasay"
+  },
+  {
+    "country": "VE",
+    "id": 3649859,
+    "coord": {
+      "lat": 7.62241,
+      "lon": -71.51017
+    },
+    "name": "Abejales"
+  },
+  {
+    "country": "VE",
+    "id": 3738787,
+    "coord": {
+      "lat": 8.16454,
+      "lon": -72.165558
+    },
+    "name": "Las Mesas"
+  },
+  {
+    "country": "VE",
+    "id": 3753107,
+    "coord": {
+      "lat": 10.20696,
+      "lon": -67.538841
+    },
+    "name": "Santa Rita"
+  },
+  {
+    "country": "VE",
+    "id": 3758764,
+    "coord": {
+      "lat": 7.65997,
+      "lon": -72.219582
+    },
+    "name": "San Josecito"
+  },
+  {
+    "country": "VE",
+    "id": 3759212,
+    "coord": {
+      "lat": 7.85591,
+      "lon": -72.180748
+    },
+    "name": "Cordero"
+  },
+  {
+    "country": "VE",
+    "id": 3762895,
+    "coord": {
+      "lat": 8.4555,
+      "lon": -62.428909
+    },
+    "name": "Sierra Imataca"
+  },
+  {
+    "country": "VE",
+    "id": 3778348,
+    "coord": {
+      "lat": 9.00716,
+      "lon": -62.642159
+    },
+    "name": "Temblador"
+  },
+  {
+    "country": "VE",
+    "id": 3784154,
+    "coord": {
+      "lat": 10.59363,
+      "lon": -68.54422
+    },
+    "name": "Palmasola"
+  },
+  {
+    "country": "VE",
+    "id": 3795119,
+    "coord": {
+      "lat": 7.56505,
+      "lon": -72.44754
+    },
+    "name": "Delicias"
+  },
+  {
+    "country": "VE",
+    "id": 3795218,
+    "coord": {
+      "lat": 7.82409,
+      "lon": -72.308998
+    },
+    "name": "Capacho Nuevo"
+  },
+  {
+    "country": "VE",
+    "id": 3795620,
+    "coord": {
+      "lat": 8.50757,
+      "lon": -71.831657
+    },
+    "name": "La Tendida"
+  },
+  {
+    "country": "VE",
+    "id": 3797773,
+    "coord": {
+      "lat": 9.66146,
+      "lon": -69.107521
+    },
+    "name": "Agua Blanca"
+  },
+  {
+    "country": "VE",
+    "id": 3798450,
+    "coord": {
+      "lat": 9.09857,
+      "lon": -69.049141
+    },
+    "name": "El Playon"
+  },
+  {
+    "country": "VE",
+    "id": 3798818,
+    "coord": {
+      "lat": 9.25934,
+      "lon": -70.952477
+    },
+    "name": "Arapuey"
+  },
+  {
+    "country": "VE",
+    "id": 3799319,
+    "coord": {
+      "lat": 9.82602,
+      "lon": -68.438988
+    },
+    "name": "Macapo"
+  },
+  {
+    "country": "VE",
+    "id": 3805700,
+    "coord": {
+      "lat": 7.6456,
+      "lon": -67.606743
+    },
+    "name": "San Juan de Payara"
+  },
+  {
+    "country": "VE",
+    "id": 3806799,
+    "coord": {
+      "lat": 9.94543,
+      "lon": -67.176811
+    },
+    "name": "San Sebastian"
+  },
+  {
+    "country": "VE",
+    "id": 7289569,
+    "coord": {
+      "lat": 10.19769,
+      "lon": -64.694069
+    },
+    "name": "Lecherias"
+  },
+  {
+    "country": "VE",
+    "id": 7909705,
+    "coord": {
+      "lat": 11.8235,
+      "lon": -70.256371
+    },
+    "name": "Santa Cruz de los Taques"
+  },
+  {
+    "country": "VE",
+    "id": 8131509,
+    "coord": {
+      "lat": 10.33432,
+      "lon": -68.755119
+    },
+    "name": "Independencia"
+  }
+
+]

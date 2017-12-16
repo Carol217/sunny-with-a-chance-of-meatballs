@@ -1,7 +1,7 @@
 <html>
 <head>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
-    <title> Weather -|- {{entry["name"]}}, {{entry["sys"]["country"]}} </title>
+    <title>{{entry["name"]}}, {{entry["sys"]["country"]}} | Weather </title>
     <style>
     body {
         padding: 70px;
@@ -27,7 +27,7 @@
     <br>
     <i>{{entry["weather"][0]["description"]}}</i>
     <p> 
-    <b>Temperature:</b> {{entry["main"]["temp"]}}K
+    <b>Temperature:</b> {{entry["main"]["temp"] - 273.15}}C
     <br>
     <br>
     <b>Pressure:</b> {{entry["main"]["pressure"]}}hPa

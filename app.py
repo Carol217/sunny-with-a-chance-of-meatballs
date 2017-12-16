@@ -8,12 +8,17 @@ p:b
 from flask import Flask, render_template, request
 import json
 import requests
+import sqlite3
 
-#json of city codes
+#list of city codes
 data_file = open('countries.json')
 data = json.load(data_file)
 data_file.close()
 #print json.dumps(data)
+
+f="cities.db"
+db = sqlite3.connect(f, check_same_thread = False) #open
+c = db.cursor()
 
 #get a json from an url
 def getjson(url):
@@ -26,14 +31,15 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return render_template("countrylist.html", lst=sorted(data.keys()))
+    return render_template("countrylist.html", lst=sorted(data))
     
     
 @app.route('/cities')
 def cities():
-    countryfile=data[request.args["country"]]
-    with open(countryfile, 'r') as t:
-        temp = json.load(t)
+    country= request.args["country"]
+    command = "SELECT * FROM " + country
+    c.execute(command)
+    temp = c.fetchall()
     return render_template("citylist.html", lst=temp, country=request.args["country"])
     
 @app.route('/query')

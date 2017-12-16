@@ -1,7 +1,7 @@
 <html>
 <head>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
-    <title> Weather -|- Cities in {{country}} </title>
+    <title>Cities in {{country}} | Weather </title>
     <style>
     body {
         padding: 70px;
@@ -23,7 +23,7 @@
 
     {% for entry in lst %}
     <br>    
-    <a href="/query?id={{entry['id']}}"> {{entry["name"]}}, {{entry["country"]}} </a>
+    <a href="/query?id={{entry[0]}}"> {{entry[1]}}, {{country}} </a>
     <br>
     {% endfor %}
 </body>

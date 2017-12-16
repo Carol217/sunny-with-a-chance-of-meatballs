@@ -1,0 +1,60 @@
+<html>
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+    <title>{{entry["name"]}}, {{entry["sys"]["country"]}} | Weather</title>
+    <style>
+    body {
+        padding: 70px;
+        border: 1px solid #4CAF50;
+        background-image: url("http://blog.visme.co/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-040.jpg")
+    }
+    </style>
+</head>
+
+<body>
+    <h1> Current Weather of {{entry["name"]}}, {{entry["sys"]["country"]}}</h1>
+    <a href="/cities?country={{entry['sys']['country']}}"> BACK </a><br>
+    <a href="/"> BACK TO HOME </a><br>
+    <h3> Coordinates </h3>
+    <p> 
+    Longitude: {{entry["coord"]["lon"]}} 
+    <br>
+    Latitude: {{entry["coord"]["lat"]}}    
+    </p>
+    
+    <h2> Weather </h2>
+    <img src="http://openweathermap.org/img/w/{{entry['weather'][0]['icon']}}.png">
+    <br>
+    <i>{{entry["weather"][0]["description"]}}</i>
+    <p> 
+    <b>Temperature:</b> {{entry["main"]["temp"] - 273.15}}C
+    <br>
+    <br>
+    <b>Pressure:</b> {{entry["main"]["pressure"]}}hPa
+    <br>
+    <br>
+    <b>Humidity:</b> {{entry["main"]["humidity"]}}%
+    <br>
+    <br>
+    <b>Wind speed:</b> {{entry["wind"]["speed"]}}m/s
+    <br>
+    <br>   
+    <b>Cloudiness:</b> {{entry["clouds"]["all"]}}%
+
+    {% if "rain" in entry %}
+    <br>
+    <br>
+    <b>Rain Volume (Last Three Hours):</b> {{entry["rain"]["3h"]}}
+    </p>
+    {% endif %}
+
+    {% if "snow" in entry %}
+    <br>
+    <br>
+    <b>Snow Volume (Last Three Hours):</b> {{entry["snow"]["3h"]}}
+    </p>
+    {% endif %}
+    
+
+</body>
+</html>
